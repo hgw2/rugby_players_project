@@ -24,13 +24,48 @@ def get_player_links(team_url):
     del player_links[0]
     return player_links
 
+def get_stats(soup):
+
+    stats  = soup.find(text=re.compile('All Tests'))
+    stat1  = stats.next.next.next.next.next.next
+    stat2  = stats.next.next.next.next.next.next.next.next.next
+    stat3  = stats.next.next.next.next.next.next.next.next.next.next.next.next
+    stat4  = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+    stat5  = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+    stat6  = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+    stat7  = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+    stat8  = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+    stat9  = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+    stat10 = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+    stat11 = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+    stat12 = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+
+    category  = soup.find(text=re.compile('Span'))
+    cat1 = category.next.next.next
+    cat2 = category.next.next.next.next.next.next
+    cat3 = category.next.next.next.next.next.next.next.next.next
+    cat4 = category.next.next.next.next.next.next.next.next.next.next.next.next
+    cat5 = category.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+    cat6 = category.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+    cat7 = category.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+    cat8 = category.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+    cat9 = category.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+    cat10 = category.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+    cat11 = category.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+    cat12 = category.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
+
+    return {cat1:stat1,cat2:stat2,cat3:stat3,cat4:stat4,cat5:stat5,cat6:stat6,cat7:stat7,cat8:stat8,cat9:stat9,cat10:stat10,cat11:stat11,cat12:stat12}
+
+
+
+
 
 
 players = get_player_links(england_page)
 
-with open("../../2_raw_data/england/england_rugby_stats.csv", "w") as csv_file:
+with open("/Users/harry/rugby_data_project/2_raw_data/england/england_data.csv", "w") as csv_file:
     csv_writer = writer(csv_file)
-    headers =  ["name", "born", "position", "debut", "matches_played", "match_starts", "sub_starts", "points", "tries", "convertions", "penalties", "drop_goals", "won", "lost", "draw"]
+    headers =  ["name", "born", "position", "debut", "stats"]
     csv_writer.writerow(headers)
 
     for player in players:
@@ -53,18 +88,8 @@ with open("../../2_raw_data/england/england_rugby_stats.csv", "w") as csv_file:
             stats = temp
         debut = stats.next.next.next
 
+        stats = get_stats(soup)
 
-        stats  = soup.find(text=re.compile('All Tests'))
-        matches_played  = stats.next.next.next.next.next.next
-        match_starts  = stats.next.next.next.next.next.next.next.next.next
-        sub_starts  = stats.next.next.next.next.next.next.next.next.next.next.next.next
-        points = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
-        tries  = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
-        convertions  = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
-        penalties  = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
-        drop_goals  = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
-        won  = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
-        lost = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
-        draw = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
 
-        csv_writer.writerow([name, born, position, debut, matches_played, match_starts, sub_starts, points, tries, convertions, penalties, drop_goals, won, lost, draw])
+
+        csv_writer.writerow([name, born, position, debut, stats])
