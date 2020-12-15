@@ -28,7 +28,7 @@ def get_player_links(team_url):
 
 players = get_player_links(england_page)
 
-with open("england_rugby_stats.csv", "w") as csv_file:
+with open("../../2_raw_data/england/england_rugby_stats.csv", "w") as csv_file:
     csv_writer = writer(csv_file)
     headers =  ["name", "born", "position", "debut", "matches_played", "match_starts", "sub_starts", "points", "tries", "convertions", "penalties", "drop_goals", "won", "lost", "draw"]
     csv_writer.writerow(headers)
@@ -45,8 +45,6 @@ with open("england_rugby_stats.csv", "w") as csv_file:
         stats  = soup.findAll(text=re.compile('Position'))
         stats  = stats[-1]
         position = stats.next
-
-
 
         temp  = soup.find(text=re.compile('Test debut'))
         if temp is None:
