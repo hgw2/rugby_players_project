@@ -3,9 +3,9 @@ import requests
 import re
 from csv import writer
 
-
-england_page = "http://en.espn.co.uk/scrum/rugby/player/caps.html?team=1"
-
+MKDIR = "../../2_raw_data/"
+COUNTRY = ["england"]
+TEAM_URL= ["http://en.espn.co.uk/scrum/rugby/player/caps.html?team=1"]
 BASE_URL = "http://www.espnscrum.com"
 
 def make_soup(url):
@@ -14,8 +14,8 @@ def make_soup(url):
 
 def get_player_links(team_url):
     soup = make_soup(team_url)
-    Odie = [link.get('href') for link in soup.find_all('a',href=re.compile('/rugby/player'))]
-    player_links = [BASE_URL + item for item in Odie]
+    player_info = [link.get('href') for link in soup.find_all('a',href=re.compile('/rugby/player'))]
+    player_links = [BASE_URL + item for item in player_info]
     for item in player_links:
         if 'team' in item:
             player_links.remove(item)
@@ -60,36 +60,42 @@ def get_stats(soup):
 
 
 
-
-players = get_player_links(england_page)
-
-with open("/Users/harry/rugby_data_project/2_raw_data/england/england_data.csv", "w") as csv_file:
-    csv_writer = writer(csv_file)
-    headers =  ["name", "born", "position", "debut", "stats"]
-    csv_writer.writerow(headers)
-
-    for player in players:
-        soup = make_soup(player)
-
-        name = soup.find('div','scrumPlayerName')
-        name = name.next
-
-        born = soup.find(text=re.compile('Born'))
-        born = born.next
-
-        stats  = soup.findAll(text=re.compile('Position'))
-        stats  = stats[-1]
-        position = stats.next
-
-        temp  = soup.find(text=re.compile('Test debut'))
-        if temp is None:
-            stats = soup.find(text=re.compile('Only Test'))
-        else:
-            stats = temp
-        debut = stats.next.next.next
-
-        stats = get_stats(soup)
+for i in range(len(COUNTRY)):
 
 
 
-        csv_writer.writerow([name, born, position, debut, stats])
+    country = COUNTRY[i]
+    team_url = TEAM_URL[i]
+
+    print(country)
+    players = get_player_links(team_url)
+
+    with open(MKDIR + country + ".csv", "w+") as csv_file:
+        csv_writer = writer(csv_file)
+        headers =  ["name", "born", "position", "debut", "stats"]
+        csv_writer.writerow(headers)
+
+        for player in players:
+            soup = make_soup(player)
+
+            name = soup.find('div','scrumPlayerName')
+            name = name.next
+
+            born = soup.find(text=re.compile('Born'))
+            born = born.next
+
+            stats  = soup.findAll(text=re.compile('Position'))
+            stats  = stats[-1]
+            position = stats.next
+
+            temp  = soup.find(text=re.compile('Test debut'))
+            if temp is None:
+                stats = soup.find(text=re.compile('Only Test'))
+            else:
+                stats = temp
+            debut = stats.next.next.next
+
+            stats = get_stats(soup)
+
+            csv_writer.writerow([name, born, position, debut, stats])
+    print("Complete")
