@@ -1,0 +1,1138 @@
+cap_no,first_names,surname,birth_date,approx_brithdate,birth_location,approx_birth_location,position,debut_match,debut_location,debut_date,matches_played,match_starts,sub_starts,points,tries,converstions,penalties,drop_goals,goals_from_mark,won,lost,draw,win_rate,country,lon,lat
+1,Henri,Amand,1873-09-17,FALSE,Paris,FALSE,Fly-half,France v New Zealand,Parc des Princes,1906-01-01,1,1,0,0,0,0,0,0,0,0,1,0,0,France,2.3522219,48.856614
+2,Albert,Branlat,1879-11-15,FALSE,Saint-Vivien-de-Medo,FALSE,"Prop, Lock",France v New Zealand,Parc des Princes,1906-01-01,3,3,0,2,0,1,0,0,0,0,3,0,0,France,-1.035981,45.430846
+3,Noel,Cessieux,1879-12-22,FALSE,Andance,FALSE,No. 8,France v New Zealand,Parc des Princes,1906-01-01,1,1,0,3,1,0,0,0,0,0,1,0,0,France,4.799199,45.241521
+4,Marcel,Communeau,1885-09-11,FALSE,Beauvais,FALSE,"Wing, Lock, No. 8",France v New Zealand,Parc des Princes,1906-01-01,21,21,0,9,3,0,0,0,0,1,20,0,0.047619047619047616,France,2.0807123,49.42953869999999
+5,William,Crichton,1881-12-01,TRUE,Cockermouth,FALSE,Fullback,France v New Zealand,Parc des Princes,1906-01-01,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-3.367985,54.663261
+6,Paul,Dedeyn,1880-12-11,FALSE,Moulineaux,FALSE,Hooker,France v New Zealand,Parc des Princes,1906-01-01,1,1,0,0,0,0,0,0,0,0,1,0,0,France,0.96609,49.34185
+7,Jacques,Dufourcq,1881-08-19,FALSE,Salies-de-Bearn,FALSE,"Lock, Flanker",France v New Zealand,Parc des Princes,1906-01-01,4,4,0,0,0,0,0,0,0,0,4,0,0,France,-0.9248539999999998,43.47055599999999
+8,Georges,Jerome,1883-01-01,TRUE,Cayenne,FALSE,Lock,France v New Zealand,Parc des Princes,1906-01-01,2,2,0,3,1,0,0,0,0,0,2,0,0,France,-52.3134531,4.92242
+9,Henri,Lacassagne,1883-12-27,FALSE,Viella,FALSE,Scrum-half,France v New Zealand,Parc des Princes,1906-01-01,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-0.143068,43.596566
+10,Gaston,Lane,1883-01-31,FALSE,Paris,FALSE,"Wing, Centre",France v New Zealand,Parc des Princes,1906-01-01,16,16,0,3,1,0,0,0,0,1,15,0,0.0625,France,2.3522219,48.856614
+11,Henri,Levee,1885-03-17,FALSE,Paris,FALSE,Centre,France v New Zealand,Parc des Princes,1906-01-01,1,1,0,0,0,0,0,0,0,0,1,0,0,France,2.3522219,48.856614
+12,Allan,Muhr,1882-01-23,FALSE,"Philadelphia, PA, United States",FALSE,"Prop, Lock",France v New Zealand,Parc des Princes,1906-01-01,3,3,0,6,2,0,0,0,0,0,3,0,0,France,-75.1652215,39.9525839
+13,Augustin,Pujol,1883-05-10,FALSE,Toulouse,FALSE,Wing,France v New Zealand,Parc des Princes,1906-01-01,1,1,0,2,0,1,0,0,0,0,1,0,0,France,1.444209,43.604652
+14,Paul,Sagot,1885-01-15,FALSE,Dijon,FALSE,"Wing, Centre",France v New Zealand,Parc des Princes,1906-01-01,3,3,0,5,1,1,0,0,0,0,3,0,0,France,5.04148,47.322047
+15,Andre,Verges,NA,NA,Not Available,FALSE,"Prop, Lock",France v New Zealand,Parc des Princes,1906-01-01,3,3,0,0,0,0,0,0,0,0,3,0,0,France,-122.2636808,37.8009514
+16,Pierre,Gaudermen,1882-10-20,FALSE,Paris,FALSE,No. 8,France v England,Parc des Princes,1906-03-22,1,1,0,0,0,0,0,0,0,0,1,0,0,France,2.3522219,48.856614
+17,Albert,Hubert,1884-12-06,FALSE,Noisy-le-Sec,FALSE,Fly-half,France v England,Parc des Princes,1906-03-22,7,7,0,0,0,0,0,0,0,0,7,0,0,France,2.458625,48.892489
+18,Emile,Lesieur,1885-09-16,FALSE,Paris,FALSE,"Wing, Centre",France v England,Parc des Princes,1906-03-22,12,12,0,6,2,0,0,0,0,0,12,0,0,France,2.3522219,48.856614
+19,Ernest,Lewis,1876-07-28,FALSE,Cardiff,FALSE,Centre,France v England,Parc des Princes,1906-03-22,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-3.17909,51.48158100000001
+20,Paul,Maclos,1883-08-19,FALSE,Amazy,FALSE,"Wing, Centre, Flanker",France v England,Parc des Princes,1906-03-22,2,2,0,7,0,2,1,0,0,0,2,0,0,France,3.577721,47.376593
+21,G.,Maurin,NA,NA,Not Available,FALSE,Flanker,France v England,Parc des Princes,1906-03-22,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-122.2636808,37.8009514
+22,Theodore,Varvier,1884-04-29,FALSE,Lyon,FALSE,"Fullback, Centre, Fly-half",France v England,Parc des Princes,1906-03-22,6,6,0,0,0,0,0,0,0,0,6,0,0,France,4.835659,45.764043
+23,Charles,Beaurin-Gressier,1879-10-25,FALSE,Paris,FALSE,"Prop, No. 8",England v France,Richmond,1907-01-05,2,2,0,0,0,0,0,0,0,0,2,0,0,France,2.3522219,48.856614
+24,Marc,Giacardy,1881-02-15,FALSE,Bordeaux,FALSE,"Fly-half, Flanker, Halfback",England v France,Richmond,1907-01-05,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-0.57918,44.837789
+25,Henri,Isaac,1883-05-07,FALSE,Basse-Terre,FALSE,Fullback,England v France,Richmond,1907-01-05,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-61.73169900000001,15.9965761
+26,Henri,Martin,1888-08-29,FALSE,Cayenne,FALSE,"Fullback, Centre",England v France,Richmond,1907-01-05,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-52.3134531,4.92242
+27,Paul,Mauriat,1887-05-27,FALSE,Neuville-sur-Saone,FALSE,"Prop, Hooker, Lock",England v France,Richmond,1907-01-05,19,19,0,5,1,1,0,0,0,1,18,0,0.05263157894736842,France,4.8410209,45.876133
+28,A.,Poirier,NA,NA,Not Available,FALSE,Hooker,England v France,Richmond,1907-01-05,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-122.2636808,37.8009514
+29,Charles,Vareilles,1885-07-25,FALSE,"Poulo Condor, French Ind",FALSE,Wing,England v France,Richmond,1907-01-05,5,5,0,4,0,0,0,1,0,0,5,0,0,France,106.6114474,8.7009282
+30,Georges,Borchard,1885-12-25,FALSE,Bordeaux,FALSE,"Hooker, Lock, Flanker",France v England,Colombes,1908-01-01,5,5,0,0,0,0,0,0,0,0,5,0,0,France,-0.57918,44.837789
+31,Rene,Duval,1886-09-07,FALSE,Paris,FALSE,"Fly-half, Flanker",France v England,Colombes,1908-01-01,6,6,0,0,0,0,0,0,0,0,6,0,0,France,2.3522219,48.856614
+32,Pierre,Guillemin,1886-06-14,FALSE,"Fallowfield, Lancs",FALSE,"Prop, Lock",France v England,Colombes,1908-01-01,11,11,0,3,1,0,0,0,0,1,10,0,0.09090909090909091,France,-2.218652,53.4425635
+33,Alfred,Mayssonnie,1884-02-10,FALSE,Lavernose,FALSE,"Fly-half, Scrum-half",France v England,Colombes,1908-01-01,3,3,0,0,0,0,0,0,0,0,3,0,0,France,1.261595,43.396206
+34,Henri,Moure,1882-12-09,FALSE,Bordeaux,FALSE,Flanker,France v England,Colombes,1908-01-01,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-0.57918,44.837789
+35,Rene von,Malmann,1885-11-02,FALSE,Paris,FALSE,"Prop, Lock",France v England,Colombes,1908-01-01,7,7,0,0,0,0,0,0,0,0,7,0,0,France,2.3522219,48.856614
+36,Maurice,Leuvielle,1881-06-28,FALSE,Saint-Loubes,FALSE,"Centre, Lock, No. 8",Wales v France,Cardiff,1908-03-02,7,7,0,0,0,0,0,0,0,0,7,0,0,France,-0.4271,44.916735
+37,Alphonse,Masse,1883-05-23,FALSE,Saint-Christophe-de-,FALSE,"Lock, Flanker",Wales v France,Cardiff,1908-03-02,7,7,0,0,0,0,0,0,0,0,7,0,0,France,0.015652,45.08044599999999
+38,Jean,Caujolle,1888-07-31,FALSE,Saint-Girons,FALSE,Fullback,England v France,Leicester,1909-01-30,5,5,0,0,0,0,0,0,0,0,5,0,0,France,1.146088,42.982876
+39,Georges,Fourcade,1885-04-26,FALSE,Saint-Pierre-sur-Dro,FALSE,Hooker,England v France,Leicester,1909-01-30,2,2,0,0,0,0,0,0,0,0,2,0,0,France,0.203076,44.643147
+40,Henri,Houblain,1883-01-01,TRUE,Not Available,FALSE,Centre,England v France,Leicester,1909-01-30,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-122.2636808,37.8009514
+41,Jules,Icard,NA,NA,Not Available,FALSE,Lock,England v France,Leicester,1909-01-30,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-122.2636808,37.8009514
+42,Andre,Theuriet,1887-03-29,FALSE,Lyon,FALSE,Scrum-half,England v France,Leicester,1909-01-30,5,5,0,0,0,0,0,0,0,0,5,0,0,France,4.835659,45.764043
+43,Etienne de,Jouvencel,1889-02-28,FALSE,Paris,FALSE,Fullback,France v Wales,Colombes,1909-02-23,2,2,0,0,0,0,0,0,0,0,2,0,0,France,2.3522219,48.856614
+44,Paul,Dupre,1888-06-29,FALSE,Gagny,FALSE,Flanker,France v Wales,Colombes,1909-02-23,1,1,0,0,0,0,0,0,0,0,1,0,0,France,2.536518,48.8849159
+45,Marcel,Burgun,1890-01-30,FALSE,Saint Petersburg,FALSE,"Wing, Centre, Fly-half",Ireland v France,Lansdowne Road,1909-03-20,11,11,0,0,0,0,0,0,0,1,10,0,0.09090909090909091,France,30.3609096,59.9310584
+46,Jacques,Gommes,1881-07-06,FALSE,Bordeaux,FALSE,"Scrum-half, Flanker",Ireland v France,Lansdowne Road,1909-03-20,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-0.57918,44.837789
+47,Augustin,Hourdebaigt,1884-09-12,FALSE,Bordeaux,FALSE,Lock,Ireland v France,Lansdowne Road,1909-03-20,5,5,0,3,1,0,0,0,0,0,5,0,0,France,-0.57918,44.837789
+48,Marcel,Legrain,1890-06-14,FALSE,Paris,FALSE,"Centre, Flanker, No. 8",Ireland v France,Lansdowne Road,1909-03-20,12,12,0,0,0,0,0,0,0,1,11,0,0.08333333333333333,France,2.3522219,48.856614
+49,Claude,Martin,1888-06-16,FALSE,Lyon,FALSE,Fly-half,Ireland v France,Lansdowne Road,1909-03-20,3,3,0,0,0,0,0,0,0,0,3,0,0,France,4.835659,45.764043
+50,Francis,Mouronval,1881-06-04,FALSE,Avesnes-sur-Helpe,FALSE,"Centre, Flanker",Ireland v France,Lansdowne Road,1909-03-20,1,1,0,0,0,0,0,0,0,0,1,0,0,France,3.926864,50.123589
+51,Joe,Anduran,1882-04-24,FALSE,Bayonne,FALSE,Hooker,Wales v France,Swansea,1910-01-01,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-74.1143091,40.6687141
+52,Rene,Boudreaux,1880-11-27,FALSE,Paris,FALSE,Prop,Wales v France,Swansea,1910-01-01,2,2,0,0,0,0,0,0,0,0,2,0,0,France,2.3522219,48.856614
+53,Maurice,Bruneau,1883-12-01,FALSE,Bordeaux,FALSE,"Wing, Centre, Fly-half",Wales v France,Swansea,1910-01-01,4,4,0,3,1,0,0,0,0,0,4,0,0,France,-0.57918,44.837789
+54,Remi,Laffitte,1886-10-01,FALSE,Osserain,FALSE,"Centre, Flanker",Wales v France,Swansea,1910-01-01,2,2,0,3,1,0,0,0,0,0,2,0,0,France,-0.95153,43.37773199999999
+55,R.,Menrath,NA,NA,Not Available,FALSE,Fullback,Wales v France,Swansea,1910-01-01,1,1,0,8,0,1,2,0,0,0,1,0,0,France,-122.2636808,37.8009514
+56,M.,Thevenot,1883-01-01,TRUE,Not Available,FALSE,"Prop, Lock",Wales v France,Swansea,1910-01-01,3,3,0,0,0,0,0,0,0,0,3,0,0,France,-122.2636808,37.8009514
+57,Jules,Cadenat,1885-09-18,FALSE,Beziers,FALSE,"Prop, Lock, No. 8",Scotland v France,Inverleith,1910-01-22,7,7,0,0,0,0,0,0,0,0,7,0,0,France,3.215795,43.344233
+58,Julien,Combe,1887-01-01,TRUE,Not Available,FALSE,Fullback,Scotland v France,Inverleith,1910-01-22,4,4,0,0,0,0,0,0,0,1,3,0,0.25,France,-122.2636808,37.8009514
+59,Jacques,Dedet,1887-03-04,FALSE,"Houailou, New Caledo",FALSE,"Centre, Fly-half",Scotland v France,Inverleith,1910-01-22,8,8,0,0,0,0,0,0,0,0,8,0,0,France,165.6353564,-21.278946
+60,Guillaume,Laterrade,1889-05-19,FALSE,Tarbes,FALSE,"Scrum-half, Halfback",France v England,Parc des Princes,1910-03-03,5,5,0,3,1,0,0,0,0,1,4,0,0.2,France,0.078082,43.23295100000001
+61,Joseph de,Muizon,1890-12-29,FALSE,Versailles,FALSE,Wing,France v Ireland,Parc des Princes,1910-03-28,1,1,0,0,0,0,0,0,0,0,1,0,0,France,2.1203554,48.8048649
+62,Fernand,Roujas,1885-02-17,FALSE,La Mas d'Azil,FALSE,Fly-half,France v Ireland,Parc des Princes,1910-03-28,1,1,0,0,0,0,0,0,0,0,1,0,0,France,1.36147,43.0793899
+63,Joseph,Bavozet,1887-05-26,FALSE,Lyon,FALSE,"Lock, Flanker",France v Scotland,Colombes,1911-01-02,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,France,4.835659,45.764043
+64,Paul,Decamps,1884-01-14,FALSE,Paris,FALSE,"Lock, Flanker",France v Scotland,Colombes,1911-01-02,1,1,0,4,0,2,0,0,0,1,0,0,1,France,2.3522219,48.856614
+65,Pierre,Failliot,1887-02-25,FALSE,Paris,FALSE,Wing,France v Scotland,Colombes,1911-01-02,8,8,0,15,5,0,0,0,0,1,7,0,0.125,France,2.3522219,48.856614
+66,Fernand,Forgues,1884-11-30,FALSE,Pau,FALSE,"Lock, Flanker",France v Scotland,Colombes,1911-01-02,11,11,0,0,0,0,0,0,0,1,10,0,0.09090909090909091,France,-0.370797,43.2951
+67,Andre,Francquenelle,1889-08-15,FALSE,Rochefort-sur-Mer,FALSE,Centre,France v Scotland,Colombes,1911-01-02,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,France,-0.9616969999999999,45.936698
+68,Pierre,Mouniq,1887-02-09,FALSE,Luz-Saint-Sauveur,FALSE,"Prop, Lock",France v Scotland,Colombes,1911-01-02,9,9,0,0,0,0,0,0,0,1,8,0,0.1111111111111111,France,-0.002869,42.873542
+69,Georges,Peyroutou,1888-07-15,FALSE,Ondres,FALSE,Fly-half,France v Scotland,Colombes,1911-01-02,2,2,0,3,1,0,0,0,0,1,1,0,0.5,France,-1.448208,43.561101
+70,Gilbert,Charpentier,1886-11-01,FALSE,Pissotte,FALSE,"Wing, Fly-half",England v France,Twickenham,1911-01-28,3,3,0,0,0,0,0,0,0,0,3,0,0,France,-0.8079809,46.496708
+71,Francois,Dutour,1886-12-06,FALSE,Moissat,FALSE,Fullback,England v France,Twickenham,1911-01-28,6,6,0,2,0,1,0,0,0,0,6,0,0,France,3.3479787,45.7743105
+72,Rene,Duffour,1881-08-13,FALSE,Tarbes,FALSE,Hooker,France v Wales,Parc des Princes,1911-02-28,1,1,0,0,0,0,0,0,0,0,1,0,0,France,0.078082,43.23295100000001
+73,Charles ,du Souich,1890-05-07,FALSE,Tours,FALSE,Centre,France v Wales,Parc des Princes,1911-02-28,2,2,0,0,0,0,0,0,0,0,2,0,0,France,0.68484,47.394144
+74,Robert,Monier,1885-02-20,FALSE,Bordeaux,FALSE,Prop,Ireland v France,Cork,1911-03-25,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-0.57918,44.837789
+75,Raymond,Simonpaoli,1887-11-24,FALSE,Courtalain,FALSE,Lock,Ireland v France,Cork,1911-03-25,3,3,0,3,1,0,0,0,0,0,3,0,0,France,1.1369229,48.078384
+76,Maurice,Boyau,1888-05-08,FALSE,Mustapha,FALSE,Flanker,France v Ireland,Parc des Princes,1912-01-01,6,6,0,4,0,2,0,0,0,0,6,0,0,France,-89.48078939999999,41.8445482
+77,Jean-Jacques Conilh de,Beyssac,1890-04-12,FALSE,Cauderan,FALSE,"Prop, Lock",France v Ireland,Parc des Princes,1912-01-01,5,5,0,0,0,0,0,0,0,0,5,0,0,France,-0.6147598,44.852256
+78,Jean,Domercq,1886-12-20,FALSE,Orthez,FALSE,Back-row,France v Ireland,Parc des Princes,1912-01-01,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-0.7739279,43.48755999999999
+79,Julien,Dufau,1888-02-16,FALSE,Biarritz,FALSE,"Wing, Centre",France v Ireland,Parc des Princes,1912-01-01,5,5,0,6,2,0,0,0,0,0,5,0,0,France,-1.558626,43.4831519
+80,Daniel,Ihingoue,1889-01-13,FALSE,Ilharre,FALSE,Centre,France v Ireland,Parc des Princes,1912-01-01,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-1.0346774,43.4068183
+81,Leon,Larribau,1889-03-02,FALSE,Anglet,FALSE,"Wing, Scrum-half",France v Ireland,Parc des Princes,1912-01-01,6,6,0,3,1,0,0,0,0,0,6,0,0,France,-1.514699,43.481402
+82,Edouard,Vallot,1884-09-15,FALSE,London,FALSE,Hooker,Scotland v France,Inverleith,1912-01-20,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-0.1277583,51.5073509
+83,Jacques,Forestier,1890-06-27,FALSE,Aix-les-Bains,FALSE,Prop,Wales v France,Newport,1912-03-25,1,1,0,0,0,0,0,0,0,0,1,0,0,France,5.908998,45.692341
+84,Marcel,Monniot,1885-03-17,FALSE,Paris,FALSE,"Prop, Lock",Wales v France,Newport,1912-03-25,2,2,0,0,0,0,0,0,0,0,2,0,0,France,2.3522219,48.856614
+85,Jean-Rene,Pascarel,1890-02-20,FALSE,Bordeaux,FALSE,Hooker,Wales v France,Newport,1912-03-25,6,6,0,0,0,0,0,0,0,0,6,0,0,France,-0.57918,44.837789
+86,Jean,Sentilles,1886-02-14,FALSE,Tarbes,FALSE,Centre,Wales v France,Newport,1912-03-25,4,4,0,0,0,0,0,0,0,0,4,0,0,France,0.078082,43.23295100000001
+87,Helier,Tilh,1881-02-10,FALSE,Bosdarros,FALSE,"Wing, Prop, Lock",Wales v France,Newport,1912-03-25,6,6,0,0,0,0,0,0,0,0,6,0,0,France,-0.362038,43.209919
+88,Maurice,Hedembaigt,1891-02-03,FALSE,Anglet,FALSE,"Scrum-half, Halfback",France v Scotland,Parc des Princes,1913-01-01,3,3,0,0,0,0,0,0,0,0,3,0,0,France,-1.514699,43.481402
+89,Pierre,Jaureguy,1891-05-28,FALSE,Ostabat,FALSE,"Wing, Centre",France v Scotland,Parc des Princes,1913-01-01,4,4,0,0,0,0,0,0,0,0,4,0,0,France,-1.071501,43.255952
+90,Jean,Sebedio,1890-12-12,FALSE,Saint-Jean-de-Luz,FALSE,"Prop, Flanker, No. 8",France v Scotland,Parc des Princes,1913-01-01,9,9,0,3,1,0,0,0,0,2,5,2,0.2222222222222222,France,-1.663055,43.388051
+91,Geo,Andre,1889-08-13,FALSE,Paris,FALSE,Wing,France v South Africa,Bordeaux,1913-01-11,7,7,0,11,3,1,0,0,0,0,7,0,0,France,2.3522219,48.856614
+92,Albert,Chatau,1893-02-11,FALSE,Urrugne,FALSE,Fly-half,France v South Africa,Bordeaux,1913-01-11,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-1.7000983,43.3623097
+93,Marcel,Favre,1888-08-31,FALSE,La Roche-sur-Foron,FALSE,Prop,England v France,Twickenham,1913-01-25,2,2,0,0,0,0,0,0,0,0,2,0,0,France,6.312039,46.067072
+94,Clovis,Bioussa,1893-10-09,FALSE,Toulouse,FALSE,Fly-half,France v Wales,Parc des Princes,1913-02-27,3,3,0,0,0,0,0,0,0,0,3,0,0,France,1.444209,43.604652
+95,Gustave,Podevin,1884-12-14,FALSE,Paris,FALSE,Lock,France v Wales,Parc des Princes,1913-02-27,2,2,0,0,0,0,0,0,0,0,2,0,0,France,2.3522219,48.856614
+96,Jean,Semmartin,1892-04-30,FALSE,Ars-en-Re,FALSE,Fullback,France v Wales,Parc des Princes,1913-02-27,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-1.515577,46.20780999999999
+97,Philippe,Struxiano,1891-03-11,FALSE,Toulouse,FALSE,Scrum-half,France v Wales,Parc des Princes,1913-02-27,7,7,0,6,0,3,0,0,0,2,5,0,0.2857142857142857,France,1.444209,43.604652
+98,Albert,Eutropius,1888-01-10,FALSE,Cayenne,FALSE,Flanker,Ireland v France,Cork,1913-03-24,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-52.3134531,4.92242
+99,Henri,Tavernier,1888-06-16,FALSE,Saint-Just-en-Chauss,FALSE,Prop,Ireland v France,Cork,1913-03-24,1,1,0,0,0,0,0,0,0,0,1,0,0,France,2.435059,49.50543200000001
+100,Jean-Marie,Arnal,1892-11-15,FALSE,Paris,FALSE,Lock,France v Ireland,Parc des Princes,1914-01-01,2,2,0,0,0,0,0,0,0,0,2,0,0,France,2.3522219,48.856614
+101,Paul,Faure,1890-01-04,FALSE,Aureilhan,FALSE,"Prop, Hooker",France v Ireland,Parc des Princes,1914-01-01,3,3,0,0,0,0,0,0,0,0,3,0,0,France,0.096065,43.242573
+102,Robert,Lacoste,1893-01-01,TRUE,Not Available,FALSE,Wing,France v Ireland,Parc des Princes,1914-01-01,3,3,0,3,1,0,0,0,0,0,3,0,0,France,-122.2636808,37.8009514
+103,Rene,Lasserre,1895-10-09,FALSE,Bayonne,FALSE,"Fullback, Centre, Flanker",France v Ireland,Parc des Princes,1914-01-01,15,15,0,10,2,0,0,1,0,4,9,2,0.26666666666666666,France,-74.1143091,40.6687141
+104,Raphael,Lavaud,1888-01-18,FALSE,Bordeaux,FALSE,"Lock, Flanker",France v Ireland,Parc des Princes,1914-01-01,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-0.57918,44.837789
+105,Marcel-Frederic,Lubin-Lebrere,1891-07-21,FALSE,Agen,FALSE,"Prop, Lock",France v Ireland,Parc des Princes,1914-01-01,15,15,0,6,2,0,0,0,0,3,10,2,0.2,France,-94.6039222,39.0957618
+106,Gilbert,Pierrot,1889-02-03,FALSE,Bizanos,FALSE,Centre,France v Ireland,Parc des Princes,1914-01-01,3,3,0,0,0,0,0,0,0,0,3,0,0,France,-0.355226,43.288931
+107,Francois,Poeydebasque,1891-01-07,FALSE,Bayonne,FALSE,"Centre, Fly-half",France v Ireland,Parc des Princes,1914-01-01,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-74.1143091,40.6687141
+108,Lucien,Besset,1892-01-04,FALSE,Paris,FALSE,"Centre, Fly-half",Wales v France,Swansea,1914-03-02,2,2,0,4,0,2,0,0,0,0,2,0,0,France,2.3522219,48.856614
+109,Robert,Desvouges,1894-11-10,FALSE,Neuilly-sur-Seine,FALSE,Lock,Wales v France,Swansea,1914-03-02,1,1,0,0,0,0,0,0,0,0,1,0,0,France,2.26851,48.884831
+110,Paulin,Bascou,1889-03-15,FALSE,Urrugne,FALSE,Lock,France v England,Colombes,1914-04-13,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-1.7000983,43.3623097
+111,Jean-Louis,Capmau,1889-03-17,FALSE,Siran,FALSE,Flanker,France v England,Colombes,1914-04-13,1,1,0,3,1,0,0,0,0,0,1,0,0,France,-98.57703250000002,29.5102455
+112,Emmanuel,Iguiniz,1889-12-09,FALSE,Bayonne,FALSE,Hooker,France v England,Colombes,1914-04-13,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-74.1143091,40.6687141
+113,Eugene,Billac,1898-03-16,FALSE,Bayonne,FALSE,Fly-half,France v Scotland,Parc des Princes,1920-01-01,9,9,0,6,2,0,0,0,0,3,6,0,0.3333333333333333,France,-74.1143091,40.6687141
+114,Aime,Cassayet-Armagnac,1893-04-09,FALSE,Mont-de-Marsan,FALSE,"Lock, No. 8",France v Scotland,Parc des Princes,1920-01-01,31,31,0,9,3,0,0,0,0,5,24,2,0.16129032258064516,France,-0.4997819999999999,43.893485
+115,Andre,Chilo,1898-07-05,FALSE,Bordeaux,FALSE,"Fullback, Wing",France v Scotland,Parc des Princes,1920-01-01,4,4,0,0,0,0,0,0,0,0,4,0,0,France,-0.57918,44.837789
+116,Rene,Crabos,1899-02-07,FALSE,Saint-Sever,FALSE,Centre,France v Scotland,Parc des Princes,1920-01-01,17,17,0,19,1,5,2,0,0,6,9,2,0.35294117647058826,France,-0.574221,43.759137
+117,Adolphe,Jaureguy,1898-02-18,FALSE,Ostabat,FALSE,Wing,France v Scotland,Parc des Princes,1920-01-01,31,31,0,42,14,0,0,0,0,8,22,1,0.25806451612903225,France,-1.071501,43.255952
+118,Joseph,Laurent,1894-03-21,FALSE,Bayonne,FALSE,Flanker,France v Scotland,Parc des Princes,1920-01-01,3,3,0,0,0,0,0,0,0,0,3,0,0,France,-74.1143091,40.6687141
+119,Robert,Marchand,1892-02-16,FALSE,Angouleme,FALSE,No. 8,France v Scotland,Parc des Princes,1920-01-01,2,2,0,0,0,0,0,0,0,0,2,0,0,France,0.1562369,45.648377
+120,Pierre,Pons,1894-09-16,FALSE,Llupia,FALSE,"Prop, Hooker",France v Scotland,Parc des Princes,1920-01-01,6,6,0,0,0,0,0,0,0,1,4,1,0.16666666666666666,France,2.769887,42.619867
+121,Louis,Puech,1894-12-04,FALSE,Gorses,FALSE,Lock,France v Scotland,Parc des Princes,1920-01-01,5,5,0,0,0,0,0,0,0,2,3,0,0.4,France,2.024965,44.794143
+122,Paul,Serre,1895-12-13,FALSE,Clairac,FALSE,Wing,France v Scotland,Parc des Princes,1920-01-01,2,2,0,0,0,0,0,0,0,0,2,0,0,France,0.37577700000000003,44.360409
+123,Robert,Thierry,1893-06-23,FALSE,Brienon-sur-Armencon,FALSE,"Lock, Flanker",France v Scotland,Parc des Princes,1920-01-01,4,4,0,0,0,0,0,0,0,1,3,0,0.25,France,3.617134,47.991832
+124,Theophile,Cambre,1894-03-24,FALSE,Bordeaux,FALSE,Fullback,England v France,Twickenham,1920-01-31,4,4,0,0,0,0,0,0,0,2,2,0,0.5,France,-0.57918,44.837789
+125,Abel,Guichemerre,1889-08-23,FALSE,Dax,FALSE,Flanker,England v France,Twickenham,1920-01-31,4,4,0,0,0,0,0,0,0,1,3,0,0.25,France,-80.3212932,25.8510938
+126,Jean,Lavigne,1894-03-27,FALSE,Levignacq,FALSE,Centre,England v France,Twickenham,1920-01-31,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-1.166166,44.005114
+127,Eugene,Soulie,1898-01-01,TRUE,Paris,FALSE,"Prop, Lock",England v France,Twickenham,1920-01-31,9,9,0,0,0,0,0,0,0,4,4,1,0.4444444444444444,France,2.3522219,48.856614
+128,Maurice,Biraben,1892-05-20,FALSE,Dax,FALSE,Prop,France v Wales,Colombes,1920-02-17,10,10,0,0,0,0,0,0,0,4,4,2,0.4,France,-80.3212932,25.8510938
+129,Georges,Constant,1899-04-13,FALSE,Perpignan,FALSE,Flanker,France v Wales,Colombes,1920-02-17,1,1,0,0,0,0,0,0,0,0,1,0,0,France,2.8948332,42.6886591
+130,Francois,Borde,1899-12-08,FALSE,Lourdes,FALSE,Centre,Ireland v France,Lansdowne Road,1920-04-03,12,12,0,3,1,0,0,0,0,4,7,1,0.3333333333333333,France,-0.045726,43.091463
+131,William,Gayraud-Hirigoyen,1898-05-01,FALSE,Laroque-Timbaut,FALSE,Hooker,Ireland v France,Lansdowne Road,1920-04-03,1,1,0,3,1,0,0,0,0,1,0,0,1,France,0.761948,44.283125
+132,Raoul,Got,1900-02-11,FALSE,Perpignan,FALSE,Wing,Ireland v France,Lansdowne Road,1920-04-03,13,13,0,18,6,0,0,0,0,4,7,2,0.3076923076923077,France,2.8948332,42.6886591
+133,Jean,Larrieu,1895-06-02,FALSE,Toulouse,FALSE,"Hooker, Flanker",Ireland v France,Lansdowne Road,1920-04-03,7,7,0,0,0,0,0,0,0,3,4,0,0.42857142857142855,France,1.444209,43.604652
+134,Pierre,Moureu,1895-08-24,FALSE,Larrau,FALSE,"Prop, Lock, No. 8",Ireland v France,Lansdowne Road,1920-04-03,17,17,0,6,2,0,0,0,0,5,11,1,0.29411764705882354,France,-0.955718,43.01875700000001
+135,Jean,Boubee,1900-10-11,FALSE,Biarritz,FALSE,Back-row,Scotland v France,Inverleith,1921-01-22,9,9,0,3,1,0,0,0,0,3,5,1,0.3333333333333333,France,-1.558626,43.4831519
+136,Jean,Clement,1899-09-25,FALSE,Tarbes,FALSE,"Fullback, Fly-half, Halfback",Scotland v France,Inverleith,1921-01-22,10,10,0,0,0,0,0,0,0,2,6,2,0.2,France,0.078082,43.23295100000001
+137,Gilbert,Coscolla,1900-12-18,FALSE,Beziers,FALSE,"Prop, Lock",Scotland v France,Inverleith,1921-01-22,2,2,0,0,0,0,0,0,0,1,1,0,0.5,France,3.215795,43.344233
+138,Jean,Lobies,1900-11-28,FALSE,Bone,FALSE,Wing,Scotland v France,Inverleith,1921-01-22,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,France,-95.75016269999999,37.2260629
+139,Roger,Piteu,1899-05-14,FALSE,Pau,FALSE,Scrum-half,Scotland v France,Inverleith,1921-01-22,15,15,0,6,2,0,0,0,0,2,11,2,0.13333333333333333,France,-0.370797,43.2951
+140,Fernand,Vaquer,1889-06-22,FALSE,Latour-bas-Elne,FALSE,"Lock, No. 8",Scotland v France,Inverleith,1921-01-22,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,France,3.006674,42.606203
+141,Adolphe,Bousquet,1899-08-14,FALSE,Beziers,FALSE,Fly-half,France v England,Colombes,1921-03-28,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,France,3.215795,43.344233
+142,Edmond,Cayrefourcq,1898-07-01,FALSE,Tarbes,FALSE,Wing,France v England,Colombes,1921-03-28,1,1,0,0,0,0,0,0,0,0,1,0,0,France,0.078082,43.23295100000001
+143,Charles-Anthoin,Gonnet,1897-11-03,FALSE,Laon,FALSE,Hooker,France v England,Colombes,1921-03-28,16,16,0,5,0,1,1,0,0,4,11,1,0.25,France,3.61989,49.564133
+144,Jacques,Baquey,1895-11-25,FALSE,Saint-Medard-en-Jall,FALSE,Wing,France v Ireland,Colombes,1921-04-09,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-0.7181,44.895295
+145,Marcel de,Laborderie,1899-01-11,FALSE,Buenos Aires,FALSE,"Wing, Centre",France v Ireland,Colombes,1921-04-09,4,4,0,3,1,0,0,0,0,1,3,0,0.25,France,-58.3815591,-34.6036844
+146,Maurice,Jeangrand,1899-01-08,FALSE,Lourdes,FALSE,"Wing, Centre",France v Ireland,Colombes,1921-04-09,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-0.045726,43.091463
+147,Francois,Cahuc,1892-07-04,FALSE,Pamiers,FALSE,Flanker,France v Scotland,Colombes,1922-01-02,1,1,0,0,0,0,0,0,0,0,0,1,0,France,1.607953,43.114753
+148,Joseph,Pascot,1897-12-11,FALSE,Port-Vendres,FALSE,Fly-half,France v Scotland,Colombes,1922-01-02,6,6,0,3,1,0,0,0,0,0,4,2,0,France,3.106592,42.518487
+149,Andre,Lafond,1902-07-31,FALSE,Le Bouceau,FALSE,Wing,England v France,Twickenham,1922-02-25,1,1,0,0,0,0,0,0,0,0,0,1,0,France,-1.4858579,43.523153
+150,Roger,Ramis,1902-03-29,FALSE,Perpignan,FALSE,"Wing, Centre",England v France,Twickenham,1922-02-25,3,3,0,0,0,0,0,0,0,0,2,1,0,France,2.8948332,42.6886591
+151,Louis,Beguet,1894-12-07,FALSE,Neuf-Mesnil,FALSE,"Prop, Hooker",Ireland v France,Lansdowne Road,1922-04-08,10,10,0,32,1,10,2,0,1,3,7,0,0.3,France,3.907767,50.265707
+152,Jean,Bernon,1893-06-04,FALSE,Toulouse,FALSE,"Prop, Lock",Ireland v France,Lansdowne Road,1922-04-08,2,2,0,0,0,0,0,0,0,0,2,0,0,France,1.444209,43.604652
+153,Albert,Etchepare,1898-11-08,FALSE,Biaudos,FALSE,Flanker,Ireland v France,Lansdowne Road,1922-04-08,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-1.304524,43.550854
+154,Noel,Sicart,1899-12-25,FALSE,Perpignan,FALSE,Back-row,Ireland v France,Lansdowne Road,1922-04-08,1,1,0,0,0,0,0,0,0,0,1,0,0,France,2.8948332,42.6886591
+155,Jean,Bayard,1897-10-23,FALSE,Toulouse,FALSE,Hooker,Scotland v France,Inverleith,1923-01-20,6,6,0,0,0,0,0,0,0,1,5,0,0.16666666666666666,France,1.444209,43.604652
+156,Clement,Dupont,1899-04-18,FALSE,Argeles-Gazost,FALSE,Scrum-half,Scotland v France,Inverleith,1923-01-20,16,16,0,0,0,0,0,0,0,7,9,0,0.4375,France,-0.101087,43.005028
+157,Max,Lalande,1901-09-28,FALSE,Chateaurenard,FALSE,Wing,Scotland v France,Inverleith,1923-01-20,3,3,0,3,1,0,0,0,0,1,2,0,0.3333333333333333,France,4.855684999999999,43.8820059
+158,Henri,Behoteguy,1898-10-18,FALSE,Bayonne,FALSE,Centre,Wales v France,Swansea,1923-02-24,6,6,0,3,1,0,0,0,0,2,4,0,0.3333333333333333,France,-74.1143091,40.6687141
+159,Jean,Castets,1900-09-07,FALSE,Le Boucau,FALSE,Lock,Wales v France,Swansea,1923-02-24,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,France,-1.4858579,43.523153
+160,Jean,Etcheberry,1901-08-27,FALSE,Le Boucau,FALSE,"Prop, Flanker, No. 8",Wales v France,Swansea,1923-02-24,16,16,0,3,1,0,0,0,0,3,13,0,0.1875,France,-1.4858579,43.523153
+161,Charles,Lacazedieu,1901-03-04,FALSE,Dax,FALSE,"Fly-half, Scrum-half",Wales v France,Swansea,1923-02-24,5,5,0,0,0,0,0,0,0,1,4,0,0.2,France,-80.3212932,25.8510938
+162,Andre,Behoteguy,1900-10-19,FALSE,Bayonne,FALSE,Centre,France v England,Colombes,1923-04-02,19,19,0,28,5,3,1,1,0,6,13,0,0.3157894736842105,France,-74.1143091,40.6687141
+163,Marcel,Loustau,1900-02-10,FALSE,Sarraziet,FALSE,Wing,France v England,Colombes,1923-04-02,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-0.488374,43.702638
+164,Christian,Magnanou,1903-01-15,FALSE,Perigueux,FALSE,Utility back,France v England,Colombes,1923-04-02,10,10,0,4,0,0,0,1,0,2,8,0,0.2,France,0.7211149,45.184029
+165,Rene,Salinie,1897-02-04,FALSE,Toulouse,FALSE,Centre,France v England,Colombes,1923-04-02,1,1,0,0,0,0,0,0,0,0,1,0,0,France,1.444209,43.604652
+166,Georges,Fargues,1892-05-14,FALSE,Dax,FALSE,Flanker,France v Ireland,Colombes,1923-04-14,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-80.3212932,25.8510938
+167,Edmond,Besset,1901-07-14,FALSE,Langeac,FALSE,Fullback,France v Scotland,Paris,1924-01-01,1,1,0,0,0,0,0,0,0,1,0,0,1,France,3.494353,45.098487
+168,Louis,Cluchague,1902-08-20,FALSE,Lons,FALSE,Wing,France v Scotland,Paris,1924-01-01,2,2,0,3,1,0,0,0,0,1,1,0,0.5,France,-73.9613014,40.9729902
+169,Henri,Galau,1897-07-18,FALSE,Villefranche-de-Conf,FALSE,Fly-half,France v Scotland,Paris,1924-01-01,5,5,0,6,2,0,0,0,0,1,4,0,0.2,France,2.366525,42.586754
+170,Louis,Lepatey,1898-08-29,FALSE,Moussan,FALSE,Prop,France v Scotland,Paris,1924-01-01,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,France,2.949082,43.23207499999999
+171,Etienne,Piquiral,1901-06-15,FALSE,Perpignan,FALSE,Back-row,France v Scotland,Paris,1924-01-01,19,19,0,9,3,0,0,0,0,4,15,0,0.21052631578947367,France,2.8948332,42.6886591
+172,Marcel,Besson,1901-03-31,FALSE,Verrieres-en-Forez,FALSE,"Wing, Centre",Ireland v France,Lansdowne Road,1924-01-26,6,6,0,3,1,0,0,0,0,0,6,0,0,France,3.996373,45.571146
+173,Jean,Danion,1902-01-03,FALSE,Bordeaux,FALSE,Prop,Ireland v France,Lansdowne Road,1924-01-26,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-0.57918,44.837789
+174,Laurent,Pardo,1897-11-14,FALSE,Urrugne,FALSE,Fullback,Ireland v France,Lansdowne Road,1924-01-26,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-1.7000983,43.3623097
+175,Eugene,Ribere,1902-06-14,FALSE,Thuir,FALSE,Back-row,Ireland v France,Lansdowne Road,1924-01-26,34,34,0,27,9,0,0,0,0,12,22,0,0.35294117647058826,France,2.756348,42.63243
+176,Jacques,Ballarin,1902-04-11,FALSE,San Nicola,FALSE,"Wing, Centre",England v France,Twickenham,1924-02-23,3,3,0,3,1,0,0,0,0,0,3,0,0,France,-75.49458,40.041208
+177,Francois,Clauzel,1900-03-19,FALSE,Coursan,FALSE,Flanker,England v France,Twickenham,1924-02-23,3,3,0,0,0,0,0,0,0,0,3,0,0,France,3.058467,43.2342
+178,Alex,Bioussa,1901-03-17,FALSE,Toulouse,FALSE,Flanker,France v Wales,Colombes,1924-03-27,21,21,0,9,3,0,0,0,0,5,16,0,0.23809523809523808,France,1.444209,43.604652
+179,Etienne,Bonnes,1894-09-16,FALSE,Argelliers,FALSE,Fullback,France v Wales,Colombes,1924-03-27,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,France,3.673969,43.697624
+180,Albert,Dupouy,1901-02-21,FALSE,Carignan,FALSE,Centre,France v Wales,Colombes,1924-03-27,2,2,0,6,2,0,0,0,0,1,1,0,0.5,France,-73.3068139,45.45932
+181,Rene,Araou,1902-10-18,FALSE,Narbonne,FALSE,"Prop, Lock",France v Romania,Colombes,1924-05-04,1,1,0,0,0,0,0,0,0,1,0,0,1,France,3.003078,43.184277
+182,Gilbert,Gerintes,1902-08-16,FALSE,Saint-Etienne,FALSE,Flanker,France v Romania,Colombes,1924-05-04,3,3,0,9,3,0,0,0,0,1,2,0,0.3333333333333333,France,4.3871779,45.439695
+183,Jean,Vaysse,1900-04-28,FALSE,Carmaux,FALSE,Centre,France v United States of America,Colombes,1924-05-18,2,2,0,0,0,0,0,0,0,0,2,0,0,France,2.16075,44.0500339
+184,Marcel,Baillette,1904-10-12,FALSE,Perpignan,FALSE,"Wing, Centre",France v Ireland,Colombes,1925-01-01,17,17,0,13,3,0,0,1,0,7,10,0,0.4117647058823529,France,2.8948332,42.6886591
+185,Yves ,du Manoir,1904-08-11,FALSE,Vaucresson,FALSE,Fly-half,France v Ireland,Colombes,1925-01-01,8,8,0,4,0,0,0,1,0,0,8,0,0,France,2.1624469,48.84388999999999
+186,Jean,Marcet,1896-01-01,TRUE,Not Available,FALSE,Hooker,France v Ireland,Colombes,1925-01-01,7,7,0,0,0,0,0,0,0,0,7,0,0,France,-122.2636808,37.8009514
+187,Andre,Maury,1898-05-31,FALSE,Agen,FALSE,Prop,France v Ireland,Colombes,1925-01-01,8,8,0,0,0,0,0,0,0,0,8,0,0,France,-94.6039222,39.0957618
+188,Camille,Montade,1901-04-01,FALSE,Villenueve-de-la-Rah,FALSE,"Prop, Lock",France v Ireland,Colombes,1925-01-01,5,5,0,0,0,0,0,0,0,0,5,0,0,France,2.9051132,42.6293298
+189,Rene,Halet,1899-03-17,FALSE,Le Mans,FALSE,Wing,France v New Zealand,Toulouse,1925-01-18,3,3,0,0,0,0,0,0,0,0,3,0,0,France,0.199556,48.00611000000001
+190,Auguste,Laurent,1901-04-18,FALSE,Anglet,FALSE,Lock,France v New Zealand,Toulouse,1925-01-18,5,5,0,0,0,0,0,0,0,0,5,0,0,France,-1.514699,43.481402
+191,Jean,Ducousso,1900-05-12,FALSE,Tarbes,FALSE,Fullback,Scotland v France,Inverleith,1925-01-24,3,3,0,4,0,2,0,0,0,0,3,0,0,France,0.078082,43.23295100000001
+192,Francois,Raymond,1902-01-08,FALSE,Beziers,FALSE,Wing,Scotland v France,Inverleith,1925-01-24,3,3,0,0,0,0,0,0,0,0,3,0,0,France,3.215795,43.344233
+193,Fernand,Barthe,1898-12-12,FALSE,Saint-Macaire,FALSE,Flanker,Wales v France,Cardiff,1925-02-28,2,2,0,3,1,0,0,0,0,0,2,0,0,France,-0.226334,44.565289
+194,Adolphe,Bringeon,1898-01-23,FALSE,Saint-Jean-de-Luz,FALSE,Wing,Wales v France,Cardiff,1925-02-28,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-1.663055,43.388051
+195,Robert,Levasseur,1898-01-27,FALSE,Paris,FALSE,Lock,Wales v France,Cardiff,1925-02-28,2,2,0,0,0,0,0,0,0,0,2,0,0,France,2.3522219,48.856614
+196,Leon,Chapuy,1902-01-01,TRUE,Not Available,FALSE,Centre,France v Scotland,Colombes,1926-01-02,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-122.2636808,37.8009514
+197,Louis,Destarac,1902-09-01,FALSE,Tarbes,FALSE,Fullback,France v Scotland,Colombes,1926-01-02,9,9,0,10,0,5,0,0,0,2,7,0,0.2222222222222222,France,0.078082,43.23295100000001
+198,Roger,Llari,1903-04-05,FALSE,Saint-Gaudens,FALSE,"Scrum-half, Halfback",France v Scotland,Colombes,1926-01-02,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-72.3687458,43.5010949
+199,Alphonse,Puig,1901-04-03,FALSE,Terrats,FALSE,Lock,France v Scotland,Colombes,1926-01-02,2,2,0,0,0,0,0,0,0,0,2,0,0,France,2.770879,42.607793
+200,Bernard,Berges,1900-02-01,FALSE,Vic-Bigorre,FALSE,Scrum-half,Ireland v France,Belfast,1926-01-23,1,1,0,0,0,0,0,0,0,0,1,0,0,France,0.054424,43.386016
+201,Clement,Dulaurens,1902-07-17,FALSE,Castelan-Magnoac,FALSE,Wing,Ireland v France,Belfast,1926-01-23,3,3,0,0,0,0,0,0,0,0,3,0,0,France,0.506286,43.29401499999999
+202,Rene,Graciet,1904-07-24,FALSE,Bayonne,FALSE,"Centre, Fly-half",Ireland v France,Belfast,1926-01-23,6,6,0,3,1,0,0,0,0,1,5,0,0.16666666666666666,France,-74.1143091,40.6687141
+203,Vincent,Graule,1904-01-22,FALSE,Perpignan,FALSE,"Centre, Fly-half",Ireland v France,Belfast,1926-01-23,6,6,0,0,0,0,0,0,0,1,5,0,0.16666666666666666,France,2.8948332,42.6886591
+204,Jean,Revillon,1899-01-01,TRUE,Paris,FALSE,Wing,Ireland v France,Belfast,1926-01-23,3,3,0,0,0,0,0,0,0,0,3,0,0,France,2.3522219,48.856614
+205,Honore,Laffont,1901-10-06,FALSE,Argein,FALSE,Scrum-half,France v Wales,Colombes,1926-04-05,1,1,0,0,0,0,0,0,0,0,1,0,0,France,0.992779,42.931117
+206,Joseph,Sayrou,1898-08-12,FALSE,Toulouges,FALSE,Prop,France v Wales,Colombes,1926-04-05,9,9,0,0,0,0,0,0,0,3,6,0,0.3333333333333333,France,2.83075,42.670843
+207,Edouard,Bader,1899-07-26,FALSE,Ferrieres-en-Brie,FALSE,Scrum-half,France v New Zealand Maori,Colombes,1926-12-26,3,3,0,0,0,0,0,0,0,0,3,0,0,France,2.7047469,48.8215519
+208,Rene,Bousquet,1903-03-19,FALSE,Villeneuve-les-Bezie,FALSE,"Prop, Lock",France v New Zealand Maori,Colombes,1926-12-26,9,9,0,3,1,0,0,0,0,2,7,0,0.2222222222222222,France,3.2796365,43.3206367
+209,Alfred,Prevost,1894-05-05,FALSE,Saint-Girons,FALSE,Back-row,France v New Zealand Maori,Colombes,1926-12-26,4,4,0,3,1,0,0,0,0,0,4,0,0,France,1.146088,42.982876
+210,Joseph,Sourgens,1903-09-03,FALSE,Ychoux,FALSE,Fly-half,France v New Zealand Maori,Colombes,1926-12-26,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-0.9455446000000001,44.3272956
+211,Ernest,Vila,1898-07-07,FALSE,Auch,FALSE,Wing,France v New Zealand Maori,Colombes,1926-12-26,1,1,0,0,0,0,0,0,0,0,1,0,0,France,0.5867089999999999,43.64638
+212,Robert,Hutin,1903-09-23,FALSE,Paris,FALSE,Prop,France v Ireland,Colombes,1927-01-01,3,3,0,3,1,0,0,0,0,0,3,0,0,France,2.3522219,48.856614
+213,Maixent,Piquemal,1907-02-18,FALSE,Bordeaux,FALSE,Fullback,France v Ireland,Colombes,1927-01-01,9,9,0,0,0,0,0,0,0,4,5,0,0.4444444444444444,France,-0.57918,44.837789
+214,Edmond,Vellat,1897-02-14,FALSE,Chambery,FALSE,Wing,France v Ireland,Colombes,1927-01-01,5,5,0,15,5,0,0,0,0,2,3,0,0.4,France,5.917781,45.564601
+215,Robert,Houdet,1905-01-12,FALSE,Paris,FALSE,Wing,Scotland v France,Murrayfield,1927-01-22,10,10,0,21,7,0,0,0,0,4,6,0,0.4,France,2.3522219,48.856614
+216,Jean,Carbonne,1902-11-06,FALSE,Sorede,FALSE,Scrum-half,Wales v France,Swansea,1927-02-26,1,1,0,0,0,0,0,0,0,0,1,0,0,France,2.955812,42.530948
+217,Andre,Verger,1906-05-28,FALSE,Limoges,FALSE,Fly-half,Wales v France,Swansea,1927-02-26,7,7,0,8,0,2,0,1,0,4,3,0,0.5714285714285714,France,1.261105,45.83361900000001
+218,Albert,Cazenave,1902-03-07,FALSE,Nay,FALSE,Back-row,France v England,Colombes,1927-04-02,5,5,0,3,1,0,0,0,0,3,2,0,0.6,France,-88.0746199,41.9025695
+219,Jean,Galia,1905-03-20,FALSE,Ille-sur-Tet,FALSE,"Lock, No. 8",France v England,Colombes,1927-04-02,20,20,0,9,3,0,0,0,0,9,11,0,0.45,France,2.62125,42.670989
+220,Georges,Gerald,1904-03-17,FALSE,Aixe-sur-Vienne,FALSE,"Wing, Centre",France v England,Colombes,1927-04-02,17,17,0,4,0,0,0,1,0,8,9,0,0.47058823529411764,France,1.134253,45.795444
+221,Andre,Loury,1900-05-11,FALSE,Paris,FALSE,Prop,France v England,Colombes,1927-04-02,6,6,0,0,0,0,0,0,0,2,4,0,0.3333333333333333,France,2.3522219,48.856614
+222,Jean,Morere,1902-05-08,FALSE,Castelnau-Magnoac,FALSE,Prop,France v England,Colombes,1927-04-02,4,4,0,0,0,0,0,0,0,2,2,0,0.5,France,0.506286,43.29401499999999
+223,Fernand,Camicas,1899-05-07,FALSE,Tarbes,FALSE,Hooker,Germany v France,Frankfurt,1927-05-15,10,10,0,0,0,0,0,0,0,2,8,0,0.2,France,0.078082,43.23295100000001
+224,Paul,Descamps,1903-04-28,FALSE,Leon,FALSE,No. 8,Germany v France,Frankfurt,1927-05-15,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-96.7822508,37.6902964
+225,Maurice,Larrieux,1899-04-18,FALSE,La Teste,FALSE,Lock,Germany v France,Frankfurt,1927-05-15,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-1.148224,44.631077
+226,Gerald,Branca,1903-12-29,FALSE,Badens,FALSE,Back-row,France v Scotland,Colombes,1928-01-02,3,3,0,0,0,0,0,0,0,0,3,0,0,France,9.3501336,48.6616037
+227,Andre,Camel,1905-01-09,FALSE,Toulouse,FALSE,Lock,France v Scotland,Colombes,1928-01-02,16,16,0,6,2,0,0,0,0,7,9,0,0.4375,France,1.444209,43.604652
+228,Edouard,Coulon,1902-10-11,FALSE,Beziers,FALSE,Centre,France v Scotland,Colombes,1928-01-02,1,1,0,0,0,0,0,0,0,0,1,0,0,France,3.215795,43.344233
+229,Georges,Daudignon,1905-10-24,FALSE,Le Boucau,FALSE,Scrum-half,France v Scotland,Colombes,1928-01-02,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-1.4858579,43.523153
+230,Henri,Haget,1905-10-13,FALSE,Biarritz,FALSE,"Centre, Fly-half",France v Scotland,Colombes,1928-01-02,2,2,0,6,1,0,1,0,0,1,1,0,0.5,France,-1.558626,43.4831519
+231,Louis,Magnol,1904-10-29,FALSE,Foix,FALSE,Fullback,France v Scotland,Colombes,1928-01-02,4,4,0,0,0,0,0,0,0,0,4,0,0,France,1.605232,42.964127
+232,Raoul,Bonamy,1905-12-13,FALSE,Saint-Jean-d'Angely,FALSE,Flanker,France v Australia,Colombes,1928-01-22,2,2,0,3,1,0,0,0,0,0,2,0,0,France,-0.517763,45.944823
+233,Louis,Pellissier,1906-02-22,FALSE,San Fernando,FALSE,Fullback,France v Australia,Colombes,1928-01-22,5,5,0,0,0,0,0,0,0,2,3,0,0.4,France,-118.4389719,34.2819461
+234,Georges,Vaills,1903-12-06,FALSE,Palau-del-Vidre,FALSE,Hooker,France v Australia,Colombes,1928-01-22,2,2,0,0,0,0,0,0,0,1,1,0,0.5,France,2.960707,42.571929
+235,Jean,Duhau,1906-05-01,FALSE,Ondres,FALSE,"Prop, Hooker, Lock, Flanker",Ireland v France,Belfast,1928-01-28,7,7,0,14,1,4,1,0,0,4,3,0,0.5714285714285714,France,-1.448208,43.561101
+236,Jean,Jardel,1906-02-24,FALSE,Vitrac,FALSE,Wing,Ireland v France,Belfast,1928-01-28,2,2,0,0,0,0,0,0,0,0,2,0,0,France,1.225166,44.83210099999999
+237,Henri,Lacaze,1898-04-11,FALSE,Laroquebrou,FALSE,"Prop, Lock",Ireland v France,Belfast,1928-01-28,5,5,0,0,0,0,0,0,0,2,3,0,0.4,France,2.188877,44.968108
+238,Jules,Hauc,1905-05-20,FALSE,Maureilhan,FALSE,"Prop, Lock",England v France,Twickenham,1928-02-25,5,5,0,6,2,0,0,0,0,2,3,0,0.4,France,3.119836,43.358381
+239,Lucien,Serin,1902-11-08,FALSE,Antignac,FALSE,Scrum-half,England v France,Twickenham,1928-02-25,12,12,0,3,1,0,0,0,0,6,6,0,0.5,France,2.541849,45.340944
+240,Richard,Majerus,1905-06-10,FALSE,Paris,FALSE,"Prop, Lock",France v Wales,Colombes,1928-04-09,8,8,0,6,2,0,0,0,0,4,4,0,0.5,France,2.3522219,48.856614
+241,Georges,Caussarieu,1906-07-04,FALSE,Hendaye,FALSE,Centre,France v Ireland,Colombes,1928-12-31,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-1.766148,43.359399
+242,Robert,Sarrade,1904-02-19,FALSE,Aire-sur-l'Adour,FALSE,Fly-half,France v Ireland,Colombes,1928-12-31,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-0.262294,43.700062
+243,Joseph,Auge,1904-03-19,FALSE,Dax,FALSE,No. 8,Scotland v France,Murrayfield,1929-01-19,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-80.3212932,25.8510938
+244,Marcel,Camel,1903-07-27,FALSE,Toulouse,FALSE,Back-row,Wales v France,Cardiff,1929-02-23,2,2,0,3,1,0,0,0,0,0,2,0,0,France,1.444209,43.604652
+245,Albert,Domec,1901-10-07,FALSE,Saint-Pee-de-Bigorre,FALSE,Wing,Wales v France,Cardiff,1929-02-23,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-0.1589299,43.104138
+246,Paul,Barrere,1905-10-09,FALSE,Elne,FALSE,Lock,France v Germany,Colombes,1929-04-28,2,2,0,0,0,0,0,0,0,1,1,0,0.5,France,2.970433,42.600336
+247,Andre,Clady,1905-03-31,FALSE,Lezignan,FALSE,"Lock, Flanker",France v Germany,Colombes,1929-04-28,5,5,0,8,2,1,0,0,0,4,1,0,0.8,France,2.7577759,43.200503
+248,Amedee,Cutzach,1904-06-04,FALSE,Trouillas,FALSE,Fly-half,France v Germany,Colombes,1929-04-28,1,1,0,0,0,0,0,0,0,1,0,0,1,France,2.808703,42.609815
+249,Andre,Duche,1907-03-13,FALSE,Limoges,FALSE,Wing,France v Germany,Colombes,1929-04-28,1,1,0,9,1,3,0,0,0,1,0,0,1,France,1.261105,45.83361900000001
+250,Marcel,Soler,1905-04-22,FALSE,Thuir,FALSE,Wing,France v Germany,Colombes,1929-04-28,1,1,0,6,2,0,0,0,0,1,0,0,1,France,2.756348,42.63243
+251,Albert,Ambert,1902-03-15,FALSE,Beziers,FALSE,"Prop, Hooker",France v Scotland,Colombes,1930-01-01,5,5,0,11,1,4,0,0,0,3,2,0,0.6,France,3.215795,43.344233
+252,Charles,Bigot,1906-02-04,FALSE,Lezignan,FALSE,"Hooker, Flanker",France v Scotland,Colombes,1930-01-01,4,4,0,0,0,0,0,0,0,2,2,0,0.5,France,2.7577759,43.200503
+253,Joseph,Choy,1905-08-19,FALSE,Homps,FALSE,"Prop, Lock",France v Scotland,Colombes,1930-01-01,10,10,0,3,1,0,0,0,0,8,2,0,0.8,France,2.720717,43.266118
+254,Robert,Samatan,1909-04-16,FALSE,Toulouse,FALSE,Wing,France v Scotland,Colombes,1930-01-01,10,10,0,9,3,0,0,0,0,6,4,0,0.6,France,1.444209,43.604652
+255,Fernand,Taillantou,1905-02-17,FALSE,Pau,FALSE,Wing,Ireland v France,Belfast,1930-01-25,3,3,0,9,3,0,0,0,0,2,1,0,0.6666666666666666,France,-0.370797,43.2951
+256,Leopold,Fabre,1907-02-06,FALSE,Toulouse,FALSE,"Prop, Hooker",Germany v France,Berlin,1930-04-06,1,1,0,0,0,0,0,0,0,1,0,0,1,France,1.444209,43.604652
+257,Lucien,Augras-Fabre,1912-08-13,FALSE,La Chatre,FALSE,Wing,France v Ireland,Colombes,1931-01-01,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,France,1.986165,46.581832
+258,Ernest,Camo,1902-05-29,FALSE,Saint-Feliu d'Avall,FALSE,"Lock, Flanker, No. 8",France v Ireland,Colombes,1931-01-01,6,6,0,0,0,0,0,0,0,4,2,0,0.6666666666666666,France,2.738007,42.681677
+259,Maurice,Porra,1906-05-17,FALSE,Perpignan,FALSE,Hooker,France v Ireland,Colombes,1931-01-01,1,1,0,0,0,0,0,0,0,1,0,0,1,France,2.8948332,42.6886591
+260,Marius,Rodrigo,1908-03-16,FALSE,Mauleon,FALSE,"Prop, Lock",France v Ireland,Colombes,1931-01-01,2,2,0,0,0,0,0,0,0,1,1,0,0.5,France,-0.8895000000000001,43.220131
+261,Maurice,Savy,1906-09-22,FALSE,Clermont-Ferrand,FALSE,"Fullback, Centre",France v Ireland,Colombes,1931-01-01,5,5,0,0,0,0,0,0,0,3,2,0,0.6,France,3.087025,45.77722199999999
+262,Leopold,Servole,1906-09-22,FALSE,Saint-Andre-de-Roque,FALSE,Fly-half,France v Ireland,Colombes,1931-01-01,7,7,0,4,0,0,0,1,0,5,2,0,0.7142857142857143,France,NA,NA
+263,Antoine,Duclos,1900-02-05,FALSE,Juillan,FALSE,Prop,Scotland v France,Murrayfield,1931-01-24,1,1,0,0,0,0,0,0,0,0,1,0,0,France,0.022854,43.2020539
+264,Max,Rousie,1912-07-18,FALSE,Marmande,FALSE,"Scrum-half, Halfback",Scotland v France,Murrayfield,1931-01-24,4,4,0,9,2,0,1,0,0,3,1,0,0.75,France,0.159869,44.500484
+265,Robert,Scohy,1909-04-28,FALSE,Tunis,FALSE,"Prop, Hooker",Scotland v France,Murrayfield,1931-01-24,4,4,0,3,1,0,0,0,0,2,2,0,0.5,France,10.1815316,36.8064948
+266,Georges,Clement,1902-05-17,FALSE,Saigon,FALSE,Centre,Wales v France,Swansea,1931-02-28,1,1,0,0,0,0,0,0,0,0,1,0,0,France,106.6296638,10.8230989
+267,Charles,Petit,1903-01-06,FALSE,Saint-Ouen,FALSE,Lock,Wales v France,Swansea,1931-02-28,1,1,0,3,1,0,0,0,0,0,1,0,0,France,2.333764,48.911856
+268,Max,Vigerie,1906-11-28,FALSE,Villereal,FALSE,Centre,Wales v France,Swansea,1931-02-28,1,1,0,0,0,0,0,0,0,0,1,0,0,France,0.7426229999999999,44.6370239
+269,Henri,Empereur-Buisson,1904-08-04,FALSE,Beziers,FALSE,Prop,France v England,Colombes,1931-04-06,2,2,0,0,0,0,0,0,0,2,0,0,1,France,3.215795,43.344233
+270,Pierre,Guelorget,1906-03-10,FALSE,Parthenay,FALSE,Wing,France v England,Colombes,1931-04-06,2,2,0,6,2,0,0,0,0,2,0,0,1,France,-0.251441,46.648825
+271,Rene,Namur,1909-12-12,FALSE,Montauban,FALSE,Hooker,France v England,Colombes,1931-04-06,2,2,0,0,0,0,0,0,0,2,0,0,1,France,1.3529599,44.0221252
+272,Roger,Triviaux,1902-08-10,FALSE,Cognac,FALSE,Flanker,France v England,Colombes,1931-04-06,2,2,0,0,0,0,0,0,0,2,0,0,1,France,-79.6097716,34.9562668
+273,Marius,Guiral,1904-12-16,FALSE,Condom,FALSE,Fullback,France v Germany,Colombes,1931-04-19,3,3,0,8,0,4,0,0,0,3,0,0,1,France,-75.1503859,39.94192899999999
+274,Antonin,Barbazanges,1907-04-15,FALSE,Toulouse,FALSE,Fly-half,Germany v France,Frankfurt,1932-04-17,2,2,0,0,0,0,0,0,0,2,0,0,1,France,1.444209,43.604652
+275,Eugene,Chaud,1906-03-02,FALSE,Roanne,FALSE,"Fullback, Wing",Germany v France,Frankfurt,1932-04-17,3,3,0,16,1,5,1,0,0,3,0,0,1,France,4.072695,46.034432
+276,Roger,Claudel,1911-04-10,FALSE,Chartres,FALSE,Flanker,Germany v France,Frankfurt,1932-04-17,2,2,0,0,0,0,0,0,0,2,0,0,1,France,1.489012,48.44385399999999
+277,Jean,Coderc,1909-08-10,FALSE,Espira-de-Algy,FALSE,Centre,Germany v France,Frankfurt,1932-04-17,5,5,0,6,2,0,0,0,0,5,0,0,1,France,2.836801,42.778159
+278,Lucien,Cognet,1909-05-22,FALSE,Vichy,FALSE,Back-row,Germany v France,Frankfurt,1932-04-17,5,5,0,0,0,0,0,0,0,5,0,0,1,France,3.425488,46.131859
+279,Henri de,Malherbe,1910-02-09,FALSE,Ajaccio,FALSE,Back-row,Germany v France,Frankfurt,1932-04-17,2,2,0,6,2,0,0,0,0,2,0,0,1,France,8.738635,41.919229
+280,Rene,Finat,1909-06-15,FALSE,Chalon-sur-Saone,FALSE,Wing,Germany v France,Frankfurt,1932-04-17,2,2,0,15,5,0,0,0,0,2,0,0,1,France,4.853947,46.780764
+281,Joseph,Griffard,1905-11-13,FALSE,Limoges,FALSE,"Prop, Lock",Germany v France,Frankfurt,1932-04-17,3,3,0,0,0,0,0,0,0,3,0,0,1,France,1.261105,45.83361900000001
+282,Marcel,Laurent,1909-04-17,FALSE,Auch,FALSE,"Prop, Hooker",Germany v France,Frankfurt,1932-04-17,5,5,0,0,0,0,0,0,0,5,0,0,1,France,0.5867089999999999,43.64638
+283,Albert,Potel,1903-09-18,FALSE,Oviedo,FALSE,Hooker,Germany v France,Frankfurt,1932-04-17,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-81.20812029999999,28.669997
+284,Edouard,Ainciart,1908-12-21,FALSE,Bayonne,FALSE,Hooker,France v Germany,Parc des Princes,1933-03-26,6,6,0,0,0,0,0,0,0,5,1,0,0.8333333333333334,France,-74.1143091,40.6687141
+285,Jean,Daguerre,1907-09-12,FALSE,Saint-Pierre-et-Miqu,FALSE,Fly-half,France v Germany,Parc des Princes,1933-03-26,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-56.3159,46.8852
+286,Pierre,Escaffre,1911-02-01,FALSE,Narbonne,FALSE,Prop,France v Germany,Parc des Princes,1933-03-26,2,2,0,3,1,0,0,0,0,2,0,0,1,France,3.003078,43.184277
+287,Firmin,Raynaud,1912-04-24,FALSE,Limoux,FALSE,Wing,France v Germany,Parc des Princes,1933-03-26,1,1,0,6,2,0,0,0,0,1,0,0,1,France,2.218142,43.053289
+288,Antoine,Blain,1911-12-24,FALSE,Limoux,FALSE,Flanker,Germany v France,Hanover,1934-03-25,1,1,0,0,0,0,0,0,0,1,0,0,1,France,2.218142,43.053289
+289,Pierre,Cussac,1909-08-21,FALSE,Arcachon,FALSE,Wing,Germany v France,Hanover,1934-03-25,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-1.1785016,44.652297
+290,Joseph,Desclaux,1912-02-01,FALSE,Collioure,FALSE,"Centre, Fly-half",Germany v France,Hanover,1934-03-25,10,10,0,23,3,7,0,0,0,9,1,0,0.9,France,3.084631,42.52675199999999
+291,Andre,Duluc,1911-07-02,FALSE,Castres,FALSE,Wing,Germany v France,Hanover,1934-03-25,1,1,0,3,1,0,0,0,0,1,0,0,1,France,2.241295,43.606214
+292,Louis,Dupont,1910-11-14,FALSE,Bois-Colombes,FALSE,No. 8,Germany v France,Hanover,1934-03-25,6,6,0,0,0,0,0,0,0,6,0,0,1,France,2.269675,48.917402
+293,Francois,Lombard,1906-02-10,FALSE,Narbonne,FALSE,"Scrum-half, Flanker",Germany v France,Hanover,1934-03-25,2,2,0,0,0,0,0,0,0,2,0,0,1,France,3.003078,43.184277
+294,Jean,Blond,1909-04-11,FALSE,Le Treport,FALSE,Flanker,France v Germany,Parc des Princes,1935-03-24,6,6,0,6,2,0,0,0,0,5,1,0,0.8333333333333334,France,1.382472,50.05916999999999
+295,Paul,Boyer,1908-05-19,FALSE,Arthes,FALSE,Scrum-half,France v Germany,Parc des Princes,1935-03-24,1,1,0,0,0,0,0,0,0,1,0,0,1,France,2.209432,43.954714
+296,Maurice,Celhay,1911-05-17,FALSE,Saint-Palais,FALSE,"Wing, Centre",France v Germany,Parc des Princes,1935-03-24,6,6,0,24,8,0,0,0,0,4,2,0,0.6666666666666666,France,-1.032999,43.327408
+297,Jacques,Dorot,1906-11-04,FALSE,Pergamino,FALSE,Lock,France v Germany,Parc des Princes,1935-03-24,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-75.5671227,6.2083135
+298,Francois,Raynal,1904-02-16,FALSE,Saint-Nazaire,FALSE,Flanker,France v Germany,Parc des Princes,1935-03-24,5,5,0,5,1,1,0,0,0,5,0,0,1,France,-2.213848,47.2734979
+299,Armand,Vigneau,1914-07-02,FALSE,Bayonne,FALSE,Wing,France v Germany,Parc des Princes,1935-03-24,1,1,0,3,1,0,0,0,0,1,0,0,1,France,-74.1143091,40.6687141
+300,Francis,Daguerre,1908-10-31,FALSE,Saint-Pierre-et-Miqu,FALSE,Prop,Germany v France,Berlin,1936-05-17,1,1,0,3,1,0,0,0,0,1,0,0,1,France,-56.3159,46.8852
+301,Pierre,Geschwind,1911-03-31,FALSE,Wattrelos,FALSE,Wing,Germany v France,Berlin,1936-05-17,2,2,0,6,2,0,0,0,0,2,0,0,1,France,3.215007,50.70117399999999
+302,Andre,Goyard,1910-06-27,FALSE,Saint-Jean-sur-Veyle,FALSE,"Prop, Lock",Germany v France,Berlin,1936-05-17,7,7,0,3,1,0,0,0,0,6,1,0,0.8571428571428571,France,4.915751,46.258722
+303,Etienne,Ithurra,1905-05-17,FALSE,Bayonne,FALSE,Lock,Germany v France,Berlin,1936-05-17,3,3,0,0,0,0,0,0,0,3,0,0,1,France,-74.1143091,40.6687141
+304,Georges,Libaros,1912-02-29,FALSE,Gers,FALSE,Fly-half,Germany v France,Berlin,1936-05-17,2,2,0,0,0,0,0,0,0,1,1,0,0.5,France,0.4502368,43.6366479
+305,Andre,Rochon,1906-03-29,FALSE,Chastreix,FALSE,"Hooker, Flanker",Germany v France,Berlin,1936-05-17,1,1,0,0,0,0,0,0,0,1,0,0,1,France,2.735682,45.512075
+306,Pierre,Thiers,1914-04-16,FALSE,Thiers,FALSE,"Scrum-half, Flanker",Germany v France,Berlin,1936-05-17,9,9,0,17,0,7,1,0,0,6,3,0,0.6666666666666666,France,3.545177,45.857907
+307,Felix,Bergese,1914-01-11,FALSE,Le Boucau,FALSE,Centre,Germany v France,Hanover,1936-11-01,6,6,0,12,4,0,0,0,0,5,1,0,0.8333333333333334,France,-1.4858579,43.523153
+308,Jean,Clave,1915-03-02,FALSE,Montgaillard,FALSE,Hooker,Germany v France,Hanover,1936-11-01,3,3,0,0,0,0,0,0,0,3,0,0,1,France,0.10872,43.124882
+309,Edmond,Elissalde,1908-01-30,FALSE,Biarritz,FALSE,"Centre, Fly-half",Germany v France,Hanover,1936-11-01,2,2,0,0,0,0,0,0,0,1,1,0,0.5,France,-1.558626,43.4831519
+310,Pierre,Milliand,1913-03-27,FALSE,Alberville,FALSE,Wing,Germany v France,Hanover,1936-11-01,3,3,0,9,3,0,0,0,0,3,0,0,1,France,6.392726,45.675535000000004
+311,Frantz,Sahuc,1910-11-13,FALSE,Marsoulas,FALSE,Fullback,Germany v France,Hanover,1936-11-01,1,1,0,0,0,0,0,0,0,1,0,0,1,France,0.998634,43.106302
+312,David,Aguilar,1905-11-25,FALSE,Pau,FALSE,Lock,France v Germany,Parc des Princes,1937-04-18,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-0.370797,43.2951
+313,Pierre,Daulouede,1909-07-27,FALSE,Labenne,FALSE,Prop,France v Germany,Parc des Princes,1937-04-18,4,4,0,0,0,0,0,0,0,2,2,0,0.5,France,-1.4265688,43.5921633
+314,Gilbert,Lavail,1917-07-12,FALSE,Perpignan,FALSE,Fly-half,France v Germany,Parc des Princes,1937-04-18,2,2,0,0,0,0,0,0,0,1,1,0,0.5,France,2.8948332,42.6886591
+315,Henri,Masse,1908-11-07,FALSE,Loriol,FALSE,Fullback,France v Germany,Parc des Princes,1937-04-18,1,1,0,0,0,0,0,0,0,1,0,0,1,France,4.822375,44.751895
+316,Michel,Bonnus,1915-03-23,FALSE,Toulon,FALSE,Fullback,France v Italy,Parc des Princes,1937-10-17,5,5,0,4,0,0,0,1,0,3,2,0,0.6,France,5.928,43.124228
+317,Antonin,Delque,1911-07-07,FALSE,Castelbiague,FALSE,Lock,France v Italy,Parc des Princes,1937-10-17,4,4,0,6,2,0,0,0,0,3,1,0,0.75,France,0.9233070000000001,43.035583
+318,Marcel,Deygas,1908-08-28,FALSE,Ardoix,FALSE,Centre,France v Italy,Parc des Princes,1937-10-17,1,1,0,0,0,0,0,0,0,1,0,0,1,France,4.734891,45.186102
+319,Emile,Fabre,1916-04-09,FALSE,Toulouse,FALSE,Lock,France v Italy,Parc des Princes,1937-10-17,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,France,1.444209,43.604652
+320,Robert,Cals,1913-03-19,FALSE,Pezens,FALSE,Wing,Germany v France,Frankfurt,1938-03-27,1,1,0,0,0,0,0,0,0,0,1,0,0,France,2.26632,43.254666
+321,Jean,Chassagne,1914-05-07,FALSE,Aveze,FALSE,Fly-half,Germany v France,Frankfurt,1938-03-27,1,1,0,0,0,0,0,0,0,0,1,0,0,France,3.600668,43.970568
+322,Henri,Clarac,1912-10-13,FALSE,Saint-Girons,FALSE,Flanker,Germany v France,Frankfurt,1938-03-27,1,1,0,0,0,0,0,0,0,0,1,0,0,France,1.146088,42.982876
+323,Jean-Baptiste,Lefort,1908-02-22,FALSE,Biarritz,FALSE,No. 8,Germany v France,Frankfurt,1938-03-27,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-1.558626,43.4831519
+324,Rene,Arotca,1914-02-28,FALSE,Bayonne,FALSE,Flanker,Romania v France,Bucharest,1938-05-15,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-74.1143091,40.6687141
+325,Robert,Caunegre,1913-01-30,FALSE,Bordeaux,FALSE,Wing,Romania v France,Bucharest,1938-05-15,2,2,0,6,2,0,0,0,0,2,0,0,1,France,-0.57918,44.837789
+326,Emile,Doussau,1909-03-07,FALSE,Charmant,FALSE,Prop,Romania v France,Bucharest,1938-05-15,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-74.47507999999999,40.824866
+327,Raymond le,Goff,1913-07-04,FALSE,Paris,FALSE,Wing,Romania v France,Bucharest,1938-05-15,2,2,0,3,1,0,0,0,0,2,0,0,1,France,2.3522219,48.856614
+328,Rene,Lombarteix,1913-02-22,FALSE,Clermont-Ferrand,FALSE,"Prop, Lock",Romania v France,Bucharest,1938-05-15,2,2,0,0,0,0,0,0,0,2,0,0,1,France,3.087025,45.77722199999999
+329,Andre,Rapin,1911-04-18,FALSE,Bordeaux,FALSE,Centre,Romania v France,Bucharest,1938-05-15,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-0.57918,44.837789
+330,Guy,Vassal,1914-11-12,FALSE,Carcassonne,FALSE,"Fly-half, Scrum-half",Romania v France,Bucharest,1938-05-15,2,2,0,0,0,0,0,0,0,2,0,0,1,France,2.3517703,43.2132151
+331,Jacques,Palat,1915-05-25,FALSE,Saint-Cyprien,FALSE,Flanker,France v Germany,Bucharest,1938-05-22,1,1,0,0,0,0,0,0,0,1,0,0,1,France,3.004182,42.61783
+332,Pierre,Charton,1913-12-13,FALSE,Saint-Maur-des-Fosse,FALSE,No. 8,France v British Army,Parc des Princes,1940-02-25,1,1,0,0,0,0,0,0,0,0,1,0,0,France,2.485429,48.8029439
+333,Joseph,Dutrey,1914-09-17,FALSE,Puan,FALSE,Lock,France v British Army,Parc des Princes,1940-02-25,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-117.9042308,33.9880816
+334,Lucien,Ferrand,1909-01-04,FALSE,Le Creusot,FALSE,Flanker,France v British Army,Parc des Princes,1940-02-25,1,1,0,0,0,0,0,0,0,0,1,0,0,France,4.4278,46.80535099999999
+335,Francois,Meret,1914-05-08,FALSE,Pontacq,FALSE,Prop,France v British Army,Parc des Princes,1940-02-25,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-0.108925,43.183708
+336,Roger,Paul,1911-06-15,FALSE,Sauxillanges,FALSE,Hooker,France v British Army,Parc des Princes,1940-02-25,1,1,0,0,0,0,0,0,0,0,1,0,0,France,3.371821,45.550965
+337,Henri,Peyralade,1917-12-30,FALSE,Borderes-sur-l'Echez,FALSE,Scrum-half,France v British Army,Parc des Princes,1940-02-25,1,1,0,0,0,0,0,0,0,0,1,0,0,France,0.050739,43.258786
+338,Robert,Tourte,1914-07-31,FALSE,Saint-Girons,FALSE,Wing,France v British Army,Parc des Princes,1940-02-25,1,1,0,0,0,0,0,0,0,0,1,0,0,France,1.146088,42.982876
+339,Marcel,Tucoo-Chala,1916-05-19,FALSE,Pau,FALSE,Lock,France v British Army,Parc des Princes,1940-02-25,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-0.370797,43.2951
+340,Georges,Baladie,1917-05-20,FALSE,Ville-d'Avray,FALSE,"Wing, Centre",France v British Army,Parc des Princes,1945-01-01,6,6,0,9,3,0,0,0,0,3,3,0,0.5,France,2.1886944,48.8270042
+341,Yves,Bergougnan,1924-05-08,FALSE,Toulouse,FALSE,Scrum-half,France v British Army,Parc des Princes,1945-01-01,17,17,0,12,0,0,0,3,0,10,7,0,0.5882352941176471,France,1.444209,43.604652
+342,Jean,Dauger,1919-11-12,FALSE,Cambo-les-Bains,FALSE,Centre,France v British Army,Parc des Princes,1945-01-01,3,3,0,6,2,0,0,0,0,2,1,0,0.6666666666666666,France,-1.3999053,43.3605565
+343,Robert,Geneste,1921-03-12,FALSE,Angouleme,FALSE,Wing,France v British Army,Parc des Princes,1945-01-01,2,2,0,0,0,0,0,0,0,2,0,0,1,France,0.1562369,45.648377
+344,Auguste,Jarasse,1915-02-12,FALSE,Ussel,FALSE,Hooker,France v British Army,Parc des Princes,1945-01-01,1,1,0,0,0,0,0,0,0,1,0,0,1,France,2.313835,45.548905
+345,Louis,Junquas,1920-09-11,FALSE,Saint-Vincent-de-Tyr,FALSE,Centre,France v British Army,Parc des Princes,1945-01-01,13,13,0,0,0,0,0,0,0,7,6,0,0.5384615384615384,France,-1.301187,43.6587109
+346,Jean,Massare,1922-08-29,FALSE,Fontenay-sous-Bois,FALSE,"Prop, Lock",France v British Army,Parc des Princes,1945-01-01,6,6,0,3,1,0,0,0,0,4,2,0,0.6666666666666666,France,2.475907,48.851542
+347,Roger,Minjat,1920-08-03,FALSE,Venissieux,FALSE,Fullback,France v British Army,Parc des Princes,1945-01-01,1,1,0,0,0,0,0,0,0,1,0,0,1,France,4.8844649,45.699594
+348,Alban,Moga,1923-05-01,FALSE,Bordeaux,FALSE,Lock,France v British Army,Parc des Princes,1945-01-01,22,22,0,0,0,0,0,0,0,13,9,0,0.5909090909090909,France,-0.57918,44.837789
+349,Jean,Prat,1923-08-01,FALSE,Lourdes,FALSE,Flanker,France v British Army,Parc des Princes,1945-01-01,51,51,0,144,9,27,15,6,0,30,20,1,0.5882352941176471,France,-0.045726,43.091463
+350,Jean,Prin-Clary,1912-07-15,FALSE,Marseille,FALSE,"Prop, Lock",France v British Army,Parc des Princes,1945-01-01,10,10,0,3,1,0,0,0,0,6,4,0,0.6,France,5.36978,43.296482
+351,Andre,Sahuc,1914-08-04,FALSE,Castelnau-Montratier,FALSE,No. 8,France v British Army,Parc des Princes,1945-01-01,2,2,0,3,1,0,0,0,0,1,1,0,0.5,France,1.35337,44.26764
+352,Robert,Soro,1922-11-28,FALSE,Odos,FALSE,Lock,France v British Army,Parc des Princes,1945-01-01,21,21,0,6,2,0,0,0,0,12,9,0,0.5714285714285714,France,-81.52556249999999,30.2576189
+353,Andre,Alvarez,1923-05-26,FALSE,Bayonne,FALSE,"Fullback, Fly-half",British Empire Forces v France,Richmond,1945-04-28,20,20,0,25,1,6,1,2,0,13,7,0,0.65,France,-74.1143091,40.6687141
+354,Jacques,Chaban-Delmas,1915-03-07,FALSE,Paris,FALSE,Wing,British Empire Forces v France,Richmond,1945-04-28,1,1,0,0,0,0,0,0,0,0,1,0,0,France,2.3522219,48.856614
+355,Gaston,Combes,1920-02-29,FALSE,Toulouse,FALSE,Scrum-half,British Empire Forces v France,Richmond,1945-04-28,1,1,0,0,0,0,0,0,0,0,1,0,0,France,1.444209,43.604652
+356,Lucien,Rouffia,1924-01-06,FALSE,Narbonne,FALSE,Fullback,British Empire Forces v France,Richmond,1945-04-28,4,4,0,0,0,0,0,0,0,1,3,0,0.25,France,3.003078,43.184277
+357,Jean,Vilagra,1918-06-21,FALSE,Saint-Etienne,FALSE,Hooker,British Empire Forces v France,Richmond,1945-04-28,1,1,0,0,0,0,0,0,0,0,1,0,0,France,4.3871779,45.439695
+358,Guy,Basquet,1921-07-13,FALSE,Layrac,FALSE,Back-row,Wales XV v France,Swansea,1945-12-22,33,33,0,24,8,0,0,0,0,17,15,1,0.5151515151515151,France,0.660689,44.134673
+359,Henri,Dutrain,1922-07-03,FALSE,Toulouse,FALSE,"Wing, Centre",Wales XV v France,Swansea,1945-12-22,8,8,0,0,0,0,0,0,0,5,3,0,0.625,France,1.444209,43.604652
+360,Jean,Matheu-Cambas,1920-06-23,FALSE,Gelos,FALSE,Flanker,Wales XV v France,Swansea,1945-12-22,24,24,0,3,1,0,0,0,0,14,10,0,0.5833333333333334,France,-106.0937424,28.6456756
+361,Elie,Pebeyre,1923-01-27,FALSE,Seilhac,FALSE,Wing,Wales XV v France,Swansea,1945-12-22,8,8,0,3,1,0,0,0,0,4,4,0,0.5,France,1.714244,45.367612
+362,Maurice,Terreau,1923-01-30,FALSE,Bourg-en-Bresse,FALSE,"Centre, Fly-half",Wales XV v France,Swansea,1945-12-22,17,17,0,15,5,0,0,0,0,11,6,0,0.6470588235294118,France,5.2255007000000004,46.20516749999999
+363,Marcel,Volot,1917-06-27,FALSE,Gonfreville l'Orcher,FALSE,Hooker,Wales XV v France,Swansea,1945-12-22,5,5,0,0,0,0,0,0,0,3,2,0,0.6,France,0.233079,49.502579
+364,Albert,Kaempf,1921-03-30,FALSE,Itxassou,FALSE,Wing,France v British Empire Services,Parc des Princes,1946-01-01,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-1.406347,43.329845
+365,Eugene,Buzy,1917-02-13,FALSE,Benejacq,FALSE,"Prop, Lock",France v Kiwis,Colombes,1946-03-10,17,17,0,0,0,0,0,0,0,10,7,0,0.5882352941176471,France,-0.212854,43.191936
+366,Michel,Sorondo,1919-07-16,FALSE,Hendaye,FALSE,"Fullback, Centre",France v Kiwis,Colombes,1946-03-10,6,6,0,3,1,0,0,0,0,2,4,0,0.3333333333333333,France,-1.766148,43.359399
+367,Jean,Lassegue,1924-02-15,FALSE,Rieumes,FALSE,Wing,France v Wales XV,Colombes,1946-04-22,9,9,0,15,5,0,0,0,0,7,2,0,0.7777777777777778,France,1.1175788,43.4121122
+368,Marcel,Jol,1923-03-16,FALSE,Biarritz,FALSE,Hooker,France v Scotland,Colombes,1947-01-01,10,10,0,0,0,0,0,0,0,6,4,0,0.6,France,-1.558626,43.4831519
+369,Lucien,Caron,1916-12-13,FALSE,Lyon,FALSE,Prop,England v France,Twickenham,1947-04-19,10,10,0,3,1,0,0,0,0,6,4,0,0.6,France,4.835659,45.764043
+370,Gerard,Dufau,1924-08-27,FALSE,Dax,FALSE,Scrum-half,France v Ireland,Colombes,1948-01-01,38,38,0,6,2,0,0,0,0,21,17,0,0.5526315789473685,France,-80.3212932,25.8510938
+371,Pierre,Jeanjean,1924-02-03,FALSE,Port Vendres,FALSE,Wing,France v Ireland,Colombes,1948-01-01,1,1,0,0,0,0,0,0,0,0,1,0,0,France,3.106592,42.518487
+372,Lucien,Martin,1920-09-28,FALSE,Pau,FALSE,Hooker,France v Ireland,Colombes,1948-01-01,6,6,0,0,0,0,0,0,0,3,3,0,0.5,France,-0.370797,43.2951
+373,Michel,Pomathios,1924-03-18,FALSE,Bourg-en-Bresse,FALSE,Wing,France v Ireland,Colombes,1948-01-01,24,24,0,18,6,0,0,0,0,12,11,1,0.5,France,5.2255007000000004,46.20516749999999
+374,Leon,Bordenave,1920-05-11,FALSE,Odos,FALSE,"Centre, Fly-half",France v Australia,Colombes,1948-01-11,5,5,0,0,0,0,0,0,0,3,2,0,0.6,France,-81.52556249999999,30.2576189
+375,Pierre,Dizabo,1929-10-04,FALSE,Saint-Vincent-de-Tyr,FALSE,"Centre, Fly-half",France v Australia,Colombes,1948-01-11,13,13,0,6,1,0,0,1,0,8,4,1,0.6153846153846154,France,-1.301187,43.6587109
+376,Roger,Lacaussade,1922-01-30,FALSE,Captieux,FALSE,Wing,France v Australia,Colombes,1948-01-11,2,2,0,3,1,0,0,0,0,1,1,0,0.5,France,-0.261723,44.291534
+377,Pierre,Aristouy,1920-10-18,FALSE,Arette,FALSE,"Prop, Lock",Scotland v France,Murrayfield,1948-01-24,6,6,0,0,0,0,0,0,0,2,3,1,0.3333333333333333,France,-0.7162200000000001,43.095245
+378,Maurice,Siman,1924-07-12,FALSE,Clermont-Ferrand,FALSE,Wing,France v England,Colombes,1948-03-29,6,6,0,0,0,0,0,0,0,2,3,1,0.3333333333333333,France,3.087025,45.77722199999999
+379,Noel,Baudry,1914-04-01,FALSE,Saint-Exupery-les-Ro,FALSE,Fullback,France v Scotland,Colombes,1949-01-15,5,5,0,0,0,0,0,0,0,4,1,0,0.8,France,2.369577,45.515752
+380,Jean,Pilon,1925-10-14,FALSE,Bayonne,FALSE,Fly-half,England v France,Twickenham,1949-02-26,2,2,0,3,1,0,0,0,0,1,1,0,0.5,France,-74.1143091,40.6687141
+381,Francis,Desclaux,1926-02-09,FALSE,Collioure,FALSE,Centre,Argentina v France,Buenos Aires,1949-08-28,3,3,0,5,0,1,0,1,0,3,0,0,1,France,3.084631,42.52675199999999
+382,Felix,Lacrampe,1924-12-12,FALSE,Lannemezan,FALSE,No. 8,Argentina v France,Buenos Aires,1949-09-04,1,1,0,0,0,0,0,0,0,1,0,0,1,France,0.38396,43.125519
+383,Roger,Arcalis,1927-06-01,FALSE,Tarbes,FALSE,Fullback,Scotland v France,Murrayfield,1950-01-14,5,5,0,0,0,0,0,0,0,2,2,1,0.4,France,0.078082,43.23295100000001
+384,Rene,Bienes,1923-08-02,FALSE,Toulouse,FALSE,"Prop, Flanker",Scotland v France,Murrayfield,1950-01-14,29,29,0,12,4,0,0,0,0,16,12,1,0.5517241379310345,France,1.444209,43.604652
+385,Firmin,Bonnus,1924-08-25,FALSE,Toulon,FALSE,Lock,Scotland v France,Murrayfield,1950-01-14,4,4,0,0,0,0,0,0,0,1,2,1,0.25,France,5.928,43.124228
+386,Roger,Ferrien,1924-11-09,FALSE,Riscle,FALSE,Prop,Scotland v France,Murrayfield,1950-01-14,4,4,0,0,0,0,0,0,0,1,2,1,0.25,France,-0.08681889999999999,43.658594
+387,Pierre,Lauga,1922-01-17,FALSE,Lucq-de-Bearn,FALSE,"Centre, Fly-half",Scotland v France,Murrayfield,1950-01-14,4,4,0,3,0,0,0,1,0,1,2,1,0.25,France,-0.6588649999999999,43.28738999999999
+388,Pierre,Lavergne,1922-03-18,FALSE,Ciboure,FALSE,Prop,Scotland v France,Murrayfield,1950-01-14,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-1.675432,43.387537
+389,Jacques,Merquey,1929-09-26,FALSE,Souillac,FALSE,Centre,Scotland v France,Murrayfield,1950-01-14,4,4,0,3,1,0,0,0,0,1,2,1,0.25,France,1.478613,44.893626
+390,Daniel,Herice,1921-09-07,FALSE,Saint-Emiliosen,FALSE,Flanker,France v Ireland,Colombes,1950-01-28,1,1,0,0,0,0,0,0,0,0,0,1,0,France,-0.155729,44.89438699999999
+391,Paul,Lasaosa,1927-07-13,FALSE,Dax,FALSE,"Centre, Scrum-half, Halfback",France v Ireland,Colombes,1950-01-28,6,6,0,0,0,0,0,0,0,3,2,1,0.5,France,-80.3212932,25.8510938
+392,Pierre,Pascalin,1926-09-21,FALSE,Saint-Gein,FALSE,Hooker,France v Ireland,Colombes,1950-01-28,7,7,0,0,0,0,0,0,0,4,2,1,0.5714285714285714,France,-0.30228,43.836534
+393,Georges,Brun,1922-12-23,FALSE,Aix-les-Bains,FALSE,"Fullback, Wing, Centre",France v England,Colombes,1950-02-25,14,14,0,0,0,0,0,0,0,7,7,0,0.5,France,5.908998,45.692341
+394,Fernand,Cazenave,1924-11-26,FALSE,Orthez,FALSE,Wing,France v England,Colombes,1950-02-25,6,6,0,3,1,0,0,0,0,5,1,0,0.8333333333333334,France,-0.7739279,43.48755999999999
+395,Franck,Fournet,1922-11-26,FALSE,Clermont-Ferrand,FALSE,Fly-half,Wales v France,Cardiff,1950-03-25,1,1,0,0,0,0,0,0,0,0,1,0,0,France,3.087025,45.77722199999999
+396,Rene,Bernard,1925-05-11,FALSE,Bergerac,FALSE,Prop,France v Scotland,Colombes,1951-01-13,4,4,0,0,0,0,0,0,0,3,1,0,0.75,France,0.483392,44.853806
+397,Georges,Carabignac,1929-10-10,FALSE,Boe,FALSE,Fly-half,France v Scotland,Colombes,1951-01-13,7,7,0,9,0,0,0,3,0,2,5,0,0.2857142857142857,France,-97.05824609999999,36.1183485
+398,Henri,Foures,1925-08-29,FALSE,Issus,FALSE,Lock,France v Scotland,Colombes,1951-01-13,4,4,0,0,0,0,0,0,0,3,1,0,0.75,France,1.5062184,43.42381650000001
+399,Lucien,Mias,1930-09-28,FALSE,Saint-Germain-de-Cal,FALSE,Lock,France v Scotland,Colombes,1951-01-13,29,29,0,3,1,0,0,0,0,17,11,1,0.5862068965517241,France,-72.5805592,45.83593
+400,Alain,Porthault,1929-07-15,FALSE,Vervins,FALSE,Wing,France v Scotland,Colombes,1951-01-13,7,7,0,9,3,0,0,0,0,5,2,0,0.7142857142857143,France,3.907087,49.83443500000001
+401,Guy,Belletante,1927-03-13,FALSE,Perigueux,FALSE,Centre,Ireland v France,Lansdowne Road,1951-01-27,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,France,0.7211149,45.184029
+402,Pierre,Bertrand,1927-10-27,FALSE,Meximieux,FALSE,Prop,Ireland v France,Lansdowne Road,1951-01-27,8,8,0,13,0,2,3,0,0,4,4,0,0.5,France,5.1949736,45.9071984
+403,Dacien,Olive,1924-07-12,FALSE,Claira,FALSE,Wing,Ireland v France,Lansdowne Road,1951-01-27,2,2,0,3,1,0,0,0,0,0,2,0,0,France,2.948939,42.761522
+404,Maurice,Prat,1928-11-17,FALSE,Lourdes,FALSE,Fullback,Ireland v France,Lansdowne Road,1951-01-27,31,31,0,24,6,0,0,2,0,18,13,0,0.5806451612903226,France,-0.045726,43.091463
+405,Jean-Roger,Bourdeu,1927-01-06,FALSE,Gan,FALSE,Flanker,Scotland v France,Murrayfield,1952-01-12,9,9,0,3,1,0,0,0,0,3,6,0,0.3333333333333333,France,-86.5663338,34.6372329
+406,Rene,Brejassou,1929-08-12,FALSE,Aureilhan,FALSE,"Prop, Lock",Scotland v France,Murrayfield,1952-01-12,15,15,0,3,1,0,0,0,0,8,7,0,0.5333333333333333,France,0.096065,43.242573
+407,Bernard,Chevallier,1925-12-07,FALSE,Rougnat,FALSE,Lock,Scotland v France,Murrayfield,1952-01-12,26,26,0,0,0,0,0,0,0,15,11,0,0.5769230769230769,France,2.4996999,46.053984
+408,Roger,Furcade,1928-01-22,FALSE,Saint-Nazaire,FALSE,Fly-half,Scotland v France,Murrayfield,1952-01-12,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-2.213848,47.2734979
+409,Paul,Labadie,1928-04-27,FALSE,Bayonne,FALSE,Hooker,Scotland v France,Murrayfield,1952-01-12,21,21,0,0,0,0,0,0,0,13,8,0,0.6190476190476191,France,-74.1143091,40.6687141
+410,Robert,Labarthete,1924-10-05,FALSE,Gan,FALSE,"Fullback, Scrum-half",Scotland v France,Murrayfield,1952-01-12,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-86.5663338,34.6372329
+411,Roger,Martine,1930-01-03,FALSE,Bellocq,FALSE,"Fullback, Centre, Fly-half",Scotland v France,Murrayfield,1952-01-12,25,25,0,6,1,0,0,1,0,20,3,2,0.8,France,-73.97762159999999,40.7614327
+412,Francois,Varenne,1926-07-26,FALSE,Junay,FALSE,Lock,Scotland v France,Murrayfield,1952-01-12,1,1,0,0,0,0,0,0,0,1,0,0,1,France,3.94862,47.877975
+413,Antoine,Labazuy,1929-02-09,FALSE,Carcassonne,FALSE,Fly-half,France v Ireland,Colombes,1952-01-26,11,11,0,39,0,9,6,1,0,8,2,1,0.7272727272727273,France,2.3517703,43.2132151
+414,Jean,Colombier,1928-09-23,FALSE,Saint-Julien-en-Gene,FALSE,Wing,France v South Africa,Colombes,1952-02-16,3,3,0,0,0,0,0,0,0,0,3,0,0,France,-97.63226390000001,35.5186678
+415,Pierre,Guilleux,1924-12-15,FALSE,Usseau,FALSE,Fullback,France v South Africa,Colombes,1952-02-16,2,2,0,0,0,0,0,0,0,1,1,0,0.5,France,-0.579252,46.173421
+416,Jacques,Mauran,1929-05-01,FALSE,Rignac,FALSE,Centre,France v South Africa,Colombes,1952-02-16,6,6,0,0,0,0,0,0,0,1,5,0,0.16666666666666666,France,2.287737,44.40951
+417,Michel,Lecointre,1926-07-03,FALSE,Troyes,FALSE,Fly-half,Italy v France,Milan,1952-05-17,1,1,0,0,0,0,0,0,0,1,0,0,1,France,4.0744009,48.2973451
+418,Lucien,Roge,1932-10-19,FALSE,Cessenon,FALSE,"Wing, Centre",Italy v France,Milan,1952-05-17,15,15,0,12,4,0,0,0,0,10,4,1,0.6666666666666666,France,3.0528175,43.45056940000001
+419,Andre,Sanac,1929-08-04,FALSE,Trouillas,FALSE,"Prop, Lock",Italy v France,Milan,1952-05-17,10,10,0,3,1,0,0,0,0,5,5,0,0.5,France,2.808703,42.609815
+420,Jean-Claude,Rouan,1933-10-30,FALSE,Quillan,FALSE,Fullback,France v Scotland,Colombes,1953-01-10,2,2,0,0,0,0,0,0,0,1,1,0,0.5,France,2.18546,42.875129
+421,Paul,Tignol,1933-05-26,FALSE,Toulouse,FALSE,"Lock, No. 8",France v Scotland,Colombes,1953-01-10,2,2,0,0,0,0,0,0,0,1,1,0,0.5,France,1.444209,43.604652
+422,Julien,Arrieta,1924-09-11,FALSE,Irun,FALSE,Hooker,England v France,Twickenham,1953-02-28,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-98.53369649999999,29.60169729999999
+423,Robert,Carrere,1921-03-13,FALSE,Saint-Sever,FALSE,Prop,England v France,Twickenham,1953-02-28,2,2,0,0,0,0,0,0,0,1,1,0,0.5,France,-0.574221,43.759137
+424,Michel,Celaya,1930-07-04,FALSE,Biarritz,FALSE,Back-row,England v France,Twickenham,1953-02-28,50,50,0,18,6,0,0,0,0,30,15,5,0.6,France,-1.558626,43.4831519
+425,Andre,Haget,1931-04-26,FALSE,Biarritz,FALSE,Fly-half,England v France,Twickenham,1953-02-28,14,14,0,3,1,0,0,0,0,10,4,0,0.7142857142857143,France,-1.558626,43.4831519
+426,Laurent,Bidart,1930-01-11,FALSE,Le Boucau,FALSE,Fly-half,France v Wales,Colombes,1953-03-28,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-1.4858579,43.523153
+427,Henri,Domec,1932-08-09,FALSE,Lourdes,FALSE,Flanker,France v Wales,Colombes,1953-03-28,20,20,0,3,1,0,0,0,0,15,5,0,0.75,France,-0.045726,43.091463
+428,Joseph,Galy,1929-12-22,FALSE,Bages,FALSE,Centre,France v Wales,Colombes,1953-03-28,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-73.9589335,40.7685323
+429,Michel,Vannier,1931-07-21,FALSE,Etain,FALSE,Fullback,France v Wales,Colombes,1953-03-28,43,43,0,180,1,45,21,8,0,28,12,3,0.6511627906976745,France,-73.9008038,40.9347742
+430,Jean,Darrieussecq,1924-03-06,FALSE,Peyrehorade,FALSE,Scrum-half,France v Italy,Lyon,1953-04-26,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-1.097208,43.545627
+431,Jean-Henri,Pargade,1928-09-21,FALSE,Bayonne,FALSE,Centre,France v Italy,Lyon,1953-04-26,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-74.1143091,40.6687141
+432,Robert,Baulon,1930-10-21,FALSE,Le Boucau,FALSE,Back-row,Scotland v France,Murrayfield,1954-01-09,18,18,0,18,6,0,0,0,0,12,6,0,0.6666666666666666,France,-1.4858579,43.523153
+433,Jacques,Bouquet,1933-06-03,FALSE,Tullins,FALSE,"Centre, Fly-half",Scotland v France,Murrayfield,1954-01-09,34,34,0,21,3,3,0,2,0,20,10,4,0.5882352941176471,France,5.482719899999999,45.29765099999999
+434,Andre,Boniface,1934-08-14,FALSE,Monfort-en-Chalosse,FALSE,"Wing, Centre",France v Ireland,Colombes,1954-01-23,48,48,0,44,11,1,1,2,0,25,18,5,0.5208333333333334,France,-0.838826,43.71129500000001
+435,Henri,Claverie,1925-01-21,FALSE,Lourdes,FALSE,Fullback,France v New Zealand,Colombes,1954-02-27,2,2,0,0,0,0,0,0,0,1,1,0,0.5,France,-0.045726,43.091463
+436,Amedee,Domenech,1933-05-03,FALSE,Narbonne,FALSE,"Prop, No. 8",Wales v France,Cardiff,1954-03-27,52,52,0,24,8,0,0,0,0,32,16,4,0.6153846153846154,France,3.003078,43.184277
+437,Pierre,Albaladejo,1933-12-14,FALSE,Dax,FALSE,"Fullback, Fly-half",France v England,Colombes,1954-04-10,30,30,0,104,0,16,12,12,0,19,8,3,0.6333333333333333,France,-80.3212932,25.8510938
+438,Jean,Benetiere,1928-10-02,FALSE,Le Coteau,FALSE,Hooker,Italy v France,Rome,1954-04-24,2,2,0,0,0,0,0,0,0,2,0,0,1,France,4.087784,46.027872
+439,Jean,Bichindaritz,1928-05-03,FALSE,Biarritz,FALSE,Prop,Italy v France,Rome,1954-04-24,3,3,0,0,0,0,0,0,0,3,0,0,1,France,-1.558626,43.4831519
+440,Gilbert,Larreguy,1931-05-06,FALSE,Mouguerre,FALSE,Flanker,Italy v France,Rome,1954-04-24,1,1,0,3,1,0,0,0,0,1,0,0,1,France,-1.415368,43.4669359
+441,Jacques,Lepatey,1929-09-25,FALSE,Salleles d'Aude,FALSE,Wing,Italy v France,Rome,1954-04-24,5,5,0,6,2,0,0,0,0,4,1,0,0.8,France,2.947553,43.2570369
+442,Gerard,Murillo,1932-02-09,FALSE,Paris,FALSE,"Wing, Centre",Italy v France,Rome,1954-04-24,2,2,0,9,3,0,0,0,0,2,0,0,1,France,2.3522219,48.856614
+443,Jean,Barthe,1932-07-22,FALSE,Lourdes,FALSE,"Lock, Flanker, No. 8",Argentina v France,Buenos Aires,1954-08-29,26,26,0,0,0,0,0,0,0,17,7,2,0.6538461538461539,France,-0.045726,43.091463
+444,Robert,Basauri,1934-08-30,FALSE,Hendaye,FALSE,Fly-half,Argentina v France,Buenos Aires,1954-08-29,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-1.766148,43.359399
+445,Philibert,Capitani,1928-07-31,FALSE,"Frassinoro, MO",FALSE,Lock,Argentina v France,Buenos Aires,1954-08-29,2,2,0,0,0,0,0,0,0,2,0,0,1,France,10.5729981,44.29683379999999
+446,Pierre,Danos,1929-06-04,FALSE,Toulouse,FALSE,Scrum-half,Argentina v France,Buenos Aires,1954-08-29,17,17,0,15,3,0,0,2,0,11,3,3,0.6470588235294118,France,1.444209,43.604652
+447,Yves,Duffaut,1932-12-24,FALSE,Samatan,FALSE,Flanker,Argentina v France,Buenos Aires,1954-08-29,2,2,0,0,0,0,0,0,0,2,0,0,1,France,0.9306663,43.4921294
+448,Jacques,Meynard,1935-09-28,FALSE,Cognac,FALSE,"Fullback, Centre",Argentina v France,Buenos Aires,1954-08-29,2,2,0,10,0,2,2,0,0,2,0,0,1,France,-79.6097716,34.9562668
+449,Henri,Lazies,1929-11-01,FALSE,Belloc-St-Clamens,FALSE,"Prop, Lock, No. 8",Argentina v France,Buenos Aires,1954-09-12,4,4,0,0,0,0,0,0,0,3,1,0,0.75,France,0.434939,43.45675199999999
+450,Andre,Morel,1927-11-20,FALSE,Grenoble,FALSE,Wing,Argentina v France,Buenos Aires,1954-09-12,1,1,0,3,1,0,0,0,0,1,0,0,1,France,5.724524,45.188529
+451,Henri,Rancoule,1933-02-06,FALSE,Bram,FALSE,Wing,England v France,Twickenham,1955-02-26,27,27,0,24,8,0,0,0,0,19,5,3,0.7037037037037037,France,-84.30567219999999,33.7893826
+452,Jacques,Chiberry,1929-09-07,FALSE,Sauveterre-de-Bearn,FALSE,Wing,France v Italy,Grenoble,1955-04-10,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-0.9418209999999998,43.398984
+453,Michel,Escommier,1933-10-12,FALSE,Montelimar,FALSE,Hooker,France v Italy,Grenoble,1955-04-10,1,1,0,0,0,0,0,0,0,1,0,0,1,France,4.749496,44.556944
+454,Thomas,Manterola,1927-12-19,FALSE,Ciboure,FALSE,"Prop, No. 8",France v Italy,Grenoble,1955-04-10,2,2,0,0,0,0,0,0,0,2,0,0,1,France,-1.675432,43.387537
+455,Jean,Carrere,1930-04-05,FALSE,Argeles-sur-Mer,FALSE,Flanker,Scotland v France,Murrayfield,1956-01-14,8,8,0,0,0,0,0,0,0,2,5,1,0.25,France,3.022911,42.546214
+456,Jean-Vincent,Dupuy,1934-05-25,FALSE,Vic-en-Bigorre,FALSE,"Wing, Centre",Scotland v France,Murrayfield,1956-01-14,40,40,0,57,19,0,0,0,0,22,12,6,0.55,France,0.054424,43.386016
+457,Gerard,Roucaries,1932-08-13,FALSE,Rivesaltes,FALSE,Lock,Scotland v France,Murrayfield,1956-01-14,1,1,0,0,0,0,0,0,0,0,1,0,0,France,2.871763000000001,42.768583
+458,Guy,Stener,1931-02-11,FALSE,Vichy,FALSE,"Wing, Centre",Scotland v France,Murrayfield,1956-01-14,5,5,0,0,0,0,0,0,0,3,1,1,0.6,France,3.425488,46.131859
+459,Serge,Torreilles,1931-12-31,FALSE,Baixas,FALSE,Wing,Scotland v France,Murrayfield,1956-01-14,1,1,0,0,0,0,0,0,0,0,1,0,0,France,2.809621,42.749683
+460,Robert,Vigier,1926-12-05,FALSE,Lanobre,FALSE,Hooker,Scotland v France,Murrayfield,1956-01-14,24,24,0,3,1,0,0,0,0,14,8,2,0.5833333333333334,France,2.534919,45.4365499
+461,Guy,Pauthe,1932-10-24,FALSE,Graulhet,FALSE,Scrum-half,France v England,Colombes,1956-04-14,1,1,0,3,1,0,0,0,0,1,0,0,1,France,1.988911,43.759597
+462,Georges,Gauby,1933-06-27,FALSE,Rivesaltes,FALSE,Scrum-half,France v Czechia,Toulouse,1956-12-16,1,1,0,0,0,0,0,0,0,1,0,0,1,France,2.871763000000001,42.768583
+463,Francois,Moncla,1932-04-01,FALSE,Louvie-Juzon,FALSE,"Lock, Flanker",France v Czechia,Toulouse,1956-12-16,31,31,0,21,7,0,0,0,0,18,8,5,0.5806451612903226,France,-0.421257,43.086771
+464,Rene,Monie,1934-01-02,FALSE,Theza,FALSE,Centre,France v Czechia,Toulouse,1956-12-16,2,2,0,3,1,0,0,0,0,1,1,0,0.5,France,2.950488,42.63852
+465,Christian,Darrouy,1937-01-13,FALSE,Pouydesseaux,FALSE,Wing,Ireland v France,Lansdowne Road,1957-01-26,40,40,0,69,23,0,0,0,0,22,12,6,0.55,France,-0.32509,43.968904
+466,Michel,Hoche,1932-09-20,FALSE,Levallois-Perret,FALSE,Lock,Ireland v France,Lansdowne Road,1957-01-26,5,5,0,0,0,0,0,0,0,2,3,0,0.4,France,2.287864,48.89321700000001
+467,Paul,Cassagne,1931-01-22,FALSE,Tarbes,FALSE,Lock,France v Italy,Agen,1957-04-21,1,1,0,10,0,5,0,0,0,1,0,0,1,France,0.078082,43.23295100000001
+468,Roland,Darracq,1933-01-20,FALSE,Dax,FALSE,Flanker,France v Italy,Agen,1957-04-21,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-80.3212932,25.8510938
+469,Gerard,Mauduy,1937-12-10,FALSE,Perigueux,FALSE,Wing,France v Italy,Agen,1957-04-21,7,7,0,6,2,0,0,0,0,5,2,0,0.7142857142857143,France,0.7211149,45.184029
+470,Michel,Crauste,1934-07-06,FALSE,Saint-Laurent-de-Gos,FALSE,Back-row,Romania v France,Bucharest,1957-05-19,63,63,0,30,10,0,0,0,0,38,16,9,0.6031746031746031,France,-1.267992,43.532979
+471,Adrien,Normand,1932-10-11,FALSE,Orthevielle,FALSE,Lock,Romania v France,Bucharest,1957-05-19,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-1.146609,43.55139399999999
+472,Christian,Vignes,1934-06-05,FALSE,Biarritz,FALSE,"Centre, Fly-half",Romania v France,Bucharest,1957-05-19,4,4,0,3,1,0,0,0,0,2,2,0,0.5,France,-1.558626,43.4831519
+473,Aldo,Quaglio,1932-02-17,FALSE,Saverdun,FALSE,"Prop, Flanker",France v Romania,Bordeaux,1957-12-15,13,13,0,3,1,0,0,0,0,8,3,2,0.6153846153846154,France,1.575968,43.233683
+474,Pierre,Lacroix,1935-01-23,FALSE,Houeilles,FALSE,Scrum-half,France v Australia,Colombes,1958-03-09,27,27,0,12,4,0,0,0,0,16,8,3,0.5925925925925926,France,0.03305500000000001,44.194914
+475,Alfred,Roques,1925-02-17,FALSE,Cazes-Mondenard,FALSE,Prop,France v Australia,Colombes,1958-03-09,30,30,0,0,0,0,0,0,0,22,3,5,0.7333333333333333,France,1.202383,44.226952
+476,Pierre,Tarricq,1929-05-18,FALSE,Labouheyre,FALSE,Wing,France v Australia,Colombes,1958-03-09,4,4,0,3,1,0,0,0,0,4,0,0,1,France,-0.919067,44.211947
+477,Arnaud,Marquesuzaa,1934-07-14,FALSE,Mauleon,FALSE,Centre,Italy v France,Naples,1958-04-07,10,10,0,3,1,0,0,0,0,7,0,3,0.7,France,-0.8895000000000001,43.220131
+478,Bernard,Mommejat,1934-05-18,FALSE,Paris,FALSE,Lock,Italy v France,Naples,1958-04-07,22,22,0,6,2,0,0,0,0,14,5,3,0.6363636363636364,France,2.3522219,48.856614
+479,Pierre,Lacaze,1934-05-04,FALSE,Pontacq,FALSE,Fullback,South Africa v France,Cape Town,1958-07-26,7,7,0,14,0,1,1,3,0,4,1,2,0.5714285714285714,France,-0.108925,43.183708
+480,Louis,Casaux,1938-07-15,FALSE,Tarbes,FALSE,"Fullback, Centre",Ireland v France,Lansdowne Road,1959-04-18,3,3,0,6,2,0,0,0,0,2,1,0,0.6666666666666666,France,0.078082,43.23295100000001
+481,Claude,Mantoulan,1936-03-05,FALSE,Pau,FALSE,Fly-half,Ireland v France,Lansdowne Road,1959-04-18,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-0.370797,43.2951
+482,Serge,Mericq,1937-06-16,FALSE,La Reole,FALSE,Wing,Ireland v France,Lansdowne Road,1959-04-18,5,5,0,6,2,0,0,0,0,3,1,1,0.6,France,-0.041319,44.581109
+483,Jean de,Gregorio,1935-12-09,FALSE,Romans-sur-Isere,FALSE,Hooker,Scotland v France,Murrayfield,1960-01-09,22,22,0,3,1,0,0,0,0,14,5,3,0.6363636363636364,France,5.052735,45.044236
+484,Sylvain,Meyer,1934-06-01,FALSE,Strasbourg,FALSE,Back-row,Scotland v France,Murrayfield,1960-01-09,5,5,0,6,2,0,0,0,0,3,1,1,0.6,France,7.752111299999999,48.5734053
+485,Guy,Boniface,1937-03-06,FALSE,Monfort-en-Chalosse,FALSE,Centre,Wales v France,Cardiff,1960-03-26,35,35,0,45,15,0,0,0,0,19,10,6,0.5428571428571428,France,-0.838826,43.71129500000001
+486,Herve,Larrue,1935-07-05,FALSE,Boissezon,FALSE,Lock,Wales v France,Cardiff,1960-03-26,7,7,0,3,1,0,0,0,0,6,1,0,0.8571428571428571,France,2.379271,43.575725
+487,Jean-Pierre,Saux,1928-11-13,FALSE,Paris,FALSE,"Prop, Lock",Wales v France,Cardiff,1960-03-26,22,22,0,6,2,0,0,0,0,14,6,2,0.6363636363636364,France,2.3522219,48.856614
+488,Raoul,Barriere,1928-03-03,FALSE,Beziers,FALSE,Prop,Romania v France,Bucharest,1960-06-05,1,1,0,0,0,0,0,0,0,0,1,0,0,France,3.215795,43.344233
+489,Roger,Brethes,1936-01-31,FALSE,Saint-Sever,FALSE,Fullback,Argentina v France,Buenos Aires,1960-08-06,1,1,0,3,0,0,1,0,0,1,0,0,1,France,-0.574221,43.759137
+490,Michel,Lacome,1935-09-28,FALSE,Bagneres-de-Bigorre,FALSE,Centre,Argentina v France,Buenos Aires,1960-08-06,1,1,0,0,0,0,0,0,0,1,0,0,1,France,0.1491049,43.065093
+491,Jean,Othats,1937-05-06,FALSE,Bugnein,FALSE,Wing,Argentina v France,Buenos Aires,1960-08-06,2,2,0,0,0,0,0,0,0,2,0,0,1,France,-0.78291,43.35264799999999
+492,Roland,Crancee,1932-09-24,FALSE,Treveray,FALSE,No. 8,Argentina v France,Buenos Aires,1960-08-17,2,2,0,3,1,0,0,0,0,2,0,0,1,France,5.397231,48.610299
+493,Jacques,Rollet,1934-08-18,FALSE,Bayonne,FALSE,Hooker,Argentina v France,Buenos Aires,1960-08-17,5,5,0,0,0,0,0,0,0,4,1,0,0.8,France,-74.1143091,40.6687141
+494,Louis,Echave,1934-06-18,FALSE,Ciboure,FALSE,"Lock, Flanker",France v Scotland,Colombes,1961-01-07,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-1.675432,43.387537
+495,Jean,Gachassin,1941-12-23,FALSE,Bagneres-de-Bigorre,FALSE,"Fullback, Wing, Centre, Fly-half",France v Scotland,Colombes,1961-01-07,32,32,0,32,8,1,0,2,0,19,9,4,0.59375,France,0.1491049,43.065093
+496,Gerard,Bouguyon,1935-11-24,FALSE,Quimerch,FALSE,"Prop, Lock",France v South Africa,Colombes,1961-02-18,9,9,0,3,1,0,0,0,0,4,3,2,0.4444444444444444,France,-4.107762999999999,48.2831649
+497,Marcel,Puget,1940-09-28,FALSE,Limoux,FALSE,Scrum-half,France v Italy,Chambery,1961-04-02,17,17,0,3,0,0,0,1,0,6,9,2,0.35294117647058826,France,2.218142,43.053289
+498,Guy,Calvo,1933-05-13,FALSE,Tarbes,FALSE,"Fullback, Wing, Centre",New Zealand v France,Auckland,1961-07-22,2,2,0,0,0,0,0,0,0,0,2,0,0,France,0.078082,43.23295100000001
+499,Pierre,Cazals,1931-02-08,FALSE,Mont-de-Marsan,FALSE,Prop,New Zealand v France,Auckland,1961-07-22,3,3,0,0,0,0,0,0,0,1,1,1,0.3333333333333333,France,-0.4997819999999999,43.893485
+500,Jean,Laudouar,1934-01-03,FALSE,Soustons,FALSE,Hooker,New Zealand v France,Auckland,1961-07-22,5,5,0,0,0,0,0,0,0,1,3,1,0.2,France,-1.326638,43.75562
+501,Claude,Lacaze,1940-03-05,FALSE,Pontacq,FALSE,Fullback,New Zealand v France,Wellington,1961-08-05,33,33,0,59,1,13,5,5,0,18,11,4,0.5454545454545454,France,-0.108925,43.183708
+502,Roland,Lefevre,1936-09-19,FALSE,La Flamengrie,FALSE,No. 8,New Zealand v France,Wellington,1961-08-05,1,1,0,0,0,0,0,0,0,0,1,0,0,France,3.715806,50.314652
+503,Jean,Pique,1935-09-17,FALSE,Artix,FALSE,"Wing, Centre",New Zealand v France,Wellington,1961-08-05,18,18,0,6,2,0,0,0,0,11,5,2,0.6111111111111112,France,-71.9616016,46.0686554
+504,Guy,Camberabero,1936-05-17,FALSE,Soubion,FALSE,Fly-half,New Zealand v France,Christchurch,1961-08-19,14,14,0,110,2,19,11,11,0,10,3,1,0.7142857142857143,France,-1.348373,43.671017
+505,Marcel,Cassiede,1934-01-01,FALSE,Gousse,FALSE,Lock,New Zealand v France,Christchurch,1961-08-19,3,3,0,0,0,0,0,0,0,1,1,1,0.3333333333333333,France,-80.37291139999999,25.9906276
+506,Serge,Plantey,1940-02-14,FALSE,Salles,FALSE,"Wing, Fly-half",Australia v France,Sydney,1961-08-26,2,2,0,0,0,0,0,0,0,2,0,0,1,France,-0.8699302,44.5520405
+507,Rene le,Bourhis,1932-04-17,FALSE,Saint-Malo-de-Guersa,FALSE,Lock,France v Romania,Bayonne,1961-11-12,1,1,0,0,0,0,0,0,0,0,0,1,0,France,-2.178931,47.351268
+508,Henri,Marracq,1937-11-21,FALSE,Pontacq,FALSE,Flanker,France v Romania,Bayonne,1961-11-12,1,1,0,3,1,0,0,0,0,0,0,1,0,France,-0.108925,43.183708
+509,Roger,Gensane,1934-02-04,FALSE,Severac-le-Chateau,FALSE,Flanker,Scotland v France,Murrayfield,1962-01-13,7,7,0,0,0,0,0,0,0,4,3,0,0.5714285714285714,France,3.07105,44.322012
+510,Henri,Romero,1935-09-21,FALSE,Sigean,FALSE,Back-row,Scotland v France,Murrayfield,1962-01-13,7,7,0,0,0,0,0,0,0,4,3,0,0.5714285714285714,France,2.979255,43.02891
+511,Claude,Laborde,1940-08-25,FALSE,Peyrehorade,FALSE,"Wing, Scrum-half",Italy v France,Brescia,1962-04-22,5,5,0,0,0,0,0,0,0,2,2,1,0.4,France,-1.097208,43.545627
+512,Michel,Arino,1934-02-08,FALSE,Penne-d'Agenais,FALSE,Wing,Romania v France,Bucharest,1962-11-11,1,1,0,0,0,0,0,0,0,0,1,0,0,France,0.8195819999999999,44.388664
+513,Maurice,Lira,1931-04-30,FALSE,La Mure,FALSE,"Lock, Flanker, No. 8",Romania v France,Bucharest,1962-11-11,13,13,0,6,2,0,0,0,0,8,2,3,0.6153846153846154,France,5.784528,44.906521
+514,Francis,Mas,1936-11-08,FALSE,Cazouls-les-Beziers,FALSE,Prop,Romania v France,Bucharest,1962-11-11,5,5,0,0,0,0,0,0,0,2,3,0,0.4,France,3.101108,43.392108
+515,Pierre,Razat,1940-10-15,FALSE,Fumel,FALSE,"Fullback, Centre",Romania v France,Bucharest,1962-11-11,4,4,0,0,0,0,0,0,0,1,2,1,0.25,France,0.9707429999999999,44.49736799999999
+516,Pierre,Besson,1940-04-11,FALSE,Saint-Astier,FALSE,Wing,France v Scotland,Colombes,1963-01-12,5,5,0,0,0,0,0,0,0,2,3,0,0.4,France,0.52778,45.145202
+517,Jean,Fabre,1935-11-07,FALSE,Rodez,FALSE,No. 8,France v Scotland,Colombes,1963-01-12,8,8,0,0,0,0,0,0,0,3,5,0,0.375,France,2.575986,44.349389
+518,Fernand,Zago,1942-02-27,FALSE,Saint-Lys,FALSE,Prop,Ireland v France,Lansdowne Road,1963-01-26,2,2,0,0,0,0,0,0,0,1,1,0,0.5,France,1.175713,43.51061900000001
+519,Paul,Dedieu,1933-05-08,FALSE,Toulouse,FALSE,Fullback,England v France,Twickenham,1963-02-23,12,12,0,25,0,8,2,1,0,8,2,2,0.6666666666666666,France,1.444209,43.604652
+520,Raymond,Rebujent,1942-09-27,FALSE,Elne,FALSE,Hooker,England v France,Twickenham,1963-02-23,1,1,0,0,0,0,0,0,0,0,1,0,0,France,2.970433,42.600336
+521,Roger,Fite,1938-10-13,FALSE,Cabrerolles,FALSE,"Lock, No. 8",France v Wales,Colombes,1963-03-23,2,2,0,0,0,0,0,0,0,2,0,0,1,France,3.125343,43.545815
+522,Jean-Claude,Lasserre,1938-05-12,FALSE,Hussein Dey,FALSE,"Scrum-half, Halfback",France v Italy,Grenoble,1963-04-14,13,13,0,3,0,0,0,1,0,8,4,1,0.6153846153846154,France,3.0961917,36.7406167
+523,Jean le,Droff,1939-06-22,FALSE,Ordan-Larroque,FALSE,Lock,France v Italy,Grenoble,1963-04-14,9,9,0,0,0,0,0,0,0,4,3,2,0.4444444444444444,France,0.4600109999999999,43.68716999999999
+524,Lucien,Abadie,1937-08-17,FALSE,Bouilh-Devant,FALSE,Prop,France v Romania,Toulouse,1963-12-15,1,1,0,0,0,0,0,0,0,0,0,1,0,France,0.259602,43.331459
+525,Jean-Claude,Berejnoi,1939-04-20,FALSE,Decazeville,FALSE,Prop,France v Romania,Toulouse,1963-12-15,27,27,0,0,0,0,0,0,0,19,4,4,0.7037037037037037,France,2.25183,44.560317
+526,Jean-Michel,Cabanier,1936-05-13,FALSE,Lavilledieu-du-Templ,FALSE,Hooker,France v Romania,Toulouse,1963-12-15,26,26,0,12,4,0,0,0,0,18,5,3,0.6923076923076923,France,1.2172529,44.0343042
+527,Andre,Herrero,1938-01-28,FALSE,Puisserguier,FALSE,Back-row,France v Romania,Toulouse,1963-12-15,22,22,0,6,2,0,0,0,0,14,5,3,0.6363636363636364,France,3.039063,43.368077
+528,Jean-Joseph,Rupert,1938-03-07,FALSE,Saint-Jean-de-Marsac,FALSE,Flanker,France v Romania,Toulouse,1963-12-15,14,14,0,12,4,0,0,0,0,9,3,2,0.6428571428571429,France,-1.256499,43.625691
+529,Jacques,Bayardon,1934-01-25,FALSE,Macon,FALSE,Prop,Scotland v France,Murrayfield,1964-01-04,3,3,0,0,0,0,0,0,0,0,3,0,0,France,-83.6324022,32.8406946
+530,Benoit,Dauga,1942-05-08,FALSE,Montgaillard,FALSE,"Lock, No. 8",Scotland v France,Murrayfield,1964-01-04,63,63,0,34,11,0,0,0,0,30,26,7,0.47619047619047616,France,0.10872,43.124882
+531,Jean-Baptiste,Amestoy,1935-08-28,FALSE,Ustaritz,FALSE,Prop,France v New Zealand,Colombes,1964-02-08,2,2,0,0,0,0,0,0,0,0,2,0,0,France,-1.45459,43.395936
+532,Jean-Claude,Hiquet,1939-11-04,FALSE,Soustons,FALSE,Fly-half,France v England,Colombes,1964-02-22,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-1.326638,43.75562
+533,Arnaldo,Gruarin,1938-02-05,FALSE,"Bagnara, RC",FALSE,Prop,Wales v France,Cardiff,1964-03-21,26,26,0,6,2,0,0,0,0,19,4,3,0.7307692307692307,France,15.8114175,38.2776694
+534,Yves,Menthillier,1941-12-07,FALSE,Bourg-en-Bresse,FALSE,Hooker,Wales v France,Cardiff,1964-03-21,5,5,0,0,0,0,0,0,0,3,1,1,0.6,France,5.2255007000000004,46.20516749999999
+535,Michel,Sitjar,1942-09-13,FALSE,Castelsagrat,FALSE,Flanker,Wales v France,Cardiff,1964-03-21,13,13,0,3,1,0,0,0,0,10,2,1,0.7692307692307693,France,0.9467580000000001,44.18407999999999
+536,Andre,Abadie,1932-01-31,FALSE,Aureilhan,FALSE,Hooker,France v Ireland,Colombes,1964-04-11,1,1,0,0,0,0,0,0,0,1,0,0,1,France,0.096065,43.242573
+537,Michel,Arnaudet,1943-03-11,FALSE,Lourdes,FALSE,"Wing, Centre",France v Ireland,Colombes,1964-04-11,3,3,0,12,4,0,0,0,0,3,0,0,1,France,-0.045726,43.091463
+538,Jean,Capdouze,1942-08-31,FALSE,Salies-de-Bearn,FALSE,"Centre, Fly-half",South Africa v France,Springs,1964-07-25,6,6,0,6,2,0,0,0,0,4,1,1,0.6666666666666666,France,-0.9248539999999998,43.47055599999999
+539,Walter,Spanghero,1943-12-21,FALSE,Payra-sur-l'Hers,FALSE,"Lock, Flanker, No. 8",South Africa v France,Springs,1964-07-25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,France,1.853919,43.267631
+540,Lilian,Camberabero,1937-07-15,FALSE,Saint-Vincent-de-Tyr,FALSE,Scrum-half,Romania v France,Bucharest,1964-11-29,13,13,0,9,2,0,0,1,0,11,1,1,0.8461538461538461,France,-1.301187,43.6587109
+541,Andre,Campaes,1944-03-30,FALSE,Lourdes,FALSE,Wing,France v Wales,Colombes,1965-03-27,14,14,0,12,4,0,0,0,0,8,5,1,0.5714285714285714,France,-0.045726,43.091463
+542,Andre,Abadie,1934-07-27,FALSE,Toulouse,FALSE,Prop,France v Romania,Lyon,1965-11-28,7,7,0,0,0,0,0,0,0,4,2,1,0.5714285714285714,France,1.444209,43.604652
+543,Elie,Cester,1942-07-27,FALSE,L'Isle-Jourdain,FALSE,Lock,Scotland v France,Murrayfield,1966-01-15,35,35,0,3,1,0,0,0,0,18,13,4,0.5142857142857142,France,1.081741,43.6138369
+544,Jean-Claude,Roques,1943-03-19,FALSE,Brive-la-Gaillarde,FALSE,Fly-half,Scotland v France,Murrayfield,1966-01-15,4,4,0,0,0,0,0,0,0,3,0,1,0.75,France,1.533937,45.159555
+545,Bernard,Duprat,1943-07-17,FALSE,Bayonne,FALSE,Wing,France v England,Colombes,1966-02-26,15,15,0,31,9,0,0,0,0,9,5,1,0.6,France,-74.1143091,40.6687141
+546,Jean-Claude,Lagrange,1942-12-04,FALSE,Perigueux,FALSE,Centre,Italy v France,Naples,1966-04-09,1,1,0,3,1,0,0,0,0,1,0,0,1,France,0.7211149,45.184029
+547,Jo,Maso,1944-12-27,FALSE,Toulouse,FALSE,"Centre, Fly-half",Italy v France,Naples,1966-04-09,25,25,0,15,4,0,0,0,0,12,11,2,0.48,France,1.444209,43.604652
+548,Christian,Carrere,1943-07-27,FALSE,Tarbes,FALSE,Flanker,Romania v France,Bucharest,1966-11-27,27,27,0,12,4,0,0,0,0,15,10,2,0.5555555555555556,France,0.078082,43.23295100000001
+549,Claude,Dourthe,1948-11-20,FALSE,Magescq,FALSE,Centre,Romania v France,Bucharest,1966-11-27,33,32,1,40,10,0,0,1,0,17,13,3,0.5151515151515151,France,-1.216185,43.78087499999999
+550,Jean,Salut,1943-04-14,FALSE,Beaumont-de-Lomagne,FALSE,Flanker,Romania v France,Bucharest,1966-11-27,7,7,0,3,1,0,0,0,0,4,3,0,0.5714285714285714,France,0.9885109999999999,43.88330999999999
+551,Jean-Pierre,Mir,1947-07-06,FALSE,Saint-Lary,FALSE,Centre,France v Australia,Colombes,1967-02-11,1,1,0,0,0,0,0,0,0,1,0,0,1,France,0.320251,42.815835
+552,Jean-Pierre,Lux,1946-01-09,FALSE,Saint-Vincent-de-Tyr,FALSE,"Wing, Centre",England v France,Twickenham,1967-02-25,47,47,0,42,12,0,0,0,0,22,19,6,0.46808510638297873,France,-1.301187,43.6587109
+553,Jacques,Fort,1938-01-16,FALSE,Bordeaux,FALSE,"Prop, Lock",France v Italy,Toulon,1967-03-26,7,7,0,0,0,0,0,0,0,4,2,1,0.5714285714285714,France,-0.57918,44.837789
+554,Pierre,Villepreux,1943-07-05,FALSE,Pompadour,FALSE,"Fullback, Fly-half",France v Italy,Toulon,1967-03-26,34,34,0,166,2,29,33,1,0,14,16,4,0.4117647058823529,France,-79.6987003,39.8734609
+555,Jean-Michel,Esponda,1943-04-24,FALSE,Hendaye,FALSE,Prop,South Africa v France,Durban,1967-07-15,10,9,1,0,0,0,0,0,0,1,9,0,0.1,France,-1.766148,43.359399
+556,Andre,Quilis,1941-10-28,FALSE,Coursan,FALSE,"Wing, Flanker",South Africa v France,Durban,1967-07-15,5,5,0,0,0,0,0,0,0,1,2,2,0.2,France,3.058467,43.2342
+557,Jean-Louis,Dehez,1944-05-06,FALSE,Mont-de-Marsan,FALSE,"Fullback, Fly-half",South Africa v France,Bloemfontein,1967-07-22,2,2,0,11,0,1,2,1,0,1,1,0,0.5,France,-0.4997819999999999,43.893485
+558,Michel,Lasserre,1940-01-21,FALSE,Le Cause,FALSE,"Prop, Lock, No. 8",South Africa v France,Bloemfontein,1967-07-22,15,15,0,0,0,0,0,0,0,5,9,1,0.3333333333333333,France,0.96922,43.801558
+559,Jean-Claude,Malbet,1937-08-28,FALSE,Larresingle,FALSE,Hooker,South Africa v France,Bloemfontein,1967-07-22,2,2,0,0,0,0,0,0,0,0,1,1,0,France,0.3103079,43.94424
+560,Alain,Plantefol,1942-12-26,FALSE,Colombes,FALSE,Lock,South Africa v France,Bloemfontein,1967-07-22,11,11,0,3,1,0,0,0,0,5,4,2,0.45454545454545453,France,2.2533313,48.9220615
+561,Gerard,Sutra,1946-03-21,FALSE,Narbonne,FALSE,Scrum-half,South Africa v France,Bloemfontein,1967-07-22,4,4,0,0,0,0,0,0,0,2,1,1,0.5,France,3.003078,43.184277
+562,Jacques,Londios,1946-01-14,FALSE,Montauban,FALSE,Wing,South Africa v France,Johannesburg,1967-07-29,1,1,0,0,0,0,0,0,0,1,0,0,1,France,1.3529599,44.0221252
+563,Jean,Trillo,1944-10-27,FALSE,Condom,FALSE,Centre,South Africa v France,Johannesburg,1967-07-29,28,28,0,19,6,0,0,0,0,12,11,5,0.42857142857142855,France,-75.1503859,39.94192899999999
+564,Jacques,Crampagne,1944-04-07,FALSE,Foix,FALSE,"Fullback, Wing",South Africa v France,Cape Town,1967-08-12,1,1,0,0,0,0,0,0,0,0,0,1,0,France,1.605232,42.964127
+565,Jean-Michel,Capendeguy,1941-03-05,FALSE,Ciboure,FALSE,Wing,France v New Zealand,Colombes,1967-11-25,2,2,0,3,1,0,0,0,0,1,1,0,0.5,France,-1.675432,43.387537
+566,Jean-Jacques,Lenient,1943-03-23,FALSE,Saint-Prix,FALSE,Wing,France v Romania,Nantes,1967-12-10,1,1,0,0,0,0,0,0,0,1,0,0,1,France,2.262489,49.006469
+567,Jean-Henri,Mir,1945-02-21,FALSE,Saint-Lary,FALSE,Scrum-half,France v Romania,Nantes,1967-12-10,2,2,0,0,0,0,0,0,0,2,0,0,1,France,0.320251,42.815835
+568,Jean-Marie,Bonal,1943-05-31,FALSE,Saint-Cirgues-de-Jor,FALSE,Wing,France v England,Colombes,1968-02-24,14,14,0,15,5,0,0,0,0,5,9,0,0.35714285714285715,France,2.582268,45.028266
+569,Jean-Claude,Noble,1944-12-29,FALSE,Marseille,FALSE,Prop,France v England,Colombes,1968-02-24,6,6,0,0,0,0,0,0,0,3,3,0,0.5,France,5.36978,43.296482
+570,Michel,Yachvili,1946-07-25,FALSE,Tulle,FALSE,"Hooker, Flanker",France v England,Colombes,1968-02-24,15,15,0,0,0,0,0,0,0,5,8,2,0.3333333333333333,France,-73.986361,40.752714
+571,Michel,Greffe,1940-10-27,FALSE,Lyon,FALSE,Back-row,Wales v France,Cardiff,1968-03-23,5,5,0,0,0,0,0,0,0,2,3,0,0.4,France,4.835659,45.764043
+572,Jean-Paul,Baux,1946-06-16,FALSE,Larroque,FALSE,Hooker,New Zealand v France,Christchurch,1968-07-13,4,4,0,0,0,0,0,0,0,0,4,0,0,France,1.690561,44.0030519
+573,Jean,Iracabal,1941-07-06,FALSE,Larressore,FALSE,Prop,New Zealand v France,Christchurch,1968-07-13,34,33,1,0,0,0,0,0,0,15,15,4,0.4411764705882353,France,-1.43595,43.37219
+574,Andre,Piazza,1947-12-01,FALSE,Moissac,FALSE,Wing,New Zealand v France,Christchurch,1968-07-13,2,2,0,0,0,0,0,0,0,0,2,0,0,France,1.08468,44.10485200000001
+575,Christian,Boujet,1942-08-29,FALSE,Jarrie,FALSE,"Fullback, Fly-half",New Zealand v France,Wellington,1968-07-27,3,2,1,5,1,1,0,0,0,0,3,0,0,France,5.7547492,45.1124266
+576,Bernard,Dutin,1944-12-09,FALSE,Thomes,FALSE,"Lock, Flanker",New Zealand v France,Wellington,1968-07-27,4,4,0,0,0,0,0,0,0,0,4,0,0,France,-122.096099,39.9904353
+577,Jean-Louis,Berot,1947-07-28,FALSE,Dax,FALSE,"Fly-half, Scrum-half",New Zealand v France,Auckland,1968-08-10,21,21,0,23,1,1,3,3,0,7,10,4,0.3333333333333333,France,-80.3212932,25.8510938
+578,Michel,Billiere,1943-07-16,FALSE,Salles-sur-Garonne,FALSE,Back-row,New Zealand v France,Auckland,1968-08-10,1,1,0,0,0,0,0,0,0,0,1,0,0,France,1.1769369,43.2749669
+579,Claude,Chenevay,1943-02-09,FALSE,Grenoble,FALSE,Flanker,France v South Africa,Bordeaux,1968-11-09,1,1,0,0,0,0,0,0,0,0,1,0,0,France,5.724524,45.188529
+580,Henri,Magois,1947-01-01,FALSE,La Rochelle,FALSE,Fullback,France v South Africa,Bordeaux,1968-11-09,3,3,0,0,0,0,0,0,0,0,3,0,0,France,-1.151139,46.160329
+581,Dominique,Bontemps,1946-05-27,FALSE,Rochefort,FALSE,Flanker,France v South Africa,Colombes,1968-11-16,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-0.9616969999999999,45.936698
+582,Lucien,Paries,1947-08-04,FALSE,Anglet,FALSE,Fly-half,France v South Africa,Colombes,1968-11-16,8,8,0,46,0,8,6,4,0,4,4,0,0.5,France,-1.514699,43.481402
+583,Andre,Ruiz,1947-03-30,FALSE,Semeac,FALSE,Centre,France v South Africa,Colombes,1968-11-16,2,2,0,0,0,0,0,0,0,0,2,0,0,France,0.104721,43.228502
+584,Jean,Sillieres,1946-11-15,FALSE,Marciac,FALSE,Wing,Romania v France,Bucharest,1968-12-01,8,8,0,10,3,0,0,0,0,4,2,2,0.5,France,0.1609549,43.52444999999999
+585,Pierre,Biemouret,1943-04-11,FALSE,Mas d'Auvignon,FALSE,Flanker,England v France,Twickenham,1969-02-22,19,19,0,4,1,0,0,0,0,8,9,2,0.42105263157894735,France,0.502776,43.890673
+586,Michel,Hauser,1945-07-10,FALSE,Lourdes,FALSE,Flanker,England v France,Twickenham,1969-02-22,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-0.045726,43.091463
+587,Basile,Moraitis,1946-01-02,FALSE,Marseille,FALSE,Wing,England v France,Twickenham,1969-02-22,2,2,0,0,0,0,0,0,0,0,1,1,0,France,5.36978,43.296482
+588,Christian,Swierczinski,1947-07-28,FALSE,Saint-Mayme-de-Perey,FALSE,Hooker,England v France,Twickenham,1969-02-22,2,2,0,0,0,0,0,0,0,0,1,1,0,France,5.806113499999999,43.8990714
+589,Jean-Louis,Azarete,1945-05-08,FALSE,Urrugne,FALSE,Prop,France v Wales,Colombes,1969-03-22,26,26,0,0,0,0,0,0,0,11,10,5,0.4230769230769231,France,-1.7000983,43.3623097
+590,Rene,Benesis,1944-08-29,FALSE,Orthez,FALSE,Hooker,France v Wales,Colombes,1969-03-22,30,30,0,0,0,0,0,0,0,15,9,6,0.5,France,-0.7739279,43.48755999999999
+591,Gerard,Viard,1945-05-19,FALSE,Saint-Jean-de-Saucie,FALSE,"Centre, Flanker",France v Wales,Colombes,1969-03-22,5,5,0,0,0,0,0,0,0,3,0,2,0.6,France,-72.1470787,45.6576072
+592,Jean-Pierre,Bastiat,1949-04-11,FALSE,Pouillon,FALSE,"Lock, No. 8",France v Romania,Tarbes,1969-12-14,32,32,0,24,4,1,2,0,0,21,8,3,0.65625,France,-0.99759,43.605171
+593,Roger,Bourgarel,1947-04-21,FALSE,Toulouse,FALSE,Wing,France v Romania,Tarbes,1969-12-14,9,9,0,3,1,0,0,0,0,6,2,1,0.6666666666666666,France,1.444209,43.604652
+594,Pierre,Darbos,1939-12-10,FALSE,Saint-Paul-les-Dax,FALSE,Flanker,France v Romania,Tarbes,1969-12-14,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-1.051409,43.724934
+595,Alain,Marot,1948-03-11,FALSE,Bergerac,FALSE,Centre,France v Romania,Tarbes,1969-12-14,7,7,0,0,0,0,0,0,0,4,3,0,0.5714285714285714,France,0.483392,44.853806
+596,Michel,Savitsky,1946-10-21,FALSE,Sarrians,FALSE,Lock,France v Romania,Tarbes,1969-12-14,1,1,0,0,0,0,0,0,0,1,0,0,1,France,4.971544,44.083415
+597,Jack,Cantoni,1948-05-11,FALSE,Carmaux,FALSE,"Fullback, Wing",Wales v France,Cardiff,1970-04-04,16,15,1,13,3,0,0,1,0,6,7,3,0.375,France,2.16075,44.0500339
+598,Michel,Pebeyre,1948-06-21,FALSE,Brive-la-Gaillarde,FALSE,Scrum-half,France v England,Colombes,1970-04-18,7,7,0,3,1,0,0,0,0,3,2,2,0.42857142857142855,France,1.533937,45.159555
+599,Max,Barrau,1950-11-26,FALSE,Beaumont-de-Lomagne,FALSE,Scrum-half,France v Scotland,Colombes,1971-01-16,15,15,0,4,1,0,0,0,0,8,5,2,0.5333333333333333,France,0.9885109999999999,43.88330999999999
+600,Daniel,Dubois,1944-06-17,FALSE,Le Havre,FALSE,Flanker,France v Scotland,Colombes,1971-01-16,1,1,0,0,0,0,0,0,0,1,0,0,1,France,0.107929,49.49437
+601,Marc,Etcheverry,1942-08-23,FALSE,Pau,FALSE,Prop,France v Scotland,Colombes,1971-01-16,2,2,0,0,0,0,0,0,0,1,0,1,0.5,France,-0.370797,43.2951
+602,Roland,Bertranne,1949-12-06,FALSE,Ibos,FALSE,"Wing, Centre",England v France,Twickenham,1971-02-27,69,69,0,66,17,0,0,0,0,38,25,6,0.5507246376811594,France,0.001574,43.233137
+603,Claude,Spanghero,1948-06-05,FALSE,Payra-sur-l'Hers,FALSE,"Lock, No. 8",England v France,Twickenham,1971-02-27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,France,1.853919,43.267631
+604,Alain,Esteve,1946-09-15,FALSE,Castelnaudary,FALSE,"Lock, Flanker, No. 8",South Africa v France,Bloemfontein,1971-06-12,20,20,0,0,0,0,0,0,0,7,11,2,0.35,France,1.95333,43.317118
+605,Jean-Claude,Skrela,1949-10-01,FALSE,Cornebarrieu,FALSE,Flanker,South Africa v France,Durban,1971-06-19,46,44,2,24,6,0,0,0,0,27,14,5,0.5869565217391305,France,1.326251,43.649136
+606,Andre,Dubertrand,1950-04-25,FALSE,Saubion,FALSE,Wing,France v Australia,Toulouse,1971-11-20,13,13,0,20,5,0,0,0,0,8,3,2,0.6153846153846154,France,-1.348373,43.671017
+607,Jean-Michel,Aguirre,1951-11-02,FALSE,Tostat,FALSE,"Fullback, Scrum-half",France v Australia,Colombes,1971-11-27,39,38,1,123,2,14,28,1,0,25,11,3,0.6410256410256411,France,0.099896,43.329516
+608,Victor,Boffelli,1947-03-20,FALSE,Arques,FALSE,Flanker,France v Australia,Colombes,1971-11-27,18,18,0,8,2,0,0,0,0,8,8,2,0.4444444444444444,France,2.2948,50.73387
+609,Yvan,Buonomo,1946-09-19,FALSE,Sete,FALSE,No. 8,France v Australia,Colombes,1971-11-27,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,France,3.7008219,43.4078758
+610,Jean-Pierre,Hortoland,1947-05-28,FALSE,Marseillan,FALSE,Prop,France v Australia,Colombes,1971-11-27,1,1,0,0,0,0,0,0,0,1,0,0,1,France,3.527539,43.355966
+611,Jean-Louis,Martin,1948-07-17,FALSE,Beziers,FALSE,Prop,France v Australia,Colombes,1971-11-27,4,4,0,0,0,0,0,0,0,2,2,0,0.5,France,3.215795,43.344233
+612,Richard,Astre,1948-08-28,FALSE,Toulouse,FALSE,Scrum-half,France v Romania,Beziers,1971-12-11,11,10,1,10,1,0,0,2,0,5,6,0,0.45454545454545453,France,1.444209,43.604652
+613,Olivier,Saisset,1949-06-07,FALSE,Le Poujol-sur-Oub,FALSE,Back-row,France v Romania,Beziers,1971-12-11,17,17,0,8,2,0,0,0,0,9,7,1,0.5294117647058824,France,3.060416,43.579534
+614,Armand,Vaquerin,1951-02-21,FALSE,Severac-le-Chateau,FALSE,Prop,France v Romania,Beziers,1971-12-11,26,25,1,0,0,0,0,0,0,11,11,4,0.4230769230769231,France,3.07105,44.322012
+615,Jacques,Fouroux,1947-07-24,FALSE,Auch,FALSE,Scrum-half,Ireland v France,Lansdowne Road,1972-04-29,27,27,0,20,5,0,0,0,0,17,7,3,0.6296296296296297,France,0.5867089999999999,43.64638
+616,Henri,Cabrol,1947-02-11,FALSE,Bize-Minervois,FALSE,Fly-half,Australia v France,Sydney,1972-06-17,4,3,1,8,0,4,0,0,0,2,1,1,0.5,France,2.868982,43.317199
+617,Andre,Lubrano,1946-09-19,FALSE,Sete,FALSE,Hooker,Australia v France,Brisbane,1972-06-25,2,2,0,0,0,0,0,0,0,2,0,0,1,France,3.7008219,43.4078758
+618,Jean-Claude,Rossignol,1945-08-10,FALSE,Grignols,FALSE,"Prop, Lock",Australia v France,Brisbane,1972-06-25,1,1,0,0,0,0,0,0,0,1,0,0,1,France,-0.041861,44.389481
+619,Michel,Droitecourt,1949-10-30,FALSE,Meaux,FALSE,"Fullback, Wing",Romania v France,Constanta,1972-11-26,17,16,1,14,2,3,0,0,0,9,6,2,0.5294117647058824,France,2.8884657,48.9562018
+620,Jean-Pierre,Romeu,1948-04-15,FALSE,Thuir,FALSE,Fly-half,Romania v France,Constanta,1972-11-26,34,33,1,265,4,27,56,9,0,21,10,3,0.6176470588235294,France,2.756348,42.63243
+621,Andre,Darrieussecq,1947-06-04,FALSE,Saint-Jean-de-Luz,FALSE,Prop,England v France,Twickenham,1973-02-24,1,1,0,0,0,0,0,0,0,0,1,0,0,France,-1.663055,43.388051
+622,Christian,Badin,1949-09-11,FALSE,Pont-de-Vaux,FALSE,Centre,France v Wales,Parc des Princes,1973-03-24,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,France,4.938149,46.43027800000001
+623,Jean-Francois,Phliponeau,1950-11-23,FALSE,Fort-de-l'Eau,FALSE,Wing,France v Wales,Parc des Princes,1973-03-24,2,2,0,4,1,0,0,0,0,1,1,0,0.5,France,3.2322593,36.7611607
+624,Gilles,Delaigue,1949-11-23,FALSE,Sainte-Colombe,FALSE,Centre,France v Japan,Bordeaux,1973-10-27,2,2,0,4,1,0,0,0,0,2,0,0,1,France,4.8574205,45.5269123
+625,Jacques,Rougerie,1945-06-21,FALSE,Pamiers,FALSE,"Prop, Hooker",France v Japan,Bordeaux,1973-10-27,1,1,0,0,0,0,0,0,0,1,0,0,1,France,1.607953,43.114753
+626,Michel,Sappa,1943-03-19,FALSE,Toulon,FALSE,Lock,France v Japan,Bordeaux,1973-10-27,3,3,0,0,0,0,0,0,0,3,0,0,1,France,5.928,43.124228
+627,Rene,Seguier,1949-09-08,FALSE,Vendres,FALSE,Wing,France v Japan,Bordeaux,1973-10-27,2,2,0,0,0,0,0,0,0,2,0,0,1,France,3.225202,43.269435
+628,Jean,Costantino,1944-09-28,FALSE,Montauban,FALSE,"Prop, Hooker",France v Romania,Valence d,1973-11-11,1,1,0,0,0,0,0,0,0,1,0,0,1,France,1.3529599,44.0221252
+629,Daniel,Kaczorowski,1952-10-31,FALSE,Le Creusot,FALSE,Flanker,France v Ireland,Parc des Princes,1974-01-19,1,0,1,0,0,0,0,0,0,1,0,0,1,France,4.4278,46.80535099999999
+630,Joel,Pecune,1951-03-03,FALSE,Ibos,FALSE,"Wing, Centre",Wales v France,Cardiff,1974-02-16,10,10,0,16,4,0,0,0,0,6,2,2,0.6,France,0.001574,43.233137
+631,Jean-Francois,Gourdon,1954-09-28,FALSE,Paris,FALSE,Wing,Scotland v France,Murrayfield,1974-03-16,22,22,0,48,12,0,0,0,0,14,8,0,0.6363636363636364,France,2.3522219,48.856614
+632,Francis,Haget,1949-10-01,FALSE,Sauveterre-de-Bearn,FALSE,Lock,Argentina v France,Buenos Aires,1974-06-20,40,40,0,4,1,0,0,0,0,24,13,3,0.6,France,-0.9418209999999998,43.398984
+633,Alain,Paco,1952-05-01,FALSE,Beziers,FALSE,"Prop, Hooker",Argentina v France,Buenos Aires,1974-06-20,35,35,0,4,1,0,0,0,0,24,10,1,0.6857142857142857,France,3.215795,43.344233
+634,Georges,Senal,1947-04-21,FALSE,Serignan,FALSE,Lock,Argentina v France,Buenos Aires,1974-06-20,6,6,0,0,0,0,0,0,0,2,4,0,0.3333333333333333,France,3.279651,43.282801
+635,Laurent,Desnoyer,1948-05-19,FALSE,Brive-la-Gaillarde,FALSE,Wing,Romania v France,Bucharest,1974-10-13,1,1,0,0,0,0,0,0,0,0,1,0,0,France,1.533937,45.159555
+636,Jean-Martin,Etchenique,1954-01-17,FALSE,Ustaritz,FALSE,Centre,Romania v France,Bucharest,1974-10-13,4,4,0,4,1,0,0,0,0,2,2,0,0.5,France,-1.45459,43.395936
+637,Michel,Taffary,1950-05-25,FALSE,Peyrehorade,FALSE,Fullback,France v Wales,Parc des Princes,1975-01-18,4,4,0,6,0,0,2,0,0,2,2,0,0.5,France,-1.097208,43.545627
+638,Gerard,Cholley,1945-06-06,FALSE,Fontaine-les-Luxeuil,FALSE,"Prop, Lock",England v France,Twickenham,1975-02-01,31,31,0,12,3,0,0,0,0,22,7,2,0.7096774193548387,France,6.334178,47.856758
+639,Alain,Guilbert,1950-09-28,FALSE,Saint-Maur-des-Fosse,FALSE,"Lock, No. 8",England v France,Twickenham,1975-02-01,14,14,0,4,1,0,0,0,0,7,5,2,0.5,France,2.485429,48.8029439
+640,Jean-Pierre,Rives,1952-12-31,FALSE,Toulouse,FALSE,Flanker,England v France,Twickenham,1975-02-01,59,59,0,20,5,0,0,0,0,39,17,3,0.6610169491525424,France,1.444209,43.604652
+641,Jean-Luc,Averous,1954-10-22,FALSE,Beziers,FALSE,Wing,France v Scotland,Parc des Princes,1975-02-15,25,25,0,28,7,0,0,0,0,16,9,0,0.64,France,3.215795,43.344233
+642,Jean-Louis,Ugartemendia,1943-07-10,FALSE,Bayonne,FALSE,Hooker,France v Scotland,Parc des Princes,1975-02-15,2,2,0,0,0,0,0,0,0,1,1,0,0.5,France,-74.1143091,40.6687141
+643,Francois,Sangalli,1952-09-08,FALSE,Narbonne,FALSE,Centre,Ireland v France,Lansdowne Road,1975-03-01,15,15,0,4,1,0,0,0,0,9,5,1,0.6,France,3.003078,43.184277
+644,Yves,Brunet,1950-08-25,FALSE,Peyrestortes,FALSE,Hooker,South Africa v France,Bloemfontein,1975-06-21,2,2,0,0,0,0,0,0,0,1,1,0,0.5,France,2.853171,42.754843
+645,Dominique,Harize,1956-02-26,FALSE,Saint-Cere,FALSE,Wing,South Africa v France,Bloemfontein,1975-06-21,9,9,0,16,4,0,0,0,0,6,3,0,0.6666666666666666,France,1.892482,44.85943899999999
+646,Michel,Palmie,1951-12-01,FALSE,Beziers,FALSE,Lock,South Africa v France,Bloemfontein,1975-06-21,23,23,0,0,0,0,0,0,0,17,5,1,0.7391304347826086,France,3.215795,43.344233
+647,Robert,Paparemborde,1948-07-05,FALSE,Laruns,FALSE,Prop,South Africa v France,Bloemfontein,1975-06-21,55,55,0,32,8,0,0,0,0,34,20,1,0.6181818181818182,France,-0.426274,42.987644
+648,Patrice,Peron,1949-06-20,FALSE,Colombes,FALSE,Flanker,South Africa v France,Bloemfontein,1975-06-21,2,2,0,4,1,0,0,0,0,0,2,0,0,France,2.2533313,48.9220615
+649,Jean-Pierre,Pesteil,1954-11-12,FALSE,Vendres,FALSE,Utility back,South Africa v France,Bloemfontein,1975-06-21,3,3,0,9,0,3,1,0,0,1,2,0,0.3333333333333333,France,3.225202,43.269435
+650,Gerard,Rousset,1953-01-21,FALSE,Bourg-les-Valence,FALSE,Back-row,South Africa v France,Bloemfontein,1975-06-21,2,2,0,4,1,0,0,0,0,1,1,0,0.5,France,4.9029212,44.9518575
+651,Jean-Francois,Imbernon,1951-10-17,FALSE,Perpignan,FALSE,Lock,France v Ireland,Parc des Princes,1976-02-07,23,23,0,0,0,0,0,0,0,18,3,2,0.782608695652174,France,2.8948332,42.6886591
+652,Rene,Berges-Cau,1949-10-28,FALSE,Encausse-les-Thermes,FALSE,Fullback,France v England,Parc des Princes,1976-03-20,1,0,1,0,0,0,0,0,0,1,0,0,1,France,0.743888,43.0506839
+653,Jacques,Cimarosti,1950-10-23,FALSE,Lourdes,FALSE,Centre,United States of America v France,Chicago,1976-06-12,1,0,1,0,0,0,0,0,0,1,0,0,1,France,-0.045726,43.091463
+654,Guy,Gasparotto,1948-06-02,FALSE,Aucamville,FALSE,Lock,France v Australia,Parc des Princes,1976-10-30,2,2,0,0,0,0,0,0,0,1,1,0,0.5,France,1.429713,43.66907399999999
+655,Daniel,Bustaffa,1956-01-11,FALSE,Carcassonne,FALSE,Wing,Argentina v France,Buenos Aires,1977-06-25,11,11,0,4,1,0,0,0,0,3,7,1,0.2727272727272727,France,2.3517703,43.2132151
+656,Jean-Luc,Joinel,1953-09-21,FALSE,Saint-Vincent-de-Cos,FALSE,Back-row,France v New Zealand,Toulouse,1977-11-11,51,51,0,4,1,0,0,0,NA,29,19,3,0.5686274509803921,France,-97.1361706,37.6872906
+657,Guy,Noves,1954-02-05,FALSE,Toulouse,FALSE,Wing,France v New Zealand,Toulouse,1977-11-11,7,7,0,0,0,0,0,0,NA,4,2,1,0.5714285714285714,France,1.444209,43.604652
+658,Jacques,Gasc,1949-12-24,FALSE,Graulhet,FALSE,Flanker,France v New Zealand,Parc des Princes,1977-11-19,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,1.988911,43.759597
+659,Christian,Belascain,1953-11-01,FALSE,Biarritz,FALSE,Centre,France v Romania,Clermont-Ferrand,1977-12-10,18,18,0,4,1,0,0,0,NA,11,6,1,0.6111111111111112,France,-1.558626,43.4831519
+660,Pierre,Dospital,1950-05-15,FALSE,Itxassou,FALSE,Prop,France v Romania,Clermont-Ferrand,1977-12-10,24,24,0,0,0,0,0,0,NA,16,6,2,0.6666666666666666,France,-1.406347,43.329845
+661,Jerome,Gallion,1955-04-04,FALSE,Toulon,FALSE,Scrum-half,France v England,Parc des Princes,1978-01-21,27,27,0,40,10,0,0,0,NA,17,6,4,0.6296296296296297,France,5.928,43.124228
+662,Bernard,Vivies,1953-09-03,FALSE,Rieumes,FALSE,"Fullback, Fly-half",France v England,Parc des Princes,1978-01-21,10,8,2,20,0,1,4,2,NA,4,5,1,0.4,France,1.1175788,43.4121122
+663,Louis,Bilbao,1956-09-14,FALSE,Saint-Jean-de-Luz,FALSE,Wing,France v Ireland,Parc des Princes,1978-02-18,2,2,0,0,0,0,0,0,NA,1,0,1,0.5,France,-1.663055,43.388051
+664,Alain,Caussade,1952-07-27,FALSE,Juillan,FALSE,"Wing, Fly-half",Romania v France,Bucharest,1978-12-03,12,11,1,42,2,5,3,5,NA,6,5,1,0.5,France,0.022854,43.2020539
+665,Michel,Clemente,1955-11-03,FALSE,Oloron-Sainte-Marie,FALSE,No. 8,Romania v France,Bucharest,1978-12-03,3,3,0,0,0,0,0,0,NA,2,1,0,0.6666666666666666,France,-0.6052919999999999,43.194413
+666,Yves,Lafarge,1953-01-16,FALSE,Chaville,FALSE,"Centre, Scrum-half",Romania v France,Bucharest,1978-12-03,3,2,1,0,0,0,0,0,NA,2,1,0,0.6666666666666666,France,2.192418,48.808026
+667,Alain,Maleig,1952-07-10,FALSE,Oloron-Sainte-Marie,FALSE,"Lock, No. 8",France v Wales,Parc des Princes,1979-02-17,7,7,0,0,0,0,0,0,NA,2,5,0,0.2857142857142857,France,-0.6052919999999999,43.194413
+668,Frederic,Costes,1957-06-27,FALSE,La Rochelle,FALSE,Wing,England v France,Twickenham,1979-03-03,7,7,0,4,1,0,0,0,NA,4,3,0,0.5714285714285714,France,-1.151139,46.160329
+669,Roger,Aguerre,1957-03-13,FALSE,Mauleon,FALSE,Fly-half,France v Scotland,Parc des Princes,1979-03-17,1,1,0,6,0,0,1,1,NA,1,0,0,1,France,-0.8895000000000001,43.220131
+670,Yves,Malquier,1956-05-07,FALSE,Sigean,FALSE,No. 8,France v Scotland,Parc des Princes,1979-03-17,1,1,0,8,2,0,0,0,NA,1,0,0,1,France,2.979255,43.02891
+671,Jean-Francois,Marchal,1949-12-16,FALSE,Paris,FALSE,Lock,France v Scotland,Parc des Princes,1979-03-17,5,5,0,4,1,0,0,0,NA,3,2,0,0.6,France,2.3522219,48.856614
+672,Christian,Beguerie,1955-07-26,FALSE,Layrac,FALSE,Back-row,New Zealand v France,Christchurch,1979-07-07,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,0.660689,44.134673
+673,Dier,di Codorniou,1958-02-13,FALSE,Narbonne,FALSE,Centre,New Zealand v France,Christchurch,1979-07-07,31,31,0,20,5,0,0,0,NA,18,10,3,0.5806451612903226,France,3.003078,43.184277
+674,Guy,Colomine,1955-07-11,FALSE,Narbonne,FALSE,Prop,New Zealand v France,Christchurch,1979-07-07,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,3.003078,43.184277
+675,Philippe,Dintrans,1957-01-29,FALSE,Tarbes,FALSE,Hooker,New Zealand v France,Christchurch,1979-07-07,50,50,0,12,3,0,0,0,NA,27,20,3,0.54,France,0.078082,43.23295100000001
+676,Patrick,Mesny,1954-08-19,FALSE,Montlucon,FALSE,Centre,New Zealand v France,Christchurch,1979-07-07,14,13,1,12,3,0,0,0,NA,7,7,0,0.5,France,2.6019912,46.3415466
+677,Patrick,Salas,1954-03-03,FALSE,Narbonne,FALSE,"Prop, Lock, No. 8",New Zealand v France,Christchurch,1979-07-07,7,7,0,0,0,0,0,0,NA,3,4,0,0.42857142857142855,France,3.003078,43.184277
+678,Daniel,Dubroca,1954-04-25,FALSE,Aiguillon,FALSE,"Prop, Hooker",New Zealand v France,Auckland,1979-07-14,33,32,1,8,2,0,0,0,NA,22,10,1,0.6666666666666666,France,-71.22162689999999,46.80928100000001
+679,Jacques,Cristina,1948-07-07,FALSE,Clermont-Ferrand,FALSE,No. 8,France v Romania,Montauban,1979-12-02,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,3.087025,45.77722199999999
+680,Manuel,Carpentier,1959-10-15,FALSE,Calais,FALSE,"Lock, No. 8",France v England,Parc des Princes,1980-02-02,8,8,0,0,0,0,0,0,NA,2,6,0,0.25,France,1.858686,50.95129000000001
+681,Yves,Duhard,1955-07-11,FALSE,Bagneres-de-Bigorre,FALSE,Lock,France v England,Parc des Princes,1980-02-02,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,0.1491049,43.065093
+682,Serge,Gabernet,1955-02-06,FALSE,Montrejeau,FALSE,Fullback,France v England,Parc des Princes,1980-02-02,14,14,0,48,2,2,11,1,NA,8,6,0,0.5714285714285714,France,0.5670569999999999,43.086263
+683,Pierre,Pedeutour,1955-03-30,FALSE,Menzel-Bou-Zulfa,FALSE,Fly-half,France v Ireland,Parc des Princes,1980-03-01,1,1,0,3,0,0,0,1,NA,1,0,0,1,France,10.5830644,36.6832659
+684,Serge,Blanco,1958-08-31,FALSE,Caracas,FALSE,"Fullback, Wing",South Africa v France,Pretoria,1980-11-08,93,93,0,233,38,6,21,2,NA,54,36,3,0.5806451612903226,France,-66.90360629999999,10.4805937
+685,Jean-Pierre,Elissalde,1953-12-31,FALSE,La Rochelle,FALSE,Scrum-half,South Africa v France,Pretoria,1980-11-08,5,5,0,11,2,0,0,1,NA,1,4,0,0.2,France,-1.151139,46.160329
+686,Pierre,Lacans,1957-04-23,FALSE,Lezignan,FALSE,Flanker,South Africa v France,Pretoria,1980-11-08,6,6,0,8,2,0,0,0,NA,3,3,0,0.5,France,2.7577759,43.200503
+687,Laurent,Pardo,1958-02-19,FALSE,Bayonne,FALSE,"Fullback, Wing, Centre",South Africa v France,Pretoria,1980-11-08,14,13,1,12,3,0,0,0,NA,6,6,2,0.42857142857142855,France,-74.1143091,40.6687141
+688,Jean-Paul,Wolf,1960-11-07,FALSE,Montreuil-sous-Bois,FALSE,"Prop, Lock",South Africa v France,Pretoria,1980-11-08,4,4,0,0,0,0,0,0,NA,0,4,0,0,France,2.448451,48.863812
+689,Eric,Buchet,1957-11-28,FALSE,Nice,FALSE,Flanker,Romania v France,Bucharest,1980-11-23,5,4,1,0,0,0,0,0,NA,2,3,0,0.4,France,-73.8938426,40.7467228
+690,Michel,Cremaschi,1956-04-26,FALSE,Betbezer,FALSE,Prop,Romania v France,Bucharest,1980-11-23,11,11,0,0,0,0,0,0,NA,5,5,1,0.45454545454545453,France,-0.171965,43.976052
+691,Jean-Pierre,Fauvel,1956-02-09,FALSE,Castillonnes,FALSE,Flanker,Romania v France,Bucharest,1980-11-23,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,0.5917129999999999,44.652901
+692,Pierre,Berbizier,1958-06-17,FALSE,Saint-Gaudens,FALSE,Scrum-half,France v Scotland,Parc des Princes,1981-01-17,56,55,1,28,7,0,0,0,NA,32,23,1,0.5714285714285714,France,-72.3687458,43.5010949
+693,Daniel,Revailler,1948-08-20,FALSE,Rabastens,FALSE,Lock,France v Scotland,Parc des Princes,1981-01-17,14,14,0,0,0,0,0,0,NA,7,7,0,0.5,France,1.724549,43.8211889
+694,Guy,Laporte,1952-12-15,FALSE,Beaufort,FALSE,Fly-half,Ireland v France,Lansdowne Road,1981-02-07,16,14,2,143,3,19,23,8,NA,11,5,0,0.6875,France,-80.6698286,32.4315813
+695,Dominique,Erbani,1956-08-16,FALSE,Eymet,FALSE,Back-row,Australia v France,Brisbane,1981-07-05,46,42,4,12,3,0,0,0,NA,30,13,3,0.6521739130434783,France,0.397723,44.668628
+696,Michel,Fabre,1956-09-11,FALSE,Pezenas,FALSE,Wing,Australia v France,Brisbane,1981-07-05,6,6,0,4,1,0,0,0,NA,2,4,0,0.3333333333333333,France,3.423193,43.461531
+697,Alain,Lorieux,1956-03-26,FALSE,La Tronche,FALSE,Lock,Australia v France,Brisbane,1981-07-05,30,29,1,12,3,0,0,0,NA,20,9,1,0.6666666666666666,France,5.737805,45.205168
+698,Laurent,Rodriguez,1960-06-25,FALSE,Poitiers,FALSE,Back-row,Australia v France,Brisbane,1981-07-05,56,56,0,28,7,0,0,0,NA,29,24,3,0.5178571428571429,France,0.340375,46.58022400000001
+699,Adrien,Mournet,1953-07-05,FALSE,Galan,FALSE,Scrum-half,Australia v France,Brisbane,1981-07-05,1,0,1,0,0,0,0,0,NA,0,1,0,0,France,-94.8804779,36.8726112
+700,Marc,Sallefranque,1960-04-06,FALSE,Dax,FALSE,"Fullback, Fly-half",Australia v France,Sydney,1981-07-11,4,4,0,19,0,2,4,1,NA,0,4,0,0,France,-80.3212932,25.8510938
+701,Jean-Patrick,Lescarboura,1961-01-19,FALSE,Monein,FALSE,Fly-half,Wales v France,Cardiff,1982-02-06,28,28,0,200,6,19,31,15,NA,13,12,3,0.4642857142857143,France,-0.5796089999999999,43.320123
+702,Gerard,Martinez,1955-03-30,FALSE,Montrejeau,FALSE,Scrum-half,Wales v France,Cardiff,1982-02-06,7,7,0,3,0,0,1,0,NA,4,3,0,0.5714285714285714,France,0.5670569999999999,43.086263
+703,Patrick,Perrier,1957-01-20,FALSE,Bayonne,FALSE,Centre,Wales v France,Cardiff,1982-02-06,4,3,1,0,0,0,0,0,NA,1,3,0,0.25,France,-74.1143091,40.6687141
+704,Dier,di Camberabero,1961-01-09,FALSE,Valence,FALSE,"Fullback, Wing, Fly-half",Romania v France,Bucharest,1982-10-31,36,34,2,354,12,48,59,11,NA,24,12,0,0.6666666666666666,France,-97.3880416,37.6408051
+705,Pierre,Chadebech,1959-05-03,FALSE,Ussel,FALSE,Centre,Romania v France,Bucharest,1982-10-31,5,5,0,0,0,0,0,0,NA,3,2,0,0.6,France,2.313835,45.548905
+706,Jean,Condom,1960-08-15,FALSE,Saint-Andre-de-Seign,FALSE,Lock,Romania v France,Bucharest,1982-10-31,61,60,1,0,0,0,0,0,NA,38,19,4,0.6229508196721312,France,-66.949883,48.066639
+707,Patrick,Esteve,1959-02-14,FALSE,Lavelanet,FALSE,Wing,Romania v France,Bucharest,1982-10-31,25,25,0,48,12,0,0,0,NA,15,6,4,0.6,France,1.851472,42.937653
+708,Philippe,Sella,1962-02-14,FALSE,Tonneins,FALSE,"Wing, Centre",Romania v France,Bucharest,1982-10-31,111,110,1,125,30,0,0,0,NA,70,36,5,0.6306306306306306,France,0.308179,44.39118300000001
+709,Thierry,Janeczek,1959-08-04,FALSE,St-Denis-du-Sig,FALSE,Flanker,France v Argentina,Toulouse,1982-11-14,3,3,0,0,0,0,0,0,NA,2,1,0,0.6666666666666666,France,-72.0798544,45.4583886
+710,Jean-Charles,Orso,1958-01-06,FALSE,Cannes,FALSE,"Lock, No. 8",France v Argentina,Toulouse,1982-11-14,11,9,2,0,0,0,0,0,NA,7,2,2,0.6363636363636364,France,7.017369,43.552847
+711,Jacques,Begu,1957-04-22,FALSE,Dax,FALSE,Wing,France v Argentina,Parc des Princes,1982-11-20,3,2,1,8,2,0,0,0,NA,2,1,0,0.6666666666666666,France,-80.3212932,25.8510938
+712,Christian,Delage,1954-01-16,FALSE,Brive-la-Gaillarde,FALSE,Fly-half,France v Scotland,Parc des Princes,1983-02-05,2,2,0,0,0,0,0,0,NA,1,1,0,0.5,France,1.533937,45.159555
+713,Jean-Louis,Dupont,1956-03-17,FALSE,Beaumont-de-Lomagne,FALSE,Hooker,France v Scotland,Parc des Princes,1983-02-05,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,0.9885109999999999,43.88330999999999
+714,Bernard,Herrero,1957-09-19,FALSE,Toulon,FALSE,Hooker,Ireland v France,Lansdowne Road,1983-02-19,2,2,0,0,0,0,0,0,NA,0,2,0,0,France,5.928,43.124228
+715,Jean-Pierre,Garuet-Lempirou,1953-06-15,FALSE,Lourdes,FALSE,Prop,France v Australia,Clermont-Ferrand,1983-11-13,42,41,1,0,0,0,0,0,NA,24,14,4,0.5714285714285714,France,-0.045726,43.091463
+716,Jean-Baptiste,Lafond,1961-12-29,FALSE,Neuilly-sur-Seine,FALSE,"Fullback, Wing",France v Australia,Clermont-Ferrand,1983-11-13,36,32,4,101,14,7,8,2,NA,26,9,1,0.7222222222222222,France,2.26851,48.884831
+717,Patrice,Lagisquet,1962-09-04,FALSE,Arcachon,FALSE,Wing,France v Australia,Clermont-Ferrand,1983-11-13,46,45,1,80,20,0,0,0,NA,27,17,2,0.5869565217391305,France,-1.1785016,44.652297
+718,Pierre-Edouard,Detrez,1956-06-17,FALSE,Paris,FALSE,Prop,France v Australia,Parc des Princes,1983-11-19,5,2,3,0,0,0,0,0,NA,2,3,0,0.4,France,2.3522219,48.856614
+719,Jacques,Gratton,1957-11-29,FALSE,Lectoure,FALSE,Flanker,New Zealand v France,Auckland,1984-06-23,10,10,0,0,0,0,0,0,NA,4,4,2,0.4,France,0.623621,43.933604
+720,Eric,Bonneval,1963-11-19,FALSE,Toulouse,FALSE,"Wing, Centre",New Zealand v France,Auckland,1984-06-23,18,17,1,32,8,0,0,0,NA,13,5,0,0.7222222222222222,France,1.444209,43.604652
+721,Bernard,Lavigne,1954-08-23,FALSE,Castillonnes,FALSE,Wing,Romania v France,Bucharest,1984-11-10,2,2,0,0,0,0,0,0,NA,1,0,1,0.5,France,0.5917129999999999,44.652901
+722,Eric,Champ,1962-06-08,FALSE,Toulon,FALSE,Flanker,Argentina v France,Buenos Aires,1985-06-22,42,42,0,12,3,0,0,0,NA,30,11,1,0.7142857142857143,France,5.928,43.124228
+723,Herve,Chabowski,1959-08-20,FALSE,Cavaillon,FALSE,Prop,Argentina v France,Buenos Aires,1985-06-29,4,3,1,0,0,0,0,0,NA,2,2,0,0.5,France,5.0407814,43.8366045
+724,Thierry,Picard,1956-11-10,FALSE,Saint-Sauves-d'Auver,FALSE,"Lock, No. 8",Argentina v France,Buenos Aires,1985-06-29,3,2,1,0,0,0,0,0,NA,3,0,0,1,France,2.688067,45.605334
+725,Philippe,Marocco,1960-06-14,FALSE,Cintegabelle,FALSE,"Prop, Hooker",Scotland v France,Murrayfield,1986-01-18,21,19,2,4,1,0,0,0,NA,14,7,0,0.6666666666666666,France,1.53157,43.313989
+726,Denis,Charvet,1962-05-12,FALSE,Cahors,FALSE,"Wing, Centre",Wales v France,Cardiff,1986-03-01,23,22,1,27,6,0,1,0,NA,16,6,1,0.6956521739130435,France,1.441989,44.4475229
+727,Jerome,Bianchi,1961-07-31,FALSE,Pau,FALSE,Fullback,Argentina v France,Buenos Aires,1986-05-31,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,-0.370797,43.2951
+728,Marc,Andrieu,1959-09-19,FALSE,Carmaux,FALSE,"Wing, Centre",Argentina v France,Buenos Aires,1986-06-07,26,25,1,24,6,0,0,0,NA,18,8,0,0.6923076923076923,France,2.16075,44.0500339
+729,Claude,Portolan,1960-12-16,FALSE,Auterive,FALSE,Prop,Australia v France,Sydney,1986-06-21,3,3,0,0,0,0,0,0,NA,1,2,0,0.3333333333333333,France,1.4775069,43.352627
+730,Patrick,Serriere,1960-07-07,FALSE,Saint-Cloud,FALSE,Lock,Australia v France,Sydney,1986-06-21,3,3,0,0,0,0,0,0,NA,2,1,0,0.6666666666666666,France,-94.16324039999999,45.5579451
+731,Philippe,Berot,1965-01-29,FALSE,Tarbes,FALSE,"Fullback, Wing",Romania v France,Bucharest,1986-10-23,19,19,0,159,3,24,33,0,NA,14,5,0,0.7368421052631579,France,0.078082,43.23295100000001
+732,Alain,Carminati,1966-08-17,FALSE,Champagnole,FALSE,Back-row,Romania v France,Bucharest,1986-10-23,20,19,1,14,3,0,0,0,NA,14,6,0,0.7,France,5.905724999999999,46.746091
+733,Franck,Mesnel,1961-06-30,FALSE,Neuilly-sur-Seine,FALSE,"Centre, Fly-half",France v New Zealand,Toulouse,1986-11-08,56,54,2,41,8,0,0,3,NA,38,17,1,0.6785714285714286,France,2.26851,48.884831
+734,Pascal,Ondarts,1956-04-01,FALSE,Meharin,FALSE,"Prop, Hooker",France v New Zealand,Nantes,1986-11-15,42,41,1,4,1,0,0,0,NA,29,12,1,0.6904761904761905,France,-1.144804,43.33305
+735,Louis,Armary,1963-07-24,FALSE,Lourdes,FALSE,Prop,France v Romania,Wellington,1987-05-28,47,45,2,4,1,0,0,0,NA,32,14,1,0.6808510638297872,France,-0.045726,43.091463
+736,Rodolphe,Modin,1959-03-26,FALSE,Paris,FALSE,Scrum-half,France v Zimbabwe,Auckland,1987-06-02,1,1,0,12,3,0,0,0,NA,1,0,0,1,France,2.3522219,48.856614
+737,Jean-Louis,Tolot,1957-06-13,FALSE,Montagnac-sur-Auvign,FALSE,Prop,France v Zimbabwe,Auckland,1987-06-02,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,0.459935,44.160786
+738,Karl,Janik,1960-01-12,FALSE,Oujda,FALSE,Flanker,France v Romania,Agen,1987-11-11,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,-1.900155,34.681962
+739,Marc,Cecillon,1959-01-30,FALSE,Bourgoin,FALSE,No. 8,France v Ireland,Parc des Princes,1988-02-20,46,43,3,38,9,0,0,0,NA,31,14,1,0.6739130434782609,France,5.27212,45.597108
+740,Michel,Hondagne-Monge,1961-03-10,FALSE,Alfou,FALSE,Scrum-half,Argentina v France,Buenos Aires,1988-06-25,1,0,1,0,0,0,0,0,NA,0,1,0,0,France,2.3788939,41.64896479999999
+741,Gilles,Bourguignon,1964-01-31,FALSE,Evereux,FALSE,Lock,France v Argentina,Nantes,1988-11-05,6,6,0,0,0,0,0,0,NA,2,4,0,0.3333333333333333,France,1.151361,49.0270129
+742,Henri,Sanz,1963-01-17,FALSE,Versailles,FALSE,Scrum-half,France v Argentina,Nantes,1988-11-05,11,11,0,4,1,0,0,0,NA,6,5,0,0.5454545454545454,France,2.1203554,48.8048649
+743,Pierre,Harislur-Arthapignet,1963-04-02,FALSE,Mauleon,FALSE,"Hooker, No. 8",France v Argentina,Lille,1988-11-11,1,0,1,0,0,0,0,0,NA,1,0,0,1,France,-0.8895000000000001,43.220131
+744,Thierry,Devergie,1966-07-27,FALSE,Marseille,FALSE,Lock,Romania v France,Bucharest,1988-11-26,17,15,2,0,0,0,0,0,NA,9,8,0,0.5294117647058824,France,5.36978,43.296482
+745,Marc dal,Maso,1967-02-14,FALSE,Escalans,FALSE,Hooker,Romania v France,Bucharest,1988-11-26,33,19,14,20,4,0,0,0,NA,19,14,0,0.5757575757575758,France,0.042046,43.978996
+746,Dominique,Bouet,1964-03-31,FALSE,Sort-en-Chalosse,FALSE,Hooker,New Zealand v France,Christchurch,1989-06-17,5,5,0,0,0,0,0,0,NA,2,3,0,0.4,France,-0.930312,43.683106
+747,Philippe,Rouge-Thomas,1961-08-01,FALSE,Lannemezan,FALSE,Fly-half,New Zealand v France,Christchurch,1989-06-17,2,2,0,4,1,0,0,0,NA,0,2,0,0,France,0.38396,43.125519
+748,Olivier,Roumat,1966-06-16,FALSE,Mont-de-Marsan,FALSE,"Lock, Flanker, No. 8",New Zealand v France,Auckland,1989-07-01,61,58,3,23,5,0,0,0,NA,35,25,1,0.5737704918032787,France,-0.4997819999999999,43.893485
+749,Philippe,Benetton,1968-05-17,FALSE,Cahors,FALSE,Flanker,France v British and Irish Lions XV,Parc des Princes,1989-10-04,59,47,12,34,7,0,0,0,NA,39,19,1,0.6610169491525424,France,1.441989,44.4475229
+750,Bernard,Lacombe,1963-02-08,FALSE,Rouen,FALSE,Wing,France v British and Irish Lions XV,Parc des Princes,1989-10-04,2,2,0,4,1,0,0,0,NA,0,2,0,0,France,1.099971,49.44323199999999
+751,Marc,Pujolle,1962-09-18,FALSE,Nimes,FALSE,"Prop, Lock",France v British and Irish Lions XV,Parc des Princes,1989-10-04,8,8,0,0,0,0,0,0,NA,1,7,0,0.125,France,4.360054,43.836699
+752,Laurent,Seigne,1960-08-12,FALSE,Tulle,FALSE,Prop,France v British and Irish Lions XV,Parc des Princes,1989-10-04,15,13,2,0,0,0,0,0,NA,7,8,0,0.4666666666666667,France,-73.986361,40.752714
+753,Stephane,Weller,1966-06-13,FALSE,Juvisy-sur-Orge,FALSE,Wing,France v Australia,Strasbourg,1989-11-04,4,4,0,0,0,0,0,0,NA,1,3,0,0.25,France,2.3708618,48.692871
+754,Thierry,Lacroix,1967-03-02,FALSE,Nogaro,FALSE,Fly-half,France v Australia,Strasbourg,1989-11-04,43,39,4,367,6,32,89,2,NA,29,13,1,0.6744186046511628,France,-0.0312656,43.7710318
+755,Peyo,Hontas,1966-07-19,FALSE,Biarritz,FALSE,Wing,Scotland v France,Murrayfield,1990-02-17,9,9,0,0,0,0,0,0,NA,5,4,0,0.5555555555555556,France,-1.558626,43.4831519
+756,Jean-Marc,Lhermet,1967-08-14,FALSE,Montlucon,FALSE,Flanker,Scotland v France,Murrayfield,1990-02-17,3,3,0,0,0,0,0,0,NA,2,1,0,0.6666666666666666,France,2.6019912,46.3415466
+757,Eric,Melville,1961-06-27,FALSE,Cape Town,FALSE,Flanker,France v Ireland,Parc des Princes,1990-03-03,6,5,1,0,0,0,0,0,NA,3,3,0,0.5,France,18.4240553,-33.9248685
+758,Philippe,Gallart,1962-12-18,FALSE,Beziers,FALSE,Prop,France v Romania,Auch,1990-05-24,18,16,2,0,0,0,0,0,NA,10,8,0,0.5555555555555556,France,3.215795,43.344233
+759,Jean-Claude,Langlade,1963-02-02,FALSE,Clermont-Ferrand,FALSE,Centre,France v Romania,Auch,1990-05-24,3,3,0,0,0,0,0,0,NA,0,3,0,0,France,3.087025,45.77722199999999
+760,Philippe,Saint-Andre,1967-04-19,FALSE,Romans-sur-Isere,FALSE,Wing,France v Romania,Auch,1990-05-24,69,68,1,152,32,0,0,0,NA,46,22,1,0.6666666666666666,France,5.052735,45.044236
+761,Abdelatif,Benazzi,1968-08-20,FALSE,Ouija,FALSE,Lock,Australia v France,Sydney,1990-06-09,78,71,7,45,9,0,0,0,NA,48,30,0,0.6153846153846154,France,-95.712891,37.09024
+762,Christophe,Deslandes,1965-01-02,FALSE,Saint-Monde,FALSE,No. 8,Australia v France,Sydney,1990-06-09,6,6,0,0,0,0,0,0,NA,4,2,0,0.6666666666666666,France,2.4178639,48.84283199999999
+763,Fabrice,Heyer,1965-11-05,FALSE,Clermont Ferrand,FALSE,Prop,Australia v France,Brisbane,1990-06-24,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,3.087025,45.77722199999999
+764,Xavier,Blond,1967-08-28,FALSE,Lagny-sur-Marne,FALSE,Flanker,Australia v France,Sydney,1990-06-30,6,5,1,0,0,0,0,0,NA,5,1,0,0.8333333333333334,France,2.713016,48.87296
+765,Aubin,Hueber,1967-04-05,FALSE,Tarbes,FALSE,Scrum-half,Australia v France,Sydney,1990-06-30,23,22,1,21,3,0,0,2,NA,18,4,1,0.782608695652174,France,0.078082,43.23295100000001
+766,David,Berty,1970-06-11,FALSE,Toulouse,FALSE,Wing,France v New Zealand,Parc des Princes,1990-11-10,6,3,3,0,0,0,0,0,NA,4,2,0,0.6666666666666666,France,1.444209,43.604652
+767,Jean-Francois,Gourragne,1963-11-20,FALSE,Condom,FALSE,Lock,France v New Zealand,Parc des Princes,1990-11-10,2,2,0,0,0,0,0,0,NA,1,1,0,0.5,France,-75.1503859,39.94192899999999
+768,Laurent,Cabannes,1964-02-06,FALSE,Reims,FALSE,Flanker,France v New Zealand,Parc des Princes,1990-11-10,49,47,2,8,2,0,0,0,NA,32,16,1,0.6530612244897959,France,4.031696,49.258329
+769,Gregoire,Lascube,1962-04-03,FALSE,Saint-Pee-sur-Nivell,FALSE,Prop,France v Scotland,Parc des Princes,1991-01-19,12,12,0,0,0,0,0,0,NA,9,3,0,0.75,France,-1.550488,43.356582
+770,Michel,Tachdjian,1962-06-06,FALSE,Asnieres,FALSE,Lock,France v Scotland,Parc des Princes,1991-01-19,3,3,0,0,0,0,0,0,NA,2,1,0,0.6666666666666666,France,2.285369,48.914155
+771,Jean-Marie,Cadieu,1963-10-16,FALSE,Tulle,FALSE,Lock,Romania v France,Bucharest,1991-06-22,12,12,0,4,1,0,0,0,NA,10,2,0,0.8333333333333334,France,-73.986361,40.752714
+772,Michel,Courtiols,1965-04-27,FALSE,Fumel,FALSE,Flanker,Romania v France,Bucharest,1991-06-22,3,3,0,4,1,0,0,0,NA,3,0,0,1,France,0.9707429999999999,44.49736799999999
+773,Fabien,Galthie,1969-03-20,FALSE,Cahors,FALSE,Scrum-half,Romania v France,Bucharest,1991-06-22,64,58,6,49,10,0,0,0,NA,38,25,1,0.59375,France,1.441989,44.4475229
+774,Philippe,Gimbert,1966-03-20,FALSE,Firminy,FALSE,Prop,Romania v France,Bucharest,1991-06-22,4,4,0,0,0,0,0,0,NA,3,1,0,0.75,France,4.287617,45.387638
+775,Vincent,Moscato,1965-07-28,FALSE,Paris,FALSE,Hooker,Romania v France,Bucharest,1991-06-22,4,4,0,0,0,0,0,0,NA,3,1,0,0.75,France,2.3522219,48.856614
+776,Serge,Simon,1967-07-01,TRUE,Nice,FALSE,Prop,Romania v France,Bucharest,1991-06-22,2,2,0,4,1,0,0,0,NA,2,0,0,1,France,-73.8938426,40.7467228
+777,Jean-Francois,Tordo,1964-08-01,FALSE,Nice,FALSE,Flanker,United States of America v France,Denver,1991-07-13,15,14,1,0,0,0,0,0,NA,10,5,0,0.6666666666666666,France,-73.8938426,40.7467228
+778,Jean-Luc,Sadourny,1966-08-26,FALSE,Toulouse,FALSE,Fullback,Wales v France,Cardiff,1991-09-04,71,66,5,86,15,0,0,4,NA,46,24,1,0.647887323943662,France,1.444209,43.604652
+779,Christophe,Mougeot,1963-11-22,FALSE,Dijon,FALSE,Lock,Wales v France,Cardiff,1992-02-01,3,3,0,0,0,0,0,0,NA,1,2,0,0.3333333333333333,France,5.04148,47.322047
+780,Alain,Penaud,1969-07-19,FALSE,Juillac,FALSE,Fly-half,Wales v France,Cardiff,1992-02-01,32,31,1,62,10,0,0,5,NA,21,10,1,0.65625,France,1.3224,45.317259
+781,Sebastien,Viars,1971-06-24,FALSE,Aurillac,FALSE,Fullback,Wales v France,Cardiff,1992-02-01,17,11,6,127,9,17,17,0,NA,10,7,0,0.5882352941176471,France,2.444997,44.930953
+782,Andries van,Heerden,1961-10-06,FALSE,Cape Town,FALSE,No. 8,France v England,Parc des Princes,1992-02-15,2,2,0,0,0,0,0,0,NA,0,2,0,0,France,18.4240553,-33.9248685
+783,Pierre,Montlaur,1963-02-07,FALSE,Castelsarrasin,FALSE,"Fullback, Fly-half",France v England,Parc des Princes,1992-02-15,2,0,2,2,0,1,0,0,NA,1,1,0,0.5,France,1.107132,44.039889
+784,Jean-Pierre,Genet,1962-10-15,FALSE,Chatellerault,FALSE,Hooker,Scotland v France,Murrayfield,1992-03-07,3,3,0,0,0,0,0,0,NA,2,1,0,0.6666666666666666,France,0.548146,46.816487
+785,Christophe,Deylaud,1964-10-02,FALSE,Portet,FALSE,Fly-half,France v Romania,Le Havre,1992-05-28,16,15,1,51,1,11,5,3,NA,11,5,0,0.6875,France,-0.188446,43.579913
+786,Michel,Marfaing,1970-03-06,FALSE,Pamiers,FALSE,Centre,France v Romania,Le Havre,1992-05-28,2,2,0,0,0,0,0,0,NA,2,0,0,1,France,1.607953,43.114753
+787,Stephane,Ougier,1967-10-05,FALSE,Toulouse,FALSE,Fullback,France v Romania,Le Havre,1992-05-28,4,3,1,4,0,2,0,0,NA,2,2,0,0.5,France,1.444209,43.604652
+788,Jean-Michel,Gonzalez,1967-07-10,FALSE,Bayonne,FALSE,Hooker,Argentina v France,Buenos Aires,1992-07-04,35,35,0,5,1,0,0,0,NA,23,11,1,0.6571428571428571,France,-74.1143091,40.6687141
+789,Christian,Coeurveille,1968-03-26,FALSE,Rodez,FALSE,Centre,Argentina v France,Buenos Aires,1992-07-04,2,1,1,0,0,0,0,0,NA,2,0,0,1,France,2.575986,44.349389
+790,Philippe,Bernat-Salles,1970-02-17,FALSE,Pau,FALSE,Wing,France v Argentina,Nantes,1992-11-14,41,38,3,130,26,0,0,0,NA,25,15,1,0.6097560975609756,France,-0.370797,43.2951
+791,Laurent,Mazas,1970-12-19,FALSE,Villefranche,FALSE,Fly-half,France v Argentina,Nantes,1992-11-14,2,2,0,0,0,0,0,0,NA,0,2,0,0,France,7.311109000000001,43.703976
+792,Stephane,Graou,1966-05-01,FALSE,Auch,FALSE,Prop,France v Argentina,Nantes,1992-11-14,8,4,4,0,0,0,0,0,NA,4,3,1,0.5,France,0.5867089999999999,43.64638
+793,Herve,Couffignal,1965-08-29,FALSE,Not Available,FALSE,Centre,Romania v France,Bucharest,1993-05-20,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,-122.2636808,37.8009514
+794,Yann,Lemeur,1967-03-29,FALSE,Paris,FALSE,Lock,Romania v France,Bucharest,1993-05-20,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,2.3522219,48.856614
+795,Laurent,Verge,1965-10-21,FALSE,Not Available,FALSE,Prop,Romania v France,Bucharest,1993-05-20,1,0,1,0,0,0,0,0,NA,1,0,0,1,France,-122.2636808,37.8009514
+796,Olivier,Merle,1965-11-14,FALSE,Chamalieres,FALSE,Lock,South Africa v France,Durban,1993-06-26,45,44,1,30,6,0,0,0,NA,31,13,1,0.6888888888888889,France,3.060484,45.77412
+797,Olivier,Campan,1970-03-15,FALSE,Condom,FALSE,Centre,South Africa v France,Durban,1993-06-26,6,3,3,5,1,0,0,0,NA,4,1,1,0.6666666666666666,France,-75.1503859,39.94192899999999
+798,Leon,Loppy,1966-04-19,FALSE,La Seyne,FALSE,Flanker,France v Romania,Brive la Gaillarde,1993-10-17,1,1,0,5,1,0,0,0,NA,1,0,0,1,France,5.878219,43.102976
+799,Emile,Ntamack,1970-06-25,FALSE,Lyon,FALSE,Wing,Wales v France,Cardiff,1994-02-19,46,43,3,135,26,1,1,0,NA,32,14,0,0.6956521739130435,France,4.835659,45.764043
+800,Laurent,Benezech,1966-12-19,FALSE,Pamiers,FALSE,Prop,France v England,Parc des Princes,1994-03-05,15,15,0,0,0,0,0,0,NA,11,4,0,0.7333333333333333,France,1.607953,43.114753
+801,William,Techoueyres,1966-02-12,FALSE,Bordeaux,FALSE,Wing,France v England,Parc des Princes,1994-03-05,3,3,0,5,1,0,0,0,NA,2,1,0,0.6666666666666666,France,-0.57918,44.837789
+802,Olivier,Brouzet,1972-11-22,FALSE,Beziers,FALSE,Lock,Scotland v France,Murrayfield,1994-03-19,71,57,14,10,2,0,0,0,NA,46,24,1,0.647887323943662,France,3.215795,43.344233
+803,Yann,Delaigue,1973-04-05,FALSE,Vienne,FALSE,Fly-half,Scotland v France,Murrayfield,1994-03-19,20,16,4,37,2,0,5,4,NA,16,4,0,0.8,France,4.874339,45.525587
+804,Alain,Macabiau,1966-05-15,FALSE,Perpignan,FALSE,Scrum-half,Scotland v France,Murrayfield,1994-03-19,2,2,0,0,0,0,0,0,NA,1,1,0,0.5,France,2.8948332,42.6886591
+805,Guy,Accoceberry,1967-05-05,FALSE,Vittel,FALSE,Scrum-half,New Zealand v France,Christchurch,1994-06-26,19,18,1,10,2,0,0,0,NA,14,5,0,0.7368421052631579,France,5.943496499999999,48.2025406
+806,Christian,Califano,1972-05-16,FALSE,Toulon,FALSE,Prop,New Zealand v France,Christchurch,1994-06-26,71,61,10,30,6,0,0,0,NA,41,30,0,0.5774647887323944,France,5.928,43.124228
+807,Arnaud,Costes,1973-06-16,FALSE,Tulle,FALSE,Flanker,France v Canada,Besancon,1994-12-17,14,7,7,5,1,0,0,0,NA,9,5,0,0.6428571428571429,France,-73.986361,40.752714
+808,Marc de,Rougemont,1972-05-24,FALSE,Marseille,FALSE,Hooker,England v France,Twickenham,1995-02-04,13,8,5,0,0,0,0,0,NA,9,4,0,0.6923076923076923,France,5.36978,43.296482
+809,Albert,Cigagna,1960-09-25,FALSE,Toulouse,FALSE,Back-row,England v France,Pretoria,1995-06-22,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,1.444209,43.604652
+810,Alain,Hyardet,1965-11-28,FALSE,Aix-le-Province,FALSE,Centre,France v Italy,Buenos Aires,1995-10-14,2,1,1,0,0,0,0,0,NA,2,0,0,1,France,5.447426999999999,43.529742
+811,Marc,Lievremont,1968-10-28,FALSE,Dakar,FALSE,Flanker,France v Italy,Buenos Aires,1995-10-14,25,19,6,25,5,0,0,0,NA,19,6,0,0.76,France,-17.4676861,14.716677
+812,Franck,Tournaire,1972-12-04,FALSE,Narbonne,FALSE,Prop,France v Italy,Buenos Aires,1995-10-14,49,46,3,10,2,0,0,0,NA,32,17,0,0.6530612244897959,France,3.003078,43.184277
+813,Patrick,Arlettaz,1972-04-04,FALSE,Perpignan,FALSE,Centre,France v Romania,Tucuman,1995-10-17,1,1,0,10,2,0,0,0,NA,1,0,0,1,France,2.8948332,42.6886591
+814,Olivier,Azam,1974-10-21,FALSE,Tarbes,FALSE,Hooker,France v Romania,Tucuman,1995-10-17,10,3,7,0,0,0,0,0,NA,5,5,0,0.5,France,0.078082,43.23295100000001
+815,Philippe,Carbonneau,1971-04-15,FALSE,Toulouse,FALSE,Scrum-half,France v Romania,Tucuman,1995-10-17,32,27,5,25,5,0,0,0,NA,22,10,0,0.6875,France,1.444209,43.604652
+816,Thomas,Castaignede,1975-01-21,FALSE,Mont-de-Marsan,FALSE,"Fullback, Fly-half",France v Romania,Tucuman,1995-10-17,54,49,5,252,18,42,21,5,NA,37,16,1,0.6851851851851852,France,-0.4997819999999999,43.893485
+817,Richard,Dourthe,1974-12-13,FALSE,Dax,FALSE,Centre,France v Romania,Tucuman,1995-10-17,31,31,0,183,3,36,32,0,NA,20,11,0,0.6451612903225806,France,-80.3212932,25.8510938
+818,Christophe,Juillet,1969-03-20,FALSE,Villeneuve-sur-Lot,FALSE,No. 8,France v Romania,Tucuman,1995-10-17,18,18,0,10,2,0,0,0,NA,10,8,0,0.5555555555555556,France,0.7072568,44.4082053
+819,Fabien,Pelous,1973-12-07,FALSE,Toulouse,FALSE,"Lock, No. 8",France v Romania,Tucuman,1995-10-17,118,106,12,40,8,0,0,0,NA,79,38,1,0.6694915254237288,France,1.444209,43.604652
+820,Michel,Perie,1969-09-20,FALSE,Le Pradet,FALSE,Prop,France v England,Parc des Princes,1996-01-20,3,2,1,0,0,0,0,0,NA,2,1,0,0.6666666666666666,France,6.018687,43.106933
+821,Stephane,Glas,1973-11-12,FALSE,Bourgoin,FALSE,Centre,Scotland v France,Murrayfield,1996-02-03,37,30,7,45,9,0,0,0,NA,24,13,0,0.6486486486486487,France,5.27212,45.597108
+822,Richard,Castel,1972-12-31,FALSE,Vendres,FALSE,Flanker,France v Ireland,Parc des Princes,1996-02-17,15,7,8,10,2,0,0,0,NA,7,8,0,0.4666666666666667,France,3.225202,43.269435
+823,Sylvain,Dispagne,1968-02-08,FALSE,Saint-Girons,FALSE,No. 8,France v Ireland,Parc des Princes,1996-02-17,2,1,1,0,0,0,0,0,NA,1,1,0,0.5,France,1.146088,42.982876
+824,Raphael,Ibanez,1973-02-17,FALSE,Dax,FALSE,Hooker,Wales v France,Cardiff,1996-03-16,98,75,23,40,8,0,0,0,NA,63,34,1,0.6428571428571429,France,-80.3212932,25.8510938
+825,Herve,Guiraud,1966-11-25,FALSE,Castelnaudary,FALSE,Hooker,France v Romania,Aurillac,1996-04-20,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,1.95333,43.317118
+826,Thierry,Labrousse,1970-05-04,FALSE,Perigueux,FALSE,Back-row,France v Romania,Aurillac,1996-04-20,2,2,0,10,2,0,0,0,NA,1,1,0,0.5,France,0.7211149,45.184029
+827,Hugues,Miorin,1968-10-30,FALSE,Fumel,FALSE,Lock,France v Romania,Aurillac,1996-04-20,9,7,2,0,0,0,0,0,NA,7,2,0,0.7777777777777778,France,0.9707429999999999,44.49736799999999
+828,Christophe,Moni,1972-01-15,FALSE,Nice,FALSE,Flanker,France v Romania,Aurillac,1996-04-20,8,8,0,5,1,0,0,0,NA,4,4,0,0.5,France,-73.8938426,40.7467228
+829,David,Venditti,1973-06-01,FALSE,Bellegarde,FALSE,Wing,France v Romania,Aurillac,1996-04-20,14,11,3,30,6,0,0,0,NA,9,5,0,0.6428571428571429,France,-90.1210035,29.9590118
+830,Jean-Louis,Jordana,1968-11-07,FALSE,Lavelanet,FALSE,Prop,France v Romania,Aurillac,1996-04-20,7,3,4,0,0,0,0,0,NA,7,0,0,1,France,1.851472,42.937653
+831,Thomas,Lievremont,1973-11-06,FALSE,Perpignan,FALSE,No. 8,Wales v France,Cardiff,1996-09-25,35,25,10,30,6,0,0,0,NA,27,8,0,0.7714285714285715,France,2.8948332,42.6886591
+832,Guillaume,Bouic,1970-01-21,FALSE,Agen,FALSE,Centre,France v South Africa,Bordeaux,1996-11-30,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,-94.6039222,39.0957618
+833,Christophe,Lamaison,1971-04-08,FALSE,Dax,FALSE,"Centre, Fly-half",France v South Africa,Bordeaux,1996-11-30,37,30,7,380,2,59,78,6,NA,23,14,0,0.6216216216216216,France,-80.3212932,25.8510938
+834,Laurent,Leflamand,1968-04-04,FALSE,Cherbourg,FALSE,Wing,France v South Africa,Parc des Princes,1996-12-07,8,7,1,25,5,0,0,0,NA,5,3,0,0.625,France,-1.622137,49.6337308
+835,Jean-Jacques,Crenca,1969-04-03,FALSE,Marmande,FALSE,Prop,France v South Africa,Parc des Princes,1996-12-07,39,28,11,20,4,0,0,0,NA,27,11,1,0.6923076923076923,France,0.159869,44.500484
+836,David,Aucagne,1973-02-14,FALSE,Vichy,FALSE,Fly-half,France v Wales,Parc des Princes,1997-02-15,15,5,10,38,1,9,5,0,NA,9,6,0,0.6,France,3.425488,46.131859
+837,Olivier,Magne,1973-04-11,FALSE,Aurillac,FALSE,Flanker,France v Wales,Parc des Princes,1997-02-15,89,79,10,70,14,0,0,0,NA,59,28,2,0.6629213483146067,France,2.444997,44.930953
+838,Dier,di Casadei,1971-04-10,FALSE,Brive-la-Gaillarde,FALSE,Prop,France v Scotland,Parc des Princes,1997-03-15,3,2,1,0,0,0,0,0,NA,2,1,0,0.6666666666666666,France,1.533937,45.159555
+839,Pierre,Bondouy,1970-07-30,FALSE,Ville Lauragais,FALSE,Fullback,France v Scotland,Parc des Princes,1997-03-15,5,2,3,10,2,0,0,0,NA,3,2,0,0.6,France,1.718634,43.39911499999999
+840,Ugo,Mola,1973-05-14,FALSE,Saint-Foy-la-Grande,FALSE,Wing,France v Scotland,Parc des Princes,1997-03-15,12,6,6,30,6,0,0,0,NA,8,4,0,0.6666666666666666,France,0.215006,44.841805
+841,Serge Betsen,Tchoua,1974-03-25,FALSE,Kumba,FALSE,Flanker,France v Italy,Grenoble,1997-03-22,63,50,13,45,9,0,0,0,NA,43,19,1,0.6825396825396826,France,9.4450439,4.6333268
+842,David,Dantiacq,1970-01-10,FALSE,Paris,FALSE,Centre,Romania v France,Bucharest,1997-06-01,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,2.3522219,48.856614
+843,Frederic,Torossian,1966-05-15,FALSE,Auch,FALSE,Scrum-half,Romania v France,Bucharest,1997-06-01,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,0.5867089999999999,43.64638
+844,David,Laperne,1972-09-13,FALSE,Oloron,FALSE,Prop,Romania v France,Bucharest,1997-06-01,1,0,1,0,0,0,0,0,NA,1,0,0,1,France,-0.6052919999999999,43.194413
+845,Jerome,Cazalbou,1969-04-30,FALSE,Toulouse,FALSE,Scrum-half,France v Italy,Auch,1997-10-18,4,2,2,0,0,0,0,0,NA,3,1,0,0.75,France,1.444209,43.604652
+846,Nicolas,Bacque,1973-12-17,FALSE,Tarbes,FALSE,Flanker,France v Romania,Lourdes,1997-10-22,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,0.078082,43.23295100000001
+847,Cedric,Soulette,1972-05-30,FALSE,Beziers,FALSE,Prop,France v Romania,Lourdes,1997-10-22,13,7,6,10,2,0,0,0,NA,11,2,0,0.8461538461538461,France,3.215795,43.344233
+848,Nicolas,Brusque,1976-08-07,FALSE,Pau,FALSE,"Fullback, Wing",France v Romania,Lourdes,1997-10-22,27,24,3,38,7,0,0,1,NA,17,8,2,0.6296296296296297,France,-0.370797,43.2951
+849,Pierre,Mignoni,1977-02-28,FALSE,Toulon,FALSE,Scrum-half,France v Romania,Lourdes,1997-10-22,28,16,12,30,6,0,0,0,NA,21,7,0,0.75,France,5.928,43.124228
+850,Christophe,Dominici,1972-05-20,FALSE,Toulon,FALSE,"Fullback, Wing",France v England,Stade de France,1998-02-07,67,59,8,125,25,0,0,0,NA,44,23,0,0.6567164179104478,France,5.928,43.124228
+851,Thierry,Cleda,1971-01-12,FALSE,Soissons,FALSE,Lock,France v England,Stade de France,1998-02-07,9,1,8,0,0,0,0,0,NA,8,1,0,0.8888888888888888,France,3.32342,49.376636
+852,Xavier,Garbajosa,1976-12-05,FALSE,Toulouse,FALSE,Centre,France v Ireland,Stade de France,1998-03-07,32,25,7,30,6,0,0,0,NA,19,13,0,0.59375,France,1.444209,43.604652
+853,Jean-Marc,Aue,1973-05-10,FALSE,Carmaux,FALSE,Centre,France v Wales,Wembley,1998-04-05,1,0,1,0,0,0,0,0,NA,1,0,0,1,France,2.16075,44.0500339
+854,Franck,Comba,1971-03-16,FALSE,Hyeres,FALSE,Centre,Argentina v France,Buenos Aires,1998-06-13,13,13,0,10,2,0,0,0,NA,7,6,0,0.5384615384615384,France,6.128639,43.120541
+855,Arthur,Gomes,1969-10-05,FALSE,Canedo Ribeira dPena,FALSE,Fullback,Argentina v France,Buenos Aires,1998-06-13,6,5,1,5,1,0,0,0,NA,5,1,0,0.8333333333333334,France,-7.735731899999999,41.622378
+856,Stephane de,Besombes,1972-01-02,FALSE,Perpignan,FALSE,Prop,Argentina v France,Buenos Aires,1998-06-13,2,0,2,0,0,0,0,0,NA,2,0,0,1,France,2.8948332,42.6886591
+857,Jimmy,Marlu,1977-05-25,FALSE,Saint-Joseph,FALSE,Wing,Fiji v France,Suva,1998-06-27,4,1,3,0,0,0,0,0,NA,4,0,0,1,France,-86.4895463,42.0938577
+858,Thomas,Lombard,1975-06-05,FALSE,Le Chesnay,FALSE,"Wing, Centre",France v Argentina,Nantes,1998-11-14,12,11,1,5,1,0,0,0,NA,5,7,0,0.4166666666666667,France,2.128365,48.8262851
+859,Sylvain,Marconnet,1976-04-08,FALSE,Givors,FALSE,Prop,France v Argentina,Nantes,1998-11-14,84,58,26,15,3,0,0,0,NA,49,34,1,0.5833333333333334,France,4.772829,45.58329
+860,Marc,Raynaud,1973-03-19,FALSE,Narbonne,FALSE,Back-row,France v Wales,Stade de France,1999-03-06,2,1,1,0,0,0,0,0,NA,0,2,0,0,France,3.003078,43.184277
+861,Pascal,Giordani,1974-06-01,FALSE,Belfort,FALSE,Centre,England v France,Twickenham,1999-03-20,2,2,0,0,0,0,0,0,NA,0,2,0,0,France,-77.4318392,39.0002934
+862,David,Auradou,1973-11-13,FALSE,Harfleur,FALSE,Lock,England v France,Twickenham,1999-03-20,41,20,21,0,0,0,0,0,NA,24,17,0,0.5853658536585366,France,0.198015,49.511788
+863,Christian,Labit,1971-02-11,FALSE,Lezignan,FALSE,Back-row,France v Scotland,Stade de France,1999-04-10,17,9,8,0,0,0,0,0,NA,7,10,0,0.4117647058823529,France,2.7577759,43.200503
+864,Christophe,Laussucq,1973-05-20,FALSE,Bordeaux,FALSE,Scrum-half,France v Scotland,Stade de France,1999-04-10,4,2,2,5,1,0,0,0,NA,2,2,0,0.5,France,-0.57918,44.837789
+865,Jean-Luc,Aqua,1968-03-03,FALSE,Aubagne,FALSE,Flanker,France v Romania,Castres,1999-06-03,3,2,1,0,0,0,0,0,NA,1,2,0,0.3333333333333333,France,5.5676425,43.2926781
+866,Guillaume,Delmotte,1977-10-25,FALSE,Frejus,FALSE,Centre,France v Romania,Castres,1999-06-03,2,2,0,10,2,0,0,0,NA,1,1,0,0.5,France,6.737034,43.43315200000001
+867,Lionel,Mallier,1974-03-06,FALSE,Grenoble,FALSE,Back-row,France v Romania,Castres,1999-06-03,5,2,3,5,1,0,0,0,NA,3,2,0,0.6,France,5.724524,45.188529
+868,Olivier,Sarramea,1975-10-20,FALSE,Tarbes,FALSE,"Fullback, Wing",France v Romania,Castres,1999-06-03,4,3,1,10,2,0,0,0,NA,2,2,0,0.5,France,0.078082,43.23295100000001
+869,Gerald,Merceron,1973-02-25,FALSE,Cognac,FALSE,Fly-half,France v Romania,Castres,1999-06-03,32,21,11,267,3,36,57,3,NA,19,13,0,0.59375,France,-79.6097716,34.9562668
+870,Eric,Artiguste,1970-07-16,FALSE,Lourdes,FALSE,Centre,Samoa v France,Apia,1999-06-12,1,1,0,5,1,0,0,0,NA,1,0,0,1,France,-0.045726,43.091463
+871,Alexandre,Chazalet,1972-03-13,FALSE,Valence,FALSE,Flanker,Tonga v France,Nuku A,1999-06-16,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,-97.3880416,37.6408051
+872,David,Gerard,1977-11-26,FALSE,Toulon,FALSE,Lock,Tonga v France,Nuku A,1999-06-16,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,5.928,43.124228
+873,Stephane,Castaignede,1969-09-30,FALSE,Mont-de-Marsan,FALSE,Scrum-half,Wales v France,Millennium Stadium,1999-08-28,7,2,5,0,0,0,0,0,NA,5,2,0,0.7142857142857143,France,-0.4997819999999999,43.893485
+874,Pieter de,Villiers,1972-07-03,FALSE,Malmesbury,FALSE,Prop,Wales v France,Millennium Stadium,1999-08-28,69,53,16,10,2,0,0,0,NA,45,22,2,0.6521739130434783,France,-2.102834,51.586357
+875,Cedric,Desbrosse,1971-11-09,FALSE,Givors,FALSE,Centre,France v Namibia,Bordeaux,1999-10-08,2,1,1,0,0,0,0,0,NA,1,1,0,0.5,France,4.772829,45.58329
+876,Legi,Matiu,1969-01-17,FALSE,Auckland,FALSE,Lock,Wales v France,Millennium Stadium,2000-02-05,2,2,0,0,0,0,0,0,NA,1,1,0,0.5,France,174.7626037,-36.8482512
+877,Sebastien,Chabal,1977-12-08,FALSE,Valence,FALSE,No. 8,Scotland v France,Murrayfield,2000-03-04,62,33,29,30,6,0,0,0,NA,35,26,1,0.5645161290322581,France,-97.3880416,37.6408051
+878,Jean,Daude,1973-10-20,FALSE,Nimes,FALSE,Lock,Scotland v France,Murrayfield,2000-03-04,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,4.360054,43.836699
+879,Jean-Baptiste,Elissalde,1977-11-23,FALSE,La Rochelle,FALSE,"Fly-half, Scrum-half",Scotland v France,Murrayfield,2000-03-04,35,24,11,214,4,40,38,0,NA,24,10,1,0.6857142857142857,France,-1.151139,46.160329
+880,David,Bory,1976-03-08,FALSE,Vichy,FALSE,Wing,France v Ireland,Stade de France,2000-03-19,18,18,0,10,2,0,0,0,NA,12,6,0,0.6666666666666666,France,3.425488,46.131859
+881,Franck,Belot,1972-03-18,FALSE,Athis-Mons,FALSE,Lock,France v Ireland,Stade de France,2000-03-19,1,0,1,0,0,0,0,0,NA,0,1,0,0,France,2.38479,48.7092979
+882,Cedric,Heymans,1978-07-20,FALSE,Brive-la-Gaillarde,FALSE,Fullback,France v Italy,Stade de France,2000-04-01,59,46,13,80,16,0,0,0,NA,37,20,2,0.6271186440677966,France,1.533937,45.159555
+883,Alexandre,Audebert,1977-08-04,FALSE,Suresnes,FALSE,Back-row,Romania v France,Bucharest,2000-05-28,2,1,1,0,0,0,0,0,NA,2,0,0,1,France,2.219033,48.869798
+884,Frederic,Cermeno,1979-06-20,FALSE,Perpignan,FALSE,Utility back,Romania v France,Bucharest,2000-05-28,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,2.8948332,42.6886591
+885,Patrice,Collazo,1974-04-27,FALSE,La Seyne-sur-Mer,FALSE,Prop,Romania v France,Bucharest,2000-05-28,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,5.878219,43.102976
+886,Fabrice,Lalanne,1971-02-09,FALSE,Lagarenne,FALSE,Lock,Romania v France,Bucharest,2000-05-28,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,7.0501656,46.3044398
+887,Lionel,Nallet,1976-09-14,FALSE,Bourg-en-Bresse,FALSE,Lock,Romania v France,Bucharest,2000-05-28,74,54,20,45,9,0,0,0,NA,49,24,1,0.6621621621621622,France,5.2255007000000004,46.20516749999999
+888,Jean-Marc,Souverbie,1975-04-09,FALSE,Pau,FALSE,Fullback,Romania v France,Bucharest,2000-05-28,1,1,0,5,1,0,0,0,NA,1,0,0,1,France,-0.370797,43.2951
+889,Jean-Charles,Cistacq,1974-07-22,FALSE,Auch,FALSE,Centre,Romania v France,Bucharest,2000-05-28,1,0,1,0,0,0,0,0,NA,1,0,0,1,France,0.5867089999999999,43.64638
+890,Alessio,Galasso,1974-05-29,FALSE,Dakar,FALSE,Prop,Romania v France,Bucharest,2000-05-28,2,0,2,0,0,0,0,0,NA,1,1,0,0.5,France,-17.4676861,14.716677
+891,Olivier,Milloud,1975-12-09,FALSE,Saint-Vallier,FALSE,Prop,Romania v France,Bucharest,2000-05-28,50,28,22,5,1,0,0,0,NA,34,15,1,0.68,France,4.815205,45.17829099999999
+892,Fabrice,Landreau,1968-08-01,FALSE,Angouleme,FALSE,Hooker,France v Australia,Stade de France,2000-11-04,4,3,1,0,0,0,0,0,NA,1,3,0,0.25,France,0.1562369,45.648377
+893,Mathieu,Dourthe,1976-07-22,FALSE,Dax,FALSE,Wing,France v New Zealand,Marseille,2000-11-18,1,0,1,0,0,0,0,0,NA,1,0,0,1,France,-80.3212932,25.8510938
+894,Sebastien,Bonetti,1977-09-22,FALSE,Bergerac,FALSE,"Fullback, Centre",Italy v France,Rome,2001-03-03,3,2,1,10,2,0,0,0,NA,1,2,0,0.3333333333333333,France,0.483392,44.853806
+895,Christophe,Milheres,1972-01-03,FALSE,Saint-Saulve,FALSE,Flanker,England v France,Twickenham,2001-04-07,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,3.554938,50.370729
+896,Yannick,Jauzion,1978-07-28,FALSE,Castres,FALSE,Centre,South Africa v France,Johannesburg,2001-06-16,73,65,8,103,20,0,0,1,NA,46,26,1,0.6301369863013698,France,2.241295,43.606214
+897,Nicolas,Jeanjean,1981-05-13,FALSE,Montpellier,FALSE,Wing,South Africa v France,Johannesburg,2001-06-16,9,6,3,10,2,0,0,0,NA,5,4,0,0.5555555555555556,France,3.876716,43.610769
+898,Patrick,Tabacco,1974-03-23,FALSE,Toulouse,FALSE,Back-row,South Africa v France,Johannesburg,2001-06-16,18,13,5,5,1,0,0,0,NA,12,6,0,0.6666666666666666,France,1.444209,43.604652
+899,Elvis,Vermeulen,1979-04-05,FALSE,Senlis,FALSE,No. 8,South Africa v France,Johannesburg,2001-06-16,10,6,4,5,1,0,0,0,NA,5,5,0,0.5,France,2.583212,49.205164
+900,Jean,Bouilhou,1978-12-07,FALSE,Pau,FALSE,Flanker,New Zealand v France,Wellington,2001-06-30,2,2,0,0,0,0,0,0,NA,0,2,0,0,France,-0.370797,43.2951
+901,Pepito,Elhorga,1978-01-06,FALSE,Agboville,FALSE,Fullback,New Zealand v France,Wellington,2001-06-30,19,14,5,15,3,0,0,0,NA,11,8,0,0.5789473684210527,France,-4.2230836,5.935496300000001
+902,David,Skrela,1979-03-02,FALSE,Toulouse,FALSE,Fly-half,New Zealand v France,Wellington,2001-06-30,23,15,8,112,0,14,27,1,NA,15,8,0,0.6521739130434783,France,1.444209,43.604652
+903,Francois,Gelez,1979-01-15,FALSE,Tyrosse,FALSE,Fly-half,France v South Africa,Stade de France,2001-11-10,8,6,2,81,0,6,23,0,NA,5,2,1,0.625,France,-1.301187,43.6587109
+904,Tony,Marsh,1972-08-12,FALSE,Rotorua,FALSE,Centre,France v South Africa,Stade de France,2001-11-10,21,21,0,35,7,0,0,0,NA,14,7,0,0.6666666666666666,France,176.2377669,-38.1445987
+905,Francis,Ntamack,1972-10-15,FALSE,Lyon,FALSE,No. 8,France v South Africa,Stade de France,2001-11-10,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,4.835659,45.764043
+906,Clement,Poitrenaud,1982-05-20,FALSE,Castres,FALSE,Fullback,France v South Africa,Stade de France,2001-11-10,47,42,5,35,7,0,0,0,NA,29,17,1,0.6170212765957447,France,2.241295,43.606214
+907,Thibault,Privat,1979-02-06,FALSE,Nimes,FALSE,Lock,France v South Africa,Stade de France,2001-11-10,10,7,3,0,0,0,0,0,NA,7,3,0,0.7,France,4.360054,43.836699
+908,Aurelien,Rougerie,1980-09-26,FALSE,Beaumont,FALSE,Centre,France v South Africa,Stade de France,2001-11-10,76,71,5,115,23,0,0,0,NA,48,27,1,0.631578947368421,France,-94.1265562,30.080174
+909,Damien,Traille,1979-06-12,FALSE,Pau,FALSE,Centre,France v South Africa,Stade de France,2001-11-10,86,71,15,128,14,8,12,2,NA,55,29,2,0.6395348837209303,France,-0.370797,43.2951
+910,Frederic,Michalak,1982-10-16,FALSE,Toulouse,FALSE,Fly-half,France v South Africa,Stade de France,2001-11-10,77,52,25,436,10,61,79,9,NA,48,27,2,0.6233766233766234,France,1.444209,43.604652
+911,Yannick,Bru,1973-05-22,FALSE,Auch,FALSE,Hooker,France v Australia,Marseille,2001-11-17,18,8,10,5,1,0,0,0,NA,14,4,0,0.7777777777777778,France,0.5867089999999999,43.64638
+912,Jean-Baptiste,Poux,1979-09-26,FALSE,Beziers,FALSE,Prop,France v Fiji,Saint-Etienne,2001-11-24,42,23,19,15,3,0,0,0,NA,25,16,1,0.5952380952380952,France,3.215795,43.344233
+913,Steven,Hall,1972-09-17,FALSE,Johannesburg,FALSE,Lock,France v Italy,Stade de France,2002-02-02,2,2,0,0,0,0,0,0,NA,2,0,0,1,France,28.0473051,-26.2041028
+914,Alexandre,Albouy,1979-05-26,FALSE,Castres,FALSE,Scrum-half,France v Italy,Stade de France,2002-02-02,1,0,1,0,0,0,0,0,NA,1,0,0,1,France,2.241295,43.606214
+915,Imanol,Harinordoquy,1980-02-20,FALSE,Bayonne,FALSE,No. 8,Wales v France,Millennium Stadium,2002-02-16,82,66,16,65,13,0,0,0,NA,52,28,2,0.6341463414634146,France,-74.1143091,40.6687141
+916,Sebastien,Bruno,1974-08-26,FALSE,Nimes,FALSE,Hooker,Wales v France,Millennium Stadium,2002-02-16,26,11,15,20,4,0,0,0,NA,14,11,1,0.5384615384615384,France,4.360054,43.836699
+917,Remy,Martin,1979-08-10,FALSE,Aubenas,FALSE,Lock,France v England,Stade de France,2002-03-02,23,12,11,15,3,0,0,0,NA,13,9,1,0.5652173913043478,France,4.389863,44.620909
+918,Christophe,Porcu,1971-05-05,FALSE,Mauvezin,FALSE,Lock,Argentina v France,Buenos Aires,2002-06-15,3,1,2,0,0,0,0,0,NA,0,3,0,0,France,0.877138,43.730448
+919,Arnaud,Martinez,1976-02-24,FALSE,Narbonne,FALSE,Prop,Australia v France,Melbourne,2002-06-22,2,2,0,0,0,0,0,0,NA,1,1,0,0.5,France,3.003078,43.184277
+920,Vincent,Clerc,1981-05-07,FALSE,Echirolles,FALSE,Wing,France v South Africa,Marseille,2002-11-09,67,57,10,170,34,0,0,0,NA,42,22,3,0.6268656716417911,France,5.718033999999999,45.142151
+921,Jean-Baptiste,Rue,1974-07-06,FALSE,Nanterre,FALSE,Hooker,France v South Africa,Marseille,2002-11-09,8,1,7,0,0,0,0,0,NA,5,3,0,0.625,France,2.215331,48.892423
+922,Dimitri,Yachvili,1980-09-19,FALSE,Brive-la-Gaillarde,FALSE,Scrum-half,France v Canada,Stade de France,2002-11-23,61,35,26,373,2,51,85,2,NA,37,23,1,0.6065573770491803,France,1.533937,45.159555
+923,Jerome,Thion,1977-12-02,FALSE,Senlis,FALSE,Lock,Argentina v France,Buenos Aires,2003-06-14,54,45,9,5,1,0,0,0,NA,36,18,0,0.6666666666666666,France,2.583212,49.205164
+924,Nicolas,Mas,1980-05-23,FALSE,Perpignan,FALSE,Prop,New Zealand v France,Christchurch,2003-06-28,85,66,19,5,1,0,0,0,NA,48,35,2,0.5647058823529412,France,2.8948332,42.6886591
+925,Brian,Liebenberg,1979-09-19,FALSE,Benoni,FALSE,Centre,France v Romania,Lens,2003-08-22,12,7,5,25,5,0,0,0,NA,9,3,0,0.75,France,28.3695699,-26.1510854
+926,Pascal,Pape,1980-10-05,FALSE,Lyon,FALSE,Lock,France v Ireland,Stade de France,2004-02-14,65,57,8,25,5,0,0,0,NA,38,25,2,0.5846153846153846,France,4.835659,45.764043
+927,William,Servat,1978-02-09,FALSE,Saint-Gaudens,FALSE,Hooker,France v Ireland,Stade de France,2004-02-14,49,37,12,10,2,0,0,0,NA,31,16,2,0.6326530612244898,France,-72.3687458,43.5010949
+928,Julien,Peyrelongue,1981-04-02,FALSE,Bayonne,FALSE,Fly-half,France v Italy,Stade de France,2004-02-21,6,2,4,3,0,0,1,0,NA,4,2,0,0.6666666666666666,France,-74.1143091,40.6687141
+929,Julien,Bonnaire,1978-09-20,FALSE,Bourgoin,FALSE,Flanker,Scotland v France,Murrayfield,2004-03-21,75,55,20,30,6,0,0,0,NA,49,24,2,0.6533333333333333,France,5.27212,45.597108
+930,Mathieu,Barrau,1977-09-03,FALSE,Beaumont,FALSE,Scrum-half,United States of America v France,Hartford,2004-07-03,3,1,2,5,1,0,0,0,NA,2,1,0,0.6666666666666666,France,-94.1265562,30.080174
+931,David,Couzinet,1975-06-07,FALSE,Toulouse,FALSE,Lock,United States of America v France,Hartford,2004-07-03,3,1,2,0,0,0,0,0,NA,2,1,0,0.6666666666666666,France,1.444209,43.604652
+932,Yannick Nyanga,Kabasele,1983-12-19,FALSE,"Kinshasa, Zaire",FALSE,Back-row,United States of America v France,Hartford,2004-07-03,46,30,16,30,6,0,0,0,NA,30,14,2,0.6521739130434783,France,15.2662931,-4.4419311
+933,Alexandre,Peclier,1975-01-26,FALSE,Villefranche,FALSE,Fullback,United States of America v France,Hartford,2004-07-03,2,2,0,33,0,9,5,0,NA,2,0,0,1,France,7.311109000000001,43.703976
+934,Ludovic,Valbon,1976-05-22,FALSE,Neuilly-sur-Seine,FALSE,"Wing, Centre",United States of America v France,Hartford,2004-07-03,5,2,3,5,1,0,0,0,NA,3,2,0,0.6,France,2.26851,48.884831
+935,Romain,Froment,1977-05-26,FALSE,Clamart,FALSE,Back-row,United States of America v France,Hartford,2004-07-03,1,0,1,0,0,0,0,0,NA,1,0,0,1,France,2.257289,48.799815
+936,Pierre,Rabadan,1980-07-03,FALSE,Aix-en-Province,FALSE,Flanker,United States of America v France,Hartford,2004-07-03,2,0,2,0,0,0,0,0,NA,2,0,0,1,France,5.447426999999999,43.529742
+937,Philippe,Bidabe,1978-01-13,FALSE,Bayonne,FALSE,Wing,Canada v France,Toronto,2004-07-10,2,2,0,0,0,0,0,0,NA,2,0,0,1,France,-74.1143091,40.6687141
+938,Bernard,Goutta,1972-09-28,FALSE,Perpignan,FALSE,Flanker,Canada v France,Toronto,2004-07-10,1,1,0,5,1,0,0,0,NA,1,0,0,1,France,2.8948332,42.6886591
+939,Ludovic,Loustau,1973-08-15,FALSE,Talence,FALSE,Scrum-half,Canada v France,Toronto,2004-07-10,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,-0.588054,44.802614
+940,Dimitri,Szarzewski,1983-01-26,FALSE,Beziers,FALSE,Hooker,Canada v France,Toronto,2004-07-10,83,44,39,35,7,0,0,0,NA,48,34,1,0.5783132530120482,France,3.215795,43.344233
+941,Gregory,Lamboley,1982-01-12,FALSE,Paris,FALSE,Lock,France v Scotland,Stade de France,2005-02-05,14,2,12,5,1,0,0,0,NA,9,4,1,0.6428571428571429,France,2.3522219,48.856614
+942,Jean-Philippe,Grandclaude,1982-08-04,FALSE,Frejus,FALSE,Centre,England v France,Twickenham,2005-02-13,3,1,2,0,0,0,0,0,NA,1,2,0,0.3333333333333333,France,6.737034,43.43315200000001
+943,Julien,Laharrague,1978-07-29,FALSE,Tarbes,FALSE,Fullback,France v Wales,Stade de France,2005-02-26,12,10,2,20,4,0,0,0,NA,7,4,1,0.5833333333333334,France,0.078082,43.23295100000001
+944,Benoit,Baby,1983-09-07,FALSE,Lavelanet,FALSE,Centre,Ireland v France,Lansdowne Road,2005-03-12,9,7,2,8,1,0,1,0,NA,5,4,0,0.5555555555555556,France,1.851472,42.937653
+945,David,Marty,1982-10-30,FALSE,Perpignan,FALSE,Centre,Italy v France,Rome,2005-03-19,37,26,11,55,11,0,0,0,NA,30,7,0,0.8108108108108109,France,2.8948332,42.6886591
+946,Julien,Candelon,1980-07-08,FALSE,Agen,FALSE,Wing,South Africa v France,Durban,2005-06-18,2,1,1,10,2,0,0,0,NA,0,1,1,0,France,-94.6039222,39.0957618
+947,Florian,Fritz,1984-01-17,FALSE,"Sens, Burgundy",FALSE,Centre,South Africa v France,Durban,2005-06-18,34,30,4,24,3,0,0,3,NA,14,18,2,0.4117647058823529,France,3.28268,48.20065
+948,Romain,Millo-Chluski,1983-04-20,FALSE,Ris-Orangis,FALSE,Lock,South Africa v France,Durban,2005-06-18,18,13,5,0,0,0,0,0,NA,10,7,1,0.5555555555555556,France,2.410451,48.64566300000001
+949,Denis,Avril,1972-10-31,FALSE,Thouars,FALSE,Prop,Australia v France,Brisbane,2005-07-02,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,-0.216803,46.976154
+950,Guilliaume,Bousses,1981-10-12,FALSE,Toulouse,FALSE,Centre,Scotland v France,Murrayfield,2006-02-05,1,0,1,0,0,0,0,0,NA,0,1,0,0,France,1.444209,43.604652
+951,Benjamin,Boyet,1979-08-08,FALSE,Vienne,FALSE,Fly-half,France v Ireland,Stade de France,2006-02-11,5,3,2,11,0,1,3,0,NA,1,4,0,0.2,France,4.874339,45.525587
+952,David,Attoub,1981-06-07,FALSE,Valence,FALSE,Prop,Romania v France,Bucharest,2006-06-17,4,4,0,0,0,0,0,0,NA,2,2,0,0.5,France,-97.3880416,37.6408051
+953,Thierry,Dusautoir,1981-11-18,FALSE,"Abidjan, Ivory Coas",FALSE,Back-row,Romania v France,Bucharest,2006-06-17,80,79,1,30,6,0,0,0,NA,41,37,2,0.5125,France,-4.0082563,5.3599517
+954,Vincent,Debaty,1981-10-02,FALSE,Woluwe-Saint-Lambert,FALSE,Prop,Romania v France,Bucharest,2006-06-17,37,5,32,5,1,0,0,0,NA,16,19,2,0.43243243243243246,France,4.4320883,50.8489094
+955,Loic,Jacquet,1985-03-31,FALSE,Saint-Doulchard,FALSE,Lock,France v New Zealand,Stade de France,2006-11-18,4,2,2,0,0,0,0,0,NA,3,1,0,0.75,France,2.372956,47.099779
+956,Lionel,Beauxis,1985-10-24,FALSE,Tarbes,FALSE,Fly-half,Italy v France,Rome,2007-02-03,24,12,12,128,1,18,26,3,NA,14,9,1,0.5833333333333334,France,0.078082,43.23295100000001
+957,Benoit,August,1976-12-20,FALSE,Mont-de-Marsan,FALSE,Hooker,France v Wales,Stade de France,2007-02-24,1,0,1,0,0,0,0,0,NA,1,0,0,1,France,-0.4997819999999999,43.893485
+958,Jean-Francois,Coux,1980-12-23,FALSE,Grenoble,FALSE,Wing,New Zealand v France,Auckland,2007-06-02,2,2,0,5,1,0,0,0,NA,0,2,0,0,France,5.724524,45.188529
+959,Nicolas,Durand,1982-10-04,FALSE,Toulouse,FALSE,Scrum-half,New Zealand v France,Auckland,2007-06-02,2,2,0,0,0,0,0,0,NA,0,2,0,0,France,1.444209,43.604652
+960,Gregory le,Corvec,1977-03-04,FALSE,Toulon,FALSE,Back-row,New Zealand v France,Auckland,2007-06-02,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,5.928,43.124228
+961,Arnaud,Mignardi,1986-11-01,FALSE,Auch,FALSE,Centre,New Zealand v France,Auckland,2007-06-02,2,2,0,0,0,0,0,0,NA,0,2,0,0,France,0.5867089999999999,43.64638
+962,Julien,Pierre,1981-07-31,FALSE,Rodez,FALSE,Lock,New Zealand v France,Auckland,2007-06-02,27,14,13,5,1,0,0,0,NA,16,11,0,0.5925925925925926,France,2.575986,44.349389
+963,Benjamin,Thiery,1984-06-02,FALSE,Reims,FALSE,Centre,New Zealand v France,Auckland,2007-06-02,4,3,1,0,0,0,0,0,NA,0,4,0,0,France,4.031696,49.258329
+964,Damien,Chouly,1985-11-27,FALSE,Limoges,FALSE,Back-row,New Zealand v France,Auckland,2007-06-02,46,27,19,15,3,0,0,0,NA,20,26,0,0.43478260869565216,France,1.261105,45.83361900000001
+965,Mickael,Forest,1975-08-09,FALSE,Chambery,FALSE,Scrum-half,New Zealand v France,Auckland,2007-06-02,2,0,2,0,0,0,0,0,NA,0,2,0,0,France,5.917781,45.564601
+966,Nicolas,Laharrague,1981-10-30,FALSE,Tarbes,FALSE,Fly-half,New Zealand v France,Auckland,2007-06-02,2,0,2,0,0,0,0,0,NA,0,2,0,0,France,0.078082,43.23295100000001
+967,Franck,Montanella,1982-03-26,FALSE,Cannes,FALSE,Prop,New Zealand v France,Auckland,2007-06-02,1,0,1,0,0,0,0,0,NA,0,1,0,0,France,7.017369,43.552847
+968,Olivier,Olibeau,1977-04-13,FALSE,Perpignan,FALSE,Lock,New Zealand v France,Auckland,2007-06-02,2,0,2,0,0,0,0,0,NA,0,2,0,0,France,2.8948332,42.6886591
+969,Lionel,Mazars,1984-06-26,FALSE,Toulouse,FALSE,Centre,New Zealand v France,Wellington,2007-06-09,2,2,0,0,0,0,0,0,NA,0,2,0,0,France,1.444209,43.604652
+970,Olivier,Sourgens,1972-01-17,FALSE,Cenon,FALSE,Prop,New Zealand v France,Wellington,2007-06-09,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,-0.5164736,44.85448900000001
+971,Fulgence,Ouedraogo,1986-07-21,FALSE,Ouagadougou,FALSE,Back-row,New Zealand v France,Wellington,2007-06-09,39,34,5,10,2,0,0,0,NA,21,18,0,0.5384615384615384,France,-1.5196603,12.3714277
+972,Julien,Brugnaut,1981-11-17,FALSE,Lille,FALSE,Prop,Scotland v France,Murrayfield,2008-02-03,2,1,1,0,0,0,0,0,NA,2,0,0,1,France,3.057256,50.62925
+973,Lionel,Faure,1977-11-26,FALSE,Montauban,FALSE,Prop,Scotland v France,Murrayfield,2008-02-03,8,8,0,0,0,0,0,0,NA,3,5,0,0.375,France,1.3529599,44.0221252
+974,Julien,Malzieu,1983-05-04,FALSE,Le Puy-en-Velay,FALSE,Wing,Scotland v France,Murrayfield,2008-02-03,20,15,5,25,5,0,0,0,NA,13,6,1,0.65,France,3.882936,45.042768
+975,Francois,Trinh-Duc,1986-11-11,FALSE,Herault,FALSE,Fly-half,Scotland v France,Murrayfield,2008-02-03,66,41,25,93,9,6,5,7,NA,34,30,2,0.5151515151515151,France,3.2583626,43.5912356
+976,Arnaud,Mela,1980-01-19,FALSE,Saint-Gaudens,FALSE,Lock,Scotland v France,Murrayfield,2008-02-03,4,1,3,0,0,0,0,0,NA,3,1,0,0.75,France,-72.3687458,43.5010949
+977,Morgan,Parra,1988-11-15,FALSE,Metz,FALSE,Scrum-half,Scotland v France,Murrayfield,2008-02-03,71,45,26,370,3,47,86,1,NA,37,32,2,0.5211267605633803,France,6.175715599999999,49.1193089
+978,Louis,Picamoles,1986-02-05,FALSE,Paris,FALSE,Back-row,France v Ireland,Stade de France,2008-02-09,82,62,20,50,10,0,0,0,NA,37,42,3,0.45121951219512196,France,2.3522219,48.856614
+979,Anthony,Floch,1983-02-12,FALSE,Clermont-Ferrand,FALSE,Fullback,France v England,Stade de France,2008-02-23,3,2,1,5,1,0,0,0,NA,1,2,0,0.3333333333333333,France,3.087025,45.77722199999999
+980,Fabien,Barcella,1983-10-27,FALSE,Agen,FALSE,Prop,France v Italy,Stade de France,2008-03-09,20,13,7,0,0,0,0,0,NA,12,8,0,0.6,France,-94.6039222,39.0957618
+981,Yann,David,1988-04-15,FALSE,Bourgoin,FALSE,Centre,France v Italy,Stade de France,2008-03-09,4,2,2,0,0,0,0,0,NA,3,1,0,0.75,France,5.27212,45.597108
+982,Ibrahim,Diarra,1983-05-25,FALSE,Savigny-sur-Orge,FALSE,Flanker,France v Italy,Stade de France,2008-03-09,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,2.349282,48.6851259
+983,Guilhem,Guirado,1986-06-17,FALSE,Ceret,FALSE,Hooker,France v Italy,Stade de France,2008-03-09,74,50,24,40,8,0,0,0,NA,34,38,2,0.4594594594594595,France,2.748826,42.485952
+984,Julien,Tomas,1985-04-21,FALSE,Montpellier,FALSE,Scrum-half,France v Italy,Stade de France,2008-03-09,3,0,3,0,0,0,0,0,NA,2,1,0,0.6666666666666666,France,3.876716,43.610769
+985,Benoit,Lecouls,1978-03-22,FALSE,Agen,FALSE,Prop,Australia v France,Sydney,2008-06-28,6,3,3,0,0,0,0,0,NA,2,4,0,0.3333333333333333,France,-94.6039222,39.0957618
+986,Alexis,Palisson,1987-09-09,FALSE,Montauban,FALSE,Wing,Australia v France,Sydney,2008-06-28,21,16,5,10,2,0,0,0,NA,13,8,0,0.6190476190476191,France,1.3529599,44.0221252
+987,Renaud,Boyoud,1980-05-07,FALSE,Grenoble,FALSE,Prop,Australia v France,Sydney,2008-06-28,3,1,2,0,0,0,0,0,NA,1,2,0,0.3333333333333333,France,5.724524,45.188529
+988,David,Janin,1977-05-09,FALSE,Tremblay-les-Gonesse,FALSE,Centre,Australia v France,Sydney,2008-06-28,2,1,1,0,0,0,0,0,NA,0,2,0,0,France,2.557211,48.979952
+989,Benjamin,Kayser,1984-07-26,FALSE,Paris,FALSE,Hooker,Australia v France,Sydney,2008-06-28,37,9,28,10,2,0,0,0,NA,19,17,1,0.5135135135135135,France,2.3522219,48.856614
+990,Thibault,Lacroix,1985-05-14,FALSE,Niort,FALSE,Centre,Australia v France,Sydney,2008-06-28,2,1,1,0,0,0,0,0,NA,0,2,0,0,France,-0.4647769999999999,46.323716
+991,Matthieu,Lievremont,1975-11-06,FALSE,Perpignan,FALSE,Back-row,Australia v France,Sydney,2008-06-28,2,1,1,0,0,0,0,0,NA,0,2,0,0,France,2.8948332,42.6886591
+992,Sebastien,Tillous-Borde,1985-04-29,FALSE,Oloron-Sainte-Marie,FALSE,Scrum-half,Australia v France,Sydney,2008-06-28,19,14,5,15,3,0,0,0,NA,10,9,0,0.5263157894736842,France,-0.6052919999999999,43.194413
+993,Pierre,Correia,1983-12-04,FALSE,Talence,FALSE,Prop,Australia v France,Brisbane,2008-07-05,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,-0.588054,44.802614
+994,Maxime,Mermoz,1986-07-28,FALSE,Epinal,FALSE,Centre,Australia v France,Brisbane,2008-07-05,35,27,8,15,3,0,0,0,NA,16,19,0,0.45714285714285713,France,6.449403,48.172402
+995,Yannick,Caballero,1983-04-03,FALSE,Castres,FALSE,Back-row,Australia v France,Brisbane,2008-07-05,1,0,1,0,0,0,0,0,NA,0,1,0,0,France,2.241295,43.606214
+996,Jean-Baptiste,Peyras-Loustalet,1984-01-05,FALSE,Pau,FALSE,Fullback,Australia v France,Brisbane,2008-07-05,1,0,1,0,0,0,0,0,NA,0,1,0,0,France,-0.370797,43.2951
+997,Maxime,Medard,1986-11-16,FALSE,Toulouse,FALSE,Fullback,France v Argentina,Marseille,2008-11-08,63,52,11,73,14,0,0,1,NA,35,27,1,0.5555555555555556,France,1.444209,43.604652
+998,Mathieu,Bastareaud,1988-09-17,FALSE,Creteil,FALSE,Centre,France v Wales,Stade de France,2009-02-27,54,38,16,25,5,0,0,0,NA,26,26,2,0.48148148148148145,France,2.455572,48.790367
+999,Thomas,Domingo,1985-08-20,FALSE,Tulle,FALSE,Prop,France v Wales,Stade de France,2009-02-27,36,26,10,5,1,0,0,0,NA,20,15,1,0.5555555555555556,France,-73.986361,40.752714
+1000,Julien,Dupuy,1983-12-19,FALSE,Perigueux,FALSE,Scrum-half,New Zealand v France,Dunedin,2009-06-13,8,5,3,38,0,4,10,0,NA,4,4,0,0.5,France,0.7211149,45.184029
+1001,Julien,Puricelli,1981-08-01,FALSE,Grenoble,FALSE,Back-row,New Zealand v France,Dunedin,2009-06-13,4,1,3,0,0,0,0,0,NA,2,2,0,0.5,France,5.724524,45.188529
+1002,Julien,Arias,1983-10-26,FALSE,Marseille,FALSE,Wing,Australia v France,Sydney,2009-06-27,2,1,1,0,0,0,0,0,NA,1,1,0,0.5,France,5.36978,43.296482
+1003,Benjamin,Fall,1989-03-03,FALSE,Langon,FALSE,Fullback,France v Samoa,Stade de France,2009-11-21,14,12,2,15,3,0,0,0,NA,6,8,0,0.42857142857142855,France,-0.245126,44.555419
+1004,Alexandre,Lapandry,1989-04-13,FALSE,Paray-le-Monial,FALSE,Back-row,France v Samoa,Stade de France,2009-11-21,13,5,8,10,2,0,0,0,NA,8,5,0,0.6153846153846154,France,4.120665,46.452222
+1005,Luc,Ducalcon,1984-01-02,FALSE,La Fere,FALSE,Prop,Scotland v France,Murrayfield,2010-02-07,17,6,11,0,0,0,0,0,NA,8,9,0,0.47058823529411764,France,3.367175,49.66125599999999
+1006,Marc,Andreu,1985-12-27,FALSE,Frejus,FALSE,Wing,Wales v France,Millennium Stadium,2010-02-26,7,4,3,10,2,0,0,0,NA,4,3,0,0.5714285714285714,France,6.737034,43.43315200000001
+1007,Wenceslas,Lauret,1989-03-28,FALSE,Tarbes,FALSE,Back-row,South Africa v France,Cape Town,2010-06-12,27,24,3,5,1,0,0,0,NA,10,17,0,0.37037037037037035,France,0.078082,43.23295100000001
+1008,Jerome,Porical,1985-09-20,FALSE,Perpignan,FALSE,Fullback,Argentina v France,Buenos Aires,2010-06-26,4,3,1,3,0,0,1,0,NA,2,2,0,0.5,France,2.8948332,42.6886591
+1009,Fabrice,Estebanez,1981-12-26,FALSE,Carcassonne,FALSE,Centre,France v Fiji,Nantes,2010-11-13,8,3,5,0,0,0,0,0,NA,5,3,0,0.625,France,2.3517703,43.2132151
+1010,Jerome,Schuster,1985-06-29,FALSE,Perpignan,FALSE,Prop,France v Fiji,Nantes,2010-11-13,2,1,1,0,0,0,0,0,NA,1,1,0,0.5,France,2.8948332,42.6886591
+1011,Benjamin,Noirot,1980-12-17,FALSE,Dijon,FALSE,Hooker,France v Fiji,Nantes,2010-11-13,1,0,1,0,0,0,0,0,NA,1,0,0,1,France,5.04148,47.322047
+1012,Yoann,Huget,1987-06-02,FALSE,Pamiers,FALSE,Wing,France v Argentina,Montpellier,2010-11-20,62,54,8,70,14,0,0,0,NA,29,32,1,0.46774193548387094,France,1.607953,43.114753
+1013,Raphael,Lakafia,1988-10-28,FALSE,Tours,FALSE,Back-row,France v Ireland,Bordeaux,2011-08-13,4,4,0,0,0,0,0,0,NA,2,2,0,0.5,France,0.68484,47.394144
+1014,Jean-Marc,Doussain,1991-02-12,FALSE,Toulouse,FALSE,Fly-half,New Zealand v France,Auckland,2011-10-23,17,5,12,41,1,3,10,0,NA,6,11,0,0.35294117647058826,France,1.444209,43.604652
+1015,Wesley,Fofana,1988-01-20,FALSE,Paris,FALSE,Centre,France v Italy,Stade de France,2012-02-04,48,47,1,75,15,0,0,0,NA,20,26,2,0.4166666666666667,France,2.3522219,48.856614
+1016,Yoann,Maestri,1988-01-14,FALSE,Hyeres,FALSE,Lock,France v Italy,Stade de France,2012-02-04,65,61,4,5,1,0,0,0,NA,25,38,2,0.38461538461538464,France,6.128639,43.120541
+1017,Jean-Marcelin,Buttin,1991-12-16,FALSE,Colmar,FALSE,Fullback,Wales v France,Millennium Stadium,2012-03-17,2,1,1,0,0,0,0,0,NA,0,2,0,0,France,7.358511999999999,48.0793589
+1018,Brice,Dulin,1990-04-13,FALSE,Lot-et-Garonne,FALSE,Fullback,Argentina v France,Cordoba,2012-06-16,31,29,2,33,6,0,1,0,NA,13,18,0,0.41935483870967744,France,0.4502368,44.2470173
+1019,Yvan,Watremez,1989-04-21,FALSE,Foix,FALSE,Prop,Argentina v France,Cordoba,2012-06-16,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,1.605232,42.964127
+1020,Romain,Taofifenua,1990-09-14,FALSE,Mont-de-Marsan,FALSE,Lock,Argentina v France,Cordoba,2012-06-16,20,6,14,5,1,0,0,0,NA,9,10,1,0.45,France,-0.4997819999999999,43.893485
+1021,Christopher,Tolofua,1993-12-31,FALSE,Frejus,FALSE,Hooker,Argentina v France,Cordoba,2012-06-16,7,0,7,0,0,0,0,0,NA,3,4,0,0.42857142857142855,France,6.737034,43.43315200000001
+1022,Maxime,Machenaud,1988-12-30,FALSE,Bordeaux,FALSE,Scrum-half,Argentina v France,Tucuman,2012-06-23,38,24,14,149,1,15,38,0,NA,16,22,0,0.42105263157894735,France,-0.57918,44.837789
+1023,Christophe,Samson,1984-03-01,FALSE,Clermont-Ferrand,FALSE,Lock,Argentina v France,Tucuman,2012-06-23,5,3,2,0,0,0,0,0,NA,2,2,1,0.4,France,3.087025,45.77722199999999
+1024,Yannick,Forestier,1982-01-02,FALSE,Narbonne,FALSE,Prop,France v Australia,Stade de France,2012-11-10,11,7,4,0,0,0,0,0,NA,6,5,0,0.5454545454545454,France,3.003078,43.184277
+1025,Jocelino,Suta,1982-11-18,FALSE,Port Vila,FALSE,Lock,France v Australia,Stade de France,2012-11-10,6,2,4,0,0,0,0,0,NA,3,3,0,0.5,France,168.3273245,-17.7332512
+1026,Sebastien,Vahaamahina,1991-10-21,FALSE,"Noumea, New Caledo",FALSE,Lock,France v Australia,Stade de France,2012-11-10,46,32,14,5,1,0,0,0,NA,17,27,2,0.3695652173913043,France,166.4480887,-22.2734912
+1027,Antonie,Claassen,1984-10-20,FALSE,Durban,FALSE,Back-row,England v France,Twickenham,2013-02-23,6,2,4,0,0,0,0,0,NA,2,3,1,0.3333333333333333,France,31.0218404,-29.85868039999999
+1028,Gael,Fickou,1994-03-26,FALSE,La Seyne-sur-Mer,FALSE,Centre,France v Scotland,Stade de France,2013-03-16,58,39,19,45,9,0,0,0,NA,29,29,0,0.5,France,5.878219,43.102976
+1029,Camille,Lopez,1989-04-03,FALSE,Oloron-Sainte-Marie,FALSE,Fly-half,New Zealand v France,Auckland,2013-06-08,28,22,6,167,0,19,40,3,NA,13,15,0,0.4642857142857143,France,-0.6052919999999999,43.194413
+1030,Adrien,Plante,1985-04-21,FALSE,Longjumeau,FALSE,Wing,New Zealand v France,Auckland,2013-06-08,2,2,0,0,0,0,0,0,NA,0,2,0,0,France,2.2947615,48.6930642
+1031,Alexandre,Flanquart,1989-10-09,FALSE,Cambrai,FALSE,Lock,New Zealand v France,Auckland,2013-06-08,22,13,9,0,0,0,0,0,NA,10,12,0,0.45454545454545453,France,3.236633,50.173538
+1032,Dan,Kotze,1987-03-28,FALSE,Frankfort,FALSE,Prop,New Zealand v France,Auckland,2013-06-08,4,0,4,0,0,0,0,0,NA,0,3,1,0,France,-84.87328350000001,38.2009055
+1033,Bernard le,Roux,1989-06-04,FALSE,Moorreesburg,FALSE,Back-row,New Zealand v France,Christchurch,2013-06-15,44,29,15,0,0,0,0,0,NA,23,21,0,0.5227272727272727,France,18.6680371,-33.1452274
+1034,Remi,Tales,1984-05-02,FALSE,Mont-de-Marsan,FALSE,Fly-half,New Zealand v France,Christchurch,2013-06-15,24,8,16,0,0,0,0,0,NA,9,15,0,0.375,France,-0.4997819999999999,43.893485
+1035,Eddy Ben,Arous,1990-08-25,FALSE,Trappes,FALSE,Prop,New Zealand v France,New Plymouth,2013-06-22,20,10,10,0,0,0,0,0,NA,11,9,0,0.55,France,2.001844,48.776731
+1036,Rabah,Slimani,1989-10-18,FALSE,Sarcelles,FALSE,Prop,France v New Zealand,Stade de France,2013-11-09,57,35,22,20,4,0,0,0,NA,25,31,1,0.43859649122807015,France,2.378493,48.997347
+1037,Sofiane,Guitoune,1989-03-27,FALSE,Algiers,FALSE,Wing,France v Tonga,Le Havre,2013-11-16,9,9,0,15,3,0,0,0,NA,5,4,0,0.5555555555555556,France,3.0587561,36.753768
+1038,Jonathan,Pelissie,1988-06-06,FALSE,Aubergenville,FALSE,Scrum-half,France v Tonga,Le Havre,2013-11-16,1,0,1,0,0,0,0,0,NA,1,0,0,1,France,1.855891,48.9591319
+1039,Jules,Plisson,1991-08-20,FALSE,Neuilly-sur-Seine,FALSE,Fly-half,France v England,Stade de France,2014-02-01,18,11,7,68,0,10,16,0,NA,7,11,0,0.3888888888888889,France,2.26851,48.884831
+1040,Antoine,Burban,1987-07-22,FALSE,Neuilly-sur-Seine,FALSE,Back-row,France v England,Stade de France,2014-02-01,4,1,3,0,0,0,0,0,NA,1,3,0,0.25,France,2.26851,48.884831
+1041,Hugo,Bonneval,1990-11-19,FALSE,Toulouse,FALSE,Fullback,France v Italy,Stade de France,2014-02-09,11,9,2,20,4,0,0,0,NA,6,4,1,0.5454545454545454,France,1.444209,43.604652
+1042,Brice,Mach,1986-04-02,FALSE,Perpignan,FALSE,Hooker,Wales v France,Millennium Stadium,2014-02-21,3,1,2,0,0,0,0,0,NA,1,2,0,0.3333333333333333,France,2.8948332,42.6886591
+1043,Felix le,Bourhis,1988-04-07,FALSE,Pithiviers,FALSE,Centre,Australia v France,Brisbane,2014-06-07,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,2.255849,48.173423
+1044,Remi,Lamerat,1990-01-14,FALSE,Sainte-Foy-la-Grande,FALSE,Centre,Australia v France,Brisbane,2014-06-07,19,14,5,10,2,0,0,0,NA,6,13,0,0.3157894736842105,France,0.215006,44.841805
+1045,Alexandre,Menini,1983-08-05,FALSE,Basse-Ham,FALSE,Prop,Australia v France,Melbourne,2014-06-14,6,5,1,0,0,0,0,0,NA,3,3,0,0.5,France,6.243243,49.38588
+1046,Alexandre,Dumoulin,1989-08-24,FALSE,Bourgoin,FALSE,Centre,France v Fiji,Marseille,2014-11-08,8,5,3,0,0,0,0,0,NA,5,3,0,0.625,France,5.27212,45.597108
+1047,Scott,Spedding,1986-05-04,FALSE,Krugersdorp,FALSE,Fullback,France v Fiji,Marseille,2014-11-08,23,23,0,26,1,0,7,0,NA,10,12,1,0.43478260869565216,France,27.8076959,-26.0963217
+1048,Teddy,Thomas,1993-09-18,FALSE,Biarritz,FALSE,Wing,France v Fiji,Marseille,2014-11-08,22,22,0,65,13,0,0,0,NA,11,10,1,0.5,France,-1.558626,43.4831519
+1049,Uini,Atonio,1990-03-26,FALSE,Timaru,FALSE,Prop,France v Fiji,Marseille,2014-11-08,34,13,21,0,0,0,0,0,NA,13,21,0,0.38235294117647056,France,171.2372756,-44.3903881
+1050,Xavier,Chiocci,1990-02-13,FALSE,Toulon,FALSE,Prop,France v Fiji,Marseille,2014-11-08,10,2,8,0,0,0,0,0,NA,3,7,0,0.3,France,5.928,43.124228
+1051,Rory,Kockott,1986-06-25,FALSE,East London,FALSE,Scrum-half,France v Fiji,Marseille,2014-11-08,11,2,9,15,0,3,3,0,NA,6,5,0,0.5454545454545454,France,0.0655092,51.55633
+1052,Charles,Ollivon,1993-05-11,FALSE,Saint-Pee-sur-Nivell,FALSE,Back-row,France v Fiji,Marseille,2014-11-08,18,14,4,35,7,0,0,0,NA,11,7,0,0.6111111111111112,France,-1.550488,43.356582
+1053,Loann,Goujon,1989-04-23,FALSE,Combronde,FALSE,Back-row,France v Scotland,Stade de France,2015-02-07,17,8,9,5,1,0,0,0,NA,6,11,0,0.35294117647058826,France,3.088235,45.98070300000001
+1054,Noa,Nakaitaci,1990-07-11,FALSE,Naluwai,FALSE,Wing,Italy v France,Rome,2015-03-15,15,15,0,10,2,0,0,0,NA,8,7,0,0.5333333333333333,France,178.3272713,-17.8353455
+1055,Remy,Grosso,1988-12-04,FALSE,Lyon,FALSE,Wing,Canada v France,Milton Keynes,2015-10-01,5,5,0,10,2,0,0,0,NA,3,2,0,0.6,France,4.835659,45.764043
+1056,Sebastien,Bezy,1991-11-22,FALSE,Hauts-de-Seine,FALSE,Scrum-half,France v Italy,Stade de France,2016-02-06,8,2,6,0,0,0,0,0,NA,3,5,0,0.375,France,2.2188068,48.828508
+1057,Jonathan,Danty,1992-10-07,FALSE,Paris,FALSE,Centre,France v Italy,Stade de France,2016-02-06,6,6,0,5,1,0,0,0,NA,3,3,0,0.5,France,2.3522219,48.856614
+1058,Paul,Jedrasiak,1993-02-06,FALSE,Montlucon,FALSE,Lock,France v Italy,Stade de France,2016-02-06,10,2,8,0,0,0,0,0,NA,4,5,1,0.4,France,2.6019912,46.3415466
+1059,Virimi,Vakatawa,1992-05-01,FALSE,Rangiora,FALSE,Centre,France v Italy,Stade de France,2016-02-06,27,26,1,50,10,0,0,0,NA,14,13,0,0.5185185185185185,France,172.5966281,-43.3032326
+1060,Yacouba,Camara,1994-06-02,FALSE,Aubervilliers,FALSE,Back-row,France v Italy,Stade de France,2016-02-06,17,14,3,0,0,0,0,0,NA,8,9,0,0.47058823529411764,France,2.384049,48.912259
+1061,Jefferson,Poirot,1992-11-01,FALSE,Val-d'Oise,FALSE,Prop,France v Italy,Stade de France,2016-02-06,36,32,4,5,1,0,0,0,NA,15,20,1,0.4166666666666667,France,2.1581351,49.0615901
+1062,Camille,Chat,1995-12-18,FALSE,Auxerre,FALSE,Hooker,France v Ireland,Stade de France,2016-02-13,30,8,22,10,2,0,0,0,NA,15,14,1,0.5,France,3.573781,47.798202
+1063,Djibril,Camara,1989-06-22,FALSE,Juvisy-sur-Orge,FALSE,Wing,Wales v France,Millennium Stadium,2016-02-26,4,3,1,0,0,0,0,0,NA,1,3,0,0.25,France,2.3708618,48.692871
+1064,Vincent,Pelo,1988-04-22,FALSE,& F,FALSE,Prop,Wales v France,Millennium Stadium,2016-02-26,2,0,2,0,0,0,0,0,NA,0,2,0,0,France,NA,NA
+1065,Remy,Bonfils,1988-09-26,FALSE,Paris,FALSE,Hooker,Argentina v France,Tucuman,2016-06-19,2,2,0,5,1,0,0,0,NA,1,1,0,0.5,France,2.3522219,48.856614
+1066,William,Demotte,1991-05-22,FALSE,Clermont-Ferrand,FALSE,Lock,Argentina v France,Tucuman,2016-06-19,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,3.087025,45.77722199999999
+1067,Kevin,Gourdon,1990-01-23,FALSE,Valence,FALSE,Back-row,Argentina v France,Tucuman,2016-06-19,19,18,1,0,0,0,0,0,NA,5,14,0,0.2631578947368421,France,-97.3880416,37.6408051
+1068,Julien le,Devedec,1986-06-04,FALSE,Sainte-Foy-la-Grande,FALSE,Lock,Argentina v France,Tucuman,2016-06-19,11,5,6,0,0,0,0,0,NA,5,6,0,0.45454545454545453,France,0.215006,44.841805
+1069,Xavier,Mignot,1994-01-27,FALSE,Not Available,FALSE,Wing,Argentina v France,Tucuman,2016-06-19,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,-122.2636808,37.8009514
+1070,Julien,Rey,1986-09-01,FALSE,Toulouse,FALSE,Centre,Argentina v France,Tucuman,2016-06-19,2,1,1,0,0,0,0,0,NA,1,1,0,0.5,France,1.444209,43.604652
+1071,Baptiste,Serin,1994-06-20,FALSE,La Teste-de-Buch,FALSE,Scrum-half,Argentina v France,Tucuman,2016-06-19,39,15,24,98,6,16,12,0,NA,17,21,1,0.4358974358974359,France,-1.148224,44.631077
+1072,Clement,Maynadier,1988-10-11,FALSE,Toulouse,FALSE,Hooker,Argentina v France,Tucuman,2016-06-19,8,1,7,0,0,0,0,0,NA,1,7,0,0.125,France,1.444209,43.604652
+1073,Fabrice,Metz,1991-01-23,FALSE,Strasbourg,FALSE,Lock,Argentina v France,Tucuman,2016-06-19,1,0,1,0,0,0,0,0,NA,0,1,0,0,France,7.752111299999999,48.5734053
+1074,Lucas,Pointud,1988-01-18,FALSE,Chambery,FALSE,Prop,Argentina v France,Tucuman,2016-06-19,2,0,2,0,0,0,0,0,NA,1,1,0,0.5,France,5.917781,45.564601
+1075,Kelian,Galletier,1992-03-18,FALSE,Montpellier,FALSE,Back-row,Argentina v France,Tucuman,2016-06-25,6,2,4,0,0,0,0,0,NA,3,3,0,0.5,France,3.876716,43.610769
+1076,Cyril,Baille,1993-09-15,FALSE,Pau,FALSE,Prop,France v Samoa,Toulouse,2016-11-12,23,12,11,5,1,0,0,0,NA,14,9,0,0.6086956521739131,France,-0.370797,43.2951
+1077,Arthur,Iturria,1994-05-13,FALSE,Bayonne,FALSE,Lock,England v France,Twickenham,2017-02-04,15,13,2,5,1,0,0,0,NA,6,9,0,0.4,France,-74.1143091,40.6687141
+1078,Henry,Chavancy,1988-05-22,FALSE,Strasbourg,FALSE,Centre,Ireland v France,Lansdowne Road,2017-02-25,4,3,1,5,1,0,0,0,NA,0,3,1,0,France,7.752111299999999,48.5734053
+1079,Fabien,Sanconnie,1995-02-21,FALSE,"Larche, Correze",FALSE,Back-row,Italy v France,Rome,2017-03-11,4,3,1,0,0,0,0,0,NA,2,1,1,0.5,France,1.414967,45.123168
+1080,Antoine,Dupont,1996-11-15,FALSE,Lannemezan,FALSE,Scrum-half,Italy v France,Rome,2017-03-11,27,17,10,35,7,0,0,0,NA,15,11,1,0.5555555555555556,France,0.38396,43.125519
+1081,Mohamed,Boughanmi,1991-10-27,FALSE,Montfermeil,FALSE,Prop,South Africa v France,Pretoria,2017-06-10,1,0,1,0,0,0,0,0,NA,0,1,0,0,France,2.570773,48.902029
+1082,Vincent,Rattez,1992-03-24,FALSE,Colombes,FALSE,Fullback,South Africa v France,Pretoria,2017-06-10,8,5,3,5,1,0,0,0,NA,5,3,0,0.625,France,2.2533313,48.9220615
+1083,Damian,Penaud,1996-09-25,FALSE,Brive-la-Gaillarde,FALSE,Wing,South Africa v France,Durban,2017-06-17,17,15,2,30,6,0,0,0,NA,5,11,1,0.29411764705882354,France,1.533937,45.159555
+1084,Nans,Ducuing,1991-11-06,FALSE,Bazus-Aure,FALSE,Fullback,South Africa v France,Durban,2017-06-17,4,3,1,0,0,0,0,0,NA,0,4,0,0,France,0.350087,42.855721
+1085,Anthony,Belleau,1996-04-08,FALSE,Villeneuve-sur-Lot,FALSE,Fly-half,France v New Zealand,Stade de France,2017-11-11,12,5,7,24,1,5,3,0,NA,2,10,0,0.16666666666666666,France,0.7072568,44.4082053
+1086,Jucael,di Cancoriet,1996-04-25,FALSE,Not Available,FALSE,Back-row,France v New Zealand,Stade de France,2017-11-11,4,4,0,0,0,0,0,0,NA,0,3,1,0,France,-122.2636808,37.8009514
+1087,Geoffrey,Doumayrou,1989-09-16,FALSE,Montpellier,FALSE,Centre,France v New Zealand,Stade de France,2017-11-11,13,11,2,0,0,0,0,0,NA,3,10,0,0.23076923076923078,France,3.876716,43.610769
+1088,Paul,Gabrillagues,1993-06-03,FALSE,Paris,FALSE,Lock,France v New Zealand,Stade de France,2017-11-11,16,9,7,5,1,0,0,0,NA,7,9,0,0.4375,France,2.3522219,48.856614
+1089,Raphael,Chaume,1989-04-29,FALSE,Valreas,FALSE,Prop,France v New Zealand,Stade de France,2017-11-11,1,0,1,0,0,0,0,0,NA,0,1,0,0,France,4.989187,44.383724
+1090,Anthony,Jelonch,1996-07-28,FALSE,Not Available,FALSE,Back-row,France v New Zealand,Stade de France,2017-11-11,4,2,2,0,0,0,0,0,NA,1,3,0,0.25,France,-122.2636808,37.8009514
+1091,Sebastien,Taofifenua,1992-03-21,FALSE,Mont-de-Marsan,FALSE,Prop,France v South Africa,Stade de France,2017-11-18,2,0,2,0,0,0,0,0,NA,0,1,1,0,France,-0.4997819999999999,43.893485
+1092,Gabriel,Lacroix,1993-10-19,FALSE,Toulouse,FALSE,Wing,France v Japan,Paris,2017-11-25,1,1,0,5,1,0,0,0,NA,0,0,1,0,France,1.444209,43.604652
+1093,Sekou,Macalou,1995-04-20,FALSE,Sarcelles,FALSE,Back-row,France v Japan,Paris,2017-11-25,3,2,1,5,1,0,0,0,NA,1,1,1,0.3333333333333333,France,2.378493,48.997347
+1094,Matthieu,Jalibert,1998-11-06,FALSE,Saint-Germain-en-Lay,FALSE,Fly-half,France v Ireland,Stade de France,2018-02-03,8,4,4,29,0,7,4,1,NA,5,3,0,0.625,France,2.093761,48.898908
+1095,Geoffrey,Palis,1991-07-08,FALSE,Albi,FALSE,Fullback,France v Ireland,Stade de France,2018-02-03,2,2,0,0,0,0,0,0,NA,0,2,0,0,France,-77.0003736,38.874158
+1096,Cedate Gomes,Sa,1993-08-07,FALSE,"Bissau, Guinea-Bis",FALSE,Prop,France v Ireland,Stade de France,2018-02-03,9,3,6,5,1,0,0,0,NA,3,6,0,0.3333333333333333,France,-77.04428419999999,38.8985658
+1097,Adrien,Pelissie,1990-08-07,FALSE,Septfonds,FALSE,Hooker,France v Ireland,Stade de France,2018-02-03,7,1,6,0,0,0,0,0,NA,2,5,0,0.2857142857142857,France,1.6182319,44.178874
+1098,Dany,Priso,1994-01-02,FALSE,Loum,FALSE,Prop,France v Ireland,Stade de France,2018-02-03,14,3,11,0,0,0,0,0,NA,5,9,0,0.35714285714285715,France,9.7288412,4.7161955
+1099,Marco,Tauleigne,1993-08-30,FALSE,Montelimar,FALSE,Back-row,France v Ireland,Stade de France,2018-02-03,5,4,1,0,0,0,0,0,NA,2,3,0,0.4,France,4.749496,44.556944
+1100,Baptiste,Couilloud,1997-07-22,FALSE,Lyon,FALSE,Scrum-half,France v Italy,Marseille,2018-02-23,5,1,4,0,0,0,0,0,NA,3,2,0,0.6,France,4.835659,45.764043
+1101,Mathieu,Babillot,1993-09-09,FALSE,Chartres,FALSE,Back-row,Wales v France,Millennium Stadium,2018-03-17,5,2,3,0,0,0,0,0,NA,1,4,0,0.2,France,1.489012,48.44385399999999
+1102,Pierre,Bourgarit,1997-09-12,FALSE,Gimont,FALSE,Hooker,New Zealand v France,Wellington,2018-06-16,3,1,2,0,0,0,0,0,NA,0,3,0,0,France,0.876768,43.626348
+1103,Felix,Lambey,1994-03-15,FALSE,Lons-le-Saunier,FALSE,Lock,New Zealand v France,Dunedin,2018-06-23,10,5,5,0,0,0,0,0,NA,4,6,0,0.4,France,5.550796,46.671361
+1104,Demba,Bamba,1998-03-17,FALSE,Stains,FALSE,Prop,France v Fiji,Stade de France,2018-11-24,14,5,9,0,0,0,0,0,NA,9,5,0,0.6428571428571429,France,-97.2303074,37.7439424
+1105,Julien,Marchand,1995-05-10,FALSE,Loures-Barousse,FALSE,Hooker,France v Fiji,Stade de France,2018-11-24,9,6,3,0,0,0,0,0,NA,6,3,0,0.6666666666666666,France,0.605441,43.025201
+1106,Romain,Ntamack,1999-05-01,FALSE,Toulouse,FALSE,Fly-half,France v Wales,Stade de France,2019-02-01,18,14,4,122,4,27,15,1,NA,12,6,0,0.6666666666666666,France,1.444209,43.604652
+1107,Paul,Willemse,1992-11-13,FALSE,Pretoria,FALSE,Lock,France v Wales,Stade de France,2019-02-01,12,8,4,5,1,0,0,0,NA,8,4,0,0.6666666666666666,France,28.2292712,-25.7478676
+1108,Greg,Alldritt,1997-03-23,FALSE,Condom,FALSE,Back-row,France v Wales,Stade de France,2019-02-01,18,13,5,20,4,0,0,0,NA,12,6,0,0.6666666666666666,France,-75.1503859,39.94192899999999
+1109,Dorian,Aldegheri,1993-08-04,FALSE,Toulouse,FALSE,Prop,England v France,Twickenham,2019-02-10,6,2,4,0,0,0,0,0,NA,3,3,0,0.5,France,1.444209,43.604652
+1110,Thomas,Ramos,1995-07-23,FALSE,Mazamet,FALSE,Fullback,England v France,Twickenham,2019-02-10,14,5,9,30,1,5,5,0,NA,10,4,0,0.7142857142857143,France,2.376579,43.490103
+1111,Etienne,Falgoux,1993-01-19,FALSE,Issoire,FALSE,Prop,France v Scotland,Stade de France,2019-02-23,3,1,2,0,0,0,0,0,NA,2,1,0,0.6666666666666666,France,3.248128,45.54151
+1112,Francois,Cros,1994-03-25,FALSE,Toulouse,FALSE,Back-row,France v Scotland,Nice,2019-08-17,8,7,1,0,0,0,0,0,NA,7,1,0,0.875,France,1.444209,43.604652
+1113,Alivereti,Raka,1994-12-09,FALSE,Nakorovatu,FALSE,Wing,France v Scotland,Nice,2019-08-17,5,5,0,15,3,0,0,0,NA,3,2,0,0.6,France,179.3629995,-16.4307926
+1114,Peato,Mauvaka,1997-01-10,FALSE,"Noumea, New Caledo",FALSE,Hooker,France v Scotland,Nice,2019-08-17,6,1,5,0,0,0,0,0,NA,4,2,0,0.6666666666666666,France,166.4480887,-22.2734912
+1115,Emerick,Setiano,1996-07-19,FALSE,Angers,FALSE,Prop,France v Scotland,Nice,2019-08-17,6,1,5,0,0,0,0,0,NA,4,2,0,0.6666666666666666,France,-0.5518257,47.47116159999999
+1116,Pierre-Louis,Barassi,1998-04-22,FALSE,Selestat,FALSE,Centre,France v Tonga,Kumamoto,2019-10-06,2,0,2,0,0,0,0,0,NA,1,1,0,0.5,France,7.454241000000001,48.259386
+1117,Anthony,Bouthier,1992-06-19,FALSE,Pouillon,FALSE,Fullback,France v England,Stade de France,2020-02-02,6,6,0,5,1,0,0,0,NA,5,1,0,0.8333333333333334,France,-0.99759,43.605171
+1118,Mohamed,Haouas,1994-03-09,FALSE,Palavas-les-Flots,FALSE,Prop,France v England,Stade de France,2020-02-02,7,6,1,0,0,0,0,0,NA,6,1,0,0.8571428571428571,France,3.933493,43.528906
+1119,Boris,Palu,1996-02-04,FALSE,Toulouse,FALSE,Back-row,France v England,Stade de France,2020-02-02,2,0,2,0,0,0,0,0,NA,2,0,0,1,France,1.444209,43.604652
+1120,Arthur,Vincent,1999-09-30,FALSE,Montpellier,FALSE,Centre,France v England,Stade de France,2020-02-02,7,4,3,0,0,0,0,0,NA,6,1,0,0.8571428571428571,France,3.876716,43.610769
+1121,Cameron,Woki,1998-11-07,FALSE,Saint-Denis,FALSE,Back-row,France v England,Stade de France,2020-02-02,4,2,2,0,0,0,0,0,NA,3,1,0,0.75,France,2.357443,48.936181
+1122,Dylan,Cretin,1997-05-04,FALSE,Annemasse,FALSE,Back-row,Wales v France,Millennium Stadium,2020-02-22,5,1,4,0,0,0,0,0,NA,4,1,0,0.8,France,6.234158,46.19325300000001
+1123,Jean-Baptiste,Gros,1999-05-29,FALSE,Arles,FALSE,Prop,Wales v France,Millennium Stadium,2020-02-22,5,1,4,0,0,0,0,0,NA,4,1,0,0.8,France,4.6277769,43.676647
+1124,Arthur,Retiere,1997-08-01,FALSE,Dijon,FALSE,Scrum-half,France v Ireland,Stade de France,2020-10-31,1,0,1,0,0,0,0,0,NA,1,0,0,1,France,5.04148,47.322047
+1125,Jean-Pascal,Barraque,1991-04-24,FALSE,Le Chesnay,FALSE,Centre,France v Italy,Stade de France,2020-11-28,1,1,0,0,0,0,0,0,NA,1,0,0,1,France,2.128365,48.8262851
+1126,Killan,Geraci,1999-03-25,FALSE,Grenoble,FALSE,Lock,France v Italy,Stade de France,2020-11-28,2,2,0,0,0,0,0,0,NA,1,1,0,0.5,France,5.724524,45.188529
+1127,Rodrigue,Neti,1995-04-26,FALSE,"Noumea, New Caledo",FALSE,Prop,France v Italy,Stade de France,2020-11-28,2,1,1,0,0,0,0,0,NA,1,1,0,0.5,France,166.4480887,-22.2734912
+1128,Baptiste,Pesenti-Compagnoni,1997-07-03,FALSE,Besancon,FALSE,Back-row,France v Italy,Stade de France,2020-11-28,2,2,0,0,0,0,0,0,NA,1,1,0,0.5,France,6.024053899999999,47.237829
+1129,Gabin,Villiere,1995-12-13,FALSE,Rouen,FALSE,Wing,France v Italy,Stade de France,2020-11-28,2,2,0,5,1,0,0,0,NA,1,1,0,0.5,France,1.099971,49.44323199999999
+1130,Teddy,Baubigny,1998-09-02,FALSE,Meaux,FALSE,Hooker,France v Italy,Stade de France,2020-11-28,1,0,1,0,0,0,0,0,NA,1,0,0,1,France,2.8884657,48.9562018
+1131,Louis,Carbonel,1999-02-04,FALSE,Toulon,FALSE,Fly-half,France v Italy,Stade de France,2020-11-28,2,0,2,8,0,1,2,0,NA,1,1,0,0.5,France,5.928,43.124228
+1132,Cyril,Cazeaux,1995-02-10,FALSE,Dax,FALSE,Lock,France v Italy,Stade de France,2020-11-28,1,0,1,0,0,0,0,0,NA,1,0,0,1,France,-80.3212932,25.8510938
+1133,Hassane,Kolingar,1998-03-06,FALSE,Paris,FALSE,Prop,France v Italy,Stade de France,2020-11-28,2,1,1,0,0,0,0,0,NA,1,1,0,0.5,France,2.3522219,48.856614
+1134,Yoram,Moefana,2000-07-18,FALSE,"Noumea, New Caledo",FALSE,Centre,France v Italy,Stade de France,2020-11-28,2,1,1,0,0,0,0,0,NA,1,1,0,0.5,France,166.4480887,-22.2734912
+1135,Swan,Rebbadj,1995-01-15,FALSE,Mont-de-Marsan,FALSE,Lock,France v Italy,Stade de France,2020-11-28,1,0,1,0,0,0,0,0,NA,1,0,0,1,France,-0.4997819999999999,43.893485
+1136,Selevasio,Tolofua,1997-05-31,FALSE,Saint-Laurent-du-Var,FALSE,Back-row,England v France,Twickenham,2020-12-06,1,1,0,0,0,0,0,0,NA,0,1,0,0,France,7.189811,43.673417
+1137,Guillaume,Ducat,1996-05-20,FALSE,Tarbes,FALSE,Lock,England v France,Twickenham,2020-12-06,1,0,1,0,0,0,0,0,NA,0,1,0,0,France,0.078082,43.23295100000001

@@ -1,16 +1,16 @@
-library(janitor)
-library(tidyverse)
-library(lubridate)
-library(here)
-
-england_players <- read_csv(here("2_raw_data/england/england_data.csv"))
-
-players_names <- england_players %>% 
+clean_rugby_data <- function(data){
+  
+  players_names <- data %>% 
   mutate(surname = str_extract(name,
                                "[A-z-']+$"), .after = name) %>% 
   mutate(first_names = str_remove(name," [A-z-']+$"), .after = name) %>% 
+  mutate(surname = ifelse(str_detect(first_names,"van der"), paste("van der", surname), surname)) %>% 
+  mutate(first_names = str_remove(first_names, "van der")) %>% 
+  mutate(surname = ifelse(str_detect(first_names,"du"), paste("du", surname), surname)) %>% 
+  mutate(first_names = str_remove(first_names,"du")) %>% 
+  mutate(surname = ifelse(str_detect(first_names,"di"), paste("di", surname), surname)) %>% 
+  mutate(first_names = str_remove(first_names,"di")) %>% 
   select(-name)
-
 
 players_births <- players_names %>% 
   mutate(born = str_remove_all(born,"\n")) %>% 
@@ -20,24 +20,27 @@ players_births <- players_names %>%
   # Extract Birth Date
   mutate(born_temp = 
            str_extract(born, "^[A-z0-9', ]*[0-9]{4}"), .after = born) %>% 
-  # Flag if exact Birth date is unknown
+  # Flag if exact Birth date is unknown if there is just a year
   mutate(approx_brithdate = str_detect(born_temp, "circa") | 
            str_detect(born_temp, "[A-z]+ [0-9]{4}"), .after = born_temp) %>% 
-  # Get estimated birthdates
   mutate(born_temp = str_remove(born_temp, "circa ")) %>% 
- 
-   mutate(birth_date = case_when(
+  
+  # Get Birth dates if there is only month and year
+  mutate(birth_date = case_when(
     str_detect(born_temp, "[A-z0-9 ]+, [0-9]{4}") ~ mdy(born_temp),
     str_detect(born_temp, "[A-z]+ [0-9]{4}") ~ myd(born_temp, truncated = 1),
     TRUE ~ ymd(born_temp, truncated = 2)), .after = born 
   )
 
-
+# Get Birthdates
 players_births <- players_births %>% 
   mutate(birth_location = coalesce(birth_location,"Not Available")) %>%
   mutate(birth_location = str_replace(birth_location, "[^a-z]\\?", "Not Available")) %>% 
   mutate(approx_birth_location = str_detect(birth_location, "\\?"), .after = birth_location) %>% 
   mutate(birth_location = str_remove(birth_location, "\\?")) %>% 
+  mutate(birth_location = str_remove(birth_location, "date unknown,")) %>%
+  mutate(birth_location =str_squish(birth_location)) %>% 
+  
   select(-born, -born_temp)
 
 
@@ -89,8 +92,6 @@ players_stats <- players_debut %>%
   select(-stats) %>% 
   mutate(win_rate = won/matches_played)
 
-players_stats %>% 
-  write_csv("clean_data/england/england_player_data_clean")
-
-
+return(players_stats)
+}
 

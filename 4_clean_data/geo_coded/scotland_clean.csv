@@ -1,0 +1,1114 @@
+cap_no,first_names,surname,birth_date,approx_brithdate,birth_location,approx_birth_location,position,debut_match,debut_location,debut_date,matches_played,match_starts,sub_starts,points,tries,converstions,penalties,drop_goals,goals_from_mark,won,lost,draw,win_rate,country,lon,lat
+1,John,Arthur,1848-04-25,FALSE,Glasgow,FALSE,Halfback,Scotland v England,Edinburgh,1871-03-27,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-4.251806,55.864237
+2,William,Brown,1852-05-29,FALSE,Glasgow,FALSE,Fullback,Scotland v England,Edinburgh,1871-03-27,5,5,0,0,0,0,0,0,0,1,2,2,0.2,Scotland,-4.251806,55.864237
+3,Angus,Buchanan,1847-01-15,FALSE,Inverary,FALSE,Forward,Scotland v England,Edinburgh,1871-03-27,1,1,0,0,1,0,0,0,0,1,0,0,1,Scotland,-5.075410199999999,56.2317854
+4,Tom,Chalmers,1850-03-19,FALSE,Glasgow,FALSE,Fullback,Scotland v England,Edinburgh,1871-03-27,6,6,0,0,0,0,0,0,0,1,3,2,0.16666666666666666,Scotland,-4.251806,55.864237
+5,Alfred,Clunies-Ross,1851-01-01,TRUE,Cocos Islands,FALSE,Fullback,Scotland v England,Edinburgh,1871-03-27,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,96.87095599999999,-12.164165
+6,Andrew,Colville,1846-12-17,FALSE,Edinburgh,FALSE,Forward,Scotland v England,Edinburgh,1871-03-27,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-3.188267,55.953252
+7,William,Cross,1850-09-10,FALSE,Glasgow,FALSE,Halfback,Scotland v England,Edinburgh,1871-03-27,2,2,0,1,1,1,0,0,0,1,1,0,0.5,Scotland,-4.251806,55.864237
+8,Daniel,Drew,1850-01-01,TRUE,Dunoon,FALSE,Forward,Scotland v England,Edinburgh,1871-03-27,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-4.926214,55.950973
+9,Jim,Finlay,1852-04-08,FALSE,Edinburgh,FALSE,Forward,Scotland v England,Edinburgh,1871-03-27,4,4,0,0,1,0,0,0,0,1,2,1,0.25,Scotland,-3.188267,55.953252
+10,William,Forsyth,1850-03-23,FALSE,"Logie-Easter, Ross",FALSE,Forward,Scotland v England,Edinburgh,1871-03-27,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-4.0537485,57.7535433
+11,Robert,Irvine,1853-04-19,FALSE,Blair Atholl,FALSE,Forward,Scotland v England,Edinburgh,1871-03-27,13,13,0,0,1,0,0,0,0,5,4,4,0.38461538461538464,Scotland,-3.843385,56.768184
+12,William,Lyall,1848-01-27,FALSE,St Cuthbert's,FALSE,Forward,Scotland v England,Edinburgh,1871-03-27,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.9011719,49.1524097
+13,John,MacFarlane,1851-06-19,FALSE,Montego Bay,FALSE,Forward,Scotland v England,Edinburgh,1871-03-27,3,3,0,0,0,0,0,0,0,1,1,1,0.3333333333333333,Scotland,-77.8938895,18.4762228
+14,Thomas,Marshall,1849-06-26,FALSE,"Chatton Park, NHumb",FALSE,Three-quarters,Scotland v England,Edinburgh,1871-03-27,4,4,0,0,0,0,0,0,0,1,2,1,0.25,Scotland,-88.2271615,40.1019523
+15,James,Mein,1852-07-01,FALSE,Jedburgh,FALSE,Forward,Scotland v England,Edinburgh,1871-03-27,5,5,0,0,0,0,0,0,0,1,2,2,0.2,Scotland,-2.5549369,55.477721
+16,Francis,Moncreiff,1849-08-27,FALSE,Midlothian,FALSE,Forward,Scotland v England,Edinburgh,1871-03-27,3,3,0,0,0,0,0,0,0,1,1,1,0.3333333333333333,Scotland,-97.01031809999999,32.475335
+17,Robert,Munro,1839-01-01,TRUE,Not Available,FALSE,Forward,Scotland v England,Edinburgh,1871-03-27,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+18,George,Ritchie,1848-04-16,FALSE,Edinburgh,FALSE,Forward,Scotland v England,Edinburgh,1871-03-27,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-3.188267,55.953252
+19,Alexander,Robertson,1848-10-01,FALSE,Ayr,FALSE,Forward,Scotland v England,Edinburgh,1871-03-27,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-98.4403373,40.4375138
+20,John,Thomson,1845-08-09,FALSE,Not Available,FALSE,Forward,Scotland v England,Edinburgh,1871-03-27,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+21,John,Anderson,1849-05-09,FALSE,Edinburgh,FALSE,Forward,England v Scotland,The Oval,1872-02-05,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.188267,55.953252
+22,Leslie,Balfour-Melville,1854-03-09,FALSE,"Bonnington, Edinburgh",FALSE,Fullback,England v Scotland,The Oval,1872-02-05,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.193971,55.961564
+23,Edward,Bannerman,1850-01-14,FALSE,Aberdeenshire,FALSE,Forward,England v Scotland,The Oval,1872-02-05,2,2,0,0,0,0,0,0,0,0,1,1,0,Scotland,-2.3815684,57.28687230000001
+24,Charles,Cathcart,1853-03-16,FALSE,Edinburgh,FALSE,Forward,England v Scotland,The Oval,1872-02-05,3,3,0,1,0,0,0,1,0,0,2,1,0,Scotland,-3.188267,55.953252
+25,James,McClure,1851-07-08,FALSE,"Barony, Glasgow",FALSE,Forward,England v Scotland,The Oval,1872-02-05,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-4.1132949,55.8562234
+26,Reginald,Maitland,1851-03-06,FALSE,"Southsea, Hants",FALSE,Three-quarters,England v Scotland,The Oval,1872-02-05,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-1.085559,50.783565
+27,William,Marshall,1852-06-22,FALSE,Not Available,FALSE,Forward,England v Scotland,The Oval,1872-02-05,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+28,Frederick,Maxwell,1849-01-10,FALSE,Devonport,FALSE,Forward,England v Scotland,The Oval,1872-02-05,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,146.3451775,-41.1770585
+29,Henry,Renny-Tailyour,1849-10-09,FALSE,Mussorrie,FALSE,Forward,England v Scotland,The Oval,1872-02-05,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,78.0643723,30.4597892
+30,Henry,Allan,1850-04-02,FALSE,Glasgow,FALSE,Forward,Scotland v England,Glasgow,1873-03-03,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-4.251806,55.864237
+31,Peter,Anton,1850-06-25,FALSE,Errol,FALSE,Forward,Scotland v England,Glasgow,1873-03-03,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-71.1378558,44.7814393
+32,Charles,Bryce,1848-04-16,FALSE,Glasgow,FALSE,Forward,Scotland v England,Glasgow,1873-03-03,2,2,0,0,0,0,0,0,0,0,1,1,0,Scotland,-4.251806,55.864237
+33,John,Davidson,1851-09-03,FALSE,Banchory,FALSE,Forward,Scotland v England,Glasgow,1873-03-03,2,2,0,0,0,0,0,0,0,0,1,1,0,Scotland,-2.4909599,57.053856
+34,William,Grant,1853-07-20,FALSE,Bengal,FALSE,Halfback,Scotland v England,Glasgow,1873-03-03,2,2,0,0,0,0,0,0,0,0,1,1,0,Scotland,87.8549755,22.9867569
+35,George,McClure,1851-07-08,FALSE,"Barony, Glasgow",FALSE,Three-quarters,Scotland v England,Glasgow,1873-03-03,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-4.1132949,55.8562234
+36,Alexander,Petrie,1853-02-14,FALSE,Birkenhead,FALSE,Forward,Scotland v England,Glasgow,1873-03-03,11,11,0,0,0,0,0,0,0,4,3,4,0.36363636363636365,Scotland,-3.023009,53.38999099999999
+37,James,Sanderson,1852-01-29,FALSE,Madras,FALSE,Fullback,Scotland v England,Glasgow,1873-03-03,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,80.2707184,13.0826802
+38,Tom,Whittington,1848-08-19,FALSE,"Tonna, Neath",FALSE,Forward,Scotland v England,Glasgow,1873-03-03,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-3.773785,51.676127
+39,Robert,Wilson,1854-02-04,FALSE,Not Available,FALSE,Forward,Scotland v England,Glasgow,1873-03-03,2,2,0,0,0,0,0,0,0,0,1,1,0,Scotland,-122.2636808,37.8009514
+40,Alexander,Wood,1848-04-30,FALSE,"Fetteresso, Kincardin",FALSE,Forward,Scotland v England,Glasgow,1873-03-03,3,3,0,0,0,0,0,0,0,0,1,2,0,Scotland,-2.242611,56.96265
+41,Hugh,Hamilton,1854-06-26,FALSE,New South Wales,FALSE,Three-quarters,England v Scotland,The Oval,1874-02-23,2,2,0,0,0,0,0,0,0,0,1,1,0,Scotland,146.921099,-31.2532183
+42,Gilbert,Heron,1854-09-06,FALSE,Not Available,FALSE,Forward,England v Scotland,The Oval,1874-02-23,2,2,0,0,0,0,0,0,0,0,1,1,0,Scotland,-122.2636808,37.8009514
+43,William,Kidston,1852-04-29,FALSE,Glasgow,FALSE,Three-quarters,England v Scotland,The Oval,1874-02-23,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-4.251806,55.864237
+44,Tom,Neilson,1851-10-22,FALSE,Not Available,FALSE,Forward,England v Scotland,The Oval,1874-02-23,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+45,James,Reid,1851-02-24,FALSE,Not Available,FALSE,Forward,England v Scotland,The Oval,1874-02-23,5,5,0,0,1,0,0,0,0,2,2,1,0.4,Scotland,-122.2636808,37.8009514
+46,Alexander,Stewart,1852-08-30,FALSE,Bombay,FALSE,Halfback,England v Scotland,The Oval,1874-02-23,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,72.8776559,19.0759837
+47,John,Tod,1852-09-11,FALSE,Glasgow,FALSE,Forward,England v Scotland,The Oval,1874-02-23,2,2,0,0,0,0,0,0,0,0,1,1,0,Scotland,-4.251806,55.864237
+48,Arthur,Young,1855-10-31,FALSE,Not Available,FALSE,Forward,England v Scotland,The Oval,1874-02-23,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+49,Allan,Arthur,1857-04-03,FALSE,Not Available,FALSE,Forward,Scotland v England,Edinburgh,1875-03-08,2,2,0,0,0,0,0,0,0,0,1,1,0,Scotland,-122.2636808,37.8009514
+50,Malcolm,Cross,1856-06-15,FALSE,Glasgow,FALSE,Three-quarters,Scotland v England,Edinburgh,1875-03-08,9,9,0,9,0,7,0,2,0,4,2,3,0.4444444444444444,Scotland,-4.251806,55.864237
+51,James,Dunlop,1854-10-16,FALSE,Not Available,FALSE,Forward,Scotland v England,Edinburgh,1875-03-08,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-122.2636808,37.8009514
+52,Alec,Finlay,1854-04-21,FALSE,Not Available,FALSE,Forward,Scotland v England,Edinburgh,1875-03-08,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-122.2636808,37.8009514
+53,Ninian,Finlay,1858-01-31,FALSE,Edinburgh,FALSE,Three-quarters,Scotland v England,Edinburgh,1875-03-08,9,9,0,3,0,0,0,3,0,2,3,4,0.2222222222222222,Scotland,-3.188267,55.953252
+54,George,Fleming,1850-08-05,FALSE,"Cathcart, Renfrew",FALSE,Forward,Scotland v England,Edinburgh,1875-03-08,2,2,0,0,0,0,0,0,0,0,1,1,0,Scotland,-73.5692531,45.5014758
+55,John,Gordon,1849-11-09,FALSE,Clerkenwell,FALSE,Halfback,Scotland v England,Edinburgh,1875-03-08,3,3,0,0,0,0,0,0,0,2,0,1,0.6666666666666666,Scotland,-0.1078746,51.5264898
+56,Arthur,Marshall,1855-04-27,FALSE,Not Available,FALSE,Forward,Scotland v England,Edinburgh,1875-03-08,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-122.2636808,37.8009514
+57,Duncan,Robertson,1851-06-30,FALSE,Not Available,FALSE,Forward,Scotland v England,Edinburgh,1875-03-08,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-122.2636808,37.8009514
+58,William,Bolton,1851-03-15,FALSE,Stirling,FALSE,Forward,England v Scotland,The Oval,1876-03-06,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.9369029,56.1165227
+59,Nat,Brewis,1856-04-16,FALSE,"Eshott Hall, Nthb",FALSE,Forward,England v Scotland,The Oval,1876-03-06,6,6,0,0,0,0,0,0,0,2,2,2,0.3333333333333333,Scotland,-1.6808773,55.2740646
+60,James,Carrick,1855-09-04,FALSE,"Blythswood, Glasgow",FALSE,Fullback,England v Scotland,The Oval,1876-03-06,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-4.2629844,55.86310830000001
+61,Gussie,Graham,1856-04-16,FALSE,Middlebie,FALSE,Forward,England v Scotland,The Oval,1876-03-06,10,10,0,0,1,0,0,0,0,4,3,3,0.4,Scotland,-3.23338,55.073227
+62,John,Junor,1855-11-04,FALSE,"Milton, Glasgow",FALSE,Forward,England v Scotland,The Oval,1876-03-06,6,6,0,0,0,0,0,0,0,2,2,2,0.3333333333333333,Scotland,-4.253207,55.90042099999999
+63,David,Lang,1852-08-16,FALSE,Paisley,FALSE,Forward,England v Scotland,The Oval,1876-03-06,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-90.0880101,30.3989348
+64,George,Paterson,1855-03-05,FALSE,Bangalore,FALSE,Halfback,England v Scotland,The Oval,1876-03-06,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,77.5945627,12.9715987
+65,Charles,Villar,NA,NA,Cheltenham,FALSE,Forward,England v Scotland,The Oval,1876-03-06,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,Scotland,-75.1370254,40.0812601
+66,David,Watson,1854-01-07,FALSE,Glasgow,FALSE,Forward,England v Scotland,The Oval,1876-03-06,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,Scotland,-4.251806,55.864237
+67,Henry,Johnston,1856-09-13,FALSE,Kirkwall,FALSE,Fullback,Ireland v Scotland,Belfast,1877-02-19,2,2,0,0,0,0,0,0,0,2,0,0,1,Scotland,-2.9622491,58.98467400000001
+68,Robert,Mackenzie,1856-01-12,FALSE,Glasgow,FALSE,Three-quarters,Ireland v Scotland,Belfast,1877-02-19,4,4,0,2,3,0,0,2,0,2,1,1,0.5,Scotland,-4.251806,55.864237
+69,Henry,Napier,1854-05-02,FALSE,Glasgow,FALSE,Forward,Ireland v Scotland,Belfast,1877-02-19,5,5,0,0,0,0,0,0,0,3,0,2,0.6,Scotland,-4.251806,55.864237
+70,Edward,Pocock,1855-12-03,FALSE,Clifton,FALSE,Three-quarters,Ireland v Scotland,Belfast,1877-02-19,2,2,0,0,1,0,0,0,0,2,0,0,1,Scotland,-74.16375529999999,40.8584328
+71,Stewart,Smith,1855-04-12,FALSE,"Blythswood, Glasgow",FALSE,Forward,Ireland v Scotland,Belfast,1877-02-19,2,2,0,0,0,0,0,0,0,1,0,1,0.5,Scotland,-4.2629844,55.86310830000001
+72,Thomas,Torrie,1857-04-13,FALSE,Edinburgh,FALSE,Forward,Scotland v England,Edinburgh,1877-03-05,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-3.188267,55.953252
+73,Louis,Auldjo,1855-11-06,FALSE,Cawnpore,FALSE,Forward,England v Scotland,The Oval,1878-03-04,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,80.3318736,26.449923
+74,James,Campbell,1858-01-01,FALSE,"Lake Athabasca, AB",FALSE,Halfback,England v Scotland,The Oval,1878-03-04,5,5,0,0,0,0,0,0,0,1,1,3,0.2,Scotland,-109.3403548,59.4242231
+75,Duncan,Irvine,1851-04-02,FALSE,Perthshire,FALSE,Forward,England v Scotland,The Oval,1878-03-04,3,3,0,0,0,0,0,0,0,1,0,2,0.3333333333333333,Scotland,-90.91232769999999,33.9773305
+76,Bill,Maclagan,1858-04-05,FALSE,Edinburgh,FALSE,Three-quarters,England v Scotland,The Oval,1878-03-04,29,29,0,3,4,4,0,0,0,18,6,5,0.6206896551724138,Scotland,-3.188267,55.953252
+77,George,MacLeod,1858-05-06,FALSE,Midlothian,FALSE,Forward,England v Scotland,The Oval,1878-03-04,2,2,0,0,0,0,0,0,0,1,0,1,0.5,Scotland,-97.01031809999999,32.475335
+78,John,Neilson,1858-06-14,FALSE,Glasgow,FALSE,Halfback,England v Scotland,The Oval,1878-03-04,2,2,0,0,0,0,0,0,0,0,0,2,0,Scotland,-4.251806,55.864237
+79,Bob,Ainslie,1858-01-30,FALSE,Lasswade,FALSE,Forward,Ireland v Scotland,Belfast,1879-02-17,7,7,0,0,3,0,0,0,0,4,1,2,0.5714285714285714,Scotland,-3.114017,55.88198
+80,John,Brown,1856-05-26,FALSE,Glasgow,FALSE,Forward,Ireland v Scotland,Belfast,1879-02-17,19,19,0,0,2,0,0,0,0,12,4,3,0.631578947368421,Scotland,-4.251806,55.864237
+81,William,Masters,1858-06-25,FALSE,Edinburgh,FALSE,Halfback,Ireland v Scotland,Belfast,1879-02-17,3,3,0,0,1,0,0,0,0,2,1,0,0.6666666666666666,Scotland,-3.188267,55.953252
+82,Errol,Smith,1860-01-01,TRUE,Edinburgh,FALSE,Forward,Ireland v Scotland,Belfast,1879-02-17,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-3.188267,55.953252
+83,David,Somerville,1856-08-06,FALSE,Leith,FALSE,Forward,Ireland v Scotland,Belfast,1879-02-17,6,6,0,0,2,0,0,0,0,5,1,0,0.8333333333333334,Scotland,-3.1665102,55.97552779999999
+84,Edward,Ewart,1860-08-02,FALSE,Moffat,FALSE,Forward,Scotland v England,Edinburgh,1879-03-10,3,3,0,0,2,0,0,0,0,1,1,1,0.3333333333333333,Scotland,-105.9100156,37.9988882
+85,William,Brown,1860-06-02,FALSE,Glasgow,FALSE,Halfback,Scotland v Ireland,Glasgow,1880-02-14,6,6,0,0,2,0,0,0,0,4,2,0,0.6666666666666666,Scotland,-4.251806,55.864237
+86,David,McCowan,1860-12-08,FALSE,Ayr,FALSE,Forward,Scotland v Ireland,Glasgow,1880-02-14,10,10,0,0,1,0,0,0,0,5,4,1,0.5,Scotland,-98.4403373,40.4375138
+87,Charles,Stewart,1860-05-08,FALSE,Glasgow,FALSE,Forward,Scotland v Ireland,Glasgow,1880-02-14,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-4.251806,55.864237
+88,Jack,Tait,1861-08-24,FALSE,Edinburgh,FALSE,Forward,Scotland v Ireland,Glasgow,1880-02-14,2,2,0,0,0,0,0,0,0,2,0,0,1,Scotland,-3.188267,55.953252
+89,David,Cassels,1859-03-04,FALSE,Shettleston,FALSE,Forward,England v Scotland,Manchester,1880-02-28,7,7,0,0,0,0,0,0,0,4,3,0,0.5714285714285714,Scotland,-4.1591385,55.8521308
+90,Bryce,Allan,1859-03-01,FALSE,Glasgow,FALSE,Forward,Ireland v Scotland,Belfast,1881-02-19,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-4.251806,55.864237
+91,Thomas,Begbie,1862-08-01,FALSE,"Dirleton, E Lothian",FALSE,Fullback,Ireland v Scotland,Belfast,1881-02-19,2,2,0,1,0,1,0,0,0,0,1,1,0,Scotland,-2.7780979,56.047358
+92,Charlie,Reid,1864-01-14,FALSE,Lochwinnoch,FALSE,Forward,Ireland v Scotland,Belfast,1881-02-19,21,21,0,0,4,0,0,0,0,13,4,4,0.6190476190476191,Scotland,-4.6302458,55.7958077
+93,George,Robb,1858-09-24,FALSE,Glasgow,FALSE,Forward,Ireland v Scotland,Belfast,1881-02-19,2,2,0,0,0,0,0,0,0,0,1,1,0,Scotland,-4.251806,55.864237
+94,Pat,Smeaton,1857-11-12,FALSE,Kincardine,FALSE,Halfback,Ireland v Scotland,Belfast,1881-02-19,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,Scotland,-81.5596427,44.2759345
+95,Archibald,Walker,1858-06-29,FALSE,Glasgow,FALSE,Forward,Ireland v Scotland,Belfast,1881-02-19,5,5,0,0,0,0,0,0,0,3,2,0,0.6,Scotland,-4.251806,55.864237
+96,Tom,Ainslie,1860-12-18,FALSE,Lasswade,FALSE,Forward,Scotland v England,Edinburgh,1881-03-19,12,12,0,0,1,0,0,0,0,8,2,2,0.6666666666666666,Scotland,-3.114017,55.88198
+97,James,Fraser,1859-05-30,FALSE,"Sculcoates, Hull",FALSE,Forward,Scotland v England,Edinburgh,1881-03-19,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-0.349182,53.7586986
+98,Robert,Maitland,1862-01-07,FALSE,Alloa,FALSE,Forward,Scotland v England,Edinburgh,1881-03-19,5,5,0,0,0,0,0,0,0,3,0,2,0.6,Scotland,-3.791896,56.114073
+99,William,Peterkin,1857-12-31,FALSE,Edinburgh,FALSE,Forward,Scotland v England,Edinburgh,1881-03-19,8,8,0,0,2,0,0,0,0,5,1,2,0.625,Scotland,-3.188267,55.953252
+100,Bunny,Wauchope,1861-04-29,FALSE,"Bridgeton, Glasgow",FALSE,Halfback,Scotland v England,Edinburgh,1881-03-19,13,13,0,0,6,0,0,0,0,9,1,3,0.6923076923076923,Scotland,-4.2267041,55.85017800000001
+101,Tom,Anderson,1863-05-17,FALSE,Ledcamerock,FALSE,Fullback,Scotland v Ireland,Glasgow,1882-02-18,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-4.337095199999999,55.9174957
+102,Fraser,Gore,1857-07-10,FALSE,Not Available,FALSE,Forward,Scotland v Ireland,Glasgow,1882-02-18,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+103,Augustus,Grant-Asher,1861-12-18,FALSE,Poona,FALSE,Halfback,Scotland v Ireland,Glasgow,1882-02-18,7,7,0,2,1,0,0,2,0,4,1,2,0.5714285714285714,Scotland,-84.1254311,33.9421529
+104,Frank,Hunter,1858-07-26,FALSE,Not Available,FALSE,Three-quarters,Scotland v Ireland,Glasgow,1882-02-18,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+105,Andrew,Philp,1859-06-05,FALSE,Edinburgh,FALSE,Three-quarters,England v Scotland,Manchester,1882-03-04,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-3.188267,55.953252
+106,James,Veitch,1862-09-16,FALSE,Penicuik,FALSE,Fullback,England v Scotland,Manchester,1882-03-04,8,8,0,1,0,1,0,0,0,6,1,1,0.75,Scotland,-3.224533,55.830932
+107,James,Walker,1859-10-09,FALSE,"Tradeston, Glasgow",FALSE,Forward,England v Scotland,Manchester,1882-03-04,2,2,0,0,0,0,0,0,0,2,0,0,1,Scotland,-4.2647734,55.8533512
+108,Andrew,Walls,1859-12-29,FALSE,Glasgow,FALSE,Forward,England v Scotland,Manchester,1882-03-04,10,10,0,0,0,0,0,0,0,7,2,1,0.7,Scotland,-4.251806,55.864237
+109,John,Jamieson,NA,NA,Not Available,FALSE,Forward,Scotland v Wales,Edinburgh,1883-01-08,9,9,0,0,2,0,0,0,0,6,2,1,0.6666666666666666,Scotland,-122.2636808,37.8009514
+110,David,Kidston,1859-10-02,FALSE,"Blythswood, Glasgow",FALSE,Fullback,Scotland v Wales,Edinburgh,1883-01-08,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-4.2629844,55.86310830000001
+111,David,McFarlan,1862-10-03,FALSE,Meerut,FALSE,Three-quarters,Scotland v Wales,Edinburgh,1883-01-08,8,8,0,3,4,3,0,0,0,7,1,0,0.875,Scotland,77.7064137,28.9844618
+112,John,Mowat,1859-01-22,FALSE,Glasgow,FALSE,Forward,Scotland v Wales,Edinburgh,1883-01-08,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-4.251806,55.864237
+113,George,Aitchison,1864-10-19,FALSE,"St Giles, Edinburgh",FALSE,Halfback,Ireland v Scotland,Belfast,1883-02-17,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-3.1908918,55.94948369999999
+114,Marshall,Reid,1864-08-03,FALSE,Partick,FALSE,Three-quarters,Ireland v Scotland,Belfast,1883-02-17,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-4.3077508,55.87105940000001
+115,George,Lindsay,1863-01-03,FALSE,Not Available,FALSE,Three-quarters,Wales v Scotland,Newport,1884-01-12,4,4,0,0,5,0,0,0,0,3,0,1,0.75,Scotland,-122.2636808,37.8009514
+116,John,Tod,1862-10-09,FALSE,"Crieff, Perth",FALSE,Forward,Wales v Scotland,Newport,1884-01-12,9,9,0,0,2,0,0,0,0,6,1,2,0.6666666666666666,Scotland,-3.4628495,56.40635899999999
+117,Charles,Berry,1863-09-06,FALSE,"Leuchars, Fife",FALSE,Forward,Scotland v Ireland,Edinburgh,1884-02-16,9,9,0,7,0,6,0,0,1,5,2,2,0.5555555555555556,Scotland,-2.882275,56.380807
+118,Ernest,Roland,1865-01-28,FALSE,"St Andrew, Edinburgh",FALSE,Three-quarters,Scotland v Ireland,Edinburgh,1884-02-16,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-3.1941489,55.9540589
+119,Pat,Harrower,1863-01-19,FALSE,Broughty Ferry,FALSE,Fullback,Scotland v Wales,Glasgow,1885-01-10,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-2.8814982,56.4692371
+120,Gardy,Maitland,1865-12-07,FALSE,Alloa,FALSE,Three-quarters,Scotland v Wales,Glasgow,1885-01-10,2,2,0,0,0,0,0,0,0,1,0,1,0.5,Scotland,-3.791896,56.114073
+121,Gordon,Mitchell,1865-05-26,FALSE,Hamilton,FALSE,Forward,Scotland v Wales,Glasgow,1885-01-10,3,3,0,0,0,0,0,0,0,2,0,1,0.6666666666666666,Scotland,-96.19513200000002,37.9426096
+122,Alexander,Stephen,1861-07-21,FALSE,"Anderston, Glasgow",FALSE,Three-quarters,Scotland v Wales,Glasgow,1885-01-10,2,2,0,0,0,0,0,0,0,1,0,1,0.5,Scotland,-4.2726491,55.8628751
+123,Henry,Evans,1859-12-14,FALSE,Clifton,FALSE,Three-quarters,Ireland v Scotland,Belfast,1885-02-21,2,2,0,0,0,0,0,0,0,2,0,0,1,Scotland,-74.16375529999999,40.8584328
+124,Walter,Irvine,1865-10-21,FALSE,"Garroch, Aberdeenshre",FALSE,Forward,Ireland v Scotland,Belfast,1885-02-21,11,11,0,0,0,0,0,0,0,8,1,2,0.7272727272727273,Scotland,-2.373995,57.28347400000001
+125,Patrick,Wauchope,1863-05-01,FALSE,"Newton, Midlothian",FALSE,Halfback,Ireland v Scotland,Belfast,1885-02-21,6,6,0,0,1,0,0,0,0,5,0,1,0.8333333333333334,Scotland,-96.9942617,32.4838643
+126,Alexander,Clay,1863-09-27,FALSE,Kelso,FALSE,Forward,Wales v Scotland,Cardiff,1886-01-09,7,7,0,0,1,0,0,0,0,4,1,2,0.5714285714285714,Scotland,-95.1099662,36.705635
+127,J.,French,NA,NA,Not Available,FALSE,Forward,Wales v Scotland,Cardiff,1886-01-09,4,4,0,0,0,0,0,0,0,3,0,1,0.75,Scotland,-122.2636808,37.8009514
+128,William,Holms,1866-08-27,FALSE,Thox,FALSE,Three-quarters,Wales v Scotland,Cardiff,1886-01-09,6,6,0,0,0,0,0,0,0,4,0,2,0.6666666666666666,Scotland,-91.94127519999999,38.0408739
+129,Flowerdew,McIndoe,1865-02-14,FALSE,Hamilton,FALSE,Fullback,Wales v Scotland,Cardiff,1886-01-09,2,2,0,0,0,0,0,0,0,2,0,0,1,Scotland,-96.19513200000002,37.9426096
+130,William,MacLeod,1861-06-15,FALSE,Glasgow,FALSE,Forward,Wales v Scotland,Cardiff,1886-01-09,2,2,0,2,0,2,0,0,0,2,0,0,1,Scotland,-4.251806,55.864237
+131,Charles,Milne,1864-05-15,FALSE,Kingston,FALSE,Forward,Wales v Scotland,Cardiff,1886-01-09,3,3,0,0,0,0,0,0,0,2,0,1,0.6666666666666666,Scotland,-73.9973608,41.9270367
+132,Reggie,Morrison,1864-03-24,FALSE,"Geelong, VIC",FALSE,Three-quarters,Wales v Scotland,Cardiff,1886-01-09,3,3,0,0,2,0,0,0,0,2,0,1,0.6666666666666666,Scotland,144.3617186,-38.1499181
+133,Duncan,MacLeod,1866-06-12,FALSE,"Dunse, Berwick",FALSE,Forward,Scotland v Ireland,Edinburgh,1886-02-20,2,2,0,0,0,0,0,0,0,1,0,1,0.5,Scotland,-2.343461,55.777794
+134,Matthew,McEwan,1865-10-05,FALSE,Ayr,FALSE,Forward,Scotland v England,Edinburgh,1886-03-13,15,15,0,7,2,2,0,1,0,10,3,2,0.6666666666666666,Scotland,-98.4403373,40.4375138
+135,George,Wilson,1866-10-12,FALSE,Not Available,FALSE,Three-quarters,Scotland v England,Edinburgh,1886-03-13,5,5,0,0,0,0,0,0,0,3,1,1,0.6,Scotland,-122.2636808,37.8009514
+136,Hugh,Ker,1865-06-23,FALSE,Partick,FALSE,Forward,Ireland v Scotland,Belfast,1887-02-19,7,7,0,0,1,0,0,0,0,5,1,1,0.7142857142857143,Scotland,-4.3077508,55.87105940000001
+137,Judy,MacMillan,1865-04-03,FALSE,Edinburgh,FALSE,Forward,Ireland v Scotland,Belfast,1887-02-19,24,24,0,0,1,0,0,0,0,17,6,1,0.7083333333333334,Scotland,-3.188267,55.953252
+138,David,Morton,1861-07-23,FALSE,Glasgow,FALSE,Forward,Ireland v Scotland,Belfast,1887-02-19,9,9,0,0,3,0,0,0,0,6,2,1,0.6666666666666666,Scotland,-4.251806,55.864237
+139,Charles,Orr,1866-11-21,FALSE,Neilston,FALSE,Halfback,Ireland v Scotland,Belfast,1887-02-19,16,16,0,1,3,0,0,0,0,12,3,1,0.75,Scotland,-4.424883599999999,55.78549520000001
+140,Alexander,Woodrow,1867-11-13,FALSE,Glasgow,FALSE,Three-quarters,Ireland v Scotland,Belfast,1887-02-19,3,3,0,2,0,2,0,0,0,2,0,1,0.6666666666666666,Scotland,-4.251806,55.864237
+141,Alec,Cameron,1866-03-03,FALSE,Oban,FALSE,Fullback,Scotland v Wales,Edinburgh,1887-02-26,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,Scotland,-5.471047,56.415157
+142,Henry,Chambers,1865-05-22,FALSE,Victoria,FALSE,Fullback,Wales v Scotland,Newport,1888-02-04,4,4,0,0,0,0,0,0,0,3,1,0,0.75,Scotland,-97.0035982,28.8052674
+143,Alfred,Duke,1866-12-02,FALSE,"Brechin, Forfar",FALSE,Forward,Wales v Scotland,Newport,1888-02-04,6,6,0,2,1,0,0,0,0,5,1,0,0.8333333333333334,Scotland,-2.6552889,56.73334200000001
+144,Macbeth,Duncan,1866-09-01,FALSE,Aberdeen,FALSE,Three-quarters,Wales v Scotland,Newport,1888-02-04,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-2.094278,57.149717
+145,Charles,Fraser,1868-05-05,FALSE,Paisley,FALSE,Halfback,Wales v Scotland,Newport,1888-02-04,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-90.0880101,30.3989348
+146,Harry,Stevenson,1867-07-12,FALSE,Edinburgh,FALSE,Fullback,Wales v Scotland,Newport,1888-02-04,15,15,0,3,0,0,0,2,0,11,3,1,0.7333333333333333,Scotland,-3.188267,55.953252
+147,Louis,Stevenson,1864-01-31,FALSE,Jedburgh,FALSE,Forward,Wales v Scotland,Newport,1888-02-04,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-2.5549369,55.477721
+148,Tom,White,1866-03-01,FALSE,Cumnock,FALSE,Forward,Wales v Scotland,Newport,1888-02-04,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,Scotland,-4.2658289,55.45355199999999
+149,Alexander,Malcolm,1867-11-09,FALSE,Glasgow,FALSE,Forward,Scotland v Ireland,Edinburgh,1888-03-10,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-4.251806,55.864237
+150,Bill,Auld,1868-04-25,FALSE,Not Available,FALSE,Forward,Scotland v Wales,Edinburgh,1889-02-02,2,2,0,0,0,0,0,0,0,2,0,0,1,Scotland,-122.2636808,37.8009514
+151,John,Boswell,1867-02-16,FALSE,Garallan,FALSE,Forward,Scotland v Wales,Edinburgh,1889-02-02,15,15,0,27,4,4,0,2,0,11,3,1,0.7333333333333333,Scotland,NA,NA
+152,William,Macdonald,1861-01-01,TRUE,"Invergarry, Inverness",FALSE,Forward,Scotland v Wales,Edinburgh,1889-02-02,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,Scotland,-4.800261,57.070951
+153,James,Marsh,1866-01-01,TRUE,Not Available,FALSE,Three-quarters,Scotland v Wales,Edinburgh,1889-02-02,3,3,0,0,0,0,0,0,0,3,0,0,1,Scotland,-122.2636808,37.8009514
+154,Alfred,Methuen,1868-02-15,FALSE,Not Available,FALSE,Forward,Scotland v Wales,Edinburgh,1889-02-02,2,2,0,0,0,0,0,0,0,2,0,0,1,Scotland,-122.2636808,37.8009514
+155,Alexander,Aitken,1869-01-08,FALSE,"Newington, Edinburgh",FALSE,Forward,Ireland v Scotland,Belfast,1889-02-16,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-3.1826199,55.9414853
+156,Darsie,Anderson,1868-02-22,FALSE,"Abbey Wood, Kent",FALSE,Halfback,Ireland v Scotland,Belfast,1889-02-16,8,8,0,2,1,0,0,0,0,6,2,0,0.75,Scotland,0.1188182,51.4926116
+157,J.G.,McKendrick,NA,NA,Not Available,FALSE,Forward,Ireland v Scotland,Belfast,1889-02-16,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+158,Jack,Orr,1865-08-20,FALSE,Neilston,FALSE,Forward,Ireland v Scotland,Belfast,1889-02-16,12,12,0,4,3,0,0,0,0,9,2,1,0.75,Scotland,-4.424883599999999,55.78549520000001
+159,Adam,Dalgleish,NA,NA,Bellingham,FALSE,Forward,Wales v Scotland,Cardiff,1890-02-01,8,8,0,0,0,0,0,0,0,4,4,0,0.5,Scotland,-122.4786854,48.7519112
+160,Frederick,Goodhue,1867-04-26,FALSE,"London, ON",FALSE,Forward,Wales v Scotland,Cardiff,1890-02-01,9,9,0,1,1,0,0,0,0,7,2,0,0.7777777777777778,Scotland,-81.2452768,42.9849233
+161,Gregor,MacGregor,1869-08-31,FALSE,"Merchiston, Edinburgh",FALSE,Three-quarters,Wales v Scotland,Cardiff,1890-02-01,13,13,0,5,1,2,0,0,0,8,4,1,0.6153846153846154,Scotland,-3.218961,55.935556
+162,Ian,MacIntyre,1869-11-27,FALSE,Not Available,FALSE,Forward,Wales v Scotland,Cardiff,1890-02-01,6,6,0,0,0,0,0,0,0,5,1,0,0.8333333333333334,Scotland,-122.2636808,37.8009514
+163,Paul,Clauss,1868-06-22,FALSE,Munich,FALSE,Three-quarters,Scotland v Wales,Edinburgh,1891-02-07,9,9,0,6,3,0,0,1,0,8,1,0,0.8888888888888888,Scotland,11.5819805,48.1351253
+164,Herbert,Leggatt,1868-10-26,FALSE,Vellore,FALSE,Forward,Scotland v Wales,Edinburgh,1891-02-07,9,9,0,1,1,0,0,0,0,7,2,0,0.7777777777777778,Scotland,79.13249859999999,12.9165167
+165,George,Neilson,1872-01-22,FALSE,"Bothwell, Glasgow",FALSE,Forward,Scotland v Wales,Edinburgh,1891-02-07,14,14,0,6,1,0,1,0,0,8,5,1,0.5714285714285714,Scotland,-4.072718,55.80616999999999
+166,William,Neilson,1873-08-18,FALSE,Bothwell,FALSE,Three-quarters,Scotland v Wales,Edinburgh,1891-02-07,14,14,0,4,1,0,0,1,0,10,2,2,0.7142857142857143,Scotland,-97.9216857,38.07946039999999
+167,William,Gibson,1865-01-02,FALSE,Edinburgh,FALSE,Forward,Ireland v Scotland,Belfast,1891-02-21,14,14,0,0,0,0,0,0,0,9,4,1,0.6428571428571429,Scotland,-3.188267,55.953252
+168,William,Wotherspoon,1868-05-02,FALSE,"Aberdour, Fife",FALSE,Halfback,Ireland v Scotland,Belfast,1891-02-21,8,8,0,3,3,0,0,0,0,5,3,0,0.625,Scotland,-3.3027299,56.054679
+169,George,Campbell,1872-10-17,FALSE,"Horsham, Sussex",FALSE,Centre,Wales v Scotland,Swansea,1892-02-06,17,17,0,9,2,0,0,1,0,9,5,3,0.5294117647058824,Scotland,-0.325858,51.062883
+170,John,Millar,1873-03-09,FALSE,Not Available,FALSE,Forward,Wales v Scotland,Swansea,1892-02-06,6,6,0,2,1,0,0,0,0,4,2,0,0.6666666666666666,Scotland,-122.2636808,37.8009514
+171,Nelson,Henderson,1865-09-24,FALSE,"Camberwell, London",FALSE,Forward,Scotland v Ireland,Edinburgh,1892-02-20,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-0.09301369999999999,51.4740846
+172,James,Woodburn,1870-04-21,FALSE,"Tradeston, Glasgow",FALSE,Three-quarters,Scotland v Ireland,Edinburgh,1892-02-20,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-4.2647734,55.8533512
+173,William,Cownie,1871-03-09,FALSE,Edinburgh,FALSE,Forward,Scotland v Wales,Edinburgh,1893-02-04,9,9,0,0,0,0,0,0,0,5,3,1,0.5555555555555556,Scotland,-3.188267,55.953252
+174,James,Gowans,1872-04-23,FALSE,"Westhoe, Durham",FALSE,Wing,Scotland v Wales,Edinburgh,1893-02-04,8,8,0,6,2,0,0,0,0,5,2,1,0.625,Scotland,-78.6811006,35.77065880000001
+175,Robert,Greig,1871-05-30,FALSE,Glasgow,FALSE,Halfback,Scotland v Wales,Edinburgh,1893-02-04,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-4.251806,55.864237
+176,Thomas,Hendry,1866-12-25,FALSE,"Blythswood, Glasgow",FALSE,Forward,Scotland v Wales,Edinburgh,1893-02-04,4,4,0,0,0,0,0,0,0,2,1,1,0.5,Scotland,-4.2629844,55.86310830000001
+177,Henry,Menzies,1867-06-15,FALSE,"London, ON",FALSE,Forward,Scotland v Wales,Edinburgh,1893-02-04,4,4,0,0,0,0,0,0,0,1,2,1,0.25,Scotland,-81.2452768,42.9849233
+178,David,Robertson,1869-03-20,FALSE,"Shawlands, Glasgow",FALSE,Three-quarters,Scotland v Wales,Edinburgh,1893-02-04,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-4.2864469,55.82512449999999
+179,James,Bishop,1867-12-27,FALSE,"Partick, Glasgow",FALSE,Forward,Ireland v Scotland,Belfast,1893-02-18,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-4.3077508,55.87105940000001
+180,Bill,Donaldson,1871-03-04,FALSE,"Anderston, Glasgow",FALSE,Halfback,Ireland v Scotland,Belfast,1893-02-18,6,6,0,3,0,0,1,0,0,2,2,2,0.3333333333333333,Scotland,-4.2726491,55.8628751
+181,D.,Fisher,NA,NA,Not Available,FALSE,Forward,Ireland v Scotland,Belfast,1893-02-18,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-122.2636808,37.8009514
+182,Jim,Ford,1869-06-24,FALSE,"Gordon, Berwicks",FALSE,Forward,Ireland v Scotland,Belfast,1893-02-18,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-123.3334655,48.4754638
+183,John,Simpson,1872-09-02,FALSE,Not Available,FALSE,Halfback,Ireland v Scotland,Belfast,1893-02-18,13,13,0,0,0,0,0,0,0,7,4,2,0.5384615384615384,Scotland,-122.2636808,37.8009514
+184,Roger,Davidson,1869-02-17,FALSE,Kinfauns,FALSE,Forward,England v Scotland,Leeds,1893-03-04,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-0.368476,51.359595
+185,Tom,Scott,1870-12-09,FALSE,Melrose,FALSE,Forward,England v Scotland,Leeds,1893-03-04,12,12,0,9,0,3,1,0,0,7,3,2,0.5833333333333334,Scotland,-95.905785,36.150091
+186,Henry,Gedge,1870-08-19,FALSE,London,FALSE,Wing,Wales v Scotland,Newport,1894-02-03,6,6,0,10,2,0,0,1,0,4,2,0,0.6666666666666666,Scotland,-0.1277583,51.5073509
+187,Willie,McEwan,1875-10-24,FALSE,Edinburgh,FALSE,Forward,Wales v Scotland,Newport,1894-02-03,18,18,0,3,1,0,0,0,0,9,5,4,0.5,Scotland,-3.188267,55.953252
+188,John,Rogerson,1874-07-24,FALSE,"Bothwell, Lanark",FALSE,Fullback,Wales v Scotland,Newport,1894-02-03,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-75.6877045,44.5875407
+189,Hugh,Wright,1875-11-07,FALSE,Inverary,FALSE,Forward,Wales v Scotland,Newport,1894-02-03,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-5.075410199999999,56.2317854
+190,Alexander,Anderson,1873-11-04,FALSE,Not Available,FALSE,Forward,Ireland v Scotland,Lansdowne Road,1894-02-24,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+191,Gordon,Neilson,1876-10-01,FALSE,Bothwell,FALSE,Forward,Scotland v England,Edinburgh,1894-03-17,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-97.9216857,38.07946039999999
+192,Harry,Dods,1875-09-30,FALSE,Glasgow,FALSE,Forward,Scotland v Wales,Edinburgh,1895-01-26,8,8,0,0,0,0,0,0,0,5,2,1,0.625,Scotland,-4.251806,55.864237
+193,Mattha,Elliot,1870-06-14,FALSE,Hawick,FALSE,Halfback,Scotland v Wales,Edinburgh,1895-01-26,6,6,0,0,0,0,0,0,0,4,1,1,0.6666666666666666,Scotland,-2.780914,55.42706
+194,Allan,Smith,1875-01-10,FALSE,Not Available,FALSE,Fullback,Scotland v Wales,Edinburgh,1895-01-26,11,11,0,2,0,1,0,0,0,5,2,4,0.45454545454545453,Scotland,-122.2636808,37.8009514
+195,Harry,Smith,1873-07-01,FALSE,N Berwick,FALSE,Forward,Scotland v Wales,Edinburgh,1895-01-26,11,11,0,3,1,0,0,0,0,5,3,3,0.45454545454545453,Scotland,-70.7333524,43.30373489999999
+196,Robin,Welsh,1869-10-20,FALSE,Edinburgh,FALSE,Wing,Scotland v Wales,Edinburgh,1895-01-26,4,4,0,3,1,0,0,0,0,3,1,0,0.75,Scotland,-3.188267,55.953252
+197,Andrew,Balfour,1873-03-21,FALSE,Edinburgh,FALSE,Forward,Wales v Scotland,Cardiff,1896-01-25,4,4,0,0,0,0,0,0,0,1,2,1,0.25,Scotland,-3.188267,55.953252
+198,James,Couper,1873-09-15,FALSE,"Cathcart, Glasgow",FALSE,Forward,Wales v Scotland,Cardiff,1896-01-25,3,3,0,0,0,0,0,0,0,0,2,1,0,Scotland,-4.2634669,55.8172169
+199,Mark,Morrison,1877-04-02,FALSE,Dalmeny,FALSE,Forward,Wales v Scotland,Cardiff,1896-01-25,26,26,0,0,0,0,0,0,0,12,9,5,0.46153846153846156,Scotland,-3.3733561,55.9822131
+200,Davie,Patterson,1871-12-11,FALSE,Hawick,FALSE,Halfback,Wales v Scotland,Cardiff,1896-01-25,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-2.780914,55.42706
+201,Tom,Scott,1875-03-08,FALSE,Not Available,FALSE,Wing,Wales v Scotland,Cardiff,1896-01-25,11,11,0,6,2,0,0,0,0,4,4,3,0.36363636363636365,Scotland,-122.2636808,37.8009514
+202,Alec,Timms,1872-03-02,FALSE,"Geelong, VIC",FALSE,Centre,Wales v Scotland,Cardiff,1896-01-25,17,17,0,19,4,0,1,1,0,11,5,1,0.6470588235294118,Scotland,144.3617186,-38.1499181
+203,Charles,Fleming,1868-04-05,FALSE,Not Available,FALSE,Centre,Ireland v Scotland,Lansdowne Road,1896-02-15,3,3,0,3,1,0,0,0,0,2,0,1,0.6666666666666666,Scotland,-122.2636808,37.8009514
+204,George,Turnbull,1877-07-21,FALSE,Not Available,FALSE,Forward,Ireland v Scotland,Lansdowne Road,1896-02-15,5,5,0,3,1,0,0,0,0,2,2,1,0.4,Scotland,-122.2636808,37.8009514
+205,Alec,Laidlaw,1877-08-13,FALSE,Edinburgh,FALSE,Forward,Scotland v Ireland,Edinburgh,1897-02-20,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-3.188267,55.953252
+206,Ronald,Stevenson,1873-07-25,FALSE,South Shields,FALSE,Forward,Scotland v Ireland,Edinburgh,1897-02-20,6,6,0,0,0,0,0,0,0,3,2,1,0.5,Scotland,-1.427406,54.999424
+207,Alfred,Bucher,1874-03-22,FALSE,"Leith, Edinburgh",FALSE,Wing,England v Scotland,Manchester,1897-03-13,4,4,0,12,4,0,0,0,0,2,2,0,0.5,Scotland,-3.1665102,55.97552779999999
+208,Alec,Robertson,1877-12-11,FALSE,Edinburgh,FALSE,Centre,England v Scotland,Manchester,1897-03-13,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.188267,55.953252
+209,John,Dykes,1877-08-15,FALSE,Glasgow,FALSE,Forward,Ireland v Scotland,Belfast,1898-02-19,10,10,0,3,1,0,0,0,0,6,2,2,0.6,Scotland,-4.251806,55.864237
+210,Graham,Kerr,1872-04-29,FALSE,Aberdeen,FALSE,Forward,Ireland v Scotland,Belfast,1898-02-19,8,8,0,0,0,0,0,0,0,3,2,3,0.375,Scotland,-2.094278,57.149717
+211,Joe,Mabon,1874-02-13,FALSE,Jedburgh,FALSE,Halfback,Ireland v Scotland,Belfast,1898-02-19,4,4,0,0,0,0,0,0,0,1,1,2,0.25,Scotland,-2.5549369,55.477721
+212,Andrew,MacKinnon,1873-04-30,FALSE,"Govan, Glasgow",FALSE,Forward,Ireland v Scotland,Belfast,1898-02-19,6,6,0,0,0,0,0,0,0,3,1,2,0.5,Scotland,-4.3128871,55.8615833
+213,Robbie,Neilson,1878-11-17,FALSE,Bothwell,FALSE,Halfback,Ireland v Scotland,Belfast,1898-02-19,6,6,0,0,0,0,0,0,0,2,1,3,0.3333333333333333,Scotland,-97.9216857,38.07946039999999
+214,James,Reid,1876-03-17,FALSE,Not Available,FALSE,Fullback,Ireland v Scotland,Belfast,1898-02-19,3,3,0,0,0,0,0,0,0,1,1,1,0.3333333333333333,Scotland,-122.2636808,37.8009514
+215,Robert,Scott,1872-02-14,FALSE,St Boswells,FALSE,Forward,Ireland v Scotland,Belfast,1898-02-19,3,3,0,0,0,0,0,0,0,1,0,2,0.3333333333333333,Scotland,-2.64754,55.570844
+216,Edward,Spencer,1876-06-18,FALSE,Not Available,FALSE,Centre,Ireland v Scotland,Belfast,1898-02-19,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+217,Tommy,Nelson,1876-09-22,FALSE,Edinburgh,FALSE,Centre,Scotland v England,Edinburgh,1898-03-12,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-3.188267,55.953252
+218,Lawrence,Harvey,1876-01-31,FALSE,"Kelvin, Glasgow",FALSE,Forward,Scotland v Ireland,Inverleith,1899-02-18,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-4.229177000000001,55.8805051
+219,Douglas,Monypenny,1878-05-28,FALSE,Fife,FALSE,Centre,Scotland v Ireland,Inverleith,1899-02-18,3,3,0,3,1,0,0,0,0,2,1,0,0.6666666666666666,Scotland,-3.1495175,56.2082078
+220,George,Lamond,1878-07-23,FALSE,Glasgow,FALSE,Centre,Scotland v Wales,Inverleith,1899-03-04,3,3,0,4,0,0,0,1,0,3,0,0,1,Scotland,-4.251806,55.864237
+221,Harry,Rottenburg,1875-10-06,FALSE,Glasgow,FALSE,Fullback,Scotland v Wales,Inverleith,1899-03-04,5,5,0,0,0,0,0,0,0,2,1,2,0.4,Scotland,-4.251806,55.864237
+222,William,Thomson,1876-04-18,FALSE,Glasgow,FALSE,Forward,Scotland v Wales,Inverleith,1899-03-04,3,3,0,6,0,1,0,0,1,2,1,0,0.6666666666666666,Scotland,-4.251806,55.864237
+223,John,Gillespie,1879-01-16,FALSE,Edinburgh,FALSE,Halfback,England v Scotland,Blackheath,1899-03-11,13,13,0,31,5,8,0,0,0,6,4,3,0.46153846153846156,Scotland,-3.188267,55.953252
+224,David,Bedell-Sivright,1880-12-08,FALSE,"St George, Edinburgh",FALSE,Forward,Wales v Scotland,Swansea,1900-01-27,23,23,0,9,3,0,0,0,0,13,10,0,0.5652173913043478,Scotland,-3.2004714,55.9529237
+225,Jack,Crabbie,1879-04-11,FALSE,Edinburgh,FALSE,Wing,Wales v Scotland,Swansea,1900-01-27,6,6,0,6,2,0,0,0,0,3,3,0,0.5,Scotland,-3.188267,55.953252
+226,Frank,Fasson,1877-09-21,FALSE,Peebles,FALSE,Halfback,Wales v Scotland,Swansea,1900-01-27,5,5,0,0,0,0,0,0,0,2,3,0,0.4,Scotland,-94.7290867,38.9705793
+227,Frederick,Henderson,1879-01-03,FALSE,Dundee,FALSE,Forward,Wales v Scotland,Swansea,1900-01-27,2,2,0,0,0,0,0,0,0,0,1,1,0,Scotland,-2.970721,56.462018
+228,William,Morrison,1875-12-26,FALSE,Edinburgh,FALSE,Centre,Wales v Scotland,Swansea,1900-01-27,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.188267,55.953252
+229,John,Campbell,1877-10-20,FALSE,Las Flores,FALSE,Forward,Ireland v Scotland,Lansdowne Road,1900-02-24,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-93.5581459,41.3589679
+230,James,Greenlees,1878-12-14,FALSE,"Partick, Glasgow",FALSE,Forward,Ireland v Scotland,Lansdowne Road,1900-02-24,7,7,0,0,0,0,0,0,0,3,3,1,0.42857142857142855,Scotland,-4.3077508,55.87105940000001
+231,Bill,Scott,1880-03-18,FALSE,Wishaw,FALSE,Forward,Ireland v Scotland,Lansdowne Road,1900-02-24,24,24,0,2,0,1,0,0,0,11,9,4,0.4583333333333333,Scotland,-3.919354,55.773543
+232,William,Welsh,1879-09-04,FALSE,Edinburgh,FALSE,Wing,Ireland v Scotland,Lansdowne Road,1900-02-24,8,8,0,12,4,0,0,0,0,3,3,2,0.375,Scotland,-3.188267,55.953252
+233,Lewis,Bell,1878-10-23,FALSE,Edinburgh,FALSE,Forward,Scotland v England,Inverleith,1900-03-10,3,3,0,0,0,0,0,0,0,1,1,1,0.3333333333333333,Scotland,-3.188267,55.953252
+234,John,Bell,1879-12-13,FALSE,Airdrie,FALSE,Forward,Scotland v Wales,Inverleith,1901-02-09,6,6,0,0,0,0,0,0,0,3,3,0,0.5,Scotland,-114.0134073,51.2926993
+235,Alexander,Duncan,1881-06-19,FALSE,"Crichton, Midlothian",FALSE,Fullback,Scotland v Wales,Inverleith,1901-02-09,6,6,0,0,0,0,0,0,0,3,3,0,0.5,Scotland,-2.97808,55.847305
+236,Nolan,Fell,1878-01-17,FALSE,Nelson,FALSE,Wing,Scotland v Wales,Inverleith,1901-02-09,7,7,0,6,2,0,0,0,0,5,2,0,0.7142857142857143,Scotland,-95.88600149999999,36.0989074
+237,Andrew,Flett,1875-12-07,FALSE,Edinburgh,FALSE,Forward,Scotland v Wales,Inverleith,1901-02-09,5,5,0,5,1,1,0,0,0,3,2,0,0.6,Scotland,-3.188267,55.953252
+238,Alex,Frew,1877-10-24,FALSE,"Loudon, Ayrshire",FALSE,Forward,Scotland v Wales,Inverleith,1901-02-09,4,4,0,3,1,0,0,0,0,3,0,1,0.75,Scotland,-4.211679999999999,55.61472
+239,Jimmy,Ross,1880-02-15,FALSE,"Rutherford, Roxburgh",FALSE,Forward,Scotland v Wales,Inverleith,1901-02-09,5,5,0,0,0,0,0,0,0,4,1,0,0.8,Scotland,-2.563407,55.565701
+240,Robert,Stronach,1882-05-19,FALSE,Partick,FALSE,Forward,Scotland v Wales,Inverleith,1901-02-09,5,5,0,3,1,0,0,0,0,3,2,0,0.6,Scotland,-4.3077508,55.87105940000001
+241,Phipps,Turnbull,1878-04-03,FALSE,Not Available,FALSE,Centre,Scotland v Wales,Inverleith,1901-02-09,6,6,0,3,1,0,0,0,0,3,3,0,0.5,Scotland,-122.2636808,37.8009514
+242,Francis,Dods,1879-02-23,FALSE,Glasgow,FALSE,Forward,Scotland v Ireland,Inverleith,1901-02-23,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-4.251806,55.864237
+243,Robert,Neill,1882-09-05,FALSE,Edinburgh,FALSE,Fullback,England v Scotland,Blackheath,1901-03-09,4,4,0,0,0,0,0,0,0,1,2,1,0.25,Scotland,-3.188267,55.953252
+244,John,Bedell-Sivright,1881-10-18,FALSE,Inverkeithing,FALSE,Forward,Wales v Scotland,Cardiff,1902-02-01,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.398795,56.030043
+245,Bill,Kyle,1881-07-13,FALSE,Hawick,FALSE,Forward,Wales v Scotland,Cardiff,1902-02-01,21,21,0,6,2,0,0,0,0,10,11,0,0.47619047619047616,Scotland,-2.780914,55.42706
+246,Herbert,Bullmore,1874-07-12,FALSE,"Ipswich, QLD",FALSE,Forward,Ireland v Scotland,Belfast,1902-02-22,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,152.76,-27.623
+247,Andrew,Drybrough,1878-03-06,FALSE,Edinburgh,FALSE,Centre,Ireland v Scotland,Belfast,1902-02-22,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-3.188267,55.953252
+248,Ernest,Simson,1882-03-13,FALSE,Edinburgh,FALSE,Halfback,Scotland v England,Inverleith,1902-03-15,17,17,0,16,4,0,0,1,0,10,7,0,0.5882352941176471,Scotland,-3.188267,55.953252
+249,Fatty,Cairns,1878-04-26,FALSE,Hamilton,FALSE,Forward,Scotland v Wales,Inverleith,1903-02-07,12,12,0,0,0,0,0,0,0,7,5,0,0.5833333333333334,Scotland,-96.19513200000002,37.9426096
+250,Walter,Forrest,1880-11-14,FALSE,Kelso,FALSE,Fullback,Scotland v Wales,Inverleith,1903-02-07,8,8,0,2,0,1,0,0,0,5,3,0,0.625,Scotland,-95.1099662,36.705635
+251,Norman,Kennedy,1881-03-17,FALSE,Ayr,FALSE,Lock,Scotland v Wales,Inverleith,1903-02-07,3,3,0,0,0,0,0,0,0,3,0,0,1,Scotland,-98.4403373,40.4375138
+252,John,Knox,1880-08-05,FALSE,Not Available,FALSE,Scrum-half,Scotland v Wales,Inverleith,1903-02-07,3,3,0,0,0,0,0,0,0,3,0,0,1,Scotland,-122.2636808,37.8009514
+253,Hugh,Orr,1878-01-21,FALSE,Dineliquin,FALSE,Centre,Scotland v Wales,Inverleith,1903-02-07,5,5,0,3,1,0,0,0,0,4,1,0,0.8,Scotland,144.9565781,-35.5282408
+254,Leonard,West,1879-05-31,FALSE,Leeds,FALSE,Forward,Scotland v Wales,Inverleith,1903-02-07,9,9,0,0,0,0,0,0,0,5,4,0,0.5555555555555556,Scotland,-1.5490774,53.8007554
+255,Charles,France,1879-02-11,FALSE,Not Available,FALSE,Wing,Scotland v Ireland,Inverleith,1903-02-28,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+256,Jack,Dallas,1878-06-17,FALSE,Edinburgh,FALSE,Forward,England v Scotland,Richmond,1903-03-21,1,1,0,3,1,0,0,0,0,1,0,0,1,Scotland,-3.188267,55.953252
+257,Jimmy,Macdonald,1879-07-15,FALSE,Stellenbosch,FALSE,Wing,England v Scotland,Richmond,1903-03-21,5,5,0,10,2,2,0,0,0,3,2,0,0.6,Scotland,18.860152,-33.9321045
+258,Alexander,Bisset,1883-10-18,FALSE,Duns,FALSE,Halfback,Wales v Scotland,Swansea,1904-02-06,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-117.8932233,33.7875582
+259,George,Crabbie,1882-07-23,FALSE,Edinburgh,FALSE,Wing,Wales v Scotland,Swansea,1904-02-06,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.188267,55.953252
+260,Lewis,MacLeod,1885-06-08,FALSE,Not Available,FALSE,Centre,Wales v Scotland,Swansea,1904-02-06,6,6,0,0,0,0,0,0,0,2,4,0,0.3333333333333333,Scotland,-122.2636808,37.8009514
+261,Edward,Ross,1884-03-02,FALSE,Not Available,FALSE,Forward,Wales v Scotland,Swansea,1904-02-06,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+262,William,Milne,1883-07-27,FALSE,Glasgow,FALSE,Forward,Ireland v Scotland,Lansdowne Road,1904-02-27,4,4,0,0,0,0,0,0,0,2,2,0,0.5,Scotland,-4.251806,55.864237
+263,Joseph,Waters,1882-04-29,FALSE,Dunoon,FALSE,Forward,Ireland v Scotland,Lansdowne Road,1904-02-27,2,2,0,0,0,0,0,0,0,2,0,0,1,Scotland,-4.926214,55.950973
+264,Hugh,Fletcher,1877-04-27,FALSE,Norwich,FALSE,Forward,Scotland v England,Inverleith,1904-03-19,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,1.297355,52.6308859
+265,John,Forbes,1883-04-11,FALSE,Edinburgh,FALSE,Centre,Scotland v Wales,Inverleith,1905-02-04,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,Scotland,-3.188267,55.953252
+266,Ned,Little,1880-12-08,FALSE,Hawick,FALSE,Forward,Scotland v Wales,Inverleith,1905-02-04,1,1,0,3,1,0,0,0,0,0,1,0,0,Scotland,-2.780914,55.42706
+267,Pat,Munro,1883-10-09,FALSE,Leeds,FALSE,Halfback,Scotland v Wales,Inverleith,1905-02-04,13,13,0,14,2,0,0,2,0,5,8,0,0.38461538461538464,Scotland,-1.5490774,53.8007554
+268,Andrew,Ross,1879-05-15,FALSE,Edinburgh,FALSE,Forward,Scotland v Wales,Inverleith,1905-02-04,5,5,0,0,0,0,0,0,0,2,3,0,0.4,Scotland,-3.188267,55.953252
+269,Maurice,Dickson,1882-01-02,FALSE,"Panbride, Angus",FALSE,Forward,Scotland v Ireland,Inverleith,1905-02-25,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-2.70282,56.510804
+270,Harold,McCowat,1882-04-30,FALSE,Durban,FALSE,Wing,Scotland v Ireland,Inverleith,1905-02-25,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,31.0218404,-29.85868039999999
+271,William,Ritchie,1882-03-11,FALSE,Dunedin,FALSE,Wing,Scotland v Ireland,Inverleith,1905-02-25,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-82.7717684,28.0197404
+272,Tom,Elliot,1880-01-01,TRUE,Not Available,FALSE,Wing,England v Scotland,Richmond,1905-03-18,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+273,John,MacCallum,1883-10-11,FALSE,Not Available,FALSE,Forward,England v Scotland,Richmond,1905-03-18,26,26,0,24,2,9,0,0,0,13,13,0,0.5,Scotland,-122.2636808,37.8009514
+274,Hugh,Monteith,1883-05-11,FALSE,"Moniaive, Dumfriesshi",FALSE,Forward,England v Scotland,Richmond,1905-03-18,8,8,0,3,1,0,0,0,0,6,2,0,0.75,Scotland,-3.9184722,55.197793
+275,Douglas,Schulze,1881-03-05,FALSE,Glasgow,FALSE,Fullback,England v Scotland,Richmond,1905-03-18,13,13,0,4,0,0,0,1,0,7,6,0,0.5384615384615384,Scotland,-4.251806,55.864237
+276,Louis,Greig,1880-11-17,FALSE,Glasgow,FALSE,Halfback,South Africa v Great Britain,Johannesburg,1903-08-26,8,8,0,0,0,0,0,0,0,2,4,2,0.25,Scotland,-4.251806,55.864237
+277,James,Mackenzie,1886-10-17,FALSE,Sunderland,FALSE,Forward,Scotland v New Zealand,Inverleith,1905-11-18,9,9,0,0,0,0,0,0,0,3,6,0,0.3333333333333333,Scotland,-72.5795115,42.4663727
+278,Ken,MacLeod,1888-02-02,FALSE,"New Kilpatrick, Dumba",FALSE,Wing,Scotland v New Zealand,Inverleith,1905-11-18,10,10,0,25,4,2,2,0,1,6,4,0,0.6,Scotland,NA,NA
+279,William,Russell,1880-05-31,FALSE,Not Available,FALSE,Flanker,Scotland v New Zealand,Inverleith,1905-11-18,4,4,0,0,0,0,0,0,0,1,3,0,0.25,Scotland,-122.2636808,37.8009514
+280,John,Scoular,1885-09-17,FALSE,Whitehaven,FALSE,Fullback,Scotland v New Zealand,Inverleith,1905-11-18,5,5,0,0,0,0,0,0,0,2,3,0,0.4,Scotland,-90.04185969999999,35.0353049
+281,John,Simson,1884-10-21,FALSE,Not Available,FALSE,Wing,Scotland v New Zealand,Inverleith,1905-11-18,7,7,0,6,2,0,0,0,0,3,4,0,0.42857142857142855,Scotland,-122.2636808,37.8009514
+282,Tennant,Sloan,1884-11-09,FALSE,Glasgow,FALSE,Centre,Scotland v New Zealand,Inverleith,1905-11-18,7,7,0,0,0,0,0,0,0,4,3,0,0.5714285714285714,Scotland,-4.251806,55.864237
+283,Bill,Church,1883-08-05,FALSE,Glasgow,FALSE,Centre,Wales v Scotland,Cardiff,1906-02-03,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-4.251806,55.864237
+284,Alec,Purves,1886-08-15,FALSE,Kingston-upon-Thames,FALSE,Wing,Wales v Scotland,Cardiff,1906-02-03,10,10,0,22,6,0,0,1,0,6,4,0,0.6,Scotland,-0.300689,51.41233
+285,Maurie,Walter,1888-01-04,FALSE,Yokohama,FALSE,Centre,Ireland v Scotland,Lansdowne Road,1906-02-24,8,8,0,6,2,0,0,0,0,5,3,0,0.625,Scotland,139.6379639,35.4436739
+286,George,Frew,1883-09-09,FALSE,Larkhall,FALSE,Forward,Scotland v South Africa,Glasgow,1906-11-17,15,15,0,3,1,0,0,0,0,9,6,0,0.6,Scotland,-3.971699,55.737744
+287,Campbell,Geddes,1882-07-09,FALSE,Hampstead,FALSE,Forward,Scotland v South Africa,Glasgow,1906-11-17,6,6,0,10,0,5,0,0,0,5,1,0,0.8333333333333334,Scotland,-76.8499774,39.6048253
+288,Louis,Speirs,1885-10-23,FALSE,Edinburgh,FALSE,Forward,Scotland v South Africa,Glasgow,1906-11-17,10,10,0,0,0,0,0,0,0,6,4,0,0.6,Scotland,-3.188267,55.953252
+289,William,Thomson,NA,NA,"Haslingden, Lancs",FALSE,Forward,Scotland v South Africa,Glasgow,1906-11-17,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-2.3261002,53.7008264
+290,Duncan,MacGregor,1887-05-20,FALSE,Pontypridd,FALSE,Centre,Scotland v Wales,Inverleith,1907-02-02,3,3,0,0,0,0,0,0,0,3,0,0,1,Scotland,-3.342314,51.60077399999999
+291,George,Sanderson,1881-08-09,FALSE,Edinburgh,FALSE,Forward,Scotland v Wales,Inverleith,1907-02-02,4,4,0,3,1,0,0,0,0,3,1,0,0.75,Scotland,-3.188267,55.953252
+292,Jock,Scott,1887-10-06,FALSE,Edinburgh,FALSE,Flanker,England v Scotland,Blackheath,1907-03-16,21,21,0,3,1,0,0,0,0,8,13,0,0.38095238095238093,Scotland,-3.188267,55.953252
+293,J.A.,Brown,NA,NA,date unknown,FALSE,Hooker,Wales v Scotland,Swansea,1908-02-01,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-117.9688768,33.7442131
+294,George,Cunningham,1888-03-23,FALSE,Broughty Ferry,FALSE,Halfback,Wales v Scotland,Swansea,1908-02-01,8,8,0,11,0,4,1,0,0,3,5,0,0.375,Scotland,-2.8814982,56.4692371
+295,Geoffrey,Gowlland,1885-05-27,FALSE,Ealing,FALSE,Forward,Wales v Scotland,Swansea,1908-02-01,7,7,0,3,1,0,0,0,0,3,4,0,0.42857142857142855,Scotland,-0.3413965,51.5250366
+296,Hugh,Martin,1888-04-09,FALSE,Edinburgh,FALSE,Wing,Wales v Scotland,Swansea,1908-02-01,5,5,0,3,1,0,0,0,0,2,3,0,0.4,Scotland,-3.188267,55.953252
+297,John,Wilson,1884-03-10,FALSE,Trinidad,FALSE,Forward,Ireland v Scotland,Lansdowne Road,1908-02-29,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-61.222503,10.691803
+298,Colin,Gilray,1885-03-17,FALSE,Broughty Ferry,FALSE,Wing,New Zealand v Australia,Dunedin,1905-09-02,5,5,0,3,1,0,0,0,0,3,2,0,0.6,Scotland,-2.8814982,56.4692371
+299,James,Robertson,1883-05-05,FALSE,Not Available,FALSE,Fly-half,Scotland v England,Inverleith,1908-03-21,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+300,Lewis,Robertson,1883-08-04,FALSE,Hawthornden,FALSE,Forward,Scotland v England,Inverleith,1908-03-21,9,9,0,0,0,0,0,0,0,3,6,0,0.3333333333333333,Scotland,-3.1419767,55.8609792
+301,Albert,Wade,1884-09-20,FALSE,Glasgow,FALSE,Scrum-half,Scotland v England,Inverleith,1908-03-21,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-4.251806,55.864237
+302,Gus,Angus,1889-11-11,FALSE,"Sydney, NSW",FALSE,Centre,Scotland v Wales,Inverleith,1909-02-06,18,18,0,9,3,0,0,0,0,7,11,0,0.3888888888888889,Scotland,151.2092955,-33.8688197
+303,Jim,Tennent,1888-09-07,FALSE,Glasgow,FALSE,Halfback,Scotland v Wales,Inverleith,1909-02-06,6,6,0,15,5,0,0,0,0,3,3,0,0.5,Scotland,-4.251806,55.864237
+304,William,Lely,1886-07-15,FALSE,"Edmonton, London",FALSE,Prop,Scotland v Ireland,Inverleith,1909-02-27,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-0.0603899,51.6241533
+305,Robert,Lindsay-Watson,1886-10-04,FALSE,Hawick,FALSE,Wing,Scotland v Ireland,Inverleith,1909-02-27,1,1,0,3,1,0,0,0,0,1,0,0,1,Scotland,-2.780914,55.42706
+306,John,MacGregor,1885-08-27,FALSE,Pontypridd,FALSE,Fly-half,Scotland v Ireland,Inverleith,1909-02-27,1,1,0,3,1,0,0,0,0,1,0,0,1,Scotland,-3.342314,51.60077399999999
+307,Jimmy,Pearson,1889-02-24,FALSE,Edinburgh,FALSE,Centre,Scotland v Ireland,Inverleith,1909-02-27,12,12,0,10,1,0,1,1,0,6,6,0,0.5,Scotland,-3.188267,55.953252
+308,Charles,Stuart,1887-05-18,FALSE,Glasgow,FALSE,Forward,Scotland v Ireland,Inverleith,1909-02-27,7,7,0,3,1,0,0,0,0,3,4,0,0.42857142857142855,Scotland,-4.251806,55.864237
+309,Alexander,Moodie,1886-09-30,FALSE,"Balmuirfield, Dundee",FALSE,Forward,England v Scotland,Richmond,1909-03-20,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,Scotland,-2.980576,56.495012
+310,James,Reid-Kerr,1883-12-04,FALSE,Greenock,FALSE,Forward,England v Scotland,Richmond,1909-03-20,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-4.771983,55.95647599999999
+311,Fletcher,Buchanan,1889-12-23,FALSE,Glasgow,FALSE,Centre,Scotland v France,Inverleith,1910-01-22,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,Scotland,-4.251806,55.864237
+312,Ian,Robertson,1887-02-03,FALSE,Not Available,FALSE,Wing,Scotland v France,Inverleith,1910-01-22,1,1,0,6,2,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+313,Robert,Stevenson,1886-02-12,FALSE,Perth,FALSE,Forward,Scotland v France,Inverleith,1910-01-22,9,9,0,0,0,0,0,0,0,3,6,0,0.3333333333333333,Scotland,115.8604572,-31.9505269
+314,Puss,Milroy,1887-12-04,FALSE,Edinburgh,FALSE,Scrum-half,Wales v Scotland,Cardiff,1910-02-05,12,12,0,3,1,0,0,0,0,3,9,0,0.25,Scotland,-3.188267,55.953252
+315,Walter,Sutherland,1890-11-19,FALSE,Hawick,FALSE,Wing,Wales v Scotland,Cardiff,1910-02-05,13,13,0,12,4,0,0,0,0,4,9,0,0.3076923076923077,Scotland,-2.780914,55.42706
+316,Cecil,Abercrombie,1886-04-12,FALSE,Mozufferpore,FALSE,Forward,Ireland v Scotland,Belfast,1910-02-26,6,6,0,3,1,0,0,0,0,2,4,0,0.3333333333333333,Scotland,NA,NA
+317,Jimmy,Dobson,1888-11-23,FALSE,"Cathcart, Glasgow",FALSE,Wing,Ireland v Scotland,Belfast,1910-02-26,1,1,0,3,1,0,0,0,0,1,0,0,1,Scotland,-4.2634669,55.8172169
+318,Andrew,Lindsay,1885-07-19,FALSE,Otepopo,FALSE,Scrum-half,Ireland v Scotland,Belfast,1910-02-26,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,170.783167,-45.2246621
+319,Donald,Macpherson,1882-07-23,FALSE,Waimate,FALSE,Wing,New Zealand v Australia,Dunedin,1905-09-02,3,3,0,3,1,0,0,0,0,2,1,0,0.6666666666666666,Scotland,171.0480709,-44.73269699999999
+320,Rowland,Fraser,1890-01-10,FALSE,Perth,FALSE,Prop,France v Scotland,Colombes,1911-01-02,4,4,0,0,0,0,0,0,0,0,4,0,0,Scotland,115.8604572,-31.9505269
+321,Frank,Osler,1888-02-10,FALSE,Riversdale,FALSE,Scrum-half,France v Scotland,Colombes,1911-01-02,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-76.9318361,38.9602583
+322,Alexander,Stevenson,1885-10-30,FALSE,Glasgow,FALSE,Forward,France v Scotland,Colombes,1911-01-02,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-4.251806,55.864237
+323,Borth,Todd,1888-10-28,FALSE,"Inverleithin, Peebles",FALSE,Fullback,France v Scotland,Colombes,1911-01-02,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.064912,55.624015
+324,Frede,di Turner,1888-05-29,FALSE,"Sefton Pk, Liverpool",FALSE,Flanker,France v Scotland,Colombes,1911-01-02,15,15,0,37,3,14,0,0,0,4,11,0,0.26666666666666666,Scotland,-2.9462797,53.3833559
+325,Thomas,Young,1891-02-06,FALSE,Hartlepool,FALSE,Centre,France v Scotland,Colombes,1911-01-02,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-1.212926,54.691745
+326,Donald,Grant,1892-12-30,FALSE,Burma,FALSE,Wing,Scotland v Wales,Inverleith,1911-02-04,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,95.955974,21.916221
+327,John,Macdonald,1890-12-07,FALSE,Not Available,FALSE,Wing,Scotland v Wales,Inverleith,1911-02-04,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+328,Andrew,Ross,1892-01-13,FALSE,"Juniper Green, Edinbu",FALSE,Lock,Scotland v Wales,Inverleith,1911-02-04,4,4,0,0,0,0,0,0,0,0,4,0,0,Scotland,-3.286457,55.905355
+329,Andrew,Greig,1889-10-27,FALSE,"Kelvin, Glasgow",FALSE,Fullback,Scotland v Ireland,Inverleith,1911-02-25,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-4.229177000000001,55.8805051
+330,Carl,Ogilvy,1889-06-13,FALSE,Not Available,FALSE,Fullback,Scotland v Ireland,Inverleith,1911-02-25,3,3,0,0,0,0,0,0,0,0,3,0,0,Scotland,-122.2636808,37.8009514
+331,David,Bain,1891-09-10,FALSE,Edinburgh,FALSE,Prop,England v Scotland,Twickenham,1911-03-18,11,11,0,0,0,0,0,0,0,4,7,0,0.36363636363636365,Scotland,-3.188267,55.953252
+332,John,Dobson,1886-09-06,FALSE,Not Available,FALSE,Hooker,England v Scotland,Twickenham,1911-03-18,6,6,0,0,0,0,0,0,0,2,4,0,0.3333333333333333,Scotland,-122.2636808,37.8009514
+333,JY,Henderson,1891-03-09,FALSE,Edinburgh,FALSE,Fly-half,England v Scotland,Twickenham,1911-03-18,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.188267,55.953252
+334,William,Hutchison,1889-01-16,FALSE,Glasgow,FALSE,Lock,England v Scotland,Twickenham,1911-03-18,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-4.251806,55.864237
+335,Ronald,Simson,1890-09-06,FALSE,Edinburgh,FALSE,Centre,England v Scotland,Twickenham,1911-03-18,1,1,0,3,1,0,0,0,0,0,1,0,0,Scotland,-3.188267,55.953252
+336,Stephen,Steyn,1889-11-10,FALSE,Moorreesburg,FALSE,Wing,England v Scotland,Twickenham,1911-03-18,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,18.6680371,-33.1452274
+337,Mike,Dickson,1884-11-23,FALSE,Not Available,FALSE,Fullback,Scotland v France,Inverleith,1912-01-20,7,7,0,0,0,0,0,0,0,4,3,0,0.5714285714285714,Scotland,-122.2636808,37.8009514
+338,Sandy,Gunn,1890-11-16,FALSE,Pontypool,FALSE,Fly-half,Scotland v France,Inverleith,1912-01-20,5,5,0,3,1,0,0,0,0,2,3,0,0.4,Scotland,-78.62753769999999,44.1002714
+339,Colin,Hill,1887-07-17,FALSE,"Glenwood, Leslie, Fife",FALSE,Forward,Scotland v France,Inverleith,1912-01-20,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-3.2142977,56.1982177
+340,Dave,Howie,1888-05-12,FALSE,"Roseberry Temple, Mid",FALSE,Lock,Scotland v France,Inverleith,1912-01-20,7,7,0,0,0,0,0,0,0,3,4,0,0.42857142857142855,Scotland,-3.1041562,55.80005629999999
+341,Jenny,Hume,1890-03-17,FALSE,Edinburgh,FALSE,Scrum-half,Scotland v France,Inverleith,1912-01-20,7,7,0,3,1,0,0,0,0,3,3,1,0.42857142857142855,Scotland,-3.188267,55.953252
+342,William,Purves,1888-07-04,FALSE,Wimbledon,FALSE,Lock,Scotland v France,Inverleith,1912-01-20,6,6,0,3,1,0,0,0,0,2,4,0,0.3333333333333333,Scotland,-78.77949720000001,35.7487195
+343,Robert,Robertson,1891-07-28,FALSE,Not Available,FALSE,Forward,Scotland v France,Inverleith,1912-01-20,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+344,George,Will,1892-09-02,FALSE,Croydon,FALSE,Wing,Scotland v France,Inverleith,1912-01-20,7,7,0,15,5,0,0,0,0,2,5,0,0.2857142857142857,Scotland,-0.098234,51.376165
+345,James,Boyd,1891-08-18,FALSE,Amoy,FALSE,Fly-half,Scotland v England,Inverleith,1912-03-16,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,118.089425,24.479833
+346,Billy,Burnet,1886-03-06,FALSE,Not Available,FALSE,Centre,Scotland v England,Inverleith,1912-03-16,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+347,Charlie,Usher,1891-09-26,FALSE,Not Available,FALSE,No. 8,Scotland v England,Inverleith,1912-03-16,16,16,0,6,2,0,0,0,0,8,6,2,0.5,Scotland,-122.2636808,37.8009514
+348,Patrick,Blair,1891-07-18,FALSE,Wanlockhead,FALSE,Prop,Scotland v South Africa,Inverleith,1912-11-23,5,5,0,0,0,0,0,0,0,2,3,0,0.4,Scotland,-3.783659999999999,55.39749
+349,Roland,Gordon,1893-01-22,FALSE,"Selangor, Malaya",FALSE,Centre,France v Scotland,Parc des Princes,1913-01-01,3,3,0,6,2,0,0,0,0,2,1,0,0.6666666666666666,Scotland,101.5183469,3.0738379
+350,George,Ledingham,1890-03-08,FALSE,Aberdeen,FALSE,Forward,France v Scotland,Parc des Princes,1913-01-01,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-2.094278,57.149717
+351,John,McDougall,1890-12-05,FALSE,Greenock,FALSE,Lock,France v Scotland,Parc des Princes,1913-01-01,5,5,0,0,0,0,0,0,0,1,4,0,0.2,Scotland,-4.771983,55.95647599999999
+352,Bill,Stewart,1889-10-23,FALSE,"Launceston, TAS",FALSE,Wing,France v Scotland,Parc des Princes,1913-01-01,4,4,0,24,8,0,0,0,0,2,2,0,0.5,Scotland,147.1440875,-41.43322149999999
+353,Rufus,Bruce-Lockhart,1889-03-04,FALSE,"Beith, Ayrshire",FALSE,Centre,Scotland v Wales,Inverleith,1913-02-01,2,2,0,4,0,0,0,1,0,0,2,0,0,Scotland,-4.631787,55.753797
+354,Thomas,Bowie,1889-04-28,FALSE,Edinburgh,FALSE,Fly-half,Scotland v Ireland,Inverleith,1913-02-22,4,4,0,7,1,0,0,1,0,1,3,0,0.25,Scotland,-3.188267,55.953252
+355,George,Maxwell,1892-10-18,FALSE,Edinburgh,FALSE,Flanker,Scotland v Ireland,Inverleith,1913-02-22,13,13,0,7,0,2,1,0,0,3,9,1,0.23076923076923078,Scotland,-3.188267,55.953252
+356,Eric,Loudoun-Shand,1893-03-31,FALSE,Lambeth,FALSE,Centre,England v Scotland,Twickenham,1913-03-15,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-0.1230681,51.4571477
+357,John,Sweet,1892-03-26,FALSE,Not Available,FALSE,Wing,England v Scotland,Twickenham,1913-03-15,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-122.2636808,37.8009514
+358,Willie,Wallace,1892-09-23,FALSE,Edinburgh,FALSE,Fullback,England v Scotland,Twickenham,1913-03-15,4,4,0,0,0,0,0,0,0,0,4,0,0,Scotland,-3.188267,55.953252
+359,David,Donald,1891-07-27,FALSE,Not Available,FALSE,Prop,Wales v Scotland,Cardiff,1914-02-07,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-122.2636808,37.8009514
+360,Andrew,Hamilton,1893-03-08,FALSE,Hamilton,FALSE,Fly-half,Wales v Scotland,Cardiff,1914-02-07,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-96.19513200000002,37.9426096
+361,Podger,Laing,1892-04-25,FALSE,Not Available,FALSE,Lock,Wales v Scotland,Cardiff,1914-02-07,7,7,0,4,0,2,0,0,0,3,4,0,0.42857142857142855,Scotland,-122.2636808,37.8009514
+362,Ronald,Scobie,1893-06-08,FALSE,Not Available,FALSE,Centre,Wales v Scotland,Cardiff,1914-02-07,3,3,0,0,0,0,0,0,0,0,3,0,0,Scotland,-122.2636808,37.8009514
+363,Allen,Sloan,1892-12-30,FALSE,Edinburgh,FALSE,Wing,Wales v Scotland,Cardiff,1914-02-07,9,9,0,9,3,0,0,0,0,4,5,0,0.4444444444444444,Scotland,-3.188267,55.953252
+364,Archibald,Stewart,1890-09-27,FALSE,Leith,FALSE,Forward,Wales v Scotland,Cardiff,1914-02-07,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.1665102,55.97552779999999
+365,Archibald,Symington,1892-03-20,FALSE,Calcutta,FALSE,Lock,Wales v Scotland,Cardiff,1914-02-07,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,88.36389500000001,22.572646
+366,Jock,Wemyss,1893-05-22,FALSE,Galashiels,FALSE,Prop,Wales v Scotland,Cardiff,1914-02-07,7,7,0,0,0,0,0,0,0,2,3,2,0.2857142857142857,Scotland,-2.814449,55.623728
+367,Jack,Warren,1889-08-13,FALSE,"Partick, Glasgow",FALSE,Centre,Ireland v Scotland,Lansdowne Road,1914-02-28,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-4.3077508,55.87105940000001
+368,James,Huggan,1888-10-11,FALSE,Jedburgh,FALSE,Wing,Scotland v England,Inverleith,1914-03-21,1,1,0,3,1,0,0,0,0,0,1,0,0,Scotland,-2.5549369,55.477721
+369,Ian,Moffat-Pender,1894-08-18,FALSE,Not Available,FALSE,Prop,Scotland v England,Inverleith,1914-03-21,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+370,Eric,Young,1892-04-14,FALSE,Not Available,FALSE,Flanker,Scotland v England,Inverleith,1914-03-21,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+371,Gerard,Crole,1894-06-07,FALSE,"Calton, Edinburgh",FALSE,Wing,France v Scotland,Parc des Princes,1920-01-01,4,4,0,9,3,0,0,0,0,3,1,0,0.75,Scotland,-3.1827409,55.9550465
+372,Denoon,Duncan,1893-02-15,FALSE,Not Available,FALSE,Prop,France v Scotland,Parc des Princes,1920-01-01,4,4,0,0,0,0,0,0,0,3,1,0,0.75,Scotland,-122.2636808,37.8009514
+373,Ernest,Fahmy,1892-11-28,FALSE,Amoy,FALSE,Centre,France v Scotland,Parc des Princes,1920-01-01,4,4,0,0,0,0,0,0,0,3,1,0,0.75,Scotland,118.089425,24.479833
+374,Bob,Gallie,1893-01-18,FALSE,Not Available,FALSE,Hooker,France v Scotland,Parc des Princes,1920-01-01,8,8,0,0,0,0,0,0,0,4,4,0,0.5,Scotland,-122.2636808,37.8009514
+375,Finlay,Kennedy,1892-01-23,FALSE,Not Available,FALSE,Prop,France v Scotland,Parc des Princes,1920-01-01,5,5,0,13,0,2,3,0,0,3,2,0,0.6,Scotland,-122.2636808,37.8009514
+376,Monty,Murray,1894-04-17,FALSE,Glasgow,FALSE,Flanker,France v Scotland,Parc des Princes,1920-01-01,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,Scotland,-4.251806,55.864237
+377,George,Pattullo,NA,NA,"Colombo, Ceylon",FALSE,Fullback,France v Scotland,Parc des Princes,1920-01-01,4,4,0,0,0,0,0,0,0,3,1,0,0.75,Scotland,79.861243,6.9270786
+378,George,Thom,1890-03-13,FALSE,"Strathmiglo, Fife",FALSE,Flanker,France v Scotland,Parc des Princes,1920-01-01,4,4,0,0,0,0,0,0,0,3,1,0,0.75,Scotland,-3.267681,56.278023
+379,Eric,MacKay,1899-08-05,FALSE,"Kinning Park, Glasgow",FALSE,Wing,Scotland v Wales,Inverleith,1920-02-07,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-4.2820826,55.84965760000001
+380,Neil,Macpherson,1892-09-26,FALSE,Cardiff,FALSE,Forward,Scotland v Wales,Inverleith,1920-02-07,11,11,0,0,0,0,0,0,0,3,7,1,0.2727272727272727,Scotland,-3.17909,51.48158100000001
+381,Jake,Selby,1900-07-28,FALSE,Port William,FALSE,Scrum-half,Scotland v Wales,Inverleith,1920-02-07,2,2,0,0,0,0,0,0,0,2,0,0,1,Scotland,-83.78631399999999,39.5520056
+382,Arthur,Browning,1897-07-02,FALSE,"Eaglesham, Renfrew",FALSE,Wing,Scotland v Ireland,Inverleith,1920-02-28,7,7,0,22,5,2,1,0,0,4,1,2,0.5714285714285714,Scotland,-4.269971,55.739342
+383,Charles,Nimmo,1895-06-10,FALSE,Edinburgh,FALSE,Scrum-half,England v Scotland,Twickenham,1920-03-20,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.188267,55.953252
+384,John,Bannerman,1901-09-01,FALSE,Glasgow,FALSE,Lock,Scotland v France,Inverleith,1921-01-22,37,37,0,6,2,0,0,0,0,22,13,2,0.5945945945945946,Scotland,-4.251806,55.864237
+385,Jimmy,Carmichael,1900-03-22,FALSE,Edinburgh,FALSE,Wing,Scotland v France,Inverleith,1921-01-22,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,Scotland,-3.188267,55.953252
+386,Ronald,Cumming,1900-04-04,FALSE,Speyside,FALSE,Prop,Scotland v France,Inverleith,1921-01-22,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-82.6241612,39.0379881
+387,Hector,Forsayth,1899-12-18,FALSE,"Sydney, NSW",FALSE,Fullback,Scotland v France,Inverleith,1921-01-22,7,7,0,0,0,0,0,0,0,2,4,1,0.2857142857142857,Scotland,151.2092955,-33.8688197
+388,Leslie,Gracie,1896-10-15,FALSE,"Colombo, Ceylon",FALSE,Centre,Scotland v France,Inverleith,1921-01-22,13,13,0,6,2,0,0,0,0,5,6,2,0.38461538461538464,Scotland,79.861243,6.9270786
+389,Ian,Kilgour,1900-10-23,FALSE,Not Available,FALSE,Wing,Scotland v France,Inverleith,1921-01-22,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+390,Alpin,Thomson,1893-05-14,FALSE,"Perth, WA",FALSE,Centre,Scotland v France,Inverleith,1921-01-22,3,3,0,3,1,0,0,0,0,1,2,0,0.3333333333333333,Scotland,115.8604572,-31.9505269
+391,Rankin,Buchanan,1896-06-18,FALSE,Not Available,FALSE,Hooker,Wales v Scotland,Swansea,1921-02-05,16,16,0,3,1,0,0,0,0,9,6,1,0.5625,Scotland,-122.2636808,37.8009514
+392,Russell,Donald,1898-09-09,FALSE,Glasgow,FALSE,Fly-half,Wales v Scotland,Swansea,1921-02-05,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,Scotland,-4.251806,55.864237
+393,George,Douglas,1897-08-10,FALSE,Not Available,FALSE,Lock,Wales v Scotland,Swansea,1921-02-05,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+394,Hamish,Shaw,1896-09-13,FALSE,Not Available,FALSE,No. 8,Wales v Scotland,Swansea,1921-02-05,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-122.2636808,37.8009514
+395,John,McCrow,1899-05-11,FALSE,Chirnside,FALSE,Wing,Ireland v Scotland,Lansdowne Road,1921-02-26,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-2.209192,55.801765
+396,George,Murray,1900-06-23,FALSE,"Maryhill, Glasgow",FALSE,Prop,Ireland v Scotland,Lansdowne Road,1921-02-26,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-4.281742599999999,55.8848595
+397,Jock,Stewart,1894-05-06,FALSE,Not Available,FALSE,Flanker,Ireland v Scotland,Lansdowne Road,1921-02-26,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+398,Cecil,Mackenzie,1889-02-26,FALSE,Not Available,FALSE,Centre,Scotland v England,Inverleith,1921-03-19,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+399,David,Bertram,1899-01-24,FALSE,Edinburgh,FALSE,Hooker,France v Scotland,Colombes,1922-01-02,11,11,0,8,2,1,0,0,0,6,3,2,0.5454545454545454,Scotland,-3.188267,55.953252
+400,Doug,Davies,1899-07-23,FALSE,Ashkirk,FALSE,No. 8,France v Scotland,Colombes,1922-01-02,24,24,0,3,0,0,1,0,0,12,9,3,0.5,Scotland,-2.837452,55.492504
+401,Jimmy,Dykes,1901-07-04,FALSE,"Partick, Glasgow",FALSE,Centre,France v Scotland,Colombes,1922-01-02,20,20,0,20,3,2,1,1,0,14,5,1,0.7,Scotland,-4.3077508,55.87105940000001
+402,Bill,Johnston,1896-12-16,FALSE,Not Available,FALSE,Fullback,France v Scotland,Colombes,1922-01-02,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-122.2636808,37.8009514
+403,Jock,Lawrie,1900-09-11,FALSE,Melrose,FALSE,Flanker,France v Scotland,Colombes,1922-01-02,11,11,0,0,0,0,0,0,0,6,3,2,0.5454545454545454,Scotland,-95.905785,36.150091
+404,Eric,Liddell,1902-01-16,FALSE,Tientsin,FALSE,Wing,France v Scotland,Colombes,1922-01-02,7,7,0,12,4,0,0,0,0,4,1,2,0.5714285714285714,Scotland,117.3616476,39.3433574
+405,Phil,Macpherson,1903-10-16,FALSE,Newtonmore,FALSE,Centre,France v Scotland,Colombes,1922-01-02,26,26,0,12,4,0,0,0,0,13,10,3,0.5,Scotland,-4.121542,57.066379
+406,Andrew,Stevenson,1897-03-14,FALSE,"Maryhill, Glasgow",FALSE,Prop,France v Scotland,Colombes,1922-01-02,4,4,0,0,0,0,0,0,0,2,1,1,0.5,Scotland,-4.281742599999999,55.8848595
+407,Willie,Bryce,1901-01-16,FALSE,"Bolton, Lancs",FALSE,Scrum-half,Scotland v Wales,Inverleith,1922-02-04,11,11,0,9,3,0,0,0,0,6,4,1,0.5454545454545454,Scotland,-2.4282192,53.57686469999999
+408,William,Dobson,1894-02-09,FALSE,Not Available,FALSE,Prop,Scotland v Wales,Inverleith,1922-02-04,3,3,0,0,0,0,0,0,0,1,1,1,0.3333333333333333,Scotland,-122.2636808,37.8009514
+409,Ronald,Warren,1900-10-14,FALSE,"Partick, Glasgow",FALSE,Fullback,Scotland v Wales,Inverleith,1922-02-04,5,5,0,0,0,0,0,0,0,2,1,2,0.4,Scotland,-4.3077508,55.87105940000001
+410,Jimmy,Tolmie,1895-11-20,FALSE,"New York, NY, United States",FALSE,Wing,England v Scotland,Twickenham,1922-03-18,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-74.0059728,40.7127753
+411,Dan,Drysdale,1901-05-18,FALSE,"Kippen, Stirlingshire",FALSE,Fullback,Scotland v France,Inverleith,1923-01-20,30,30,0,45,0,19,1,1,0,18,11,1,0.6,Scotland,-4.166745,56.126624
+412,David,Kerr,1899-02-03,FALSE,Not Available,FALSE,Prop,Scotland v France,Inverleith,1923-01-20,10,10,0,6,2,0,0,0,0,5,5,0,0.5,Scotland,-122.2636808,37.8009514
+413,Teddy,McLaren,1902-05-28,FALSE,Not Available,FALSE,Centre,Scotland v France,Inverleith,1923-01-20,5,5,0,9,3,0,0,0,0,3,2,0,0.6,Scotland,-122.2636808,37.8009514
+414,Samuel,McQueen,1896-01-27,FALSE,Liverpool,FALSE,Fly-half,Scotland v France,Inverleith,1923-01-20,4,4,0,3,1,0,0,0,0,3,1,0,0.75,Scotland,-115.4763241,32.6564981
+415,Ludo,Stuart,1902-10-22,FALSE,Not Available,FALSE,Lock,Scotland v France,Inverleith,1923-01-20,8,8,0,3,1,0,0,0,0,3,4,1,0.375,Scotland,-122.2636808,37.8009514
+416,Johnnie,Wallace,1900-09-05,FALSE,"Machsville, NSW",FALSE,Wing,New Zealand XV v Australia,Christchurch,1921-09-03,17,17,0,48,16,0,0,0,0,11,6,0,0.6470588235294118,Scotland,152.916667,-30.716667
+417,Robert,Simpson,1899-04-28,FALSE,"Kinning Park, Glasgow",FALSE,Flanker,Ireland v Scotland,Lansdowne Road,1923-02-24,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-4.2820826,55.84965760000001
+418,Kelvin,Hendrie,1898-07-02,FALSE,Edinburgh,FALSE,No. 8,France v Scotland,Paris,1924-01-01,4,4,0,0,0,0,0,0,0,2,2,0,0.5,Scotland,-3.188267,55.953252
+419,Bob,Howie,1898-06-11,FALSE,Gorebridge,FALSE,Prop,France v Scotland,Paris,1924-01-01,11,11,0,0,0,0,0,0,0,5,5,1,0.45454545454545453,Scotland,-3.046099,55.836732
+420,Chris,Mackintosh,1903-10-31,FALSE,Charville,FALSE,Wing,France v Scotland,Paris,1924-01-01,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.1773879,37.4355331
+421,Andrew,Ross,1903-11-08,FALSE,Troon,FALSE,Hooker,France v Scotland,Paris,1924-01-01,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-111.927627,33.623911
+422,Herbert,Waddell,1902-09-19,FALSE,Glasgow,FALSE,Fly-half,France v Scotland,Paris,1924-01-01,18,18,0,45,7,2,0,5,0,11,7,0,0.6111111111111112,Scotland,-4.251806,55.864237
+423,George,Aitken,1898-07-02,FALSE,Westport,FALSE,Centre,New Zealand v South Africa,Dunedin,1921-08-13,10,10,0,0,0,0,0,0,0,8,2,0,0.8,Scotland,-73.3579049,41.1414717
+424,Sandy,Gillies,1900-03-25,FALSE,"Easdale, Argyll",FALSE,No. 8,Scotland v Wales,Inverleith,1924-02-02,12,12,0,26,1,7,3,0,0,10,2,0,0.8333333333333334,Scotland,-5.6582411,56.29182789999999
+425,Ian,Smith,1903-10-31,FALSE,"Melbourne, VIC",FALSE,Wing,Scotland v Wales,Inverleith,1924-02-02,34,34,0,72,24,0,0,0,0,20,14,0,0.5882352941176471,Scotland,144.9630576,-37.8136276
+426,Robert,Henderson,1900-01-08,FALSE,Coldstream,FALSE,Forward,Scotland v Ireland,Inverleith,1924-02-23,4,4,0,0,0,0,0,0,0,1,2,1,0.25,Scotland,-84.3493543,39.0485163
+427,Robert,Millar,1901-06-29,FALSE,Not Available,FALSE,Wing,Scotland v Ireland,Inverleith,1924-02-23,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+428,James,Gilchrist,1903-12-08,FALSE,Not Available,FALSE,Hooker,Scotland v France,Inverleith,1925-01-24,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+429,David,MacMyn,1903-02-18,FALSE,Kirkcudbright,FALSE,Lock,Scotland v France,Inverleith,1925-01-24,11,11,0,6,2,0,0,0,0,10,1,0,0.9090909090909091,Scotland,-4.04878,54.83756899999999
+430,Jimmy,Nelson,1903-02-09,FALSE,Glasgow,FALSE,Scrum-half,Scotland v France,Inverleith,1925-01-24,25,25,0,6,2,0,0,0,0,15,9,1,0.6,Scotland,-4.251806,55.864237
+431,John,Paterson,1900-12-19,FALSE,Not Available,FALSE,Flanker,Scotland v France,Inverleith,1925-01-24,21,21,0,6,2,0,0,0,0,15,6,0,0.7142857142857143,Scotland,-122.2636808,37.8009514
+432,Jumbo,Scott,1903-09-24,FALSE,Not Available,FALSE,Lock,Scotland v France,Inverleith,1925-01-24,18,18,0,6,2,0,0,0,0,13,5,0,0.7222222222222222,Scotland,-122.2636808,37.8009514
+433,William,Stevenson,1897-05-03,FALSE,Not Available,FALSE,Prop,Scotland v France,Inverleith,1925-01-24,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+434,Jimmie,Ireland,1903-12-10,FALSE,Glasgow,FALSE,Hooker,Wales v Scotland,Swansea,1925-02-07,11,11,0,0,0,0,0,0,0,9,2,0,0.8181818181818182,Scotland,-4.251806,55.864237
+435,William,Berkley,1904-06-14,FALSE,Horsham,FALSE,Prop,France v Scotland,Colombes,1926-01-02,4,4,0,0,0,0,0,0,0,3,1,0,0.75,Scotland,-75.1285061,40.1784422
+436,Roy,Kinnear,1904-02-03,FALSE,Edinburgh,FALSE,Centre,South Africa v Great Britain,Durban,1924-08-16,7,7,0,0,0,0,0,0,0,2,4,1,0.2857142857142857,Scotland,-3.188267,55.953252
+437,Max,Simmers,1904-08-07,FALSE,Glasgow,FALSE,Wing,Scotland v Wales,Murrayfield,1926-02-06,28,28,0,18,6,0,0,0,0,13,14,1,0.4642857142857143,Scotland,-4.251806,55.864237
+438,Jimmie,Graham,1902-06-19,FALSE,Selkirk,FALSE,Flanker,Scotland v Ireland,Murrayfield,1926-02-27,15,15,0,3,1,0,0,0,0,6,8,1,0.4,Scotland,-116.7950567,47.7814014
+439,Gordon,Boyd,1905-03-08,FALSE,"Cadder, Lanarkshire",FALSE,Wing,England v Scotland,Twickenham,1926-03-20,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-4.216455799999999,55.923368
+440,Jock,Allan,1905-06-04,FALSE,Not Available,FALSE,Prop,Scotland v France,Murrayfield,1927-01-22,17,17,0,27,0,9,3,0,0,7,9,1,0.4117647058823529,Scotland,-122.2636808,37.8009514
+441,Edward,Taylor,1907-07-03,FALSE,Not Available,FALSE,Wing,Wales v Scotland,Cardiff,1927-02-05,2,2,0,0,0,0,0,0,0,2,0,0,1,Scotland,-122.2636808,37.8009514
+442,Peter,Douty,1903-10-26,FALSE,Leeds,FALSE,Scrum-half,Scotland v Australia,Murrayfield,1927-12-17,3,3,0,3,1,0,0,0,0,2,1,0,0.6666666666666666,Scotland,-1.5490774,53.8007554
+443,William,Ferguson,1904-03-04,FALSE,Not Available,FALSE,Prop,Scotland v Australia,Murrayfield,1927-12-17,5,5,0,0,0,0,0,0,0,2,3,0,0.4,Scotland,-122.2636808,37.8009514
+444,Harry,Greenlees,1903-07-31,FALSE,Pollockshields,FALSE,Fly-half,Scotland v Australia,Murrayfield,1927-12-17,6,6,0,0,0,0,0,0,0,4,1,1,0.6666666666666666,Scotland,-4.269419099999999,55.8427824
+445,Robert,Kelly,1907-03-12,FALSE,Edinburgh,FALSE,Centre,Scotland v Australia,Murrayfield,1927-12-17,4,4,0,0,0,0,0,0,0,2,2,0,0.5,Scotland,-3.188267,55.953252
+446,William,Roughead,1905-09-19,FALSE,Not Available,FALSE,Hooker,Scotland v Australia,Murrayfield,1927-12-17,12,12,0,0,0,0,0,0,0,4,7,1,0.3333333333333333,Scotland,-122.2636808,37.8009514
+447,Willie,Welsh,1907-02-11,FALSE,Hawick,FALSE,Flanker,Scotland v Australia,Murrayfield,1927-12-17,22,22,0,3,1,0,0,0,0,10,11,1,0.45454545454545453,Scotland,-2.780914,55.42706
+448,Jimmy,Ferguson,1903-10-19,FALSE,Not Available,FALSE,Prop,Scotland v Wales,Murrayfield,1928-02-04,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+449,John,Goodfellow,1906-08-24,FALSE,Not Available,FALSE,Wing,Scotland v Wales,Murrayfield,1928-02-04,3,3,0,0,0,0,0,0,0,0,3,0,0,Scotland,-122.2636808,37.8009514
+450,Jo,Hume,1906-06-13,FALSE,"Willesden, Mx",FALSE,Centre,Scotland v Ireland,Murrayfield,1928-02-25,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-0.2191419,51.5457951
+451,Harry,Lind,1906-03-27,FALSE,Fifeshire,FALSE,Centre,Scotland v Ireland,Murrayfield,1928-02-25,16,16,0,7,1,0,0,1,0,6,10,0,0.375,Scotland,-3.1495175,56.2082078
+452,Alex,Brown,1905-05-12,FALSE,"Canongate, Edinburgh",FALSE,Fly-half,England v Scotland,Twickenham,1928-03-17,3,3,0,7,0,0,1,1,0,1,2,0,0.3333333333333333,Scotland,-3.1791473,55.95154969999999
+453,Jock,Beattie,1907-01-05,FALSE,Hawick,FALSE,Lock,Scotland v France,Murrayfield,1929-01-19,23,23,0,0,0,0,0,0,0,9,14,0,0.391304347826087,Scotland,-2.780914,55.42706
+454,Hugh,Mackintosh,1903-01-19,FALSE,Helmsdale,FALSE,Hooker,Scotland v France,Murrayfield,1929-01-19,16,16,0,9,3,0,0,0,0,6,9,1,0.375,Scotland,-3.653533,58.11726099999999
+455,Bob,Smith,1908-01-01,TRUE,Not Available,FALSE,Prop,Scotland v France,Murrayfield,1929-01-19,7,7,0,0,0,0,0,0,0,4,3,0,0.5714285714285714,Scotland,-122.2636808,37.8009514
+456,Kenneth,Wright,1905-09-06,FALSE,Not Available,FALSE,Flanker,Scotland v France,Murrayfield,1929-01-19,4,4,0,0,0,0,0,0,0,3,1,0,0.75,Scotland,-122.2636808,37.8009514
+457,Tom,Aitchison,1907-01-08,FALSE,Galashiels,FALSE,Fullback,Wales v Scotland,Swansea,1929-02-02,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,Scotland,-2.814449,55.623728
+458,Thomas,Brown,1902-02-09,FALSE,"Corstophine, Edinburg",FALSE,Centre,Wales v Scotland,Swansea,1929-02-02,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.2806934,55.9426971
+459,Charlie,Brown,1909-11-12,FALSE,"Polmont, nr Falkirk",FALSE,Wing,Scotland v England,Murrayfield,1929-03-16,1,1,0,3,1,0,0,0,0,1,0,0,1,Scotland,-3.7073047,55.9906145
+460,William,Emslie,1908-08-03,FALSE,"New York, NY, United States",FALSE,Fly-half,France v Scotland,Colombes,1930-01-01,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-74.0059728,40.7127753
+461,Reginald,Langrish,1905-12-01,FALSE,Not Available,FALSE,Fullback,France v Scotland,Colombes,1930-01-01,4,4,0,0,0,0,0,0,0,1,3,0,0.25,Scotland,-122.2636808,37.8009514
+462,Bobby,Rowand,1906-08-30,FALSE,Not Available,FALSE,Flanker,France v Scotland,Colombes,1930-01-01,7,7,0,0,0,0,0,0,0,4,3,0,0.5714285714285714,Scotland,-122.2636808,37.8009514
+463,Jack,Stewart,1905-02-19,FALSE,Not Available,FALSE,Lock,France v Scotland,Colombes,1930-01-01,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+464,Frank,Waters,1908-12-02,FALSE,"Uxbridge, Middx",FALSE,Flanker,France v Scotland,Colombes,1930-01-01,7,7,0,7,1,2,0,0,0,1,5,1,0.14285714285714285,Scotland,-0.479611,51.5485
+465,Bill,Agnew,1910-04-14,FALSE,"Kelvin, Glasgow",FALSE,Lock,Scotland v Wales,Murrayfield,1930-02-01,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-4.229177000000001,55.8805051
+466,Jerry,Foster,1907-12-07,FALSE,Hallrule Hobkirk,FALSE,Prop,Scotland v Wales,Murrayfield,1930-02-01,4,4,0,0,0,0,0,0,0,1,3,0,0.25,Scotland,-2.6549299,55.390165
+467,Thomas,Hart,1909-03-01,FALSE,"Langside, Glasgow",FALSE,Centre,Scotland v Wales,Murrayfield,1930-02-01,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-4.265133899999999,55.8276063
+468,Sammy,Ford,1907-12-16,FALSE,"Christchurch, Hants",FALSE,Centre,Scotland v Ireland,Murrayfield,1930-02-22,5,5,0,6,2,0,0,0,0,1,3,1,0.2,Scotland,-1.778586,50.735777
+469,James,Hutton,1906-08-08,FALSE,Tsientsin,FALSE,Centre,England v Scotland,Twickenham,1930-03-15,2,2,0,0,0,0,0,0,0,1,0,1,0.5,Scotland,117.3616476,39.3433574
+470,Henry,Polson,1907-11-19,FALSE,Gala,FALSE,Flanker,England v Scotland,Twickenham,1930-03-15,1,1,0,0,0,0,0,0,0,0,0,1,0,Scotland,-79.80921359999999,37.6887409
+471,David,McLaren,1910-08-29,FALSE,Not Available,FALSE,Lock,Scotland v France,Murrayfield,1931-01-24,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+472,Alexander,Walker,1908-10-25,FALSE,"Irvine, Ayrshire",FALSE,Lock,Scotland v France,Murrayfield,1931-01-24,5,5,0,0,0,0,0,0,0,2,3,0,0.4,Scotland,-4.6696364,55.61156690000001
+473,Alfred,Wilson,1904-01-28,FALSE,Not Available,FALSE,Centre,Scotland v France,Murrayfield,1931-01-24,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,Scotland,-122.2636808,37.8009514
+474,James,Wilson,1909-09-04,FALSE,Dundee,FALSE,No. 8,Scotland v France,Murrayfield,1931-01-24,5,5,0,0,0,0,0,0,0,2,3,0,0.4,Scotland,-2.970721,56.462018
+475,Donald,Crichton-Miller,1906-12-07,FALSE,"Sanremo, IM",FALSE,Flanker,Wales v Scotland,Cardiff,1931-02-07,3,3,0,6,2,0,0,0,0,1,2,0,0.3333333333333333,Scotland,7.7760567,43.81596709999999
+476,Dod,Wood,1905-04-19,FALSE,Galashiels,FALSE,Wing,Wales v Scotland,Cardiff,1931-02-07,5,5,0,3,1,0,0,0,0,0,5,0,0,Scotland,-2.814449,55.623728
+477,Ross,Logan,1909-11-24,FALSE,Edinburgh,FALSE,Scrum-half,Scotland v England,Murrayfield,1931-03-21,20,20,0,6,2,0,0,0,0,7,13,0,0.35,Scotland,-3.188267,55.953252
+478,James,Forrest,1907-02-03,FALSE,Not Available,FALSE,Wing,Scotland v South Africa,Murrayfield,1932-01-16,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,Scotland,-122.2636808,37.8009514
+479,Thomas,Lawther,1909-10-06,FALSE,"Rothesay, Bute",FALSE,Fullback,Scotland v South Africa,Murrayfield,1932-01-16,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-5.055793,55.835963
+480,Mark,Stewart,1905-01-07,FALSE,Musselburgh,FALSE,Lock,Scotland v South Africa,Murrayfield,1932-01-16,9,9,0,0,0,0,0,0,0,4,5,0,0.4444444444444444,Scotland,-3.053918,55.941941
+481,Harry,Hutton,1907-12-30,FALSE,Not Available,FALSE,Fullback,Scotland v Ireland,Murrayfield,1932-02-27,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+482,Andrew,Dykes,1904-06-19,FALSE,Bearsden,FALSE,Fullback,England v Scotland,Twickenham,1932-03-19,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-4.335525,55.92169
+483,John,Macarthur,1904-09-12,FALSE,West Derby,FALSE,Scrum-half,England v Scotland,Twickenham,1932-03-19,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-2.909981,53.431082
+484,George,Ritchie,1909-11-04,FALSE,"St Mary, Dundee",FALSE,No. 8,England v Scotland,Twickenham,1932-03-19,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-88.3980869,42.1573721
+485,Francis,Wright,1909-07-14,FALSE,Not Available,FALSE,Lock,England v Scotland,Twickenham,1932-03-19,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+486,David,Brown,1909-02-08,FALSE,Dunscore.Dumfries,FALSE,Fullback,Wales v Scotland,Swansea,1933-02-04,3,3,0,0,0,0,0,0,0,3,0,0,1,Scotland,-3.776904,55.141102
+487,Ken,Fyfe,1914-04-14,FALSE,Karachi,FALSE,Wing,Wales v Scotland,Swansea,1933-02-04,10,10,0,25,3,5,2,0,0,3,7,0,0.3,Scotland,67.0011364,24.8607343
+488,Mac,Henderson,1907-05-01,FALSE,Tranent,FALSE,No. 8,Wales v Scotland,Swansea,1933-02-04,3,3,0,0,0,0,0,0,0,3,0,0,1,Scotland,-2.954526,55.94450999999999
+489,Ken,Jackson,1913-11-17,FALSE,Shanghai,FALSE,Fly-half,Wales v Scotland,Swansea,1933-02-04,4,4,0,7,1,0,0,1,0,3,1,0,0.75,Scotland,121.473701,31.230416
+490,Bertie,Lorraine,1913-01-04,FALSE,Not Available,FALSE,Centre,Wales v Scotland,Swansea,1933-02-04,3,3,0,0,0,0,0,0,0,3,0,0,1,Scotland,-122.2636808,37.8009514
+491,Jim,Ritchie,1907-07-10,FALSE,Not Available,FALSE,Prop,Wales v Scotland,Swansea,1933-02-04,6,6,0,3,0,0,1,0,0,4,2,0,0.6666666666666666,Scotland,-122.2636808,37.8009514
+492,James,Thom,1910-11-22,FALSE,Kirkcaldy,FALSE,Prop,Wales v Scotland,Swansea,1933-02-04,3,3,0,0,0,0,0,0,0,3,0,0,1,Scotland,-3.158137,56.1168249
+493,Jack,Waters,1908-11-11,FALSE,Musselburgh,FALSE,No. 8,Wales v Scotland,Swansea,1933-02-04,17,17,0,0,0,0,0,0,0,7,10,0,0.4117647058823529,Scotland,-3.053918,55.941941
+494,Peter,Gedge,1910-05-18,FALSE,York,FALSE,Wing,Ireland v Scotland,Lansdowne Road,1933-04-01,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-1.0872979,53.95996510000001
+495,Bill,Burnet,1912-07-08,FALSE,"Pollokshields, Glasgo",FALSE,Lock,Scotland v Wales,Murrayfield,1934-02-03,8,8,0,0,0,0,0,0,0,1,7,0,0.125,Scotland,-4.269419099999999,55.8427824
+496,Charles,Dick,1913-07-26,FALSE,Sevenoaks,FALSE,Centre,Scotland v Wales,Murrayfield,1934-02-03,14,14,0,18,6,0,0,0,0,6,8,0,0.42857142857142855,Scotland,0.190898,51.27241000000001
+497,Lindsay,Lambie,1910-05-30,FALSE,"Eastwood, Lanark",FALSE,Flanker,Scotland v Wales,Murrayfield,1934-02-03,7,7,0,3,1,0,0,0,0,2,5,0,0.2857142857142857,Scotland,-76.3589238,45.0083777
+498,Douglas,Lowe,1906-05-28,FALSE,Not Available,FALSE,Lock,Scotland v Wales,Murrayfield,1934-02-03,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+499,Kenneth,Marshall,1911-07-23,FALSE,Kimberley,FALSE,Fullback,Scotland v Wales,Murrayfield,1934-02-03,8,8,0,0,0,0,0,0,0,2,6,0,0.25,Scotland,24.7499112,-28.7282384
+500,Jack,Park,1913-04-02,FALSE,Edinburgh,FALSE,Wing,Scotland v Wales,Murrayfield,1934-02-03,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.188267,55.953252
+501,Wilson,Shaw,1913-04-11,FALSE,Not Available,FALSE,Fly-half,Scotland v Wales,Murrayfield,1934-02-03,19,19,0,28,8,2,0,0,0,6,13,0,0.3157894736842105,Scotland,-122.2636808,37.8009514
+502,David,Thom,1910-02-14,FALSE,Hawick,FALSE,Flanker,Scotland v Wales,Murrayfield,1934-02-03,5,5,0,3,1,0,0,0,0,1,4,0,0.2,Scotland,-2.780914,55.42706
+503,James,Cotter,1907-01-06,FALSE,Motherwell,FALSE,Fly-half,Scotland v Ireland,Murrayfield,1934-02-24,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-81.18922599999999,43.345018
+504,Gordon,Cottington,1911-04-02,FALSE,Not Available,FALSE,Hooker,Scotland v Ireland,Murrayfield,1934-02-24,5,5,0,0,0,0,0,0,0,1,4,0,0.2,Scotland,-122.2636808,37.8009514
+505,John,Crawford,1910-11-20,FALSE,Kensington,FALSE,Wing,Scotland v Ireland,Murrayfield,1934-02-24,1,1,0,3,1,0,0,0,0,1,0,0,1,Scotland,-75.1179823,39.9934039
+506,Jack,Watherston,1909-08-24,FALSE,Edinburgh,FALSE,Flanker,Scotland v Ireland,Murrayfield,1934-02-24,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-3.188267,55.953252
+507,Charlie,Grieve,1913-10-01,FALSE,"Manila, Philippine",FALSE,Fullback,Wales v Scotland,Cardiff,1935-02-02,4,4,0,4,0,0,0,1,0,1,3,0,0.25,Scotland,120.9842195,14.5995124
+508,Bob,Grieve,1911-02-01,FALSE,"Maxton, St Boswells",FALSE,Prop,Wales v Scotland,Cardiff,1935-02-02,7,7,0,0,0,0,0,0,0,1,6,0,0.14285714285714285,Scotland,-2.64754,55.570844
+509,Johnny,Johnston,1913-05-31,FALSE,Croydon,FALSE,Wing,Wales v Scotland,Cardiff,1935-02-02,5,5,0,0,0,0,0,0,0,1,4,0,0.2,Scotland,-0.098234,51.376165
+510,Ronald,Murray,1912-11-14,FALSE,Glasgow,FALSE,Prop,Wales v Scotland,Cardiff,1935-02-02,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-4.251806,55.864237
+511,Alastair,McNeil,1915-01-28,FALSE,Edinburgh,FALSE,Prop,Ireland v Scotland,Lansdowne Road,1935-02-23,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.188267,55.953252
+512,William,Murdoch,1914-10-03,FALSE,Old Kilpatrick,FALSE,Fullback,Scotland v England,Murrayfield,1935-03-16,9,9,0,15,1,1,2,1,0,3,6,0,0.3333333333333333,Scotland,-4.4558289,55.92534
+513,Peter,Tait,1906-10-19,FALSE,Not Available,FALSE,Hooker,Scotland v England,Murrayfield,1935-03-16,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+514,Dod,Gray,1909-04-12,FALSE,Not Available,FALSE,Hooker,Scotland v New Zealand,Murrayfield,1935-11-23,4,4,0,0,0,0,0,0,0,1,3,0,0.25,Scotland,-122.2636808,37.8009514
+515,Jimmy,Kerr,1910-05-12,FALSE,Edinburgh,FALSE,Fullback,Scotland v New Zealand,Murrayfield,1935-11-23,5,5,0,0,0,0,0,0,0,1,4,0,0.2,Scotland,-3.188267,55.953252
+516,Duncan,Shaw,1915-05-29,FALSE,Galashiels,FALSE,Flanker,Scotland v New Zealand,Murrayfield,1935-11-23,6,6,0,7,0,2,1,0,0,1,5,0,0.16666666666666666,Scotland,-2.814449,55.623728
+517,Mac,Cooper,1910-08-17,FALSE,Napier,FALSE,Flanker,Scotland v Wales,Murrayfield,1936-02-01,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-95.2577547,40.04888589999999
+518,Harvey,Druitt,1910-04-19,FALSE,Not Available,FALSE,Hooker,Scotland v Wales,Murrayfield,1936-02-01,3,3,0,0,0,0,0,0,0,0,3,0,0,Scotland,-122.2636808,37.8009514
+519,Laurie,Duff,1912-11-12,FALSE,"Bothwell, Lanark",FALSE,No. 8,Scotland v Wales,Murrayfield,1936-02-01,8,8,0,6,2,0,0,0,0,4,4,0,0.5,Scotland,-75.6877045,44.5875407
+520,Hugh,Murray,1912-05-03,FALSE,Coatbridge,FALSE,Centre,Scotland v Wales,Murrayfield,1936-02-01,2,2,0,3,1,0,0,0,0,0,2,0,0,Scotland,-4.019337,55.862241
+521,Vivian,Weston,1914-05-22,FALSE,Glasgow,FALSE,Flanker,Scotland v Ireland,Murrayfield,1936-02-22,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-4.251806,55.864237
+522,Robert,Whitworth,1915-01-01,TRUE,"New York, NY, United States",FALSE,Wing,Scotland v Ireland,Murrayfield,1936-02-22,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-74.0059728,40.7127753
+523,Rob,Barrie,1912-01-30,FALSE,Lucknow,FALSE,Flanker,England v Scotland,Twickenham,1936-03-21,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,80.94616599999999,26.8466937
+524,Maurice,Henderson,1913-04-04,FALSE,Not Available,FALSE,Prop,Wales v Scotland,Swansea,1937-02-06,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,Scotland,-122.2636808,37.8009514
+525,George,Horsburgh,1910-10-27,FALSE,Stirling,FALSE,Lock,Wales v Scotland,Swansea,1937-02-06,9,9,0,0,0,0,0,0,0,4,5,0,0.4444444444444444,Scotland,-3.9369029,56.1165227
+526,Joe,Inglis,1915-01-20,FALSE,Berwick,FALSE,Prop,Wales v Scotland,Swansea,1937-02-06,6,6,0,0,0,0,0,0,0,4,2,0,0.6666666666666666,Scotland,-76.23326759999999,41.0545292
+527,Duncan,Macrae,1914-11-04,FALSE,Balmacara,FALSE,Centre,Wales v Scotland,Swansea,1937-02-06,10,10,0,3,1,0,0,0,0,4,6,0,0.4,Scotland,-5.638712,57.284104
+528,Christian,Melville,1913-12-09,FALSE,Not Available,FALSE,Lock,Wales v Scotland,Swansea,1937-02-06,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,Scotland,-122.2636808,37.8009514
+529,Bill,Ross,1913-11-15,FALSE,Not Available,FALSE,Fly-half,Wales v Scotland,Swansea,1937-02-06,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-122.2636808,37.8009514
+530,Bill,Young,1916-05-07,FALSE,Ardrossan,FALSE,Flanker,Wales v Scotland,Swansea,1937-02-06,10,10,0,3,1,0,0,0,0,5,5,0,0.5,Scotland,-75.3811248,40.0188199
+531,Rab,Bruce-Lockhart,1916-12-01,FALSE,Rugby,FALSE,Fly-half,Ireland v Scotland,Lansdowne Road,1937-02-27,3,3,0,0,0,0,0,0,0,0,3,0,0,Scotland,-95.98328389999999,36.1101036
+532,Ian,Shaw,1911-08-03,FALSE,Glasgow,FALSE,Centre,Ireland v Scotland,Lansdowne Road,1937-02-27,1,1,0,4,0,0,0,1,0,0,1,0,0,Scotland,-4.251806,55.864237
+533,Robert,Dryden,1918-01-10,FALSE,Edinburgh,FALSE,Wing,Scotland v England,Murrayfield,1937-03-20,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.188267,55.953252
+534,Jake,Borthwick,1912-07-29,FALSE,Edinburgh,FALSE,Prop,Scotland v Wales,Murrayfield,1938-02-05,2,2,0,0,0,0,0,0,0,2,0,0,1,Scotland,-3.188267,55.953252
+535,Wilf,Crawford,1915-08-24,FALSE,Rochester,FALSE,Flanker,Scotland v Wales,Murrayfield,1938-02-05,5,5,0,21,1,3,4,0,0,3,2,0,0.6,Scotland,-77.6088465,43.15657789999999
+536,Tommy,Dorward,1916-03-27,FALSE,Galashiels,FALSE,Scrum-half,Scotland v Wales,Murrayfield,1938-02-05,5,5,0,4,0,0,0,1,0,3,2,0,0.6,Scotland,-2.814449,55.623728
+537,Archibald,Drummond,1915-04-02,FALSE,Glasgow,FALSE,Wing,Scotland v Wales,Murrayfield,1938-02-05,2,2,0,6,1,0,1,0,0,2,0,0,1,Scotland,-4.251806,55.864237
+538,John,Forrest,1917-04-28,FALSE,"Salisbury, Rhodesia",FALSE,Wing,Scotland v Wales,Murrayfield,1938-02-05,3,3,0,6,2,0,0,0,0,3,0,0,1,Scotland,31.0492259,-17.8216288
+539,John,Hastie,1908-03-16,FALSE,Peebles,FALSE,Hooker,Scotland v Wales,Murrayfield,1938-02-05,3,3,0,0,0,0,0,0,0,3,0,0,1,Scotland,-94.7290867,38.9705793
+540,George,Roberts,1914-02-13,FALSE,Edinburgh,FALSE,Fullback,Scotland v Wales,Murrayfield,1938-02-05,5,5,0,0,0,0,0,0,0,3,2,0,0.6,Scotland,-3.188267,55.953252
+541,Allan,Roy,1911-05-13,FALSE,"Ainsdale, Southport",FALSE,Lock,Scotland v Wales,Murrayfield,1938-02-05,6,6,0,0,0,0,0,0,0,3,3,0,0.5,Scotland,-3.0413134,53.604857
+542,William,Blackadder,1913-01-23,FALSE,Edinburgh,FALSE,Prop,England v Scotland,Twickenham,1938-03-19,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-3.188267,55.953252
+543,William,Renwick,1914-11-29,FALSE,Edinburgh,FALSE,Wing,England v Scotland,Twickenham,1938-03-19,2,2,0,6,2,0,0,0,0,1,1,0,0.5,Scotland,-3.188267,55.953252
+544,Willie,Brydon,1915-11-06,FALSE,Not Available,FALSE,Scrum-half,Wales v Scotland,Cardiff,1939-02-04,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+545,John,Craig,1918-12-07,FALSE,Calcutta,FALSE,Wing,Wales v Scotland,Cardiff,1939-02-04,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,88.36389500000001,22.572646
+546,George,Gallie,1917-09-09,FALSE,Edinburgh,FALSE,Prop,Wales v Scotland,Cardiff,1939-02-04,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.188267,55.953252
+547,Donny,Innes,1917-09-16,FALSE,Aberdeen,FALSE,Centre,Wales v Scotland,Cardiff,1939-02-04,8,8,0,3,1,0,0,0,0,2,6,0,0.25,Scotland,-2.094278,57.149717
+548,Bill,Purdie,1910-06-24,FALSE,Jedburgh,FALSE,Prop,Wales v Scotland,Cardiff,1939-02-04,3,3,0,0,0,0,0,0,0,0,3,0,0,Scotland,-2.5549369,55.477721
+549,Sammy,Sampson,1913-09-26,FALSE,Not Available,FALSE,Hooker,Wales v Scotland,Cardiff,1939-02-04,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-122.2636808,37.8009514
+550,Ian,Graham,1918-05-08,FALSE,Forfar,FALSE,Hooker,Ireland v Scotland,Lansdowne Road,1939-02-25,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-2.889062,56.643558
+551,Ian,Henderson,1918-10-31,FALSE,Tranent,FALSE,Prop,Ireland v Scotland,Lansdowne Road,1939-02-25,8,8,0,0,0,0,0,0,0,1,7,0,0.125,Scotland,-2.954526,55.94450999999999
+552,Donald,Mackenzie,1916-11-30,FALSE,Edinburgh,FALSE,No. 8,Ireland v Scotland,Lansdowne Road,1939-02-25,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-3.188267,55.953252
+553,Bill,Penman,1917-05-12,FALSE,London,FALSE,Fullback,Ireland v Scotland,Lansdowne Road,1939-02-25,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-0.1277583,51.5073509
+554,Gus,Black,1925-05-06,FALSE,Dunfermline,FALSE,Scrum-half,France v Scotland,Colombes,1947-01-01,8,8,0,0,0,0,0,0,0,2,5,1,0.25,Scotland,-3.452151,56.071741
+555,Russell,Bruce,1918-04-25,FALSE,Not Available,FALSE,Fly-half,France v Scotland,Colombes,1947-01-01,8,8,0,0,0,0,0,0,0,2,6,0,0.25,Scotland,-122.2636808,37.8009514
+556,George,Cawkwell,1919-10-25,FALSE,Auckland,FALSE,Lock,France v Scotland,Colombes,1947-01-01,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,174.7626037,-36.8482512
+557,David,Deas,1919-03-30,FALSE,Not Available,FALSE,No. 8,France v Scotland,Colombes,1947-01-01,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-122.2636808,37.8009514
+558,Charlie,Drummond,1923-05-26,FALSE,St Boswells,FALSE,Centre,France v Scotland,Colombes,1947-01-01,11,11,0,3,1,0,0,0,0,4,7,0,0.36363636363636365,Scotland,-2.64754,55.570844
+559,Doug,Elliot,1923-04-18,FALSE,"Stow, Midlothian",FALSE,Flanker,France v Scotland,Colombes,1947-01-01,29,29,0,6,2,0,0,0,0,7,22,0,0.2413793103448276,Scotland,-97.0320892,32.4583015
+560,Keith,Geddes,1918-10-25,FALSE,Woking,FALSE,Fullback,France v Scotland,Colombes,1947-01-01,4,4,0,10,0,2,2,0,0,0,4,0,0,Scotland,-0.5600349,51.316774
+561,John,Hunter,1920-11-10,FALSE,Kirkcaldy,FALSE,Lock,France v Scotland,Colombes,1947-01-01,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.158137,56.1168249
+562,Graeme,Jackson,1921-10-15,FALSE,Sidcup,FALSE,Wing,France v Scotland,Colombes,1947-01-01,12,12,0,6,2,0,0,0,0,4,8,0,0.3333333333333333,Scotland,0.1009392,51.4264863
+563,Ian,Lumsden,1923-04-06,FALSE,"Bruntisfield, Edinbur",FALSE,Fullback,France v Scotland,Colombes,1947-01-01,7,7,0,0,0,0,0,0,0,2,5,0,0.2857142857142857,Scotland,-3.2067184,55.9373125
+564,Tom,McGlashan,1925-12-29,FALSE,Edinburgh,FALSE,Prop,France v Scotland,Colombes,1947-01-01,8,8,0,0,0,0,0,0,0,0,8,0,0,Scotland,-3.188267,55.953252
+565,Bill,MacLennan,1921-04-04,FALSE,Edinburgh,FALSE,Wing,France v Scotland,Colombes,1947-01-01,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-3.188267,55.953252
+566,John,Orr,1918-06-13,FALSE,Edinburgh,FALSE,Flanker,France v Scotland,Colombes,1947-01-01,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-3.188267,55.953252
+567,Alexander,Watt,1916-12-19,FALSE,Not Available,FALSE,No. 8,France v Scotland,Colombes,1947-01-01,6,6,0,0,0,0,0,0,0,1,5,0,0.16666666666666666,Scotland,-122.2636808,37.8009514
+568,Richard,Aitken,1914-06-29,FALSE,Dunbar,FALSE,Prop,Scotland v Wales,Murrayfield,1947-02-01,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-80.9004898,35.239643
+569,Frank,Coutts,1918-07-08,FALSE,Glasgow,FALSE,Lock,Scotland v Wales,Murrayfield,1947-02-01,3,3,0,0,0,0,0,0,0,0,3,0,0,Scotland,-4.251806,55.864237
+570,David,Mackenzie,1921-12-28,FALSE,Wallsend-on-Tyne,FALSE,Wing,Scotland v Wales,Murrayfield,1947-02-01,6,6,0,0,0,0,0,0,0,1,5,0,0.16666666666666666,Scotland,-1.529375,54.991512
+571,Ernie,Anderson,1918-10-20,FALSE,Not Available,FALSE,Scrum-half,Scotland v Ireland,Murrayfield,1947-02-22,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-122.2636808,37.8009514
+572,Howard,Campbell,1921-11-10,FALSE,"Machakos, Nairobi",FALSE,Prop,Scotland v Ireland,Murrayfield,1947-02-22,4,4,0,0,0,0,0,0,0,1,3,0,0.25,Scotland,36.8219462,-1.2920659
+573,Alastair,Fisher,1916-09-03,FALSE,Edinburgh,FALSE,Hooker,Scotland v Ireland,Murrayfield,1947-02-22,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-3.188267,55.953252
+574,Jimmy,Lees,1919-08-11,FALSE,Selkirk,FALSE,Flanker,Scotland v Ireland,Murrayfield,1947-02-22,5,5,0,0,0,0,0,0,0,2,3,0,0.4,Scotland,-116.7950567,47.7814014
+575,Duncan,McLean,1923-05-01,FALSE,Not Available,FALSE,No. 8,Scotland v Ireland,Murrayfield,1947-02-22,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-122.2636808,37.8009514
+576,Billy,Munro,1918-09-28,FALSE,Not Available,FALSE,Centre,Scotland v Ireland,Murrayfield,1947-02-22,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-122.2636808,37.8009514
+577,Dave,Valentine,1926-09-12,FALSE,Hawick,FALSE,Flanker,Scotland v Ireland,Murrayfield,1947-02-22,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-2.780914,55.42706
+578,Dallas,Allardice,1919-11-04,FALSE,Glasgow,FALSE,Scrum-half,Scotland v Australia,Murrayfield,1947-11-22,8,8,0,5,0,1,1,0,0,3,5,0,0.375,Scotland,-4.251806,55.864237
+579,Robert,Bruce,1922-06-19,FALSE,Aberdeen,FALSE,Prop,Scotland v Australia,Murrayfield,1947-11-22,4,4,0,0,0,0,0,0,0,1,3,0,0.25,Scotland,-2.094278,57.149717
+580,Leslie,Currie,1921-11-25,FALSE,Not Available,FALSE,Lock,Scotland v Australia,Murrayfield,1947-11-22,8,8,0,0,0,0,0,0,0,3,5,0,0.375,Scotland,-122.2636808,37.8009514
+581,Hamish,Dawson,1925-10-29,FALSE,Not Available,FALSE,Prop,Scotland v Australia,Murrayfield,1947-11-22,20,20,0,3,1,0,0,0,0,6,14,0,0.3,Scotland,-122.2636808,37.8009514
+582,Peter,Hepburn,1920-03-15,FALSE,Not Available,FALSE,Fly-half,Scotland v Australia,Murrayfield,1947-11-22,9,9,0,4,0,0,0,1,0,4,5,0,0.4444444444444444,Scotland,-122.2636808,37.8009514
+583,Dode,di Lyall,1921-05-23,FALSE,Not Available,FALSE,Hooker,Scotland v Australia,Murrayfield,1947-11-22,5,5,0,0,0,0,0,0,0,2,3,0,0.4,Scotland,-122.2636808,37.8009514
+584,Charlie,McDonald,1919-04-19,FALSE,Jedburgh,FALSE,Wing,Scotland v Australia,Murrayfield,1947-11-22,1,1,0,3,0,0,1,0,0,0,1,0,0,Scotland,-2.5549369,55.477721
+585,Tommy,Wright,1924-12-18,FALSE,Hawick,FALSE,Centre,Scotland v Australia,Murrayfield,1947-11-22,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-2.780914,55.42706
+586,Bill,Black,1928-02-19,FALSE,Rutherglen,FALSE,Prop,Scotland v France,Murrayfield,1948-01-24,5,5,0,0,0,0,0,0,0,2,3,0,0.4,Scotland,146.4625,-36.055556
+587,Angus,Cameron,1929-06-24,FALSE,Glasgow,FALSE,Fly-half,Wales v Scotland,Cardiff,1948-02-07,19,19,0,29,2,4,4,1,0,6,13,0,0.3157894736842105,Scotland,-4.251806,55.864237
+588,Stewart,Coltman,1920-03-27,FALSE,Hawick,FALSE,Prop,Ireland v Scotland,Lansdowne Road,1948-02-28,5,5,0,0,0,0,0,0,0,2,3,0,0.4,Scotland,-2.780914,55.42706
+589,Logie,Bruce-Lockhart,1921-10-12,FALSE,Rugby,FALSE,Fly-half,Scotland v England,Murrayfield,1948-03-20,5,5,0,2,0,1,0,0,0,2,3,0,0.4,Scotland,-95.98328389999999,36.1101036
+590,Robert,Finlay,1923-04-09,FALSE,Edinburgh,FALSE,Lock,Scotland v England,Murrayfield,1948-03-20,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-3.188267,55.953252
+591,Gibbie,Abercrombie,1928-05-09,FALSE,Auckland,FALSE,Hooker,France v Scotland,Colombes,1949-01-15,7,7,0,3,1,0,0,0,0,4,3,0,0.5714285714285714,Scotland,174.7626037,-36.8482512
+592,Laurie,Gloag,1925-10-30,FALSE,Stokesley,FALSE,Centre,France v Scotland,Colombes,1949-01-15,4,4,0,3,1,0,0,0,0,2,2,0,0.5,Scotland,-1.18531,54.471908
+593,Doug,Keller,1922-06-18,FALSE,"Wee Waa, NSW",FALSE,Flanker,Australia v New Zealand,Brisbane,1947-06-14,13,13,0,0,0,0,0,0,0,6,7,0,0.46153846153846156,Scotland,149.4454667,-30.2265736
+594,Peter,Kininmonth,1924-06-23,FALSE,"Bebington, Cheshire",FALSE,No. 8,France v Scotland,Colombes,1949-01-15,24,24,0,6,1,0,0,1,0,5,18,1,0.20833333333333334,Scotland,-3.0075315,53.3530146
+595,Doug,Smith,1924-10-27,FALSE,Aberdeen,FALSE,Wing,France v Scotland,Colombes,1949-01-15,9,9,0,3,1,0,0,0,0,4,5,0,0.4444444444444444,Scotland,-2.094278,57.149717
+596,Gullie,Wilson,1922-11-23,FALSE,Not Available,FALSE,Lock,France v Scotland,Colombes,1949-01-15,3,3,0,3,0,0,1,0,0,2,1,0,0.6666666666666666,Scotland,-122.2636808,37.8009514
+597,Alex,Thomson,1921-02-20,FALSE,Not Available,FALSE,Lock,Scotland v Ireland,Murrayfield,1949-02-26,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+598,John,MacPhail,1923-10-14,FALSE,Not Available,FALSE,Hooker,England v Scotland,Twickenham,1949-03-19,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-122.2636808,37.8009514
+599,Steven,Wright,1927-02-14,FALSE,Tsengchow,FALSE,Prop,England v Scotland,Twickenham,1949-03-19,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-82.96330379999999,42.6140203
+600,Grahame,Budge,1920-11-07,FALSE,"Hamiota, MB",FALSE,Prop,Scotland v France,Murrayfield,1950-01-14,5,5,0,3,1,0,0,0,0,2,3,0,0.4,Scotland,-100.5998347,50.1798712
+601,Dod,Burrell,1921-01-21,FALSE,Galashiels,FALSE,Fullback,Scotland v France,Murrayfield,1950-01-14,4,4,0,0,0,0,0,0,0,1,3,0,0.25,Scotland,-2.814449,55.623728
+602,Arthur,Dorward,1925-03-03,FALSE,Galashiels,FALSE,Scrum-half,Scotland v France,Murrayfield,1950-01-14,15,15,0,3,0,0,0,1,0,3,12,0,0.2,Scotland,-2.814449,55.623728
+603,Bob,Gemmill,1930-02-20,FALSE,Glasgow,FALSE,Lock,Scotland v France,Murrayfield,1950-01-14,7,7,0,0,0,0,0,0,0,3,4,0,0.42857142857142855,Scotland,-4.251806,55.864237
+604,Ranald,Macdonald,1928-01-18,FALSE,Consett,FALSE,Centre,Scotland v France,Murrayfield,1950-01-14,6,6,0,6,2,0,0,0,0,3,2,1,0.5,Scotland,-1.833026,54.851797
+605,Douglas,Muir,1925-03-17,FALSE,Edinburgh,FALSE,Lock,Scotland v France,Murrayfield,1950-01-14,7,7,0,0,0,0,0,0,0,2,5,0,0.2857142857142857,Scotland,-3.188267,55.953252
+606,Donald,Sloan,1926-05-11,FALSE,"Balerno, Edinburgh",FALSE,Centre,Scotland v France,Murrayfield,1950-01-14,7,7,0,9,3,0,0,0,0,3,4,0,0.42857142857142855,Scotland,-3.342351,55.885715
+607,Donald,Scott,1928-04-15,FALSE,Langholm,FALSE,Centre,Ireland v Scotland,Lansdowne Road,1950-02-25,10,10,0,0,0,0,0,0,0,2,8,0,0.2,Scotland,-2.998913,55.153062
+608,Tommy,Gray,1917-01-20,FALSE,Not Available,FALSE,Fullback,Scotland v England,Murrayfield,1950-03-18,3,3,0,10,0,2,2,0,0,1,2,0,0.3333333333333333,Scotland,-122.2636808,37.8009514
+609,Hamish,Scott,1924-02-17,FALSE,Edinburgh,FALSE,Flanker,Scotland v England,Murrayfield,1950-03-18,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-3.188267,55.953252
+610,Allan,Cameron,1924-03-04,FALSE,Glasgow,FALSE,Centre,France v Scotland,Colombes,1951-01-13,3,3,0,0,0,0,0,0,0,0,3,0,0,Scotland,-4.251806,55.864237
+611,Ian,Coutts,1928-04-27,FALSE,Herne Hill,FALSE,Centre,France v Scotland,Colombes,1951-01-13,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-0.0985404,51.4609208
+612,Jack,Hegarty,1925-04-13,FALSE,Hawick,FALSE,Lock,France v Scotland,Colombes,1951-01-13,6,6,0,0,0,0,0,0,0,0,6,0,0,Scotland,-2.780914,55.42706
+613,Hamish,Inglis,1931-08-03,FALSE,Calcutta,FALSE,Lock,France v Scotland,Colombes,1951-01-13,7,7,0,2,0,1,0,0,0,1,6,0,0.14285714285714285,Scotland,88.36389500000001,22.572646
+614,Norman,Mair,1928-10-07,FALSE,Edinburgh,FALSE,Hooker,France v Scotland,Colombes,1951-01-13,4,4,0,0,0,0,0,0,0,1,3,0,0.25,Scotland,-3.188267,55.953252
+615,David,Rose,1931-02-20,FALSE,Jedburgh,FALSE,Wing,France v Scotland,Colombes,1951-01-13,7,7,0,9,3,0,0,0,0,1,6,0,0.14285714285714285,Scotland,-2.5549369,55.477721
+616,Iain,Ross,1928-12-15,FALSE,Not Available,FALSE,Scrum-half,France v Scotland,Colombes,1951-01-13,4,4,0,0,0,0,0,0,0,1,3,0,0.25,Scotland,-122.2636808,37.8009514
+617,Oliver,Turnbull,1919-06-03,FALSE,"Eildon, Melrose",FALSE,Centre,France v Scotland,Colombes,1951-01-13,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-2.72191,55.598676
+618,Bob,Wilson,1926-07-01,FALSE,Galashiels,FALSE,Prop,France v Scotland,Colombes,1951-01-13,8,8,0,0,0,0,0,0,0,1,7,0,0.125,Scotland,-2.814449,55.623728
+619,Bob,Gordon,1930-07-25,FALSE,Not Available,FALSE,Wing,Scotland v Wales,Murrayfield,1951-02-03,6,6,0,6,2,0,0,0,0,1,5,0,0.16666666666666666,Scotland,-122.2636808,37.8009514
+620,Bob,Taylor,1924-08-31,FALSE,Not Available,FALSE,Flanker,Scotland v Wales,Murrayfield,1951-02-03,4,4,0,0,0,0,0,0,0,1,3,0,0.25,Scotland,-122.2636808,37.8009514
+621,Ian,Thomson,1930-04-13,FALSE,Edinburgh,FALSE,Fullback,Scotland v Wales,Murrayfield,1951-02-03,7,7,0,27,0,6,5,0,0,1,6,0,0.14285714285714285,Scotland,-3.188267,55.953252
+622,Ken,Dalgleish,1931-06-07,FALSE,"Myanmar, Burma",FALSE,Wing,Scotland v Ireland,Murrayfield,1951-02-24,4,4,0,0,0,0,0,0,0,0,4,0,0,Scotland,95.955974,21.916221
+623,John,Hart,1928-04-07,FALSE,"Balfron, Stirling",FALSE,Wing,Scotland v South Africa,Murrayfield,1951-11-24,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-4.3373039,56.071822
+624,Jimmie,Johnston,1925-09-17,FALSE,St Boswells,FALSE,Lock,Scotland v South Africa,Murrayfield,1951-11-24,5,5,0,3,1,0,0,0,0,0,5,0,0,Scotland,-2.64754,55.570844
+625,Les,Allan,1927-03-04,FALSE,Melrose,FALSE,Centre,Scotland v France,Murrayfield,1952-01-12,4,4,0,0,0,0,0,0,0,0,4,0,0,Scotland,-95.905785,36.150091
+626,Ian,Cordial,1926-11-14,FALSE,Not Available,FALSE,Centre,Scotland v France,Murrayfield,1952-01-12,4,4,0,3,1,0,0,0,0,0,4,0,0,Scotland,-122.2636808,37.8009514
+627,Norman,Davidson,1931-01-28,FALSE,Hawick,FALSE,Fly-half,Scotland v France,Murrayfield,1952-01-12,7,7,0,3,1,0,0,0,0,0,7,0,0,Scotland,-2.780914,55.42706
+628,John,Fox,1921-08-30,FALSE,Not Available,FALSE,Prop,Scotland v France,Murrayfield,1952-01-12,4,4,0,0,0,0,0,0,0,0,4,0,0,Scotland,-122.2636808,37.8009514
+629,Kelso,Fulton,1929-04-10,FALSE,Edinburgh,FALSE,Scrum-half,Scotland v France,Murrayfield,1952-01-12,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-3.188267,55.953252
+630,Jim,Greenwood,1928-12-02,FALSE,Dunfermline,FALSE,No. 8,Scotland v France,Murrayfield,1952-01-12,24,24,0,6,2,0,0,0,0,10,13,1,0.4166666666666667,Scotland,-3.452151,56.071741
+631,Norman,Munnoch,1929-01-04,FALSE,"Polmont, nr Falkirk",FALSE,Hooker,Scotland v France,Murrayfield,1952-01-12,3,3,0,0,0,0,0,0,0,0,3,0,0,Scotland,-3.7073047,55.9906145
+632,Mike,Walker,1930-03-11,FALSE,London,FALSE,Lock,Scotland v France,Murrayfield,1952-01-12,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-0.1277583,51.5073509
+633,Neil,Cameron,1925-09-02,FALSE,Carlisle,FALSE,Fullback,Scotland v England,Murrayfield,1952-03-15,3,3,0,2,0,1,0,0,0,0,3,0,0,Scotland,-93.4835466,41.4986013
+634,Percy,Friebe,1931-05-09,FALSE,Not Available,FALSE,No. 8,Scotland v England,Murrayfield,1952-03-15,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+635,David,Gilbert-Smith,1931-12-03,FALSE,Poona,FALSE,Flanker,Scotland v England,Murrayfield,1952-03-15,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-84.1254311,33.9421529
+636,Jim,Inglis,1928-03-20,FALSE,Selkirk,FALSE,Prop,Scotland v England,Murrayfield,1952-03-15,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-116.7950567,47.7814014
+637,TG,Weatherstone,1931-06-27,FALSE,Edinburgh,FALSE,Wing,Scotland v England,Murrayfield,1952-03-15,16,16,0,9,3,0,0,0,0,2,12,2,0.125,Scotland,-3.188267,55.953252
+638,Chick,Henderson,1930-02-09,FALSE,Johannesburg,FALSE,"Lock, Flanker",France v Scotland,Colombes,1953-01-10,9,9,0,9,3,0,0,0,0,0,9,0,0,Scotland,28.0473051,-26.2041028
+639,Jock,King,1925-04-10,FALSE,Not Available,FALSE,Hooker,France v Scotland,Colombes,1953-01-10,4,4,0,0,0,0,0,0,0,0,4,0,0,Scotland,-122.2636808,37.8009514
+640,Donald,Macdonald,1931-06-01,FALSE,Banff,FALSE,No. 8,France v Scotland,Colombes,1953-01-10,4,4,0,0,0,0,0,0,0,0,3,1,0,Scotland,-115.5708074,51.17839720000001
+641,Keith,McMillan,1927-02-13,FALSE,Not Available,FALSE,Flanker,France v Scotland,Colombes,1953-01-10,4,4,0,0,0,0,0,0,0,0,4,0,0,Scotland,-122.2636808,37.8009514
+642,Bruce,Thomson,1930-11-19,FALSE,Assam,FALSE,Prop,France v Scotland,Colombes,1953-01-10,3,3,0,0,0,0,0,0,0,0,3,0,0,Scotland,92.9375739,26.2006043
+643,Alec,Valentine,1928-02-05,FALSE,Hawick,FALSE,Flanker,France v Scotland,Colombes,1953-01-10,3,3,0,0,0,0,0,0,0,0,3,0,0,Scotland,-2.780914,55.42706
+644,Donald,Cameron,1927-12-25,FALSE,Glasgow,FALSE,Centre,Scotland v Ireland,Murrayfield,1953-02-28,6,6,0,0,0,0,0,0,0,0,6,0,0,Scotland,-4.251806,55.864237
+645,Edwin,Henriksen,1929-05-14,FALSE,Not Available,FALSE,No. 8,Scotland v Ireland,Murrayfield,1953-02-28,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+646,Gurth,Hoyer-Millar,1929-12-13,FALSE,"Chelsea, London",FALSE,Hooker,Scotland v Ireland,Murrayfield,1953-02-28,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-0.170037,51.4869429
+647,Ken,Spence,1929-11-21,FALSE,Not Available,FALSE,Scrum-half,Scotland v Ireland,Murrayfield,1953-02-28,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+648,John,Wilson,1930-03-03,FALSE,"Boghall, Midlothian",FALSE,Prop,Scotland v Ireland,Murrayfield,1953-02-28,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.207745000000001,55.87378700000001
+649,William,Cowie,1926-06-01,FALSE,Glasgow,FALSE,No. 8,England v Scotland,Twickenham,1953-03-21,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-4.251806,55.864237
+650,Walter,Kerr,1930-09-14,FALSE,Purley,FALSE,Flanker,England v Scotland,Twickenham,1953-03-21,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-0.119711,51.339228
+651,Ian,Swan,1930-07-14,FALSE,"St Albans, Herts",FALSE,Wing,England v Scotland,Twickenham,1953-03-21,17,17,0,3,1,0,0,0,0,6,11,0,0.35294117647058826,Scotland,-0.339436,51.752725
+652,Ewen,Fergusson,1932-10-28,FALSE,Not Available,FALSE,Lock,Scotland v France,Murrayfield,1954-01-09,5,5,0,0,0,0,0,0,0,0,5,0,0,Scotland,-122.2636808,37.8009514
+653,Bob,MacEwen,1928-02-25,FALSE,Oxford,FALSE,Hooker,Scotland v France,Murrayfield,1954-01-09,13,13,0,0,0,0,0,0,0,3,10,0,0.23076923076923078,Scotland,-1.2577263,51.7520209
+654,Hugh,McLeod,1932-06-08,FALSE,Hawick,FALSE,Prop,Scotland v France,Murrayfield,1954-01-09,46,46,0,0,0,0,0,0,0,16,27,3,0.34782608695652173,Scotland,-2.780914,55.42706
+655,John,Marshall,1929-01-30,FALSE,"Dore, Sheffield",FALSE,Fullback,Scotland v France,Murrayfield,1954-01-09,5,5,0,0,0,0,0,0,0,0,5,0,0,Scotland,-1.5394211,53.325384
+656,Ernie,Michie,1933-11-07,FALSE,Aberdeen,FALSE,Lock,Scotland v France,Murrayfield,1954-01-09,15,15,0,3,1,0,0,0,0,5,10,0,0.3333333333333333,Scotland,-2.094278,57.149717
+657,Adam,Robson,1928-08-16,FALSE,Hawick,FALSE,Flanker,Scotland v France,Murrayfield,1954-01-09,22,22,0,0,0,0,0,0,0,7,13,2,0.3181818181818182,Scotland,-2.780914,55.42706
+658,Kim,Elgie,1933-03-06,FALSE,"Berea, Durban",FALSE,Centre,Scotland v New Zealand,Murrayfield,1954-02-13,8,8,0,14,1,1,3,0,0,2,6,0,0.25,Scotland,30.9933678,-29.8518472
+659,Pat,MacLachlan,1928-03-16,FALSE,"Salisbury, South Rhodesia",FALSE,Scrum-half,Scotland v New Zealand,Murrayfield,1954-02-13,4,4,0,0,0,0,0,0,0,0,4,0,0,Scotland,31.0492259,-17.8216288
+660,Graham,Ross,1928-07-05,FALSE,Edinburgh,FALSE,Fly-half,Scotland v New Zealand,Murrayfield,1954-02-13,4,4,0,0,0,0,0,0,0,0,4,0,0,Scotland,-3.188267,55.953252
+661,Hamish,Kemp,1933-02-13,FALSE,Glasgow,FALSE,Lock,Wales v Scotland,Swansea,1954-04-10,27,27,0,6,2,0,0,0,0,9,16,2,0.3333333333333333,Scotland,-4.251806,55.864237
+662,Jimmy,Docherty,1931-06-05,FALSE,Glasgow,FALSE,Centre,France v Scotland,Colombes,1955-01-08,8,8,0,3,0,0,0,1,0,3,4,1,0.375,Scotland,-4.251806,55.864237
+663,Hugh,Duffy,1934-04-01,FALSE,Shotts,FALSE,Flanker,France v Scotland,Colombes,1955-01-08,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.8063955,55.8238816
+664,Micky,Grant,1927-11-08,FALSE,Norwich,FALSE,Fly-half,France v Scotland,Colombes,1955-01-08,4,4,0,0,0,0,0,0,0,2,2,0,0.5,Scotland,1.297355,52.6308859
+665,Ian,Hastie,1929-09-07,FALSE,Kelso,FALSE,Prop,France v Scotland,Colombes,1955-01-08,6,6,0,3,1,0,0,0,0,2,3,1,0.3333333333333333,Scotland,-95.1099662,36.705635
+666,William,Relph,1928-11-28,FALSE,Not Available,FALSE,Hooker,France v Scotland,Colombes,1955-01-08,4,4,0,0,0,0,0,0,0,2,2,0,0.5,Scotland,-122.2636808,37.8009514
+667,Robin,Charters,1930-10-29,FALSE,Hawick,FALSE,Centre,Scotland v Wales,Murrayfield,1955-02-05,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,Scotland,-2.780914,55.42706
+668,Tom,Elliot,1926-04-06,FALSE,nr Gala,FALSE,Prop,Scotland v Wales,Murrayfield,1955-02-05,14,14,0,0,0,0,0,0,0,6,8,0,0.42857142857142855,Scotland,15.8152067,52.2442669
+669,William,Glen,1932-03-13,FALSE,Not Available,FALSE,Flanker,Scotland v Wales,Murrayfield,1955-02-05,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+670,James,Nichol,1932-02-12,FALSE,Edinburgh,FALSE,Scrum-half,Scotland v Wales,Murrayfield,1955-02-05,3,3,0,3,1,0,0,0,0,2,1,0,0.6666666666666666,Scotland,-3.188267,55.953252
+671,Arthur,Smith,1933-01-23,FALSE,Castle Douglas,FALSE,Wing,Scotland v Wales,Murrayfield,1955-02-05,36,36,0,58,12,2,6,0,0,13,20,3,0.3611111111111111,Scotland,-3.931414,54.940415
+672,Robin,Chisholm,1929-10-16,FALSE,St Boswells,FALSE,Fullback,Scotland v Ireland,Murrayfield,1955-02-26,11,11,0,5,0,1,1,0,0,4,7,0,0.36363636363636365,Scotland,-2.64754,55.570844
+673,Ian,MacGregor,1931-08-09,FALSE,Glasgow,FALSE,Flanker,Scotland v Ireland,Murrayfield,1955-02-26,9,9,0,0,0,0,0,0,0,4,5,0,0.4444444444444444,Scotland,-4.251806,55.864237
+674,Nim,Campbell,1929-09-23,FALSE,"Tylorstown, Rhondda",FALSE,Scrum-half,Scotland v France,Murrayfield,1956-01-14,2,2,0,0,0,0,0,0,0,1,1,0,0.5,Scotland,-3.429584,51.649572
+675,Keith,Macdonald,1933-05-13,FALSE,Dundee,FALSE,Centre,Scotland v France,Murrayfield,1956-01-14,6,6,0,0,0,0,0,0,0,2,4,0,0.3333333333333333,Scotland,-2.970721,56.462018
+676,Tommy,McClung,1933-02-14,FALSE,Edinburgh,FALSE,Centre,Ireland v Scotland,Lansdowne Road,1956-02-25,9,9,0,4,0,2,0,0,0,2,7,0,0.2222222222222222,Scotland,-3.188267,55.953252
+677,George,Stevenson,1933-05-30,FALSE,Hawick,FALSE,Centre,Scotland v England,Murrayfield,1956-03-17,24,24,0,9,3,0,0,0,0,10,12,2,0.4166666666666667,Scotland,-2.780914,55.42706
+678,Edward,McKeating,1936-09-01,FALSE,Edinburgh,FALSE,Centre,France v Scotland,Colombes,1957-01-12,6,6,0,0,0,0,0,0,0,4,2,0,0.6666666666666666,Scotland,-3.188267,55.953252
+679,Ken,Scotland,1936-08-29,FALSE,"Warriston, Edinburgh",FALSE,Fullback,France v Scotland,Colombes,1957-01-12,32,32,0,79,0,8,16,5,0,13,16,3,0.40625,Scotland,-3.206477,55.968215
+680,John,Allan,1934-08-20,FALSE,Not Available,FALSE,Wing,Scotland v Ireland,Murrayfield,1957-02-23,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-122.2636808,37.8009514
+681,Jimmy,Maxwell,1931-04-30,FALSE,Langholm,FALSE,Fly-half,Scotland v Ireland,Murrayfield,1957-02-23,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-2.998913,55.153062
+682,Ken,Smith,1929-06-02,FALSE,Edinburgh,FALSE,Flanker,Scotland v Ireland,Murrayfield,1957-02-23,22,22,0,3,1,0,0,0,0,8,13,1,0.36363636363636365,Scotland,-3.188267,55.953252
+683,Gordon,Waddell,1937-04-12,FALSE,Glasgow,FALSE,Fly-half,England v Scotland,Twickenham,1957-03-16,20,20,0,0,0,0,0,0,0,6,10,4,0.3,Scotland,-4.251806,55.864237
+684,Norman,Bruce,1932-06-28,FALSE,Edinburgh,FALSE,Hooker,Scotland v France,Murrayfield,1958-01-11,31,31,0,9,3,0,0,0,0,13,14,4,0.41935483870967744,Scotland,-3.188267,55.953252
+685,Mike,Robertson,1929-01-01,TRUE,Not Available,FALSE,Flanker,Scotland v France,Murrayfield,1958-01-11,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+686,Tremayne,Rodd,1935-06-28,FALSE,Not Available,FALSE,Scrum-half,Scotland v France,Murrayfield,1958-01-11,14,14,0,0,0,0,0,0,0,3,9,2,0.21428571428571427,Scotland,-122.2636808,37.8009514
+687,Malcolm,Swan,1934-12-04,FALSE,Buenos Aires,FALSE,Lock,Scotland v France,Murrayfield,1958-01-11,8,8,0,0,0,0,0,0,0,3,4,1,0.375,Scotland,-58.3815591,-34.6036844
+688,Christy,Elliot,1933-02-24,FALSE,Langholm,FALSE,Wing,Scotland v England,Murrayfield,1958-03-15,12,12,0,8,0,1,2,0,0,3,7,2,0.25,Scotland,-2.998913,55.153062
+689,Stan,Coughtrie,1935-07-19,FALSE,Hamilton,FALSE,Scrum-half,France v Scotland,Colombes,1959-01-10,11,11,0,8,0,1,1,1,0,5,4,2,0.45454545454545453,Scotland,-96.19513200000002,37.9426096
+690,Ian,Laughland,1935-10-29,FALSE,Bombay,FALSE,Centre,France v Scotland,Colombes,1959-01-10,31,31,0,9,2,0,0,1,0,13,14,4,0.41935483870967744,Scotland,72.8776559,19.0759837
+691,Frans,Bos,1937-04-21,FALSE,Richmond,FALSE,Lock,England v Scotland,Twickenham,1959-03-21,17,17,0,3,1,0,0,0,0,6,9,2,0.35294117647058826,Scotland,-77.4360481,37.5407246
+692,Jock,Davidson,1932-08-06,FALSE,"Avoch, Ross",FALSE,No. 8,England v Scotland,Twickenham,1959-03-21,3,3,0,0,0,0,0,0,0,1,1,1,0.3333333333333333,Scotland,-4.174666999999999,57.566687
+693,David,Rollo,1934-07-07,FALSE,"Cupar, Fife",FALSE,Prop,England v Scotland,Twickenham,1959-03-21,40,40,0,0,0,0,0,0,0,15,20,5,0.375,Scotland,-3.010137,56.320235
+694,Jim,Shackleton,1940-04-03,FALSE,Assam,FALSE,Centre,England v Scotland,Twickenham,1959-03-21,7,7,0,3,1,0,0,0,0,2,3,2,0.2857142857142857,Scotland,92.9375739,26.2006043
+695,Keith,Bearne,1937-03-11,FALSE,London,FALSE,No. 8,Scotland v France,Murrayfield,1960-01-09,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-0.1277583,51.5073509
+696,Joe,McPartlin,1938-06-12,FALSE,West Hartlepool,FALSE,Centre,Scotland v France,Murrayfield,1960-01-09,6,6,0,0,0,0,0,0,0,2,3,1,0.3333333333333333,Scotland,-1.212926,54.691745
+697,Gregor,Sharp,1934-04-20,FALSE,Motherwell,FALSE,Fly-half,Scotland v France,Murrayfield,1960-01-09,4,4,0,0,0,0,0,0,0,1,2,1,0.25,Scotland,-81.18922599999999,43.345018
+698,Charlie,Stewart,1936-12-23,FALSE,Yarrow,FALSE,Flanker,Wales v Scotland,Cardiff,1960-02-06,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-122.0647472,49.0821013
+699,David,Edwards,1930-03-19,FALSE,Not Available,FALSE,Flanker,Ireland v Scotland,Lansdowne Road,1960-02-27,3,3,0,0,0,0,0,0,0,1,2,0,0.3333333333333333,Scotland,-122.2636808,37.8009514
+700,Oliver,Grant,1933-09-05,FALSE,Hawick,FALSE,No. 8,Ireland v Scotland,Lansdowne Road,1960-02-27,6,6,0,0,0,0,0,0,0,2,3,1,0.3333333333333333,Scotland,-2.780914,55.42706
+701,Brian,Shillinglaw,1938-10-24,FALSE,Not Available,FALSE,Scrum-half,Ireland v Scotland,Lansdowne Road,1960-02-27,5,5,0,0,0,0,0,0,0,1,4,0,0.2,Scotland,-122.2636808,37.8009514
+702,Ronnie,Thomson,1936-10-12,FALSE,Finchley,FALSE,Wing,Ireland v Scotland,Lansdowne Road,1960-02-27,15,15,0,9,3,0,0,0,0,6,8,1,0.4,Scotland,-0.1979547,51.5971434
+703,Patrick,Burnet,1939-07-25,FALSE,Edinburgh,FALSE,Centre,South Africa v Scotland,Port Elizabeth,1960-04-30,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.188267,55.953252
+704,Walter,Hart,1935-03-30,FALSE,Newton St Boswells,FALSE,Flanker,South Africa v Scotland,Port Elizabeth,1960-04-30,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-2.674536,55.577436
+705,Mike,Campbell-Lamerton,1933-08-01,FALSE,Valletta,FALSE,Lock,France v Scotland,Colombes,1961-01-07,31,31,0,3,1,0,0,0,0,13,14,4,0.41935483870967744,Scotland,14.5145528,35.8989085
+706,Ron,Cowan,1941-11-26,FALSE,Selkirk,FALSE,Wing,France v Scotland,Colombes,1961-01-07,6,6,0,6,2,0,0,0,0,2,3,1,0.3333333333333333,Scotland,-116.7950567,47.7814014
+707,John,Douglas,1934-12-18,FALSE,Woolwich,FALSE,No. 8,France v Scotland,Colombes,1961-01-07,12,12,0,3,1,0,0,0,0,6,5,1,0.5,Scotland,-69.8009529,43.9187038
+708,Ken,Ross,1937-03-15,FALSE,Not Available,FALSE,Flanker,Scotland v South Africa,Murrayfield,1961-01-21,11,11,0,6,2,0,0,0,0,5,5,1,0.45454545454545453,Scotland,-122.2636808,37.8009514
+709,Alec,Hastie,1935-07-29,FALSE,Hawick,FALSE,Scrum-half,Scotland v Wales,Murrayfield,1961-02-11,18,18,0,0,0,0,0,0,0,10,6,2,0.5555555555555556,Scotland,-2.780914,55.42706
+710,John,Brash,1939-01-01,TRUE,Middlesbrough,FALSE,Flanker,England v Scotland,Twickenham,1961-03-18,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-1.234956,54.574227
+711,Ron,Glasgow,1930-11-05,FALSE,Not Available,FALSE,Flanker,Scotland v France,Murrayfield,1962-01-13,10,10,0,9,3,0,0,0,0,5,4,1,0.5,Scotland,-122.2636808,37.8009514
+712,Robert,Steven,1937-02-19,FALSE,"Newburn, Fyfe",FALSE,Prop,Ireland v Scotland,Lansdowne Road,1962-02-24,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-1.7425365,54.9842861
+713,Cameron,Boyle,1937-11-11,FALSE,Glasgow,FALSE,Prop,France v Scotland,Colombes,1963-01-12,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,Scotland,-4.251806,55.864237
+714,William,Watherston,1933-03-05,FALSE,Ford Midlothian,FALSE,Flanker,France v Scotland,Colombes,1963-01-12,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,Scotland,-87.7365761,41.6261319
+715,David,White,1943-11-21,FALSE,Not Available,FALSE,Centre,France v Scotland,Colombes,1963-01-12,4,4,0,0,0,0,0,0,0,2,2,0,0.5,Scotland,-122.2636808,37.8009514
+716,Colin,Blaikie,1941-11-21,FALSE,Edinburgh,FALSE,Fullback,Scotland v Ireland,Murrayfield,1963-02-23,8,8,0,15,0,0,5,0,0,4,4,0,0.5,Scotland,-3.188267,55.953252
+717,Pringle,Fisher,1939-03-17,FALSE,Edinburgh,FALSE,Flanker,England v Scotland,Twickenham,1963-03-16,25,25,0,0,0,0,0,0,0,9,13,3,0.36,Scotland,-3.188267,55.953252
+718,Brian,Henderson,1939-01-31,FALSE,Not Available,FALSE,Centre,England v Scotland,Twickenham,1963-03-16,12,12,0,6,2,0,0,0,0,5,5,2,0.4166666666666667,Scotland,-122.2636808,37.8009514
+719,Brian,Neill,1937-07-28,FALSE,Edinburgh,FALSE,Prop,England v Scotland,Twickenham,1963-03-16,7,7,0,0,0,0,0,0,0,3,3,1,0.42857142857142855,Scotland,-3.188267,55.953252
+720,Peter,Brown,1941-12-16,FALSE,Troon,FALSE,No. 8,Scotland v France,Murrayfield,1964-01-04,27,27,0,67,3,6,15,0,0,13,12,2,0.48148148148148145,Scotland,-111.927627,33.623911
+721,Billy,Hunter,1934-06-05,FALSE,Hawick,FALSE,Lock,Scotland v France,Murrayfield,1964-01-04,7,7,0,0,0,0,0,0,0,3,3,1,0.42857142857142855,Scotland,-2.780914,55.42706
+722,Jim,Telfer,1940-03-17,FALSE,"Pathhead, Midlothian",FALSE,No. 8,Scotland v France,Murrayfield,1964-01-04,33,33,0,9,3,0,0,0,0,11,19,3,0.3333333333333333,Scotland,-2.973874,55.868646
+723,Stewart,Wilson,1942-10-22,FALSE,Downham,FALSE,Fullback,Scotland v France,Murrayfield,1964-01-04,27,27,0,98,0,16,22,0,0,9,15,3,0.3333333333333333,Scotland,-2.3049869,53.8831441
+724,David,Chisholm,1937-01-23,FALSE,St Boswells,FALSE,Fly-half,Ireland v Scotland,Lansdowne Road,1964-02-22,14,14,0,15,1,0,0,4,0,8,4,2,0.5714285714285714,Scotland,-2.64754,55.570844
+725,Doug,Jackson,1941-12-05,FALSE,Not Available,FALSE,Wing,Ireland v Scotland,Lansdowne Road,1964-02-22,8,8,0,0,0,0,0,0,0,4,3,1,0.5,Scotland,-122.2636808,37.8009514
+726,Derrick,Grant,1938-04-19,FALSE,Hawick,FALSE,Flanker,France v Scotland,Colombes,1965-01-09,14,14,0,3,1,0,0,0,0,6,6,2,0.42857142857142855,Scotland,-2.780914,55.42706
+727,Frank,Laidlaw,1940-09-20,FALSE,Hawick,FALSE,Hooker,France v Scotland,Colombes,1965-01-09,34,34,0,0,0,0,0,0,0,10,22,2,0.29411764705882354,Scotland,-2.780914,55.42706
+728,Brian,Simmers,1940-02-26,FALSE,Glasgow,FALSE,Centre,France v Scotland,Colombes,1965-01-09,7,6,1,9,0,0,0,3,0,3,4,0,0.42857142857142855,Scotland,-4.251806,55.864237
+729,Peter,Stagg,1941-11-22,FALSE,Twickenham,FALSE,Lock,France v Scotland,Colombes,1965-01-09,31,30,1,0,0,0,0,0,0,10,19,2,0.3225806451612903,Scotland,-0.335246,51.44458100000001
+730,Norm,Suddon,1943-06-28,FALSE,"Cavers, Roxburghshire",FALSE,Prop,Scotland v Wales,Murrayfield,1965-02-06,13,13,0,0,0,0,0,0,0,5,7,1,0.38461538461538464,Scotland,-2.724691,55.434386
+731,David,Whyte,1940-02-21,FALSE,Not Available,FALSE,Wing,Scotland v Wales,Murrayfield,1965-02-06,13,13,0,6,2,0,0,0,0,6,5,2,0.46153846153846156,Scotland,-122.2636808,37.8009514
+732,Sandy,Hinshelwood,1942-03-23,FALSE,East Whitburn,FALSE,Wing,Scotland v France,Murrayfield,1966-01-15,24,24,0,18,6,0,0,0,0,8,14,2,0.3333333333333333,Scotland,-3.662378,55.868809
+733,John,Macdonald,1938-04-05,FALSE,Kirkcaldy,FALSE,Prop,Scotland v France,Murrayfield,1966-01-15,8,8,0,0,0,0,0,0,0,4,3,1,0.5,Scotland,-3.158137,56.1168249
+734,Jock,Turner,1943-09-28,FALSE,Hawick,FALSE,Centre,Wales v Scotland,Cardiff,1966-02-05,24,24,0,6,2,0,0,0,0,8,15,1,0.3333333333333333,Scotland,-2.780914,55.42706
+735,Alasdair,Boyle,1945-09-30,FALSE,Glasgow,FALSE,No. 8,Scotland v Australia,Murrayfield,1966-12-17,6,6,0,3,1,0,0,0,0,2,4,0,0.3333333333333333,Scotland,-4.251806,55.864237
+736,Sandy,Carmichael,1944-02-02,FALSE,Glasgow,FALSE,Prop,Scotland v Ireland,Murrayfield,1967-02-25,50,49,1,3,1,0,0,0,0,19,31,0,0.38,Scotland,-4.251806,55.864237
+737,Rob,Welsh,1943-02-02,FALSE,Hawick,FALSE,Centre,Scotland v Ireland,Murrayfield,1967-02-25,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-2.780914,55.42706
+738,Ian,McCrae,1941-05-19,FALSE,Not Available,FALSE,Scrum-half,England v Scotland,Twickenham,1967-03-18,6,5,1,0,0,0,0,0,0,2,4,0,0.3333333333333333,Scotland,-122.2636808,37.8009514
+739,John,Frame,1946-10-08,FALSE,Edinburgh,FALSE,Centre,Scotland v New Zealand,Murrayfield,1967-12-02,23,22,1,13,4,0,0,0,0,7,16,0,0.30434782608695654,Scotland,-3.188267,55.953252
+740,Bob,Keddie,1945-07-19,FALSE,Edinburgh,FALSE,Wing,Scotland v New Zealand,Murrayfield,1967-12-02,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.188267,55.953252
+741,George,Mitchell,1943-11-23,FALSE,Edinburgh,FALSE,Lock,Scotland v New Zealand,Murrayfield,1967-12-02,3,3,0,0,0,0,0,0,0,0,3,0,0,Scotland,-3.188267,55.953252
+742,Hamish,Keith,1939-09-11,FALSE,Not Available,FALSE,Wing,Scotland v France,Murrayfield,1968-01-13,2,2,0,3,1,0,0,0,0,0,2,0,0,Scotland,-122.2636808,37.8009514
+743,Tommy,Elliot,1941-03-01,FALSE,Langholm,FALSE,Flanker,Wales v Scotland,Cardiff,1968-02-03,5,5,0,0,0,0,0,0,0,3,2,0,0.6,Scotland,-2.998913,55.153062
+744,Rodger,Arneil,1944-05-01,FALSE,Edinburgh,FALSE,Flanker,Ireland v Scotland,Lansdowne Road,1968-02-24,26,26,0,0,0,0,0,0,0,8,17,1,0.3076923076923077,Scotland,-3.188267,55.953252
+745,Charlie,Hodgson,1938-05-11,FALSE,Not Available,FALSE,Wing,Ireland v Scotland,Lansdowne Road,1968-02-24,2,2,0,0,0,0,0,0,0,0,2,0,0,Scotland,-122.2636808,37.8009514
+746,Alastair,McHarg,1944-06-17,FALSE,Irvine,FALSE,Lock,Ireland v Scotland,Lansdowne Road,1968-02-24,44,44,0,8,2,0,0,0,0,17,26,1,0.38636363636363635,Scotland,-117.8265049,33.6845673
+747,Gordon,Connell,1944-10-03,FALSE,Edinburgh,FALSE,Scrum-half,Scotland v England,Murrayfield,1968-03-16,6,6,0,3,0,0,0,1,0,2,4,0,0.3333333333333333,Scotland,-3.188267,55.953252
+748,Derek,Deans,1945-04-30,FALSE,Hawick,FALSE,Hooker,Scotland v England,Murrayfield,1968-03-16,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-2.780914,55.42706
+749,Ian,Robertson,1945-01-17,FALSE,London,FALSE,Fly-half,Scotland v England,Murrayfield,1968-03-16,8,8,0,9,1,0,0,2,0,2,6,0,0.25,Scotland,-0.1277583,51.5073509
+750,Chris,Rea,1943-10-22,FALSE,Dundee,FALSE,Centre,Scotland v Australia,Murrayfield,1968-11-02,13,13,0,9,3,0,0,0,0,5,8,0,0.38461538461538464,Scotland,-2.970721,56.462018
+751,Colin,Telfer,1947-02-26,FALSE,Hawick,FALSE,Fly-half,Scotland v Australia,Murrayfield,1968-11-02,17,17,0,18,3,0,0,2,0,9,8,0,0.5294117647058824,Scotland,-2.780914,55.42706
+752,Dick,Allan,1939-03-16,FALSE,Glasgow,FALSE,Scrum-half,Scotland v Ireland,Murrayfield,1969-02-22,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-4.251806,55.864237
+753,Wilson,Lauder,1948-11-04,FALSE,"Thornton, Fife",FALSE,Flanker,Scotland v Ireland,Murrayfield,1969-02-22,18,18,0,19,2,0,4,0,0,5,13,0,0.2777777777777778,Scotland,-3.146377,56.166325
+754,Gordon,Macdonald,1938-12-30,FALSE,Glasgow,FALSE,Fullback,Scotland v Ireland,Murrayfield,1969-02-22,1,0,1,0,0,0,0,0,0,0,1,0,0,Scotland,-4.251806,55.864237
+755,Ian,McLauchlan,1942-04-14,FALSE,Tarbolton,FALSE,Prop,England v Scotland,Twickenham,1969-03-15,51,51,0,3,1,0,0,0,0,20,27,4,0.39215686274509803,Scotland,-4.488156,55.51224
+756,Billy,Steele,1947-04-18,FALSE,Langholm,FALSE,Wing,England v Scotland,Twickenham,1969-03-15,25,24,1,22,6,0,0,0,0,12,13,0,0.48,Scotland,-2.998913,55.153062
+757,Alastair,Biggar,1946-08-04,FALSE,Edinburgh,FALSE,Wing,Scotland v South Africa,Murrayfield,1969-12-06,12,12,0,3,1,0,0,0,0,5,7,0,0.4166666666666667,Scotland,-3.188267,55.953252
+758,Gordon,Brown,1947-11-01,FALSE,Troon,FALSE,Lock,Scotland v South Africa,Murrayfield,1969-12-06,38,36,2,8,2,0,0,0,0,19,18,1,0.5,Scotland,-111.927627,33.623911
+759,Duncan,Paterson,1943-03-27,FALSE,Galashiels,FALSE,Scrum-half,Scotland v South Africa,Murrayfield,1969-12-06,10,10,0,6,1,0,0,1,0,4,6,0,0.4,Scotland,-2.814449,55.623728
+760,Ian,Smith,1944-06-16,FALSE,Dundee,FALSE,Fullback,Scotland v South Africa,Murrayfield,1969-12-06,9,9,0,14,2,1,2,0,0,2,7,0,0.2222222222222222,Scotland,-2.970721,56.462018
+761,Mike,Smith,1945-11-23,FALSE,Liverpool,FALSE,Wing,Wales v Scotland,Cardiff,1970-02-07,4,4,0,3,1,0,0,0,0,1,3,0,0.25,Scotland,-115.4763241,32.6564981
+762,Robert,Young,1940-09-13,FALSE,Edinburgh,FALSE,Scrum-half,Wales v Scotland,Cardiff,1970-02-07,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-3.188267,55.953252
+763,Ken,Oliver,1946-03-04,FALSE,Galashiels,FALSE,No. 8,Australia v Scotland,Sydney,1970-06-06,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-2.814449,55.623728
+764,Nairn,MacEwan,1941-12-12,FALSE,Dar-es-Salaam,FALSE,Flanker,France v Scotland,Colombes,1971-01-16,20,20,0,4,1,0,0,0,0,10,10,0,0.5,Scotland,39.2083284,-6.792354
+765,Ronnie,Hannah,1945-12-15,FALSE,Not Available,FALSE,Wing,Scotland v Ireland,Murrayfield,1971-02-27,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+766,Arthur,Brown,1949-12-10,FALSE,Galashiels,FALSE,Fullback,England v Scotland,Twickenham,1971-03-20,5,5,0,13,0,5,1,0,0,4,1,0,0.8,Scotland,-2.814449,55.623728
+767,Quintin,Dunlop,1943-03-09,FALSE,Ayr,FALSE,Hooker,England v Scotland,Twickenham,1971-03-20,2,2,0,0,0,0,0,0,0,2,0,0,1,Scotland,-98.4403373,40.4375138
+768,Stephen,Turk,1948-01-09,FALSE,Cresswell,FALSE,Centre,England v Scotland,Twickenham,1971-03-20,1,0,1,0,0,0,0,0,0,1,0,0,1,Scotland,-95.8375604,36.2763782
+769,Gordon,Strachan,1947-11-16,FALSE,"Littlemill, Ayrshire",FALSE,No. 8,Scotland v England,Murrayfield,1971-03-27,5,4,1,0,0,0,0,0,0,4,1,0,0.8,Scotland,-4.4480251,55.406757
+770,Bobby,Clark,1944-01-27,FALSE,Edinburgh,FALSE,Hooker,Scotland v France,Murrayfield,1972-01-15,9,9,0,4,1,0,0,0,0,5,4,0,0.5555555555555556,Scotland,-3.188267,55.953252
+771,Jim,Renwick,1952-02-12,FALSE,Hawick,FALSE,Centre,Scotland v France,Murrayfield,1972-01-15,53,52,1,67,8,4,5,4,0,17,33,3,0.32075471698113206,Scotland,-2.780914,55.42706
+772,Alan,Lawson,1948-05-19,FALSE,Kirkcaldy,FALSE,Scrum-half,Scotland v France,Murrayfield,1972-01-15,15,13,2,12,3,0,0,0,0,5,8,2,0.3333333333333333,Scotland,-3.158137,56.1168249
+773,Ian,Barnes,1948-04-19,FALSE,Hawick,FALSE,Lock,Wales v Scotland,Cardiff,1972-02-05,7,5,2,0,0,0,0,0,0,2,5,0,0.2857142857142857,Scotland,-2.780914,55.42706
+774,Lewis,Dick,1950-12-20,FALSE,Perth,FALSE,Wing,Wales v Scotland,Cardiff,1972-02-05,14,13,1,8,2,0,0,0,0,6,8,0,0.42857142857142855,Scotland,115.8604572,-31.9505269
+775,Ian,Forsyth,1946-07-04,FALSE,Edinburgh,FALSE,Centre,Scotland v New Zealand,Murrayfield,1972-12-16,6,6,0,4,1,0,0,0,0,3,3,0,0.5,Scotland,-3.188267,55.953252
+776,Andy,Irvine,1951-09-16,FALSE,Edinburgh,FALSE,Fullback,Scotland v New Zealand,Murrayfield,1972-12-16,60,60,0,297,11,26,67,0,0,22,34,4,0.36666666666666664,Scotland,-3.188267,55.953252
+777,Ian,McGeechan,1946-10-30,FALSE,Leeds,FALSE,Centre,Scotland v New Zealand,Murrayfield,1972-12-16,40,39,1,24,0,0,0,8,0,15,22,3,0.375,Scotland,-1.5490774,53.8007554
+778,David,Shedden,1944-05-24,FALSE,Kilwinning,FALSE,Wing,Scotland v New Zealand,Murrayfield,1972-12-16,15,15,0,8,2,0,0,0,0,6,9,0,0.4,Scotland,-4.703116899999999,55.65591999999999
+779,Ronald,Wright,1949-05-06,FALSE,Not Available,FALSE,Lock,France v Scotland,Parc des Princes,1973-01-13,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-122.2636808,37.8009514
+780,Jock,Millican,1951-08-21,FALSE,Edinburgh,FALSE,Flanker,Scotland v Wales,Murrayfield,1973-02-03,3,3,0,0,0,0,0,0,0,2,1,0,0.6666666666666666,Scotland,-3.188267,55.953252
+781,Dougie,Morgan,1947-03-09,FALSE,Edinburgh,FALSE,Scrum-half,Scotland v Wales,Murrayfield,1973-02-03,23,22,1,80,1,5,16,6,0,8,15,0,0.34782608695652173,Scotland,-3.188267,55.953252
+782,Hamish,Bryce,1941-11-12,FALSE,Not Available,FALSE,Prop,Scotland v Ireland,Murrayfield,1973-02-24,1,0,1,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+783,Drew,Gill,1949-08-30,FALSE,Edinburgh,FALSE,Wing,Scotland v Presidents XV,Murrayfield,1973-03-31,5,5,0,8,2,0,0,0,0,3,2,0,0.6,Scotland,-3.188267,55.953252
+784,Duncan,Madsen,1947-04-16,FALSE,Gosforth,FALSE,Hooker,Wales v Scotland,Cardiff,1974-01-19,14,14,0,4,1,0,0,0,0,5,9,0,0.35714285714285715,Scotland,-1.6188777,55.00827899999999
+785,Bill,Watson,1949-01-07,FALSE,Edinburgh,FALSE,No. 8,Wales v Scotland,Cardiff,1974-01-19,10,10,0,0,0,0,0,0,0,3,6,1,0.3,Scotland,-3.188267,55.953252
+786,Michael,Hunter,1945-04-24,FALSE,Not Available,FALSE,Centre,Scotland v France,Murrayfield,1974-03-16,1,1,0,0,0,0,0,0,0,1,0,0,1,Scotland,-122.2636808,37.8009514
+787,David,Bell,1949-04-28,FALSE,"Warriston, Edinburgh",FALSE,Centre,Scotland v Ireland,Murrayfield,1975-02-01,4,4,0,0,0,0,0,0,0,2,2,0,0.5,Scotland,-3.206477,55.968215
+788,Mike,Biggar,1949-11-20,FALSE,Aberdeen,FALSE,Flanker,Scotland v Ireland,Murrayfield,1975-02-01,24,24,0,0,0,0,0,0,0,6,16,2,0.25,Scotland,-2.094278,57.149717
+789,David,Leslie,1952-04-14,FALSE,Dundee,FALSE,Flanker,Scotland v Ireland,Murrayfield,1975-02-01,32,32,0,8,2,0,0,0,0,14,17,1,0.4375,Scotland,-2.970721,56.462018
+790,Graham,Birkett,1954-10-02,FALSE,Dumbarton,FALSE,Centre,New Zealand v Scotland,Auckland,1975-06-14,1,1,0,0,0,0,0,0,0,0,1,0,0,Scotland,-4.564554,55.945287
+791,Colin,Fisher,1949-12-27,FALSE,Liverpool,FALSE,Hooker,New Zealand v Scotland,Auckland,1975-06-14,5,5,0,0,0,0,0,0,0,3,2,0,0.6,Scotland,-115.4763241,32.6564981
+792,Bruce,Hay,1950-05-23,FALSE,Edinburgh,FALSE,Wing,New Zealand v Scotland,Auckland,1975-06-14,26,26,0,16,4,0,0,0,0,5,19,2,0.19230769230769232,Scotland,-3.188267,55.953252
+793,George,Mackie,1949-04-19,FALSE,Aberdeen,FALSE,No. 8,Scotland v Australia,Murrayfield,1975-12-06,4,4,0,0,0,0,0,0,0,1,3,0,0.25,Scotland,-2.094278,57.149717
+794,Alastair,Cranston,1949-12-11,FALSE,Hawick,FALSE,Centre,Wales v Scotland,Cardiff,1976-02-07,11,10,1,0,0,0,0,0,0,2,9,0,0.18181818181818182,Scotland,-2.780914,55.42706
+795,Alan,Tomes,1951-11-06,FALSE,Hawick,FALSE,Lock,Scotland v England,Murrayfield,1976-02-21,48,47,1,12,3,0,0,0,0,17,27,4,0.3541666666666667,Scotland,-2.780914,55.42706
+796,Ron,Wilson,1954-01-07,FALSE,"Teddington, Mx",FALSE,Fly-half,Scotland v England,Murrayfield,1976-02-21,9,9,0,3,0,0,0,1,0,4,5,0,0.4444444444444444,Scotland,-0.3187169,51.4277931
+797,Jim,Aitken,1947-11-22,FALSE,Penicuik,FALSE,Prop,England v Scotland,Twickenham,1977-01-15,24,24,0,4,1,0,0,0,0,12,10,2,0.5,Scotland,-3.224533,55.830932
+798,Alex,Brewster,1954-05-03,FALSE,Dechmont,FALSE,Prop,England v Scotland,Twickenham,1977-01-15,6,6,0,0,0,0,0,0,0,4,2,0,0.6666666666666666,Scotland,-3.5365831,55.9212798
+799,Don,Macdonald,1951-09-25,FALSE,Durban,FALSE,No. 8,England v Scotland,Twickenham,1977-01-15,7,7,0,0,0,0,0,0,0,1,6,0,0.14285714285714285,Scotland,31.0218404,-29.85868039999999
+800,Bill,Gammell,1952-12-29,FALSE,Edinburgh,FALSE,Wing,Scotland v Ireland,Murrayfield,1977-02-19,5,5,0,8,2,0,0,0,0,1,4,0,0.2,Scotland,-3.188267,55.953252
+801,Norman,Pender,1948-02-01,FALSE,Bridlington,FALSE,Prop,Scotland v Ireland,Murrayfield,1977-02-19,4,4,0,0,0,0,0,0,0,1,3,0,0.25,Scotland,-0.198802,54.08535
+802,Brian,Hegarty,1950-11-29,FALSE,Not Available,FALSE,Flanker,Ireland v Scotland,Lansdowne Road,1978-01-21,4,4,0,0,0,0,0,0,NA,0,4,0,0,Scotland,-122.2636808,37.8009514
+803,Colin,Deans,1955-05-03,FALSE,Hawick,FALSE,Hooker,Scotland v France,Murrayfield,1978-02-04,53,53,0,8,2,0,0,0,NA,21,27,5,0.39622641509433965,Scotland,-2.780914,55.42706
+804,Graham,Hogg,1948-03-02,FALSE,Hawick,FALSE,Wing,Scotland v France,Murrayfield,1978-02-04,2,0,2,0,0,0,0,0,NA,0,2,0,0,Scotland,-2.780914,55.42706
+805,Richard,Breakey,1956-11-14,FALSE,Consett,FALSE,Fly-half,Scotland v England,Murrayfield,1978-03-04,1,1,0,0,0,0,0,0,NA,0,1,0,0,Scotland,-1.833026,54.851797
+806,David,Gray,1953-03-28,FALSE,Kilmarnock,FALSE,Lock,Scotland v England,Murrayfield,1978-03-04,9,9,0,0,0,0,0,0,NA,1,7,1,0.1111111111111111,Scotland,-76.37966899999999,37.7104135
+807,Bob,Cunningham,1953-01-04,FALSE,Musselburgh,FALSE,Prop,Scotland v New Zealand,Murrayfield,1978-12-09,3,3,0,0,0,0,0,0,NA,0,2,1,0,Scotland,-3.053918,55.941941
+808,Gordon,Dickson,1954-12-10,FALSE,Galashiels,FALSE,Flanker,Scotland v New Zealand,Murrayfield,1978-12-09,9,8,1,4,1,0,0,0,NA,1,6,2,0.1111111111111111,Scotland,-2.814449,55.623728
+809,Keith,Robertson,1954-12-05,FALSE,Hawick,FALSE,Wing,Scotland v New Zealand,Murrayfield,1978-12-09,44,43,1,41,8,0,0,3,NA,14,25,5,0.3181818181818182,Scotland,-2.780914,55.42706
+810,Iain,Lambie,1954-04-13,FALSE,Edinburgh,FALSE,No. 8,Scotland v New Zealand,Murrayfield,1978-12-09,4,3,1,0,0,0,0,0,NA,0,3,1,0,Scotland,-3.188267,55.953252
+811,John,Rutherford,1955-10-04,FALSE,Selkirk,FALSE,Fly-half,Scotland v Wales,Murrayfield,1979-01-20,44,44,0,68,8,0,0,12,NA,18,21,5,0.4090909090909091,Scotland,-116.7950567,47.7814014
+812,Iain,Milne,1956-06-17,FALSE,Edinburgh,FALSE,Prop,Scotland v Ireland,Murrayfield,1979-03-03,44,44,0,0,0,0,0,0,NA,19,21,4,0.4318181818181818,Scotland,-3.188267,55.953252
+813,David,Johnston,1958-10-20,FALSE,Edinburgh,FALSE,Centre,Scotland v New Zealand,Murrayfield,1979-11-10,27,27,0,16,4,0,0,0,NA,14,11,2,0.5185185185185185,Scotland,-3.188267,55.953252
+814,John,Beattie,1957-11-27,FALSE,North Borneo,FALSE,No. 8,Ireland v Scotland,Lansdowne Road,1980-02-02,27,25,2,12,3,0,0,0,NA,11,15,1,0.4074074074074074,Scotland,114.5548495,0.9618833999999999
+815,James,Burnett,1947-07-12,FALSE,Kilmarnock,FALSE,Prop,Ireland v Scotland,Lansdowne Road,1980-02-02,4,4,0,0,0,0,0,0,NA,1,3,0,0.25,Scotland,-76.37966899999999,37.7104135
+816,Bill,Cuthbertson,1949-12-06,FALSE,Kilwinning,FALSE,Lock,Ireland v Scotland,Lansdowne Road,1980-02-02,21,21,0,0,0,0,0,0,NA,9,10,2,0.42857142857142855,Scotland,-4.703116899999999,55.65591999999999
+817,Roy,Laidlaw,1953-10-05,FALSE,Jedburgh,FALSE,Scrum-half,Ireland v Scotland,Lansdowne Road,1980-02-02,51,50,1,28,7,0,0,0,NA,21,27,3,0.4117647058823529,Scotland,-2.5549369,55.477721
+818,Steve,Munro,1958-06-11,FALSE,Ayr,FALSE,Wing,Ireland v Scotland,Lansdowne Road,1980-02-02,10,10,0,8,2,0,0,0,NA,5,5,0,0.5,Scotland,-98.4403373,40.4375138
+819,Ken,Lawrie,1951-07-31,FALSE,Gala,FALSE,Hooker,Scotland v France,Murrayfield,1980-02-16,3,2,1,0,0,0,0,0,NA,1,2,0,0.3333333333333333,Scotland,-79.80921359999999,37.6887409
+820,Bryan,Gossman,1951-05-05,FALSE,Not Available,FALSE,Fly-half,Wales v Scotland,Cardiff,1980-03-01,3,3,0,6,0,0,0,2,NA,0,3,0,0,Scotland,-122.2636808,37.8009514
+821,Norrie,Rowan,1951-09-17,FALSE,Edinburgh,FALSE,Prop,Wales v Scotland,Cardiff,1980-03-01,13,13,0,0,0,0,0,0,NA,4,9,0,0.3076923076923077,Scotland,-3.188267,55.953252
+822,Jim,Gossman,1955-09-25,FALSE,Not Available,FALSE,Centre,Scotland v England,Murrayfield,1980-03-15,1,0,1,0,0,0,0,0,NA,0,1,0,0,Scotland,-122.2636808,37.8009514
+823,Jim,Calder,1957-08-20,FALSE,Haddington,FALSE,Flanker,France v Scotland,Parc des Princes,1981-01-17,28,28,0,12,3,0,0,0,NA,12,14,2,0.42857142857142855,Scotland,-2.7748641,55.95867399999999
+824,Iain,Paxton,1957-12-29,FALSE,Dunfermline,FALSE,No. 8,New Zealand v Scotland,Dunedin,1981-06-13,41,39,2,20,5,0,0,0,NA,17,21,3,0.4146341463414634,Scotland,-3.452151,56.071741
+825,Roger,Baird,1960-04-12,FALSE,Kelso,FALSE,Wing,Scotland v Australia,Murrayfield,1981-12-19,31,31,0,4,1,0,0,0,NA,13,16,2,0.41935483870967744,Scotland,-95.1099662,36.705635
+826,Eric,Paxton,1957-04-04,FALSE,Not Available,FALSE,Flanker,Ireland v Scotland,Lansdowne Road,1982-02-20,2,1,1,0,0,0,0,0,NA,0,2,0,0,Scotland,-122.2636808,37.8009514
+827,Derek,White,1958-01-30,FALSE,Haddington,FALSE,No. 8,Scotland v France,Murrayfield,1982-03-06,42,42,0,44,11,0,0,0,NA,22,18,2,0.5238095238095238,Scotland,-2.7748641,55.95867399999999
+828,Jim,Pollock,1958-11-16,FALSE,Not Available,FALSE,Wing,Wales v Scotland,Cardiff,1982-03-20,8,7,1,8,2,0,0,0,NA,5,2,1,0.625,Scotland,-122.2636808,37.8009514
+829,Rick,Gordon,1958-03-16,FALSE,Lahore,FALSE,Centre,Australia v Scotland,Brisbane,1982-07-04,2,2,0,0,0,0,0,0,NA,1,1,0,0.5,Scotland,74.35874729999999,31.5203696
+830,Gerry,McGuinness,1953-09-14,FALSE,Glasgow,FALSE,Prop,Australia v Scotland,Brisbane,1982-07-04,7,7,0,0,0,0,0,0,NA,1,6,0,0.14285714285714285,Scotland,-4.251806,55.864237
+831,Peter,Dods,1958-01-06,FALSE,Galashiels,FALSE,Fullback,Scotland v Ireland,Murrayfield,1983-01-15,23,21,2,210,2,26,50,0,NA,9,12,2,0.391304347826087,Scotland,-2.814449,55.623728
+832,Tom,Smith,1953-08-31,FALSE,"MacMerry, E Lothian",FALSE,Lock,England v Scotland,Twickenham,1983-03-05,4,4,0,4,1,0,0,0,NA,1,2,1,0.25,Scotland,-2.911599,55.941553
+833,Euan,Kennedy,1954-07-30,FALSE,Edinburgh,FALSE,Centre,Scotland v New Zealand,Murrayfield,1983-11-12,4,4,0,4,1,0,0,0,NA,2,1,1,0.5,Scotland,-3.188267,55.953252
+834,Alister,Campbell,1959-01-01,FALSE,Hawick,FALSE,Lock,Ireland v Scotland,Lansdowne Road,1984-03-03,15,15,0,0,0,0,0,0,NA,7,8,0,0.4666666666666667,Scotland,-2.780914,55.42706
+835,Gordon,Hunter,1958-08-07,FALSE,Hawick,FALSE,Scrum-half,Ireland v Scotland,Lansdowne Road,1984-03-03,4,2,2,0,0,0,0,0,NA,1,3,0,0.25,Scotland,-2.780914,55.42706
+836,Gary,Callander,1959-07-05,FALSE,Kelso,FALSE,Hooker,Romania v Scotland,Bucharest,1984-05-20,6,6,0,0,0,0,0,0,NA,1,5,0,0.16666666666666666,Scotland,-95.1099662,36.705635
+837,Sean,McGaughey,1962-05-08,FALSE,Not Available,FALSE,Flanker,Romania v Scotland,Bucharest,1984-05-20,1,1,0,0,0,0,0,0,NA,0,1,0,0,Scotland,-122.2636808,37.8009514
+838,John,Jeffrey,1959-03-25,FALSE,Kelso,FALSE,Flanker,Scotland v Australia,Murrayfield,1984-12-08,41,41,0,44,11,0,0,0,NA,22,17,2,0.5365853658536586,Scotland,-95.1099662,36.705635
+839,Gregor,Mackenzie,1956-07-09,FALSE,Inverness,FALSE,Prop,Scotland v Australia,Murrayfield,1984-12-08,1,1,0,0,0,0,0,0,NA,0,1,0,0,Scotland,-4.224721,57.477773
+840,Peter,Steven,1959-07-04,FALSE,Kilwinning,FALSE,Wing,Scotland v Australia,Murrayfield,1984-12-08,4,4,0,0,0,0,0,0,NA,0,4,0,0,Scotland,-4.703116899999999,55.65591999999999
+841,Douglas,Wyllie,1963-05-20,FALSE,Edinburgh,FALSE,Centre,Scotland v Australia,Murrayfield,1984-12-08,18,14,4,3,0,0,0,1,NA,6,10,2,0.3333333333333333,Scotland,-3.188267,55.953252
+842,Keith,Murray,1962-03-23,FALSE,Hawick,FALSE,Centre,Scotland v Ireland,Murrayfield,1985-02-02,3,3,0,0,0,0,0,0,NA,0,3,0,0,Scotland,-2.780914,55.42706
+843,Iwan,Tukalo,1961-03-05,FALSE,Edinburgh,FALSE,Wing,Scotland v Ireland,Murrayfield,1985-02-02,37,37,0,60,15,0,0,0,NA,19,16,2,0.5135135135135135,Scotland,-3.188267,55.953252
+844,Finlay,Calder,1957-08-20,FALSE,Haddington,FALSE,Flanker,Scotland v France,Murrayfield,1986-01-18,37,37,0,8,2,0,0,0,NA,21,14,2,0.5675675675675675,Scotland,-2.7748641,55.95867399999999
+845,Jeremy,Campbell-Lamerton,1959-02-21,FALSE,Not Available,FALSE,Lock,Scotland v France,Murrayfield,1986-01-18,3,2,1,0,0,0,0,0,NA,3,0,0,1,Scotland,-122.2636808,37.8009514
+846,Matt,Duncan,1959-08-29,FALSE,Glasgow,FALSE,Wing,Scotland v France,Murrayfield,1986-01-18,18,18,0,28,7,0,0,0,NA,9,8,1,0.5,Scotland,-4.251806,55.864237
+847,Gavin,Hastings,1962-01-03,FALSE,Edinburgh,FALSE,Fullback,Scotland v France,Murrayfield,1986-01-18,68,68,0,736,18,87,161,0,NA,35,31,2,0.5147058823529411,Scotland,-3.188267,55.953252
+848,Scott,Hastings,1964-12-04,FALSE,Edinburgh,FALSE,Centre,Scotland v France,Murrayfield,1986-01-18,67,65,2,43,10,0,0,0,NA,36,29,2,0.5373134328358209,Scotland,-3.188267,55.953252
+849,David,Sole,1962-05-08,FALSE,Aylesbury,FALSE,Prop,Scotland v France,Murrayfield,1986-01-18,47,47,0,12,3,0,0,0,NA,24,21,2,0.5106382978723404,Scotland,-0.8084,51.815606
+850,Alan,Tait,1964-07-02,FALSE,Kelso,FALSE,Centre,France v Scotland,Christchurch,1987-05-23,29,27,2,86,18,0,0,0,NA,13,15,1,0.4482758620689655,Scotland,-95.1099662,36.705635
+851,Greig,Oliver,1964-09-12,FALSE,Hawick,FALSE,Scrum-half,Scotland v Zimbabwe,Wellington,1987-05-30,3,2,1,4,1,0,0,0,NA,2,1,0,0.6666666666666666,Scotland,-2.780914,55.42706
+852,Richard,Cramb,1963-09-07,FALSE,Falkirk,FALSE,Fly-half,Romania v Scotland,Dunedin,1987-06-02,4,3,1,3,0,0,0,1,NA,2,2,0,0.5,Scotland,-3.7839131,56.00187750000001
+853,Derek,Turnbull,1961-10-02,FALSE,Hawick,FALSE,Flanker,New Zealand v Scotland,Christchurch,1987-06-06,15,14,1,9,2,0,0,0,NA,7,8,0,0.4666666666666667,Scotland,-2.780914,55.42706
+854,Damian,Cronin,1963-04-17,FALSE,Wegberg,FALSE,Lock,Ireland v Scotland,Lansdowne Road,1988-01-16,45,44,1,23,5,0,0,0,NA,20,23,2,0.4444444444444444,Scotland,6.2815922,51.1423399
+855,Andrew,Ker,1954-10-16,FALSE,Kelso,FALSE,Fly-half,Wales v Scotland,Cardiff,1988-02-20,2,2,0,0,0,0,0,0,NA,0,2,0,0,Scotland,-95.1099662,36.705635
+856,Gary,Armstrong,1966-09-30,FALSE,Edinburgh,FALSE,Scrum-half,Scotland v Australia,Murrayfield,1988-11-19,51,49,2,21,5,0,0,0,NA,23,26,2,0.45098039215686275,Scotland,-3.188267,55.953252
+857,Graham,Marshall,1960-05-23,FALSE,Glasgow,FALSE,Flanker,Scotland v Australia,Murrayfield,1988-11-19,4,3,1,0,0,0,0,0,NA,3,1,0,0.75,Scotland,-4.251806,55.864237
+858,Craig,Chalmers,1968-10-15,FALSE,Galashiels,FALSE,Fly-half,Scotland v Wales,Murrayfield,1989-01-21,61,58,3,172,5,11,33,10,NA,28,31,2,0.45901639344262296,Scotland,-2.814449,55.623728
+859,Chris,Gray,1960-07-11,FALSE,Haddington,FALSE,Lock,Scotland v Wales,Murrayfield,1989-01-21,22,22,0,12,3,0,0,0,NA,14,7,1,0.6363636363636364,Scotland,-2.7748641,55.95867399999999
+860,Sean,Lineen,1961-12-25,FALSE,Auckland,FALSE,Centre,Scotland v Wales,Murrayfield,1989-01-21,29,29,0,8,2,0,0,0,NA,16,12,1,0.5517241379310345,Scotland,174.7626037,-36.8482512
+861,Kenny,Milne,1961-12-01,FALSE,Edinburgh,FALSE,Hooker,Scotland v Wales,Murrayfield,1989-01-21,40,39,1,12,3,0,0,0,NA,20,18,2,0.5,Scotland,-3.188267,55.953252
+862,Paul,Burnell,1965-09-29,FALSE,Edinburgh,FALSE,Prop,England v Scotland,Twickenham,1989-02-04,53,50,3,5,1,0,0,0,NA,26,24,3,0.49056603773584906,Scotland,-3.188267,55.953252
+863,Tony,Stanger,1968-05-14,FALSE,Hawick,FALSE,Wing,Scotland v Fiji,Murrayfield,1989-10-28,52,51,1,106,24,0,0,0,NA,22,29,1,0.4230769230769231,Scotland,-2.780914,55.42706
+864,George,Buchanan-Smith,1964-07-20,FALSE,Edinburgh,FALSE,Flanker,Scotland v Fiji,Murrayfield,1989-10-28,2,1,1,0,0,0,0,0,NA,2,0,0,1,Scotland,-3.188267,55.953252
+865,Lindsay,Renwick,1960-12-24,FALSE,Hawick,FALSE,Wing,Scotland v Romania,Murrayfield,1989-12-09,1,1,0,0,0,0,0,0,NA,1,0,0,1,Scotland,-2.780914,55.42706
+866,John,Allan,1963-11-25,FALSE,Glasgow,FALSE,Hooker,New Zealand v Scotland,Dunedin,1990-06-16,22,20,2,0,0,0,0,0,NA,11,10,1,0.5,Scotland,-4.251806,55.864237
+867,Alex,Moore,1963-08-19,FALSE,"Ipswich, QLD",FALSE,Wing,New Zealand v Scotland,Auckland,1990-06-23,5,5,0,8,2,0,0,0,NA,2,3,0,0.4,Scotland,152.76,-27.623
+868,Dode,di Weir,1970-07-04,FALSE,Edinburgh,FALSE,Lock,Scotland v Argentina,Murrayfield,1990-11-10,61,53,8,19,4,0,0,0,NA,24,35,2,0.39344262295081966,Scotland,-3.188267,55.953252
+869,David,Milne,1958-12-07,FALSE,Edinburgh,FALSE,Prop,Scotland v Japan,Murrayfield,1991-10-05,1,0,1,0,0,0,0,0,NA,1,0,0,1,Scotland,-3.188267,55.953252
+870,Alan,Watt,1967-07-10,FALSE,Glasgow,FALSE,Prop,Scotland v Zimbabwe,Murrayfield,1991-10-09,4,3,1,0,0,0,0,0,NA,2,2,0,0.5,Scotland,-4.251806,55.864237
+871,Graham,Shiel,1970-08-13,FALSE,Galashiels,FALSE,Centre,Scotland v Ireland,Murrayfield,1991-10-12,18,16,2,20,3,0,2,0,NA,6,11,1,0.3333333333333333,Scotland,-2.814449,55.623728
+872,Neil,Edwards,1964-08-20,FALSE,"Carshalton, Surrey",FALSE,Lock,Scotland v England,Murrayfield,1992-01-18,6,6,0,4,1,0,0,0,NA,2,4,0,0.3333333333333333,Scotland,-0.164921,51.365018
+873,Dave,McIvor,1964-06-29,FALSE,Kirkcaldy,FALSE,Flanker,Scotland v England,Murrayfield,1992-01-18,6,6,0,0,0,0,0,0,NA,2,4,0,0.3333333333333333,Scotland,-3.158137,56.1168249
+874,Andy,Nicol,1971-03-12,FALSE,Dundee,FALSE,Scrum-half,Scotland v England,Murrayfield,1992-01-18,23,21,2,9,2,0,0,0,NA,5,17,1,0.21739130434782608,Scotland,-2.970721,56.462018
+875,Ian,Smith,1965-03-16,FALSE,Gloucester,FALSE,Flanker,Scotland v England,Murrayfield,1992-01-18,25,24,1,0,0,0,0,0,NA,7,16,2,0.28,Scotland,-70.6619888,42.6159285
+876,Rob,Wainwright,1965-03-22,FALSE,Perth,FALSE,Flanker,Ireland v Scotland,Lansdowne Road,1992-02-15,38,37,1,14,3,0,0,0,NA,14,23,1,0.3684210526315789,Scotland,115.8604572,-31.9505269
+877,Peter,Jones,1963-12-28,FALSE,Arbroath,FALSE,Prop,Wales v Scotland,Cardiff,1992-03-21,1,0,1,0,0,0,0,0,NA,0,1,0,0,Scotland,-2.591543,56.559107
+878,Carl,Hogg,1969-07-05,FALSE,Galashiels,FALSE,Flanker,Australia v Scotland,Sydney,1992-06-13,5,4,1,0,0,0,0,0,NA,0,5,0,0,Scotland,-2.814449,55.623728
+879,Peter,Wright,1967-12-30,FALSE,Bonnyrigg,FALSE,Prop,Australia v Scotland,Sydney,1992-06-13,21,21,0,5,1,0,0,0,NA,11,10,0,0.5238095238095238,Scotland,-3.106337,55.874917
+880,Ian,Corcoran,1963-05-11,FALSE,Edinburgh,FALSE,Hooker,Australia v Scotland,Sydney,1992-06-13,1,0,1,0,0,0,0,0,NA,0,1,0,0,Scotland,-3.188267,55.953252
+881,Kenny,Logan,1972-04-03,FALSE,Stirling,FALSE,Wing,Australia v Scotland,Brisbane,1992-06-21,70,63,7,220,13,34,29,0,NA,27,40,3,0.38571428571428573,Scotland,-3.9369029,56.1165227
+882,Martin,Scott,1966-07-05,FALSE,Falkirk,FALSE,Hooker,Australia v Scotland,Brisbane,1992-06-21,1,1,0,0,0,0,0,0,NA,0,1,0,0,Scotland,-3.7839131,56.00187750000001
+883,Iain,Morrison,1962-12-14,FALSE,Linlithgow,FALSE,Flanker,Scotland v Ireland,Murrayfield,1993-01-16,15,15,0,0,0,0,0,0,NA,8,7,0,0.5333333333333333,Scotland,-3.6025847,55.9716266
+884,Andy,Reed,1969-05-04,FALSE,"St Austell, Cornwall",FALSE,Lock,Scotland v Ireland,Murrayfield,1993-01-16,19,17,2,0,0,0,0,0,NA,7,11,1,0.3684210526315789,Scotland,-4.7834252,50.3403779
+885,Derek,Stark,1966-04-13,FALSE,Johnstone,FALSE,Wing,Scotland v Ireland,Murrayfield,1993-01-16,9,6,3,15,3,0,0,0,NA,3,6,0,0.3333333333333333,Scotland,-99.7388584,32.4242453
+886,Gregor,Townsend,1973-04-26,FALSE,Edinburgh,FALSE,Fly-half,England v Scotland,Twickenham,1993-03-06,84,77,7,164,17,8,14,7,NA,34,48,2,0.40476190476190477,Scotland,-3.188267,55.953252
+887,Ian,Jardine,1964-10-20,FALSE,Dunfermline,FALSE,Centre,Scotland v New Zealand,Murrayfield,1993-11-20,18,15,3,0,0,0,0,0,NA,7,11,0,0.3888888888888889,Scotland,-3.452151,56.071741
+888,Andrew,MacDonald,1966-01-17,FALSE,Nairn,FALSE,Lock,Scotland v New Zealand,Murrayfield,1993-11-20,1,1,0,0,0,0,0,0,NA,0,1,0,0,Scotland,-3.8684751,57.58642200000001
+889,Bryan,Redpath,1971-07-02,FALSE,Galashiels,FALSE,Scrum-half,Scotland v New Zealand,Murrayfield,1993-11-20,60,52,8,5,1,0,0,0,NA,28,31,1,0.4666666666666667,Scotland,-2.814449,55.623728
+890,Shade,Munro,1966-11-19,FALSE,Paisley,FALSE,Lock,Wales v Scotland,Cardiff,1994-01-15,7,6,1,0,0,0,0,0,NA,0,6,1,0,Scotland,-90.0880101,30.3989348
+891,Alan,Sharp,1969-10-17,FALSE,Bristol,FALSE,Prop,Scotland v England,Murrayfield,1994-02-05,6,6,0,0,0,0,0,0,NA,0,5,1,0,Scotland,-2.58791,51.454513
+892,Peter,Walton,1969-06-03,FALSE,Alnwick,FALSE,Flanker,Scotland v England,Murrayfield,1994-02-05,24,20,4,20,4,0,0,0,NA,10,13,1,0.4166666666666667,Scotland,-1.706299,55.412744000000004
+893,Michael,Dods,1968-12-30,FALSE,Galashiels,FALSE,"Fullback, Wing",Ireland v Scotland,Lansdowne Road,1994-03-05,8,7,1,80,3,1,21,0,NA,3,3,2,0.375,Scotland,-2.814449,55.623728
+894,Craig,Joiner,1974-04-21,FALSE,Glasgow,FALSE,Wing,Argentina v Scotland,Buenos Aires,1994-06-04,25,21,4,15,3,0,0,0,NA,13,12,0,0.52,Scotland,-4.251806,55.864237
+895,Kevin,McKenzie,1968-01-22,FALSE,Stirling,FALSE,Hooker,Argentina v Scotland,Buenos Aires,1994-06-04,14,13,1,5,1,0,0,0,NA,6,8,0,0.42857142857142855,Scotland,-3.9369029,56.1165227
+896,Scott,Nichol,1970-06-18,FALSE,Selkirk,FALSE,Centre,Argentina v Scotland,Buenos Aires,1994-06-11,1,0,1,0,0,0,0,0,NA,0,1,0,0,Scotland,-116.7950567,47.7814014
+897,Derrick,Patterson,1968-07-06,FALSE,Hawick,FALSE,Scrum-half,Scotland v South Africa,Murrayfield,1994-11-19,2,2,0,0,0,0,0,0,NA,1,1,0,0.5,Scotland,-2.780914,55.42706
+898,Jeremy,Richardson,1963-09-07,FALSE,Crawley,FALSE,Lock,Scotland v South Africa,Murrayfield,1994-11-19,1,1,0,0,0,0,0,0,NA,0,1,0,0,Scotland,-0.1872275,51.1091401
+899,Stewart,Campbell,1972-04-25,FALSE,Glasgow,FALSE,Lock,Scotland v Canada,Murrayfield,1995-01-21,17,13,4,0,0,0,0,0,NA,9,7,1,0.5294117647058824,Scotland,-4.251806,55.864237
+900,Dave,Hilton,1970-04-03,FALSE,Bristol,FALSE,Prop,Scotland v Canada,Murrayfield,1995-01-21,42,29,13,5,1,0,0,0,NA,19,22,1,0.4523809523809524,Scotland,-2.58791,51.454513
+901,Eric,Peters,1969-01-28,FALSE,Glasgow,FALSE,Back-row,Scotland v Canada,Murrayfield,1995-01-21,29,29,0,25,5,0,0,0,NA,13,16,0,0.4482758620689655,Scotland,-4.251806,55.864237
+902,John,Manson,1968-06-22,FALSE,Bridge of Allan,FALSE,Prop,England v Scotland,Twickenham,1995-03-18,1,0,1,0,0,0,0,0,NA,0,1,0,0,Scotland,-3.942207999999999,56.153149
+903,Jim,Hay,1964-08-08,FALSE,Hawick,FALSE,Hooker,Scotland v Samoa,Murrayfield,1995-11-18,1,1,0,0,0,0,0,0,NA,0,0,1,0,Scotland,-2.780914,55.42706
+904,Stuart,Reid,1970-01-31,FALSE,Kendal,FALSE,Flanker,Scotland v Samoa,Murrayfield,1995-11-18,8,6,2,0,0,0,0,0,NA,3,4,1,0.375,Scotland,-2.74629,54.32800599999999
+905,Rowen,Shepherd,1970-12-25,FALSE,Edinburgh,FALSE,Fullback,Scotland v Samoa,Murrayfield,1995-11-18,20,18,2,104,2,14,21,1,NA,6,13,1,0.3,Scotland,-3.188267,55.953252
+906,Ronnie,Eriksson,1972-04-22,FALSE,Athlone,FALSE,Centre,New Zealand v Scotland,Dunedin,1996-06-15,3,3,0,5,1,0,0,0,NA,0,3,0,0,Scotland,-7.940689799999999,53.4239331
+907,Barry,Stewart,1975-06-03,FALSE,Edinburgh,FALSE,Prop,New Zealand v Scotland,Auckland,1996-06-22,4,4,0,0,0,0,0,0,NA,0,4,0,0,Scotland,-3.188267,55.953252
+908,Murray,Wallace,1967-10-13,FALSE,Milton of Campsie,FALSE,Flanker,Scotland v Australia,Murrayfield,1996-11-09,3,3,0,0,0,0,0,0,NA,1,2,0,0.3333333333333333,Scotland,-4.161484,55.965089
+909,Mattie,Stewart,1973-05-18,FALSE,Dartford,FALSE,Prop,Scotland v Italy,Murrayfield,1996-12-14,34,31,3,0,0,0,0,0,NA,11,22,1,0.3235294117647059,Scotland,0.216872,51.44621
+910,Graham,Ellis,1965-04-06,FALSE,Hawick,FALSE,Hooker,Scotland v Wales,Murrayfield,1997-01-18,4,4,0,0,0,0,0,0,NA,1,3,0,0.25,Scotland,-2.780914,55.42706
+911,Tom,Smith,1971-10-31,FALSE,London,FALSE,Prop,England v Scotland,Twickenham,1997-02-01,67,67,0,30,6,0,0,0,NA,29,37,1,0.43283582089552236,Scotland,-0.1277583,51.5073509
+912,Cameron,Glasgow,1966-02-24,FALSE,Bridge of Allan,FALSE,Fullback,France v Scotland,Parc des Princes,1997-03-15,1,0,1,0,0,0,0,0,NA,0,1,0,0,Scotland,-3.942207999999999,56.153149
+913,Duncan,Hodge,1974-08-18,FALSE,Dumfries,FALSE,Fly-half,France v Scotland,Parc des Princes,1997-03-15,26,16,10,123,6,15,20,1,NA,11,14,1,0.4230769230769231,Scotland,-3.60512,55.070859
+914,James,Craig,1977-03-02,FALSE,Glasgow,FALSE,Wing,Scotland v Australia,Murrayfield,1997-11-22,4,2,2,0,0,0,0,0,NA,1,2,1,0.25,Scotland,-4.251806,55.864237
+915,Grant,McKelvey,1968-12-28,FALSE,Chingola,FALSE,Hooker,Scotland v Australia,Murrayfield,1997-11-22,1,1,0,0,0,0,0,0,NA,0,1,0,0,Scotland,27.8545867,-12.5419553
+916,Scott,Murray,1976-01-15,FALSE,Musselburgh,FALSE,Lock,Scotland v Australia,Murrayfield,1997-11-22,87,84,3,15,3,0,0,0,NA,31,55,1,0.3563218390804598,Scotland,-3.053918,55.941941
+917,Adam,Roxburgh,1970-04-14,FALSE,Edinburgh,FALSE,Flanker,Scotland v Australia,Murrayfield,1997-11-22,8,5,3,0,0,0,0,0,NA,0,8,0,0,Scotland,-3.188267,55.953252
+918,George,Graham,1966-01-19,FALSE,Stirling,FALSE,Prop,Scotland v Australia,Murrayfield,1997-11-22,25,8,17,5,1,0,0,0,NA,11,14,0,0.44,Scotland,-3.9369029,56.1165227
+919,Stuart,Grimes,1974-04-04,FALSE,Aberdeen,FALSE,Lock,Scotland v Australia,Murrayfield,1997-11-22,71,52,19,25,5,0,0,0,NA,27,43,1,0.38028169014084506,Scotland,-2.094278,57.149717
+920,Gordon,Bulloch,1975-03-26,FALSE,Glasgow,FALSE,Hooker,Scotland v South Africa,Murrayfield,1997-12-06,77,71,6,20,4,0,0,0,NA,26,50,1,0.33766233766233766,Scotland,-4.251806,55.864237
+921,Simon,Holmes,1966-12-12,FALSE,Workington,FALSE,Flanker,Italy v Scotland,Treviso,1998-01-24,3,3,0,0,0,0,0,0,NA,1,2,0,0.3333333333333333,Scotland,-3.542752,54.643569
+922,Derrick,Lee,1973-10-01,FALSE,Ayr,FALSE,Fullback,Ireland v Scotland,Lansdowne Road,1998-02-07,12,9,3,34,1,4,7,0,NA,1,11,0,0.08333333333333333,Scotland,-98.4403373,40.4375138
+923,Shaun,Longstaff,1972-01-03,FALSE,Wellington,FALSE,Wing,Scotland v France,Murrayfield,1998-02-21,15,10,5,10,2,0,0,0,NA,5,10,0,0.3333333333333333,Scotland,174.7745095,-41.274884
+924,Cammie,Murray,1975-03-31,FALSE,Hawick,FALSE,Wing,Scotland v England,Murrayfield,1998-03-22,26,24,2,35,7,0,0,0,NA,11,14,1,0.4230769230769231,Scotland,-2.780914,55.42706
+925,Hugh,Gilmour,1974-09-13,FALSE,Edinburgh,FALSE,Wing,Fiji v Scotland,Suva,1998-05-26,1,1,0,5,1,0,0,0,NA,0,1,0,0,Scotland,-3.188267,55.953252
+926,Gordon,McIlwham,1969-11-13,FALSE,Glasgow,FALSE,Prop,Fiji v Scotland,Suva,1998-05-26,16,2,14,0,0,0,0,0,NA,5,10,1,0.3125,Scotland,-4.251806,55.864237
+927,Matthew,Proudfoot,1972-01-30,FALSE,Klerksdorp,FALSE,Prop,Fiji v Scotland,Suva,1998-05-26,4,3,1,0,0,0,0,0,NA,0,4,0,0,Scotland,26.6317514,-26.8598225
+928,Glenn,Metcalfe,1970-04-15,FALSE,Auckland,FALSE,Fullback,Australia v Scotland,Sydney,1998-06-13,40,39,1,20,4,0,0,0,NA,17,23,0,0.425,Scotland,174.7626037,-36.8482512
+929,Gordon,Simpson,1971-09-21,FALSE,Takapuna,FALSE,No. 8,Australia v Scotland,Sydney,1998-06-13,15,11,4,15,3,0,0,0,NA,5,10,0,0.3333333333333333,Scotland,174.7651216,-36.7898708
+930,John,Leslie,1970-11-25,FALSE,Lower Hutt,FALSE,Centre,Scotland v South Africa,Murrayfield,1998-11-21,23,23,0,20,4,0,0,0,NA,10,12,1,0.43478260869565216,Scotland,174.8848657,-41.2161214
+931,Jamie,Mayer,1977-04-16,FALSE,Edinburgh,FALSE,Centre,Scotland v South Africa,Murrayfield,1998-11-21,8,7,1,0,0,0,0,0,NA,3,5,0,0.375,Scotland,-3.188267,55.953252
+932,Budge,Pountney,1973-11-13,FALSE,Southampton,FALSE,Flanker,Scotland v South Africa,Murrayfield,1998-11-21,31,27,4,25,5,0,0,0,NA,15,15,1,0.4838709677419355,Scotland,-72.3895296,40.884267
+933,Martin,Leslie,1971-10-25,FALSE,Lower Hutt,FALSE,Flanker,Scotland v South Africa,Murrayfield,1998-11-21,37,28,9,50,10,0,0,0,NA,17,19,1,0.4594594594594595,Scotland,174.8848657,-41.2161214
+934,Iain,Fairley,1973-08-29,FALSE,Kelso,FALSE,Scrum-half,Scotland v Italy,Murrayfield,1999-03-06,3,1,2,0,0,0,0,0,NA,3,0,0,1,Scotland,-95.1099662,36.705635
+935,Graeme,Burns,1971-10-29,FALSE,Edinburgh,FALSE,Scrum-half,Scotland v Italy,Murrayfield,1999-03-06,4,0,4,0,0,0,0,0,NA,3,1,0,0.75,Scotland,-3.188267,55.953252
+936,Steve,Brotherstone,1971-04-16,FALSE,Duns,FALSE,Hooker,Scotland v Ireland,Murrayfield,1999-03-20,8,6,2,0,0,0,0,0,NA,4,4,0,0.5,Scotland,-117.8932233,33.7875582
+937,James,McLaren,1972-07-28,FALSE,Stirling,FALSE,Centre,Scotland v Argentina,Murrayfield,1999-08-21,30,23,7,30,6,0,0,0,NA,13,16,1,0.43333333333333335,Scotland,-3.9369029,56.1165227
+938,Robbie,Russell,1976-05-01,FALSE,"Brisbane, QLD",FALSE,Hooker,Scotland v Romania,Glasgow,1999-08-28,27,4,23,20,4,0,0,0,NA,12,15,0,0.4444444444444444,Scotland,153.0251235,-27.4697707
+939,Cameron,Mather,1972-08-20,FALSE,Christchurch,FALSE,Back-row,Scotland v Romania,Glasgow,1999-08-28,10,7,3,10,2,0,0,0,NA,4,6,0,0.4,Scotland,172.6305589,-43.5320214
+940,Chris,Paterson,1978-03-30,FALSE,Edinburgh,FALSE,"Fullback, Wing",Scotland v Spain,Murrayfield,1999-10-16,109,96,13,809,22,90,170,3,NA,43,65,1,0.3944954128440367,Scotland,-3.188267,55.953252
+941,Craig,Moir,1973-09-25,FALSE,Aberdeen,FALSE,"Wing, Centre",Wales v Scotland,Millennium Stadium,2000-03-18,3,3,0,0,0,0,0,0,NA,1,2,0,0.3333333333333333,Scotland,-2.094278,57.149717
+942,Richard,Metcalfe,1973-11-21,FALSE,Leeds,FALSE,Lock,Scotland v England,Murrayfield,2000-04-02,9,7,2,5,1,0,0,0,NA,3,5,1,0.3333333333333333,Scotland,-1.5490774,53.8007554
+943,Jason,White,1978-04-17,FALSE,Edinburgh,FALSE,Back-row,Scotland v England,Murrayfield,2000-04-02,77,62,15,20,4,0,0,0,NA,31,46,0,0.4025974025974026,Scotland,-3.188267,55.953252
+944,Ross,Beattie,1977-11-15,FALSE,Sittingbourne,FALSE,Back-row,New Zealand v Scotland,Dunedin,2000-06-24,9,4,5,0,0,0,0,0,NA,5,4,0,0.5555555555555556,Scotland,0.7315959999999999,51.340402
+945,Iain,Fullarton,1976-04-25,FALSE,Edinburgh,FALSE,Lock,New Zealand v Scotland,Dunedin,2000-06-24,8,2,6,0,0,0,0,0,NA,2,6,0,0.25,Scotland,-3.188267,55.953252
+946,Jon,Petrie,1976-10-19,FALSE,Dundee,FALSE,Back-row,New Zealand v Scotland,Auckland,2000-07-01,45,22,23,15,3,0,0,0,NA,17,27,1,0.37777777777777777,Scotland,-2.970721,56.462018
+947,Graeme,Beveridge,1976-02-17,FALSE,Edinburgh,FALSE,Scrum-half,New Zealand v Scotland,Auckland,2000-07-01,6,1,5,0,0,0,0,0,NA,4,2,0,0.6666666666666666,Scotland,-3.188267,55.953252
+948,Nathan,Hines,1976-11-29,FALSE,Wagga Wagga,FALSE,Lock,New Zealand v Scotland,Auckland,2000-07-01,77,51,26,10,2,0,0,0,NA,30,46,1,0.38961038961038963,Scotland,147.3598323,-35.1081689
+949,Steve,Scott,1974-07-26,FALSE,Galashiels,FALSE,Hooker,New Zealand v Scotland,Auckland,2000-07-01,11,0,11,0,0,0,0,0,NA,8,3,0,0.7272727272727273,Scotland,-2.814449,55.623728
+950,Alan,Bulloch,1977-07-07,FALSE,Glasgow,FALSE,Centre,Scotland v United States of America,Murrayfield,2000-11-04,5,4,1,5,1,0,0,0,NA,2,3,0,0.4,Scotland,-4.251806,55.864237
+951,Jon,Steel,1980-03-14,FALSE,Middlesbrough,FALSE,Outside back,Scotland v United States of America,Murrayfield,2000-11-04,5,5,0,0,0,0,0,0,NA,3,2,0,0.6,Scotland,-1.234956,54.574227
+952,Simon,Taylor,1979-08-17,FALSE,Stirling,FALSE,Back-row,Scotland v United States of America,Murrayfield,2000-11-04,66,65,1,30,6,0,0,0,NA,29,37,0,0.4393939393939394,Scotland,-3.9369029,56.1165227
+953,Andrew,Henderson,1980-02-03,FALSE,"Chatham, Kent",FALSE,Centre,Scotland v Ireland,Murrayfield,2001-09-22,53,41,12,40,8,0,0,0,NA,17,36,0,0.32075471698113206,Scotland,-82.19103779999999,42.4048028
+954,Andrew,Mower,1975-09-09,FALSE,"Sydney, NSW",FALSE,Flanker,Scotland v Tonga,Murrayfield,2001-11-10,13,13,0,0,0,0,0,0,NA,4,9,0,0.3076923076923077,Scotland,151.2092955,-33.8688197
+955,Gordon,Ross,1978-03-08,FALSE,Edinburgh,FALSE,Fly-half,Scotland v Tonga,Murrayfield,2001-11-10,25,11,14,55,2,6,10,1,NA,13,12,0,0.52,Scotland,-3.188267,55.953252
+956,Roland,Reid,1978-09-13,FALSE,Middleberg,FALSE,Wing,Scotland v Tonga,Murrayfield,2001-11-10,2,1,1,5,1,0,0,0,NA,1,1,0,0.5,Scotland,-97.73472199999999,35.106111
+957,Brendan,Laney,1973-11-16,FALSE,Invercargill,FALSE,"Centre, Fly-half",Scotland v New Zealand,Murrayfield,2001-11-24,20,17,3,141,4,17,29,0,NA,7,13,0,0.35,Scotland,168.3614659,-46.4178708
+958,Mike,Blair,1981-04-20,FALSE,Edinburgh,FALSE,Scrum-half,Canada v Scotland,Vancouver,2002-06-15,85,49,36,35,7,0,0,0,NA,33,52,0,0.38823529411764707,Scotland,-3.188267,55.953252
+959,Andy,Craig,1976-03-16,FALSE,"St Helens, Lancs",FALSE,Centre,Canada v Scotland,Vancouver,2002-06-15,23,20,3,40,8,0,0,0,NA,9,14,0,0.391304347826087,Scotland,-2.737095,53.456307
+960,Rory,Kerr,1979-12-20,FALSE,Glasgow,FALSE,Fullback,Canada v Scotland,Vancouver,2002-06-15,3,3,0,5,1,0,0,0,NA,1,2,0,0.3333333333333333,Scotland,-4.251806,55.864237
+961,Craig,Smith,1978-08-30,FALSE,"Fulford, York",FALSE,Prop,Canada v Scotland,Vancouver,2002-06-15,25,4,21,0,0,0,0,0,NA,12,13,0,0.48,Scotland,-1.0688195,53.9371762
+962,Ben,Hinshelwood,1977-03-22,FALSE,"Melbourne, VIC",FALSE,Centre,Canada v Scotland,Vancouver,2002-06-15,19,12,7,5,1,0,0,0,NA,10,9,0,0.5263157894736842,Scotland,144.9630576,-37.8136276
+963,Allan,Jacobsen,1978-09-22,FALSE,Edinburgh,FALSE,Prop,Canada v Scotland,Vancouver,2002-06-15,65,51,14,0,0,0,0,0,NA,24,40,1,0.36923076923076925,Scotland,-3.188267,55.953252
+964,Donnie,Macfadyen,1979-10-11,FALSE,Edinburgh,FALSE,Flanker,Canada v Scotland,Vancouver,2002-06-15,11,9,2,10,2,0,0,0,NA,3,8,0,0.2727272727272727,Scotland,-3.188267,55.953252
+965,Marcus ,di Rollo,1978-03-31,FALSE,Edinburgh,FALSE,Centre,United States of America v Scotland,San Francisco,2002-06-22,21,19,2,13,2,0,0,1,NA,10,11,0,0.47619047619047616,Scotland,-3.188267,55.953252
+966,Andy,Hall,1979-06-05,FALSE,Solihull,FALSE,"Lock, Flanker",United States of America v Scotland,San Francisco,2002-06-22,1,0,1,0,0,0,0,0,NA,1,0,0,1,Scotland,-1.77761,52.411811
+967,Bruce,Douglas,1980-02-10,FALSE,Edinburgh,FALSE,Prop,Scotland v Romania,Murrayfield,2002-11-09,43,33,10,5,1,0,0,0,NA,15,28,0,0.3488372093023256,Scotland,-3.188267,55.953252
+968,Stuart,Moffat,1977-08-18,FALSE,Edinburgh,FALSE,Fullback,Scotland v Romania,Murrayfield,2002-11-09,4,3,1,5,1,0,0,0,NA,3,1,0,0.75,Scotland,-3.188267,55.953252
+969,Nikki,Walker,1982-03-05,FALSE,Aberdeen,FALSE,Wing,Scotland v Romania,Murrayfield,2002-11-09,24,18,6,30,6,0,0,0,NA,13,11,0,0.5416666666666666,Scotland,-2.094278,57.149717
+970,Gavin,Kerr,1977-04-03,FALSE,Newcastle-upon-Tyne,FALSE,Prop,Scotland v Ireland,Murrayfield,2003-02-16,50,34,16,5,1,0,0,0,NA,15,35,0,0.3,Scotland,-1.61778,54.978252
+971,Kevin,Utterson,1976-07-17,FALSE,Edinburgh,FALSE,Centre,France v Scotland,Stade de France,2003-02-23,3,2,1,0,0,0,0,0,NA,1,2,0,0.3333333333333333,Scotland,-3.188267,55.953252
+972,Simon,Danielli,1979-09-08,FALSE,Edinburgh,FALSE,Wing,Scotland v Italy,Murrayfield,2003-08-23,32,27,5,40,8,0,0,0,NA,12,19,1,0.375,Scotland,-3.188267,55.953252
+973,Andrew,Dall,1977-07-22,FALSE,Edinburgh,FALSE,Back-row,Wales v Scotland,Millennium Stadium,2003-08-30,1,0,1,0,0,0,0,0,NA,0,1,0,0,Scotland,-3.188267,55.953252
+974,Dougie,Hall,1980-09-24,FALSE,Dingwall,FALSE,Hooker,Wales v Scotland,Millennium Stadium,2003-08-30,42,13,29,5,1,0,0,0,NA,18,24,0,0.42857142857142855,Scotland,-79.0183698,43.8618998
+975,Simon,Webster,1981-03-08,FALSE,Hartlepool,FALSE,Wing,Scotland v Ireland,Murrayfield,2003-09-06,37,26,11,40,8,0,0,0,NA,15,22,0,0.40540540540540543,Scotland,-1.212926,54.691745
+976,Chris,Cusiter,1982-06-13,FALSE,Aberdeen,FALSE,Scrum-half,Wales v Scotland,Millennium Stadium,2004-02-14,71,36,35,15,3,0,0,0,NA,24,45,2,0.3380281690140845,Scotland,-2.094278,57.149717
+977,Ally,Hogg,1983-01-20,FALSE,Stirling,FALSE,Back-row,Wales v Scotland,Millennium Stadium,2004-02-14,48,40,8,50,10,0,0,0,NA,15,33,0,0.3125,Scotland,-3.9369029,56.1165227
+978,Tom,Philip,1983-06-25,FALSE,Edinburgh,FALSE,Outside back,Wales v Scotland,Millennium Stadium,2004-02-14,5,5,0,0,0,0,0,0,NA,0,5,0,0,Scotland,-3.188267,55.953252
+979,Dan,Parks,1978-05-26,FALSE,Hornsby,FALSE,Fly-half,Wales v Scotland,Millennium Stadium,2004-02-14,67,47,20,266,4,15,55,17,NA,25,41,1,0.373134328358209,Scotland,151.0987055,-33.7046328
+980,Sean,Lamont,1981-01-15,FALSE,Perth,FALSE,Wing,Samoa v Scotland,Wellington,2004-06-04,105,93,12,70,14,0,0,0,NA,44,60,1,0.41904761904761906,Scotland,115.8604572,-31.9505269
+981,Hugo,Southwell,1980-05-14,FALSE,London,FALSE,Fullback,Samoa v Scotland,Wellington,2004-06-04,59,42,17,40,8,0,0,0,NA,22,36,1,0.3728813559322034,Scotland,-0.1277583,51.5073509
+982,Graeme,Morrison,1982-10-17,FALSE,Not Available,FALSE,Centre,Australia v Scotland,Melbourne,2004-06-13,35,29,6,15,3,0,0,0,NA,14,20,1,0.4,Scotland,-122.2636808,37.8009514
+983,Craig,Hamilton,1979-09-01,FALSE,Dumfries,FALSE,Lock,Australia v Scotland,Sydney,2004-06-19,5,4,1,0,0,0,0,0,NA,2,3,0,0.4,Scotland,-3.60512,55.070859
+984,Scott,Gray,1978-02-25,FALSE,"Salisbury, Rhodesia",FALSE,Back-row,Scotland v Australia,Murrayfield,2004-11-06,8,2,6,5,1,0,0,0,NA,2,6,0,0.25,Scotland,31.0492259,-17.8216288
+985,Scott,Macleod,1979-03-03,FALSE,Hawick,FALSE,Lock,Scotland v Australia,Murrayfield,2004-11-06,24,9,15,0,0,0,0,0,NA,11,13,0,0.4583333333333333,Scotland,-2.780914,55.42706
+986,Ross,Ford,1984-04-23,FALSE,Leith,FALSE,Hooker,Scotland v Australia,Murrayfield,2004-11-06,111,88,23,25,5,0,0,0,NA,46,64,1,0.4144144144144144,Scotland,-3.1665102,55.97552779999999
+987,Alastair,Kellock,1981-06-14,FALSE,Bishopbriggs,FALSE,Lock,Scotland v Australia,Murrayfield,2004-11-06,56,32,24,5,1,0,0,0,NA,24,31,1,0.42857142857142855,Scotland,-4.228494,55.904185
+988,Jon,Dunbar,1980-04-04,FALSE,Wegberg,FALSE,Back-row,France v Scotland,Stade de France,2005-02-05,2,0,2,0,0,0,0,0,NA,1,1,0,0.5,Scotland,6.2815922,51.1423399
+989,Rory,Lamont,1982-10-10,FALSE,Perth,FALSE,"Fullback, Wing",Scotland v Wales,Murrayfield,2005-03-13,29,26,3,30,6,0,0,0,NA,12,17,0,0.41379310344827586,Scotland,115.8604572,-31.9505269
+990,Kelly,Brown,1982-06-08,FALSE,Edinburgh,FALSE,Back-row,Romania v Scotland,Bucharest,2005-06-05,64,46,18,20,4,0,0,0,NA,25,38,1,0.390625,Scotland,-3.188267,55.953252
+991,Scott,Lawson,1981-09-28,FALSE,Lanark,FALSE,Hooker,Romania v Scotland,Bucharest,2005-06-05,47,17,30,10,2,0,0,0,NA,20,26,1,0.425531914893617,Scotland,-3.7821380000000002,55.673865
+992,Phil,Godman,1982-05-20,FALSE,Edinburgh,FALSE,Fly-half,Romania v Scotland,Bucharest,2005-06-05,23,16,7,71,1,12,14,0,NA,10,12,1,0.43478260869565216,Scotland,-3.188267,55.953252
+993,Euan,Murray,1980-08-07,FALSE,Glasgow,FALSE,Prop,Romania v Scotland,Bucharest,2005-06-05,66,58,8,10,2,0,0,0,NA,25,40,1,0.3787878787878788,Scotland,-4.251806,55.864237
+994,Andy,Wilson,1980-12-09,FALSE,Fort Brown,FALSE,"Wing, Back-row",Romania v Scotland,Bucharest,2005-06-05,1,0,1,0,0,0,0,0,NA,1,0,0,1,Scotland,-97.4916265,25.8984584
+995,Ben,MacDougall,1977-05-25,FALSE,"Sydney, NSW",FALSE,Centre,Wales v Scotland,Millennium Stadium,2006-02-12,2,1,1,0,0,0,0,0,NA,0,2,0,0,Scotland,151.2092955,-33.8688197
+996,Sam,Pinder,1979-02-15,FALSE,Not Available,FALSE,Scrum-half,South Africa v Scotland,Durban,2006-06-10,2,0,2,0,0,0,0,0,NA,0,2,0,0,Scotland,-122.2636808,37.8009514
+997,Johnnie,Beattie,1985-11-21,FALSE,Glasgow,FALSE,Back-row,Scotland v Romania,Murrayfield,2006-11-11,38,33,5,15,3,0,0,0,NA,15,22,1,0.39473684210526316,Scotland,-4.251806,55.864237
+998,Rob,Dewey,1983-10-19,FALSE,Marlborough,FALSE,"Wing, Centre",Scotland v Romania,Murrayfield,2006-11-11,13,11,2,20,4,0,0,0,NA,6,7,0,0.46153846153846156,Scotland,-71.5522874,42.3459271
+999,David,Callam,1983-02-15,FALSE,Edinburgh,FALSE,No. 8,Scotland v Romania,Murrayfield,2006-11-11,11,8,3,5,1,0,0,0,NA,3,8,0,0.2727272727272727,Scotland,-3.188267,55.953252
+1000,Jim,Hamilton,1982-11-17,FALSE,Swindon,FALSE,Lock,Scotland v Romania,Murrayfield,2006-11-11,63,51,12,5,1,0,0,0,NA,18,44,1,0.2857142857142857,Scotland,-1.7797176,51.55577390000001
+1001,Rory,Lawson,1981-03-12,FALSE,Dunfermline,FALSE,Scrum-half,Scotland v Australia,Murrayfield,2006-11-25,31,12,19,0,0,0,0,0,NA,13,17,1,0.41935483870967744,Scotland,-3.452151,56.071741
+1002,Alasdair,Strokosch,1983-02-21,FALSE,Paisley,FALSE,Back-row,Scotland v Australia,Murrayfield,2006-11-25,47,35,12,10,2,0,0,0,NA,22,25,0,0.46808510638297873,Scotland,-90.0880101,30.3989348
+1003,Fergus,Thomson,1983-10-18,FALSE,Dundee,FALSE,Hooker,Scotland v Ireland,Murrayfield,2007-08-11,8,1,7,0,0,0,0,0,NA,2,6,0,0.25,Scotland,-2.970721,56.462018
+1004,John,Barclay,1986-09-24,FALSE,Not Available,FALSE,Back-row,Scotland v New Zealand,Murrayfield,2007-09-23,76,68,8,35,7,0,0,0,NA,36,39,1,0.47368421052631576,Scotland,-122.2636808,37.8009514
+1005,Alasdair,Dickinson,1983-09-11,FALSE,Dundee,FALSE,Prop,Scotland v New Zealand,Murrayfield,2007-09-23,58,31,27,10,2,0,0,0,NA,23,35,0,0.39655172413793105,Scotland,-2.970721,56.462018
+1006,Nick de,Luca,1984-02-01,FALSE,Dumfries,FALSE,Centre,Scotland v France,Murrayfield,2008-02-03,43,26,17,5,1,0,0,0,NA,16,26,1,0.37209302325581395,Scotland,-3.60512,55.070859
+1007,Ross,Rennie,1986-03-29,FALSE,Edinburgh,FALSE,Back-row,Ireland v Scotland,Croke Park,2008-02-23,20,11,9,0,0,0,0,0,NA,9,11,0,0.45,Scotland,-3.188267,55.953252
+1008,Ben,Cairns,1985-09-29,FALSE,Leeds,FALSE,Centre,Argentina v Scotland,Rosario,2008-06-07,7,7,0,5,1,0,0,0,NA,2,5,0,0.2857142857142857,Scotland,-1.5490774,53.8007554
+1009,Thom,Evans,1985-04-02,FALSE,Harare,FALSE,Wing,Argentina v Scotland,Rosario,2008-06-07,10,10,0,5,1,0,0,0,NA,1,9,0,0.1,Scotland,31.0492259,-17.8216288
+1010,Mat,Mustchin,1977-02-02,FALSE,Christchurch,FALSE,Lock,Argentina v Scotland,Rosario,2008-06-07,5,2,3,0,0,0,0,0,NA,2,3,0,0.4,Scotland,172.6305589,-43.5320214
+1011,Max,Evans,1983-09-28,FALSE,Torquay,FALSE,Centre,Scotland v Canada,Aberdeen,2008-11-22,44,27,17,15,3,0,0,0,NA,15,28,1,0.3409090909090909,Scotland,-3.525315,50.4619209
+1012,Geoff,Cross,1982-12-11,FALSE,Edinburgh,FALSE,Prop,Scotland v Wales,Murrayfield,2009-02-08,40,18,22,10,2,0,0,0,NA,13,26,1,0.325,Scotland,-3.188267,55.953252
+1013,Moray,Low,1984-11-28,FALSE,Torphins,FALSE,Prop,France v Scotland,Stade de France,2009-02-14,37,16,21,0,0,0,0,0,NA,19,18,0,0.5135135135135135,Scotland,-2.622312,57.104876
+1014,Alex,Grove,1987-11-30,FALSE,Solihull,FALSE,Centre,Scotland v Fiji,Murrayfield,2009-11-14,3,3,0,0,0,0,0,0,NA,2,1,0,0.6666666666666666,Scotland,-1.77761,52.411811
+1015,Kyle,Traynor,1986-02-27,FALSE,Farnborough,FALSE,Prop,Scotland v Fiji,Murrayfield,2009-11-14,4,1,3,0,0,0,0,0,NA,2,2,0,0.5,Scotland,-0.7526149999999999,51.2868939
+1016,Richie,Vernon,1987-07-07,FALSE,Dundee,FALSE,Centre,Scotland v Fiji,Murrayfield,2009-11-14,24,10,14,0,0,0,0,0,NA,10,14,0,0.4166666666666667,Scotland,-2.970721,56.462018
+1017,Alan,MacDonald,1985-10-21,FALSE,Edinburgh,FALSE,Back-row,Scotland v Argentina,Murrayfield,2009-11-28,4,1,3,0,0,0,0,0,NA,1,2,1,0.25,Scotland,-3.188267,55.953252
+1018,Richie,Gray,1989-08-24,FALSE,Rutherglen,FALSE,Lock,Scotland v France,Murrayfield,2010-02-07,66,56,10,15,3,0,0,0,NA,32,34,0,0.48484848484848486,Scotland,146.4625,-36.055556
+1019,Ruaridh,Jackson,1988-02-12,FALSE,Northampton,FALSE,"Fullback, Fly-half",Scotland v New Zealand,Murrayfield,2010-11-13,33,18,15,37,2,6,3,2,NA,15,18,0,0.45454545454545453,Scotland,-72.64120129999999,42.3250896
+1020,Greig,Laidlaw,1985-10-12,FALSE,Edinburgh,FALSE,Scrum-half,Scotland v New Zealand,Murrayfield,2010-11-13,76,68,8,714,5,106,159,0,NA,33,42,1,0.4342105263157895,Scotland,-3.188267,55.953252
+1021,Joe,Ansbro,1985-10-29,FALSE,Glasgow,FALSE,Centre,Scotland v South Africa,Murrayfield,2010-11-20,11,11,0,15,3,0,0,0,NA,7,4,0,0.6363636363636364,Scotland,-4.251806,55.864237
+1022,Jack,Cuthbert,1987-09-03,FALSE,Bristol,FALSE,"Fullback, Wing",Scotland v Ireland,Murrayfield,2011-08-06,1,0,1,0,0,0,0,0,NA,1,0,0,1,Scotland,-2.58791,51.454513
+1023,David,Denton,1990-02-05,FALSE,Marondera,FALSE,"Lock, Flanker",Scotland v Ireland,Murrayfield,2011-08-06,42,28,14,0,0,0,0,0,NA,15,27,0,0.35714285714285715,Scotland,31.5487439,-18.1885141
+1024,Lee,Jones,1988-06-28,FALSE,Edinburgh,FALSE,Wing,Scotland v England,Murrayfield,2012-02-04,10,9,1,5,1,0,0,0,NA,3,7,0,0.3,Scotland,-3.188267,55.953252
+1025,Stuart,Hogg,1992-06-24,FALSE,Melrose,FALSE,Fullback,Wales v Scotland,Millennium Stadium,2012-02-12,80,79,1,118,20,0,5,1,NA,38,42,0,0.475,Scotland,-95.905785,36.150091
+1026,Ed,Kalman,1982-12-07,FALSE,Plymouth,FALSE,Prop,Wales v Scotland,Millennium Stadium,2012-02-12,2,0,2,0,0,0,0,0,NA,0,2,0,0,Scotland,-70.6672621,41.9584457
+1027,Duncan,Weir,1991-05-10,FALSE,Glasgow,FALSE,Fly-half,Scotland v France,Murrayfield,2012-02-26,30,15,15,80,2,11,15,1,NA,13,17,0,0.43333333333333335,Scotland,-4.251806,55.864237
+1028,Matt,Scott,1990-09-30,FALSE,Dunfermline,FALSE,Centre,Ireland v Scotland,Lansdowne Road,2012-03-10,39,30,9,25,5,0,0,0,NA,18,21,0,0.46153846153846156,Scotland,-3.452151,56.071741
+1029,Jon,Welsh,1986-10-13,FALSE,Glasgow,FALSE,Prop,Italy v Scotland,Rome,2012-03-17,12,4,8,5,1,0,0,0,NA,5,7,0,0.4166666666666667,Scotland,-4.251806,55.864237
+1030,Ryan,Grant,1985-10-08,FALSE,Kirkcaldy,FALSE,Prop,Australia v Scotland,Newcastle,2012-06-05,25,20,5,0,0,0,0,0,NA,10,15,0,0.4,Scotland,-3.158137,56.1168249
+1031,Tom,Brown,1990-03-31,FALSE,Edinburgh,FALSE,Wing,Australia v Scotland,Newcastle,2012-06-05,1,0,1,0,0,0,0,0,NA,1,0,0,1,Scotland,-3.188267,55.953252
+1032,Tim,Visser,1987-05-29,FALSE,"Zeewolde, Netherland",FALSE,Wing,Fiji v Scotland,Lautoka,2012-06-16,33,30,3,70,14,0,0,0,NA,16,17,0,0.48484848484848486,Scotland,5.540495,52.331128
+1033,Tom,Ryder,1985-02-21,FALSE,Nottingham,FALSE,Lock,Fiji v Scotland,Lautoka,2012-06-16,2,0,2,0,0,0,0,0,NA,2,0,0,1,Scotland,-1.1581086,52.95478319999999
+1034,Rob,Harley,1990-05-26,FALSE,"Crewe, Cheshire",FALSE,Back-row,Samoa v Scotland,Apia,2012-06-23,22,13,9,5,1,0,0,0,NA,11,11,0,0.5,Scotland,-2.4438209,53.10040499999999
+1035,Henry,Pyrgos,1989-07-09,FALSE,Dorchester,FALSE,Scrum-half,Scotland v New Zealand,Murrayfield,2012-11-11,28,6,22,29,4,0,3,0,NA,16,12,0,0.5714285714285714,Scotland,-71.067605,42.30163049999999
+1036,Tom,Heathcote,1992-02-11,FALSE,Inverness,FALSE,Fly-half,Scotland v Tonga,Aberdeen,2012-11-24,3,2,1,0,0,0,0,0,NA,1,2,0,0.3333333333333333,Scotland,-4.224721,57.477773
+1037,Sean,Maitland,1988-09-14,FALSE,Tokoroa,FALSE,Wing,England v Scotland,Twickenham,2013-02-02,50,45,5,75,15,0,0,0,NA,26,23,1,0.52,Scotland,175.862693,-38.22021100000001
+1038,Ryan,Wilson,1989-05-18,FALSE,Aldershot,FALSE,Back-row,Scotland v Wales,Murrayfield,2013-03-09,49,37,12,0,0,0,0,0,NA,28,21,0,0.5714285714285714,Scotland,-0.7557509,51.248366
+1039,Grant,Gilchrist,1990-08-09,FALSE,Stirling,FALSE,Lock,France v Scotland,Stade de France,2013-03-16,42,31,11,5,1,0,0,0,NA,24,17,1,0.5714285714285714,Scotland,-3.9369029,56.1165227
+1040,Alex,Dunbar,1990-04-23,FALSE,Dumfries,FALSE,Centre,Samoa v Scotland,Durban,2013-06-08,31,30,1,35,7,0,0,0,NA,15,16,0,0.4838709677419355,Scotland,-3.60512,55.070859
+1041,Pat,MacArthur,1987-04-27,FALSE,Irvine,FALSE,Hooker,Samoa v Scotland,Durban,2013-06-08,6,1,5,0,0,0,0,0,NA,3,3,0,0.5,Scotland,-117.8265049,33.6845673
+1042,Greig,Tonks,1989-05-20,FALSE,Pretoria,FALSE,Fullback,Samoa v Scotland,Durban,2013-06-08,8,4,4,3,0,0,1,0,NA,2,6,0,0.25,Scotland,28.2292712,-25.7478676
+1043,Pete,Horne,1989-10-05,FALSE,Aberdeen,FALSE,"Centre, Fly-half",Samoa v Scotland,Durban,2013-06-08,45,22,23,53,6,7,3,0,NA,24,21,0,0.5333333333333333,Scotland,-2.094278,57.149717
+1044,Steven,Lawrie,1984-02-22,FALSE,Edinburgh,FALSE,Hooker,Samoa v Scotland,Durban,2013-06-08,1,0,1,0,0,0,0,0,NA,0,1,0,0,Scotland,-3.188267,55.953252
+1045,Duncan,Taylor,1989-09-05,FALSE,Northampton,FALSE,Centre,Samoa v Scotland,Durban,2013-06-08,28,17,11,17,3,1,0,0,NA,13,15,0,0.4642857142857143,Scotland,-72.64120129999999,42.3250896
+1046,Peter,Murchie,1986-01-07,FALSE,Carlisle,FALSE,Fullback,South Africa v Scotland,Nelspruit,2013-06-15,3,2,1,0,0,0,0,0,NA,1,2,0,0.3333333333333333,Scotland,-93.4835466,41.4986013
+1047,Tommy,Seymour,1988-07-01,FALSE,"Tullahoma, TN, United States",FALSE,Wing,South Africa v Scotland,Nelspruit,2013-06-15,55,55,0,100,20,0,0,0,NA,27,28,0,0.4909090909090909,Scotland,-86.20943419999999,35.3620235
+1048,Tim,Swinson,1987-02-17,FALSE,London,FALSE,Lock,South Africa v Scotland,Nelspruit,2013-06-15,38,13,25,5,1,0,0,0,NA,18,20,0,0.47368421052631576,Scotland,-0.1277583,51.5073509
+1049,Fraser,Brown,1989-06-20,FALSE,Lanark,FALSE,Hooker,Italy v Scotland,Pretoria,2013-06-22,54,22,32,25,5,0,0,0,NA,26,27,1,0.48148148148148145,Scotland,-3.7821380000000002,55.673865
+1050,Jonny,Gray,1994-03-14,FALSE,Rutherglen,FALSE,Lock,Scotland v South Africa,Murrayfield,2013-11-17,61,55,6,20,4,0,0,0,NA,27,33,1,0.4426229508196721,Scotland,146.4625,-36.055556
+1051,Kieran,Low,1991-01-27,FALSE,Chichester,FALSE,Lock,Scotland v Australia,Murrayfield,2013-11-23,5,1,4,0,0,0,0,0,NA,4,1,0,0.8,Scotland,-0.774936,50.83761000000001
+1052,Chris,Fusaro,1989-07-21,FALSE,Kirkcaldy,FALSE,Back-row,Scotland v England,Murrayfield,2014-02-08,4,3,1,0,0,0,0,0,NA,2,2,0,0.5,Scotland,-3.158137,56.1168249
+1053,Dougie,Fife,1990-08-08,FALSE,Edinburgh,FALSE,Wing,Wales v Scotland,Millennium Stadium,2014-03-15,8,4,4,15,3,0,0,0,NA,2,6,0,0.25,Scotland,-3.188267,55.953252
+1054,Blair,Cowan,1986-04-21,FALSE,Upper Hutt,FALSE,Back-row,United States of America v Scotland,Houston,2014-06-07,18,13,5,10,2,0,0,0,NA,6,12,0,0.3333333333333333,Scotland,175.0656426,-41.1249326
+1055,Gordon,Reid,1987-03-04,FALSE,Irvine,FALSE,Prop,United States of America v Scotland,Houston,2014-06-07,41,17,24,5,1,0,0,0,NA,21,19,1,0.5121951219512195,Scotland,-117.8265049,33.6845673
+1056,Finn,Russell,1992-09-23,FALSE,Stirling,FALSE,Fly-half,United States of America v Scotland,Houston,2014-06-07,51,50,1,147,6,33,17,0,NA,30,20,1,0.5882352941176471,Scotland,-3.9369029,56.1165227
+1057,Alex,Allan,1992-02-28,FALSE,Harrogate,FALSE,Prop,United States of America v Scotland,Houston,2014-06-07,8,1,7,0,0,0,0,0,NA,5,3,0,0.625,Scotland,-1.541812,53.99212
+1058,Kevin,Bryce,1988-09-07,FALSE,Alloa,FALSE,Prop,Canada v Scotland,Toronto,2014-06-14,3,0,3,0,0,0,0,0,NA,2,1,0,0.6666666666666666,Scotland,-3.791896,56.114073
+1059,Grayson,Hart,1988-06-19,FALSE,Kaitaia,FALSE,Scrum-half,Canada v Scotland,Toronto,2014-06-14,3,1,2,0,0,0,0,0,NA,2,1,0,0.6666666666666666,Scotland,173.258714,-35.1088272
+1060,Adam,Ashe,1993-07-24,FALSE,Livingston,FALSE,Back-row,South Africa v Scotland,Port Elizabeth,2014-06-28,6,5,1,0,0,0,0,0,NA,2,4,0,0.3333333333333333,Scotland,-74.3300842,40.7862871
+1061,Tyrone,Holmes,1986-04-15,FALSE,Johannesburg,FALSE,Back-row,South Africa v Scotland,Port Elizabeth,2014-06-28,1,0,1,0,0,0,0,0,NA,0,1,0,0,Scotland,28.0473051,-26.2041028
+1062,Mark,Bennett,1993-02-03,FALSE,Irvine,FALSE,"Wing, Centre",Scotland v Argentina,Murrayfield,2014-11-08,22,17,5,30,6,0,0,0,NA,9,13,0,0.4090909090909091,Scotland,-117.8265049,33.6845673
+1063,Sam,Hidalgo-Clyne,1993-08-04,FALSE,Granada,FALSE,Scrum-half,France v Scotland,Stade de France,2015-02-07,14,2,12,7,0,2,1,0,NA,4,10,0,0.2857142857142857,Scotland,-3.5985571,37.1773363
+1064,Ben,Toolis,1992-03-31,FALSE,"Brisbane, QLD",FALSE,Lock,Scotland v Italy,Murrayfield,2015-02-28,26,16,10,5,1,0,0,0,NA,13,12,1,0.5,Scotland,153.0251235,-27.4697707
+1065,Hamish,Watson,1991-10-15,FALSE,Manchester,FALSE,Back-row,Scotland v Italy,Murrayfield,2015-02-28,36,31,5,20,4,0,0,0,NA,20,15,1,0.5555555555555556,Scotland,-2.2426305,53.4807593
+1066,Hugh,Blake,1992-09-10,FALSE,Tauranga,FALSE,Back-row,Ireland v Scotland,Lansdowne Road,2015-08-15,1,1,0,0,0,0,0,0,NA,0,1,0,0,Scotland,176.15388,-37.7037689
+1067,Mike,Cusack,1984-11-07,FALSE,Doncaster,FALSE,Prop,Ireland v Scotland,Lansdowne Road,2015-08-15,2,1,1,0,0,0,0,0,NA,1,1,0,0.5,Scotland,-1.128462,53.52282
+1068,John,Hardie,1988-07-27,FALSE,Lumsden,FALSE,Back-row,Italy v Scotland,Torino,2015-08-22,16,13,3,15,3,0,0,0,NA,8,8,0,0.5,Scotland,-104.8675689,50.6462813
+1069,Rory,Hughes,1993-03-04,FALSE,Glasgow,FALSE,Wing,Italy v Scotland,Torino,2015-08-22,4,2,2,0,0,0,0,0,NA,4,0,0,1,Scotland,-4.251806,55.864237
+1070,Stuart,McInally,1990-08-09,FALSE,Edinburgh,FALSE,Hooker,Italy v Scotland,Torino,2015-08-22,40,24,16,50,10,0,0,0,NA,23,16,1,0.575,Scotland,-3.188267,55.953252
+1071,Damien,Hoyland,1994-01-11,FALSE,Edinburgh,FALSE,Wing,Italy v Scotland,Torino,2015-08-22,4,3,1,5,1,0,0,0,NA,3,1,0,0.75,Scotland,-3.188267,55.953252
+1072,Willem,Nel,1986-04-30,FALSE,Loriesfontein,FALSE,Prop,Italy v Scotland,Torino,2015-08-22,40,27,13,15,3,0,0,0,NA,24,15,1,0.6,Scotland,19.4497084,-30.9199262
+1073,Josh,Strauss,1986-10-23,FALSE,Bellville,FALSE,No. 8,Japan v Scotland,Gloucester,2015-09-23,24,13,11,0,0,0,0,0,NA,13,10,1,0.5416666666666666,Scotland,-96.2571858,29.9502253
+1074,Zander,Fagerson,1996-01-19,FALSE,Perth,FALSE,Prop,Scotland v England,Murrayfield,2016-02-06,34,21,13,10,2,0,0,0,NA,20,14,0,0.5882352941176471,Scotland,115.8604572,-31.9505269
+1075,Rory,Sutherland,1992-08-24,FALSE,Melrose,FALSE,Prop,Ireland v Scotland,Lansdowne Road,2016-03-19,11,9,2,0,0,0,0,0,NA,7,4,0,0.6363636363636364,Scotland,-95.905785,36.150091
+1076,Huw,Jones,1993-12-17,FALSE,Edinburgh,FALSE,Centre,Japan v Scotland,Tokyo,2016-06-25,26,23,3,50,10,0,0,0,NA,13,13,0,0.5,Scotland,-3.188267,55.953252
+1077,Allan,Dell,1992-03-16,FALSE,Humansdorp,FALSE,Prop,Scotland v Australia,Murrayfield,2016-11-12,32,20,12,5,1,0,0,0,NA,18,13,1,0.5625,Scotland,24.7439749,-34.0027188
+1078,Magnus,Bradbury,1995-08-23,FALSE,Glasgow,FALSE,Back-row,Scotland v Argentina,Murrayfield,2016-11-19,14,10,4,15,3,0,0,0,NA,9,4,1,0.6428571428571429,Scotland,-4.251806,55.864237
+1079,Ali,Price,1993-05-12,FALSE,King's Lynn,FALSE,Scrum-half,Scotland v Georgia,Kilmarnock,2016-11-26,37,23,14,20,4,0,0,0,NA,19,17,1,0.5135135135135135,Scotland,0.4022963000000001,52.7516798
+1080,Simon,Berghan,1990-12-07,FALSE,Christchurch,FALSE,Prop,France v Scotland,Stade de France,2017-02-12,28,11,17,0,0,0,0,0,NA,14,13,1,0.5,Scotland,172.6305589,-43.5320214
+1081,Cornell ,du Preez,1991-03-23,FALSE,Port Elizabeth,FALSE,Back-row,England v Scotland,Twickenham,2017-03-11,9,2,7,0,0,0,0,0,NA,5,4,0,0.5555555555555556,Scotland,25.6022423,-33.9608369
+1082,Nick,Grigg,1992-09-18,FALSE,Rotorua,FALSE,Centre,Fiji v Scotland,Suva,2017-06-24,9,7,2,0,0,0,0,0,NA,3,5,1,0.3333333333333333,Scotland,176.2377669,-38.1445987
+1083,Darryl,Marfo,1990-11-01,FALSE,"Westminster, London",FALSE,Prop,Scotland v Samoa,Murrayfield,2017-11-11,3,3,0,0,0,0,0,0,NA,2,1,0,0.6666666666666666,Scotland,-0.1356583,51.4974948
+1084,Jamie,Bhatti,1993-09-08,FALSE,Stirling,FALSE,Prop,Scotland v Samoa,Murrayfield,2017-11-11,16,2,14,0,0,0,0,0,NA,9,7,0,0.5625,Scotland,-3.9369029,56.1165227
+1085,Chris,Harris,1990-12-28,FALSE,Carlisle,FALSE,Centre,Scotland v Samoa,Murrayfield,2017-11-11,23,12,11,15,3,0,0,0,NA,14,8,1,0.6086956521739131,Scotland,-93.4835466,41.4986013
+1086,George,Turner,1992-10-08,FALSE,Edinburgh,FALSE,Hooker,Scotland v Samoa,Murrayfield,2017-11-11,12,4,8,30,6,0,0,0,NA,7,5,0,0.5833333333333334,Scotland,-3.188267,55.953252
+1087,Luke,Hamilton,1992-01-07,FALSE,Pembroke,FALSE,Lock,Scotland v New Zealand,Murrayfield,2017-11-18,3,1,2,0,0,0,0,0,NA,1,2,0,0.3333333333333333,Scotland,-79.1950373,34.6801626
+1088,Byron,McGuigan,1989-08-20,FALSE,"Walvis Bay, South-West Africa",FALSE,Wing,Scotland v New Zealand,Murrayfield,2017-11-18,10,6,4,15,3,0,0,0,NA,4,5,1,0.4,Scotland,14.5057511,-22.9584081
+1089,Phil,Burleigh,1986-10-22,FALSE,Christchurch,FALSE,Centre,Scotland v Australia,Murrayfield,2017-11-25,1,0,1,0,0,0,0,0,NA,1,0,0,1,Scotland,172.6305589,-43.5320214
+1090,Murray,McCallum,1996-03-16,FALSE,Kirkcaldy,FALSE,Prop,Wales v Scotland,Millennium Stadium,2018-02-03,3,0,3,0,0,0,0,0,NA,1,2,0,0.3333333333333333,Scotland,-3.158137,56.1168249
+1091,Blair,Kinghorn,1997-01-18,FALSE,Edinburgh,FALSE,Fullback,Scotland v England,Murrayfield,2018-02-24,25,19,6,53,8,5,1,0,NA,14,11,0,0.56,Scotland,-3.188267,55.953252
+1092,James,Lang,1995-04-04,FALSE,Ashford,FALSE,"Centre, Fly-half",Canada v Scotland,Edmonton,2018-06-09,5,3,2,0,0,0,0,0,NA,5,0,0,1,Scotland,-95.9289819,36.0678681
+1093,Jamie,Ritchie,1996-08-16,FALSE,Dundee,FALSE,Back-row,Canada v Scotland,Edmonton,2018-06-09,23,21,2,5,1,0,0,0,NA,12,11,0,0.5217391304347826,Scotland,-2.970721,56.462018
+1094,Lewis,Carmichael,1995-05-02,FALSE,Edinburgh,FALSE,Lock,Canada v Scotland,Edmonton,2018-06-09,2,1,1,5,1,0,0,0,NA,1,1,0,0.5,Scotland,-3.188267,55.953252
+1095,Adam,Hastings,1996-10-05,FALSE,Edinburgh,FALSE,Fly-half,Canada v Scotland,Edmonton,2018-06-09,22,12,10,96,4,20,12,0,NA,13,8,1,0.5909090909090909,Scotland,-3.188267,55.953252
+1096,Matt,Fagerson,1998-07-16,FALSE,Perth,FALSE,Back-row,United States of America v Scotland,Houston,2018-06-16,9,6,3,0,0,0,0,0,NA,4,5,0,0.4444444444444444,Scotland,115.8604572,-31.9505269
+1097,George,Horne,1995-05-12,FALSE,Dundee,FALSE,Scrum-half,United States of America v Scotland,Houston,2018-06-16,14,3,11,32,6,1,0,0,NA,9,5,0,0.6428571428571429,Scotland,-2.970721,56.462018
+1098,Darcy,Graham,1997-06-21,FALSE,Melrose,FALSE,Wing,Wales v Scotland,Millennium Stadium,2018-11-03,15,12,3,35,7,0,0,0,NA,7,7,1,0.4666666666666667,Scotland,-95.905785,36.150091
+1099,Sam,Skinner,1995-01-31,FALSE,Exeter,FALSE,"Lock, Back-row",Scotland v Fiji,Murrayfield,2018-11-10,10,5,5,0,0,0,0,0,NA,6,3,1,0.6,Scotland,-96.9821243,32.8996787
+1100,Sam,Johnson,1993-06-19,FALSE,"Dysart, QLD",FALSE,Centre,Scotland v Italy,Murrayfield,2019-02-02,15,15,0,15,3,0,0,0,NA,7,7,1,0.4666666666666667,Scotland,148.34863000000001,-22.5881385
+1101,Gary,Graham,1992-08-29,FALSE,Stirling,FALSE,Back-row,Scotland v Italy,Murrayfield,2019-02-02,2,0,2,0,0,0,0,0,NA,1,1,0,0.5,Scotland,-3.9369029,56.1165227
+1102,Jake,Kerr,1996-04-13,FALSE,Edinburgh,FALSE,Hooker,Scotland v Italy,Murrayfield,2019-02-02,1,0,1,0,0,0,0,0,NA,1,0,0,1,Scotland,-3.188267,55.953252
+1103,D'arcy,Rae,1994-12-21,FALSE,Irvine,FALSE,Prop,Scotland v Ireland,Murrayfield,2019-02-09,1,0,1,0,0,0,0,0,NA,0,1,0,0,Scotland,-117.8265049,33.6845673
+1104,Scott,Cummings,1996-12-03,FALSE,Glasgow,FALSE,Lock,France v Scotland,Nice,2019-08-17,17,12,5,10,2,0,0,0,NA,10,7,0,0.5882352941176471,Scotland,-4.251806,55.864237
+1105,Rory,Hutchinson,1996-01-29,FALSE,Cambridge,FALSE,Centre,France v Scotland,Nice,2019-08-17,5,1,4,10,2,0,0,0,NA,3,2,0,0.6,Scotland,0.1149085,52.2042666
+1106,Blade,Thomson,1990-12-04,FALSE,Auckland,FALSE,Back-row,Scotland v France,Murrayfield,2019-08-24,9,7,2,0,0,0,0,0,NA,5,4,0,0.5555555555555556,Scotland,174.7626037,-36.8482512
+1107,Grant,Stewart,1995-02-28,FALSE,Carluke,FALSE,Hooker,Scotland v France,Murrayfield,2019-08-24,3,0,3,0,0,0,0,0,NA,3,0,0,1,Scotland,-3.836552,55.735435
+1108,Nick,Haining,1990-09-01,FALSE,Fremantle,FALSE,Back-row,Ireland v Scotland,Lansdowne Road,2020-02-01,5,2,3,0,0,0,0,0,NA,3,2,0,0.6,Scotland,115.7551085,-32.0518191
+1109,Kyle,Steyn,1994-01-29,FALSE,Johannesburg,FALSE,"Wing, Centre",Scotland v France,Murrayfield,2020-03-08,1,0,1,0,0,0,0,0,NA,1,0,0,1,Scotland,28.0473051,-26.2041028
+1110,Duhan ,van der Merwe,1995-06-04,FALSE,George,FALSE,Wing,Scotland v Georgia,Murrayfield,2020-10-23,5,4,1,15,3,0,0,0,NA,3,2,0,0.6,Scotland,-97.28234069999999,37.6941963
+1111,Oli,Kebble,1992-06-18,FALSE,Durban,FALSE,Prop,Scotland v Georgia,Murrayfield,2020-10-23,5,1,4,0,0,0,0,0,NA,3,2,0,0.6,Scotland,31.0218404,-29.85868039999999
+1112,Scott,Steele,1993-07-24,FALSE,Dumfries,FALSE,Scrum-half,Wales v Scotland,Llanelli,2020-10-31,1,0,1,0,0,0,0,0,NA,1,0,0,1,Scotland,-3.60512,55.070859
+1113,Jaco ,van der Walt,1994-02-01,FALSE,Randfontein,FALSE,Fly-half,Ireland v Scotland,Lansdowne Road,2020-12-05,1,1,0,11,0,1,3,0,NA,0,1,0,0,Scotland,27.6786847,-26.1991505

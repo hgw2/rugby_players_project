@@ -3,9 +3,14 @@ import requests
 import re
 from csv import writer
 
-MKDIR = "../../2_raw_data/"
-COUNTRY = ["england"]
-TEAM_URL= ["http://en.espn.co.uk/scrum/rugby/player/caps.html?team=1"]
+MKDIR = "../2_raw_data/"
+COUNTRY = ["england", "scotland", "wales", "ireland", "france", "italy"]
+TEAM_URL= ["http://en.espn.co.uk/scrum/rugby/player/caps.html?team=1",
+          "http://en.espn.co.uk/scrum/rugby/player/caps.html?team=2",
+         "http://en.espn.co.uk/scrum/rugby/player/caps.html?team=4",
+          "http://en.espn.co.uk/scrum/rugby/player/caps.html?team=3",
+          "http://en.espn.co.uk/scrum/rugby/player/caps.html?team=9",
+          "http://en.espn.co.uk/scrum/rugby/player/caps.html?team=20"]
 BASE_URL = "http://www.espnscrum.com"
 
 def make_soup(url):
