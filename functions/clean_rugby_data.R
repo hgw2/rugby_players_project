@@ -16,7 +16,7 @@ players_births <- players_names %>%
   mutate(born = str_remove_all(born,"\n")) %>% 
   # Extract Brith loctaion
   mutate(birth_location = 
-           str_extract(born, "[^,0-9)][A-z- ]*[ A-z'-.?]+$"), .after = born) %>%
+           str_extract(born, "[^,0-9)][A-z-& ]*[ A-z'-.?&]+$"), .after = born) %>%
   # Extract Birth Date
   mutate(born_temp = 
            str_extract(born, "^[A-z0-9', ]*[0-9]{4}"), .after = born) %>% 
